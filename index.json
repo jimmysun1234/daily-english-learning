@@ -2,6 +2,12 @@
   "version": 1,
   "articles": [
     {
+      "date": "2026-11-01",
+      "title": "A Saturday Table for Everyone",
+      "topic": "生活知識",
+      "sha256": "cfaf70d6e4bbd766f721296d0409cdf48cf061e451716cd96ae3765da0fbc51b"
+    },
+    {
       "date": "2026-10-31",
       "title": "Small Habits, Steady Progress",
       "topic": "學習方法",
