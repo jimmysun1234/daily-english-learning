@@ -1,0 +1,1205 @@
+{
+  "version": 1,
+  "date": "2026-11-02",
+  "level": "B2",
+  "title": "Space Companies Test a New Route for Satellite Data",
+  "topic": "科技業新聞",
+  "sources": [
+    {
+      "name": "NASA",
+      "title": "Two NASA Commercial Satellite Communication Demonstrations Launch",
+      "url": "https://www.nasa.gov/blogs/smallsatellites/2026/10/20/two-nasa-commercial-satellite-communication-demonstrations-launch/"
+    },
+    {
+      "name": "Viasat",
+      "title": "Viasat Advances NASA Communications Services Project Demonstration with Successful Launch",
+      "url": "https://investors.viasat.com/node/28226/pdf"
+    },
+    {
+      "name": "SES Space & Defense",
+      "title": "SES Space & Defense Launch Demo Payload Supporting NASA Communications Services Plan",
+      "url": "https://www.ses.com/news/press-release/ses-space-defense-launch-demo-payload-supporting-nasa-communications-services"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "en": "On October 20, 2026, two commercial demonstrations ",
+        "zh": "2026年10月20日，兩項商業示範任務"
+      },
+      {
+        "en": "aimed at improving satellite communications reached orbit. ",
+        "zh": "以改善衛星通訊為目標，成功進入軌道。"
+      },
+      {
+        "en": "NASA reported the launch that day, ",
+        "zh": "NASA在當天發布了發射消息，"
+      },
+      {
+        "en": "identifying Viasat and SES Space and Defense ",
+        "zh": "並指出Viasat與SES Space and Defense"
+      },
+      {
+        "en": "as partners in the effort. ",
+        "zh": "是參與這項工作的合作夥伴。"
+      },
+      {
+        "en": "Their equipment traveled on the Bandwagon-5 mission ",
+        "zh": "兩家公司的設備搭乘Bandwagon-5任務，"
+      },
+      {
+        "en": "launched by SpaceX from Florida. ",
+        "zh": "由SpaceX從佛羅里達州發射。"
+      },
+      {
+        "en": "The immediate goal is to test communication services, ",
+        "zh": "眼前的目標是測試通訊服務，"
+      },
+      {
+        "en": "rather than declare a fully operational replacement network.",
+        "zh": "而非宣告替代網路已全面投入運作。"
+      }
+    ],
+    [
+      {
+        "en": "The challenge involves more than sending attractive pictures. ",
+        "zh": "這項挑戰不只是傳送吸引人的影像。"
+      },
+      {
+        "en": "Scientific missions need high data rates ",
+        "zh": "科學任務需要高資料傳輸速率，"
+      },
+      {
+        "en": "to deliver large files and detailed images. ",
+        "zh": "才能傳送大型檔案與細緻影像。"
+      },
+      {
+        "en": "They also need lower-rate links ",
+        "zh": "同時也需要較低速率的連線，"
+      },
+      {
+        "en": "to receive instructions and report their condition. ",
+        "zh": "用來接收指令並回報自身狀態。"
+      },
+      {
+        "en": "These functions serve different purposes, ",
+        "zh": "這些功能各有不同用途，"
+      },
+      {
+        "en": "but both support reliable mission operations. ",
+        "zh": "卻都支撐著可靠的任務運作。"
+      },
+      {
+        "en": "A communication system must therefore handle ",
+        "zh": "因此，通訊系統必須處理"
+      },
+      {
+        "en": "both information volume and continuing contact.",
+        "zh": "資料量與持續聯繫這兩項需求。"
+      }
+    ],
+    [
+      {
+        "en": "Viasat published its own announcement on October 21. ",
+        "zh": "Viasat於10月21日發布了自家公告。"
+      },
+      {
+        "en": "It said testing aboard the Maxwell spacecraft ",
+        "zh": "公告表示，在Maxwell太空載具上進行的測試"
+      },
+      {
+        "en": "would continue through March 2027. ",
+        "zh": "將持續到2027年3月。"
+      },
+      {
+        "en": "The company plans to use different radio bands ",
+        "zh": "該公司計畫利用不同的無線電頻段"
+      },
+      {
+        "en": "and relay satellites to move mission data. ",
+        "zh": "及中繼衛星來傳遞任務資料。"
+      },
+      {
+        "en": "Its stated aim is to reduce communication delays ",
+        "zh": "其所述目標是降低通訊延遲，"
+      },
+      {
+        "en": "while maintaining contact with spacecraft. ",
+        "zh": "同時維持與太空載具的聯繫。"
+      },
+      {
+        "en": "These are planned capabilities under demonstration, ",
+        "zh": "這些都是仍在示範驗證中的預定能力，"
+      },
+      {
+        "en": "not independently verified results of the new tests.",
+        "zh": "並非這批新測試已獲獨立驗證的成果。"
+      }
+    ],
+    [
+      {
+        "en": "The same announcement identifies Rocket Lab ",
+        "zh": "同一份公告指出，Rocket Lab"
+      },
+      {
+        "en": "as the builder of Maxwell. ",
+        "zh": "是Maxwell的製造商。"
+      },
+      {
+        "en": "The spacecraft was assembled in Long Beach, California, ",
+        "zh": "這具太空載具在加州長灘組裝，"
+      },
+      {
+        "en": "with components including solar panels and tracking equipment. ",
+        "zh": "其元件包含太陽能板與追蹤設備。"
+      },
+      {
+        "en": "It supplies power and supports communication, ",
+        "zh": "它提供電力，並支援通訊、"
+      },
+      {
+        "en": "propulsion, and control of the vehicle's orientation. ",
+        "zh": "推進，以及載具姿態的控制。"
+      },
+      {
+        "en": "This division of responsibilities illustrates ",
+        "zh": "這種職責分工說明了"
+      },
+      {
+        "en": "how a communications project can involve ",
+        "zh": "一項通訊專案如何同時涉及"
+      },
+      {
+        "en": "both network providers and specialized spacecraft manufacturers.",
+        "zh": "網路供應商與專業太空載具製造商。"
+      }
+    ],
+    [
+      {
+        "en": "SES described a different arrangement ",
+        "zh": "SES則描述了另一種配置，"
+      },
+      {
+        "en": "in its October 20 press release. ",
+        "zh": "內容刊載於其10月20日的新聞稿。"
+      },
+      {
+        "en": "Its demonstration equipment is carried ",
+        "zh": "該公司的示範設備搭載於"
+      },
+      {
+        "en": "by Planet's Pelican-12 satellite. ",
+        "zh": "Planet的Pelican-12衛星。"
+      },
+      {
+        "en": "The company is working with relay systems ",
+        "zh": "該公司正利用中繼系統進行工作，"
+      },
+      {
+        "en": "in different orbits to transfer mission information. ",
+        "zh": "透過不同軌道來傳遞任務資訊。"
+      },
+      {
+        "en": "It describes the experiment as a step ",
+        "zh": "它將這次實驗描述為一個步驟，"
+      },
+      {
+        "en": "toward validating commercial services for future operations. ",
+        "zh": "朝向驗證未來任務所需的商業服務邁進。"
+      },
+      {
+        "en": "The wording matters: a successful launch ",
+        "zh": "這種措辭值得注意：成功發射"
+      },
+      {
+        "en": "and a completed service demonstration are separate milestones.",
+        "zh": "與完成服務示範，是兩個不同的里程碑。"
+      }
+    ],
+    [
+      {
+        "en": "The broader project began before this launch. ",
+        "zh": "這個更大規模的專案早在此次發射前就已開始。"
+      },
+      {
+        "en": "NASA awarded industry funding in 2022 ",
+        "zh": "NASA於2022年向業界提供資金，"
+      },
+      {
+        "en": "to develop and demonstrate commercial relay services. ",
+        "zh": "用於開發及示範商業中繼服務。"
+      },
+      {
+        "en": "The agency intends to gradually retire ",
+        "zh": "該機構打算逐步讓"
+      },
+      {
+        "en": "its existing Tracking and Data Relay Satellite fleet. ",
+        "zh": "現有的追蹤與資料中繼衛星群退役。"
+      },
+      {
+        "en": "Commercial alternatives are being evaluated ",
+        "zh": "商業替代方案正接受評估，"
+      },
+      {
+        "en": "for future missions in low Earth orbit. ",
+        "zh": "以支援未來的低地球軌道任務。"
+      },
+      {
+        "en": "The October announcements concern tests supporting that transition, ",
+        "zh": "10月的這些公告涉及支援此轉型的測試，"
+      },
+      {
+        "en": "not a claim that the transition is complete.",
+        "zh": "並未聲稱轉型已經完成。"
+      }
+    ],
+    [
+      {
+        "en": "Taken together, these announcements suggest an important distinction ",
+        "zh": "綜合來看，這些公告顯示出一項重要區別："
+      },
+      {
+        "en": "for readers following the space industry. ",
+        "zh": "關注太空產業的讀者需要留意這點。"
+      },
+      {
+        "en": "Reaching orbit establishes that equipment has been launched; ",
+        "zh": "進入軌道證實了設備已成功發射；"
+      },
+      {
+        "en": "it does not establish every promised service outcome. ",
+        "zh": "卻不代表每項承諾的服務成果都已實現。"
+      },
+      {
+        "en": "The next evidence will come from testing. ",
+        "zh": "接下來的證據將來自測試。"
+      },
+      {
+        "en": "For now, the story is about companies ",
+        "zh": "目前，這則新聞的重點是企業"
+      },
+      {
+        "en": "moving proposed communication systems into practical trials, ",
+        "zh": "將提出的通訊系統帶入實際試驗，"
+      },
+      {
+        "en": "with operational performance still to be demonstrated.",
+        "zh": "而運作表現仍有待驗證。"
+      }
+    ]
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一個"
+    },
+    "aboard": {
+      "meaning": "在…上；搭載於"
+    },
+    "about": {
+      "meaning": "關於"
+    },
+    "agency": {
+      "meaning": "機構；文中指NASA"
+    },
+    "aim": {
+      "meaning": "目標"
+    },
+    "aimed": {
+      "meaning": "以…為目標；aimed at 指旨在"
+    },
+    "all": {
+      "meaning": "全部的、所有的"
+    },
+    "also": {
+      "meaning": "也、同時"
+    },
+    "alternatives": {
+      "meaning": "替代方案"
+    },
+    "an": {
+      "meaning": "一個"
+    },
+    "and": {
+      "meaning": "和、而且；連接詞"
+    },
+    "announcement": {
+      "meaning": "公告"
+    },
+    "announcements": {
+      "meaning": "公告（複數）"
+    },
+    "are": {
+      "meaning": "是；與過去分詞或進行式連用，構成被動語態或進行式"
+    },
+    "arrangement": {
+      "meaning": "配置、安排"
+    },
+    "article": {
+      "meaning": "文章"
+    },
+    "as": {
+      "meaning": "作為、以…的身分"
+    },
+    "assembled": {
+      "meaning": "組裝（過去分詞）"
+    },
+    "at": {
+      "meaning": "在；aimed at 指以…為目標"
+    },
+    "attractive": {
+      "meaning": "吸引人的"
+    },
+    "awarded": {
+      "meaning": "授予、提供（資金）"
+    },
+    "bands": {
+      "meaning": "頻段"
+    },
+    "bandwagon": {
+      "meaning": "Bandwagon-5，SpaceX此次共乘發射任務的名稱"
+    },
+    "be": {
+      "meaning": "是；與過去分詞連用可構成被動語態"
+    },
+    "beach": {
+      "meaning": "Long Beach 地名的一部分，指長灘"
+    },
+    "been": {
+      "meaning": "be 的過去分詞，文中與助動詞連用構成完成式或被動語態"
+    },
+    "before": {
+      "meaning": "在…之前"
+    },
+    "began": {
+      "meaning": "開始（begin 的過去式）"
+    },
+    "being": {
+      "meaning": "與過去分詞連用，構成進行式的被動語態"
+    },
+    "both": {
+      "meaning": "兩者；兩種都"
+    },
+    "broader": {
+      "meaning": "範圍更廣的、更大規模的"
+    },
+    "builder": {
+      "meaning": "製造商、建造者"
+    },
+    "built": {
+      "meaning": "製造、建造（build的過去式）"
+    },
+    "but": {
+      "meaning": "但是"
+    },
+    "by": {
+      "meaning": "由；表示執行動作的一方"
+    },
+    "california": {
+      "meaning": "加利福尼亞州，簡稱加州"
+    },
+    "can": {
+      "meaning": "能夠"
+    },
+    "capabilities": {
+      "meaning": "能力、功能"
+    },
+    "carried": {
+      "meaning": "搭載、運送（過去分詞）"
+    },
+    "challenge": {
+      "meaning": "挑戰"
+    },
+    "claim": {
+      "meaning": "聲稱、主張"
+    },
+    "come": {
+      "meaning": "來；come from 指來自"
+    },
+    "commercial": {
+      "meaning": "商業的"
+    },
+    "communication": {
+      "meaning": "通訊；聯繫"
+    },
+    "communications": {
+      "meaning": "通訊；作為產業或技術領域的名稱"
+    },
+    "companies": {
+      "meaning": "公司、企業（複數）"
+    },
+    "company": {
+      "meaning": "公司"
+    },
+    "complete": {
+      "meaning": "完成的"
+    },
+    "completed": {
+      "meaning": "已完成的"
+    },
+    "components": {
+      "meaning": "元件、零組件"
+    },
+    "concern": {
+      "meaning": "涉及、關於"
+    },
+    "condition": {
+      "meaning": "狀態"
+    },
+    "contact": {
+      "meaning": "聯繫"
+    },
+    "continue": {
+      "meaning": "持續"
+    },
+    "continuing": {
+      "meaning": "持續的"
+    },
+    "control": {
+      "meaning": "控制"
+    },
+    "data": {
+      "meaning": "資料"
+    },
+    "day": {
+      "meaning": "一天"
+    },
+    "declare": {
+      "meaning": "宣告"
+    },
+    "defense": {
+      "meaning": "防務；SES Space and Defense 為公司名稱"
+    },
+    "delays": {
+      "meaning": "延遲"
+    },
+    "deliver": {
+      "meaning": "傳送"
+    },
+    "demonstrate": {
+      "meaning": "示範、展示；驗證能力"
+    },
+    "demonstrated": {
+      "meaning": "經示範或驗證（過去分詞）"
+    },
+    "demonstration": {
+      "meaning": "示範驗證；示範任務"
+    },
+    "demonstrations": {
+      "meaning": "示範任務（複數）"
+    },
+    "described": {
+      "meaning": "描述（過去式）"
+    },
+    "describes": {
+      "meaning": "描述"
+    },
+    "detailed": {
+      "meaning": "細緻的、詳細的"
+    },
+    "develop": {
+      "meaning": "開發"
+    },
+    "different": {
+      "meaning": "不同的"
+    },
+    "distinction": {
+      "meaning": "區別"
+    },
+    "division": {
+      "meaning": "分工、劃分"
+    },
+    "does": {
+      "meaning": "助動詞，用於第三人稱單數"
+    },
+    "earth": {
+      "meaning": "地球"
+    },
+    "effort": {
+      "meaning": "努力"
+    },
+    "emphasize": {
+      "meaning": "強調"
+    },
+    "equipment": {
+      "meaning": "設備"
+    },
+    "establish": {
+      "meaning": "證實、確立"
+    },
+    "establishes": {
+      "meaning": "證實、確立"
+    },
+    "evaluated": {
+      "meaning": "評估（過去分詞）"
+    },
+    "every": {
+      "meaning": "每個"
+    },
+    "evidence": {
+      "meaning": "證據"
+    },
+    "existing": {
+      "meaning": "現有的"
+    },
+    "experiment": {
+      "meaning": "實驗"
+    },
+    "files": {
+      "meaning": "檔案"
+    },
+    "fleet": {
+      "meaning": "機隊或船隊；此處指衛星群"
+    },
+    "florida": {
+      "meaning": "佛羅里達州"
+    },
+    "following": {
+      "meaning": "關注、追蹤（某領域的發展）"
+    },
+    "for": {
+      "meaning": "為了；對…而言；for now 指目前"
+    },
+    "from": {
+      "meaning": "從；來自"
+    },
+    "fully": {
+      "meaning": "全面地、完全地"
+    },
+    "functions": {
+      "meaning": "功能"
+    },
+    "funding": {
+      "meaning": "資金"
+    },
+    "future": {
+      "meaning": "未來的"
+    },
+    "goal": {
+      "meaning": "目標"
+    },
+    "gradually": {
+      "meaning": "逐步地"
+    },
+    "handle": {
+      "meaning": "處理"
+    },
+    "has": {
+      "meaning": "與過去分詞連用，構成現在完成式"
+    },
+    "high": {
+      "meaning": "高的"
+    },
+    "how": {
+      "meaning": "如何"
+    },
+    "identifies": {
+      "meaning": "指出、說明身分"
+    },
+    "identifying": {
+      "meaning": "指出、確認身分"
+    },
+    "illustrates": {
+      "meaning": "說明、顯示"
+    },
+    "images": {
+      "meaning": "影像"
+    },
+    "immediate": {
+      "meaning": "眼前的、立即的"
+    },
+    "immediately": {
+      "meaning": "立即地"
+    },
+    "important": {
+      "meaning": "重要的"
+    },
+    "improving": {
+      "meaning": "改善"
+    },
+    "in": {
+      "meaning": "在…之中；在某時間"
+    },
+    "including": {
+      "meaning": "包含"
+    },
+    "independently": {
+      "meaning": "獨立地"
+    },
+    "industry": {
+      "meaning": "產業；業界"
+    },
+    "information": {
+      "meaning": "資訊"
+    },
+    "instructions": {
+      "meaning": "指令"
+    },
+    "intends": {
+      "meaning": "打算"
+    },
+    "into": {
+      "meaning": "進入；文中亦指帶入某階段"
+    },
+    "involve": {
+      "meaning": "涉及、包含"
+    },
+    "involves": {
+      "meaning": "涉及"
+    },
+    "is": {
+      "meaning": "是；也可作為被動語態或進行式的助動詞"
+    },
+    "it": {
+      "meaning": "它；指前面提到的系統、公司、載具或情況"
+    },
+    "its": {
+      "meaning": "它的；該機構的"
+    },
+    "lab": {
+      "meaning": "Rocket Lab 公司名稱的一部分"
+    },
+    "large": {
+      "meaning": "大的"
+    },
+    "launch": {
+      "meaning": "發射"
+    },
+    "launched": {
+      "meaning": "發射（過去式或過去分詞）"
+    },
+    "links": {
+      "meaning": "連線、通訊鏈路"
+    },
+    "long": {
+      "meaning": "Long Beach 地名的一部分，指長灘"
+    },
+    "low": {
+      "meaning": "低的"
+    },
+    "lower-rate": {
+      "meaning": "較低速率的"
+    },
+    "maintaining": {
+      "meaning": "維持"
+    },
+    "manufacturers": {
+      "meaning": "製造商"
+    },
+    "march": {
+      "meaning": "三月"
+    },
+    "matches": {
+      "meaning": "與…相符"
+    },
+    "matters": {
+      "meaning": "很重要、值得留意"
+    },
+    "maxwell": {
+      "meaning": "Maxwell，此次示範太空載具的名稱"
+    },
+    "milestones": {
+      "meaning": "里程碑"
+    },
+    "mission": {
+      "meaning": "任務"
+    },
+    "missions": {
+      "meaning": "任務（複數）"
+    },
+    "more": {
+      "meaning": "更多；more than 指不只是"
+    },
+    "move": {
+      "meaning": "移動、傳遞"
+    },
+    "moving": {
+      "meaning": "移動、推進；此處指將系統帶入試驗階段"
+    },
+    "must": {
+      "meaning": "必須"
+    },
+    "nasa": {
+      "meaning": "美國國家航空暨太空總署"
+    },
+    "need": {
+      "meaning": "需要"
+    },
+    "network": {
+      "meaning": "網路"
+    },
+    "new": {
+      "meaning": "新的"
+    },
+    "next": {
+      "meaning": "下一個"
+    },
+    "no": {
+      "meaning": "沒有、無"
+    },
+    "not": {
+      "meaning": "不、沒有"
+    },
+    "now": {
+      "meaning": "現在"
+    },
+    "october": {
+      "meaning": "十月"
+    },
+    "of": {
+      "meaning": "…的；連接事物與其內容、性質等關係"
+    },
+    "on": {
+      "meaning": "在某日期；在…上"
+    },
+    "only": {
+      "meaning": "唯一的、僅有的"
+    },
+    "operational": {
+      "meaning": "投入運作的；與運作有關的"
+    },
+    "operations": {
+      "meaning": "運作；任務作業"
+    },
+    "orbit": {
+      "meaning": "軌道"
+    },
+    "orbits": {
+      "meaning": "軌道（複數）"
+    },
+    "orientation": {
+      "meaning": "方向、姿態"
+    },
+    "outcome": {
+      "meaning": "成果、結果"
+    },
+    "own": {
+      "meaning": "自己的"
+    },
+    "panels": {
+      "meaning": "板；solar panels 指太陽能板"
+    },
+    "partners": {
+      "meaning": "合作夥伴"
+    },
+    "passenger": {
+      "meaning": "乘客的、載客的"
+    },
+    "pelican": {
+      "meaning": "Pelican-12，Planet公司的衛星名稱"
+    },
+    "performance": {
+      "meaning": "表現、性能"
+    },
+    "pictures": {
+      "meaning": "圖片、影像"
+    },
+    "planet's": {
+      "meaning": "Planet公司的（所有格）；Planet為公司名稱"
+    },
+    "planned": {
+      "meaning": "預定的、規劃中的"
+    },
+    "plans": {
+      "meaning": "計畫、打算"
+    },
+    "power": {
+      "meaning": "電力"
+    },
+    "practical": {
+      "meaning": "實際的"
+    },
+    "press": {
+      "meaning": "新聞媒體；press release 指新聞稿"
+    },
+    "project": {
+      "meaning": "專案"
+    },
+    "promised": {
+      "meaning": "承諾的"
+    },
+    "proposed": {
+      "meaning": "提出的、提議的"
+    },
+    "propulsion": {
+      "meaning": "推進"
+    },
+    "prove": {
+      "meaning": "證實"
+    },
+    "providers": {
+      "meaning": "供應商、服務提供者"
+    },
+    "published": {
+      "meaning": "發布"
+    },
+    "purpose": {
+      "meaning": "目的、用途"
+    },
+    "purposes": {
+      "meaning": "用途、目的"
+    },
+    "radio": {
+      "meaning": "無線電"
+    },
+    "rates": {
+      "meaning": "速率"
+    },
+    "rather": {
+      "meaning": "rather than 指而非"
+    },
+    "reached": {
+      "meaning": "到達、進入（過去式）"
+    },
+    "reaching": {
+      "meaning": "到達、進入"
+    },
+    "readers": {
+      "meaning": "讀者"
+    },
+    "receive": {
+      "meaning": "接收"
+    },
+    "receives": {
+      "meaning": "接收、獲得"
+    },
+    "reduce": {
+      "meaning": "降低"
+    },
+    "relay": {
+      "meaning": "中繼、轉傳"
+    },
+    "release": {
+      "meaning": "發布；press release 指新聞稿"
+    },
+    "reliable": {
+      "meaning": "可靠的"
+    },
+    "replace": {
+      "meaning": "取代"
+    },
+    "replacement": {
+      "meaning": "替代的；替代品"
+    },
+    "report": {
+      "meaning": "回報"
+    },
+    "reported": {
+      "meaning": "報導、發布消息"
+    },
+    "responsibilities": {
+      "meaning": "職責"
+    },
+    "results": {
+      "meaning": "結果、成果"
+    },
+    "retire": {
+      "meaning": "使退役、停止使用"
+    },
+    "rocket": {
+      "meaning": "Rocket Lab 公司名稱的一部分，亦有火箭之意"
+    },
+    "route": {
+      "meaning": "路徑"
+    },
+    "said": {
+      "meaning": "表示、說（say 的過去式）"
+    },
+    "same": {
+      "meaning": "相同的"
+    },
+    "satellite": {
+      "meaning": "衛星"
+    },
+    "satellites": {
+      "meaning": "衛星（複數）"
+    },
+    "scientific": {
+      "meaning": "科學的"
+    },
+    "sending": {
+      "meaning": "傳送"
+    },
+    "separate": {
+      "meaning": "不同的、分開的"
+    },
+    "serve": {
+      "meaning": "發揮作用；serve a purpose 指具有某種用途"
+    },
+    "service": {
+      "meaning": "服務"
+    },
+    "services": {
+      "meaning": "服務（複數）"
+    },
+    "ses": {
+      "meaning": "SES公司名稱"
+    },
+    "solar": {
+      "meaning": "太陽的；solar panels 指太陽能板"
+    },
+    "space": {
+      "meaning": "太空；公司名稱Space and Defense中的Space亦指太空"
+    },
+    "spacecraft": {
+      "meaning": "太空載具；單複數同形"
+    },
+    "spacex": {
+      "meaning": "SpaceX，太空運輸公司名稱"
+    },
+    "specialized": {
+      "meaning": "專業的、專門的"
+    },
+    "stated": {
+      "meaning": "所述的、明確表達的"
+    },
+    "statement": {
+      "meaning": "敘述、說法"
+    },
+    "step": {
+      "meaning": "步驟"
+    },
+    "still": {
+      "meaning": "仍然、依然"
+    },
+    "story": {
+      "meaning": "新聞報導、事件"
+    },
+    "successful": {
+      "meaning": "成功的"
+    },
+    "suggest": {
+      "meaning": "顯示、意味著；並非已證實的結論"
+    },
+    "supplies": {
+      "meaning": "提供、供應"
+    },
+    "support": {
+      "meaning": "支援、支持"
+    },
+    "supporting": {
+      "meaning": "支援、支持"
+    },
+    "supports": {
+      "meaning": "支援"
+    },
+    "system": {
+      "meaning": "系統"
+    },
+    "systems": {
+      "meaning": "系統（複數）"
+    },
+    "taken": {
+      "meaning": "take 的過去分詞；taken together 指綜合來看"
+    },
+    "test": {
+      "meaning": "測試"
+    },
+    "testing": {
+      "meaning": "測試"
+    },
+    "tests": {
+      "meaning": "測試（複數）"
+    },
+    "than": {
+      "meaning": "與 rather 連用，rather than 指而非"
+    },
+    "that": {
+      "meaning": "引導子句的連接詞；也可指那件事"
+    },
+    "the": {
+      "meaning": "定冠詞，指特定或已提過的事物"
+    },
+    "their": {
+      "meaning": "他們的"
+    },
+    "therefore": {
+      "meaning": "因此"
+    },
+    "these": {
+      "meaning": "這些"
+    },
+    "they": {
+      "meaning": "他們"
+    },
+    "this": {
+      "meaning": "這"
+    },
+    "through": {
+      "meaning": "持續到；直到某時間點"
+    },
+    "to": {
+      "meaning": "到、向；也用於不定詞，接動詞原形"
+    },
+    "together": {
+      "meaning": "一起；taken together 指綜合來看"
+    },
+    "toward": {
+      "meaning": "朝向"
+    },
+    "tracking": {
+      "meaning": "追蹤"
+    },
+    "transfer": {
+      "meaning": "傳遞"
+    },
+    "transition": {
+      "meaning": "轉型、轉換"
+    },
+    "travel": {
+      "meaning": "旅行"
+    },
+    "traveled": {
+      "meaning": "搭乘、運送（過去式）"
+    },
+    "trials": {
+      "meaning": "試驗"
+    },
+    "two": {
+      "meaning": "兩個"
+    },
+    "under": {
+      "meaning": "在…之中；under demonstration 指處於示範驗證階段"
+    },
+    "use": {
+      "meaning": "使用"
+    },
+    "validating": {
+      "meaning": "驗證"
+    },
+    "vehicle's": {
+      "meaning": "載具的（所有格）"
+    },
+    "verified": {
+      "meaning": "驗證過的"
+    },
+    "viasat": {
+      "meaning": "Viasat，衛星通訊公司名稱"
+    },
+    "viasat's": {
+      "meaning": "Viasat公司的（所有格）"
+    },
+    "volume": {
+      "meaning": "量；information volume 指資料量"
+    },
+    "was": {
+      "meaning": "是；文中與過去分詞連用，構成過去式的被動語態"
+    },
+    "were": {
+      "meaning": "是；與過去分詞連用，構成過去式的被動語態"
+    },
+    "what": {
+      "meaning": "什麼"
+    },
+    "which": {
+      "meaning": "哪一個；引導問題以辨識正確選項"
+    },
+    "while": {
+      "meaning": "同時、在…的時候"
+    },
+    "will": {
+      "meaning": "將會"
+    },
+    "with": {
+      "meaning": "具有、包含；與…一起或合作"
+    },
+    "wording": {
+      "meaning": "措辭"
+    },
+    "working": {
+      "meaning": "進行工作；working with 指利用或與…合作"
+    },
+    "would": {
+      "meaning": "從過去的時間點描述將會發生的事"
+    }
+  },
+  "quiz": [
+    {
+      "question": "What is the immediate purpose of the October launch?",
+      "choices": [
+        {
+          "text": "To retire every existing relay satellite immediately.",
+          "explanation": "錯誤。第6段說明原有衛星群將逐步退役，並未說這次發射後立即全部退役。"
+        },
+        {
+          "text": "To test commercial communication services in orbit.",
+          "explanation": "正確。第1段直接指出眼前目標是測試通訊服務，而非宣告替代網路已全面運作。"
+        },
+        {
+          "text": "To establish that every service is fully operational.",
+          "explanation": "錯誤。第1段與第7段都區分成功發射和服務能力的驗證，不能由發射成功推論所有服務已可運作。"
+        },
+        {
+          "text": "To replace scientific missions with passenger travel.",
+          "explanation": "錯誤。文章討論科學任務所需的通訊服務，沒有提到以載客旅行取代科學任務。"
+        }
+      ],
+      "answerIndex": 1,
+      "explanation": "本題考主旨與任務目標。這次發射讓商業通訊設備進入軌道，以進行示範測試；成功發射並不等於替代網路已全面投入運作。",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "The immediate goal is to test communication services, rather than declare a fully operational replacement network."
+        }
+      ]
+    },
+    {
+      "question": "Which statement matches Viasat's October 21 announcement?",
+      "choices": [
+        {
+          "text": "SES built the Maxwell spacecraft.",
+          "explanation": "錯誤。第4段指出Maxwell的製造商是Rocket Lab，並非SES。"
+        },
+        {
+          "text": "All tests were completed before the October launch.",
+          "explanation": "錯誤。第3段描述發射後持續到2027年3月的測試，並非在發射前已完成全部測試。"
+        },
+        {
+          "text": "Maxwell receives no power from solar panels.",
+          "explanation": "錯誤。第4段列出的元件包含太陽能板，未支持完全不使用太陽能板供電的說法。"
+        },
+        {
+          "text": "Testing would continue through March 2027.",
+          "explanation": "正確。第3段明確寫出Viasat公告所述的測試時間，將持續到2027年3月。"
+        }
+      ],
+      "answerIndex": 3,
+      "explanation": "本題考日期及事實辨識。注意10月20日是發射日期，10月21日是Viasat公告日期，而2027年3月是該公告所述測試將持續到的時間點。",
+      "evidence": [
+        {
+          "paragraph": 3,
+          "quote": "It said testing aboard the Maxwell spacecraft would continue through March 2027."
+        }
+      ]
+    },
+    {
+      "question": "What distinction does the article emphasize?",
+      "choices": [
+        {
+          "text": "A successful launch does not prove every promised service outcome.",
+          "explanation": "正確。第7段指出進入軌道能證實設備已發射，但不能證實每一項承諾的服務成果都已實現。"
+        },
+        {
+          "text": "A successful launch establishes that testing is complete.",
+          "explanation": "錯誤。第5段說發射與完成示範是不同里程碑，第7段也指出後續證據仍須來自測試。"
+        },
+        {
+          "text": "High data rates are the only purpose of communication systems.",
+          "explanation": "錯誤。第2段同時說明高資料速率的傳輸，以及較低速率的指令和狀態回報，兩者都有用途。"
+        },
+        {
+          "text": "Commercial announcements are independently verified test results.",
+          "explanation": "錯誤。第3段特別說明規劃中的能力仍在示範驗證，不能直接當成新測試已獲獨立驗證的結果。"
+        }
+      ],
+      "answerIndex": 0,
+      "explanation": "本題考全文推論。文章反覆提醒讀者區分發射里程碑、預定能力與經測試證實的服務表現，避免把企業公告中的目標當成已完成成果。",
+      "evidence": [
+        {
+          "paragraph": 7,
+          "quote": "Reaching orbit establishes that equipment has been launched; it does not establish every promised service outcome."
+        }
+      ]
+    }
+  ]
+}
