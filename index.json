@@ -2,6 +2,12 @@
   "version": 1,
   "articles": [
     {
+      "date": "2026-11-03",
+      "title": "AI Demand Grows, but the Chip Industry Moves at Different Speeds",
+      "topic": "科技業新聞",
+      "sha256": "46ad830b76fece516e6cba3717f683d7728fac20eb68359fd057654f55184a66"
+    },
+    {
       "date": "2026-11-02",
       "title": "Space Companies Test a New Route for Satellite Data",
       "topic": "科技業新聞",

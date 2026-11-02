@@ -1,0 +1,1170 @@
+{
+  "version": 1,
+  "date": "2026-11-03",
+  "level": "B2",
+  "title": "AI Demand Grows, but the Chip Industry Moves at Different Speeds",
+  "topic": "科技業新聞",
+  "sources": [
+    {
+      "name": "Intel",
+      "title": "Intel Reports Third-Quarter 2026 Financial Results",
+      "url": "https://www.intc.com/news-events/press-releases/detail/1786/intel-reports-third-quarter-2026-financial-results"
+    },
+    {
+      "name": "ASML",
+      "title": "ASML reports €11.7 billion total net sales and €5.0 billion net income in Q3 2026",
+      "url": "https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026"
+    },
+    {
+      "name": "TSMC",
+      "title": "Q3 2026 Taiwan Semiconductor Manufacturing Company Limited Earnings Call (October 15, 2026)",
+      "url": "https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf"
+    }
+  ],
+  "cover": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Silicon_wafer_close_view.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Silicon_wafer_close_view.jpg",
+    "credit": "Le hollandais volant / Wikimedia Commons；原圖未修改",
+    "alt": "示意圖：2017年拍攝的矽晶圓表面特寫，並非本次財報或特定公司產品照片。",
+    "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/"
+  },
+  "paragraphs": [
+    [
+      {
+        "en": "Intel's October 29, 2026 earnings release ",
+        "zh": "英特爾於2026年10月29日發布的財報"
+      },
+      {
+        "en": "shows why the chip industry deserves a closer look. ",
+        "zh": "顯示出為何值得更仔細觀察晶片產業。"
+      },
+      {
+        "en": "The company reported third-quarter revenue of $16.5 billion, ",
+        "zh": "該公司公布第三季營收為165億美元，"
+      },
+      {
+        "en": "an increase of 21% from a year earlier. ",
+        "zh": "比前一年同期增加21%。"
+      },
+      {
+        "en": "However, the headline does not describe every business ",
+        "zh": "不過，這項整體數字並不能充分說明每項業務"
+      },
+      {
+        "en": "within the company equally well. ",
+        "zh": "在公司內部各自的表現。"
+      },
+      {
+        "en": "Its detailed figures reveal a sharp contrast ",
+        "zh": "細項數據揭露了鮮明的對比："
+      },
+      {
+        "en": "between rapidly expanding data-center activity ",
+        "zh": "資料中心相關業務快速擴張，"
+      },
+      {
+        "en": "and weaker results in another major group.",
+        "zh": "另一個主要事業群的表現卻較疲弱。"
+      }
+    ],
+    [
+      {
+        "en": "Intel's Data Center and AI group ",
+        "zh": "英特爾的資料中心暨人工智慧事業群"
+      },
+      {
+        "en": "recorded revenue of $7.3 billion, ",
+        "zh": "錄得73億美元營收，"
+      },
+      {
+        "en": "up 78% from the same quarter last year. ",
+        "zh": "比去年同季增加78%。"
+      },
+      {
+        "en": "Meanwhile, its Client Computing and Physical AI group ",
+        "zh": "另一方面，其用戶端運算暨實體人工智慧事業群"
+      },
+      {
+        "en": "reported $8.1 billion, down 5%. ",
+        "zh": "公布營收為81億美元，下降5%。"
+      },
+      {
+        "en": "The second group remained larger by revenue, ",
+        "zh": "第二個事業群的營收規模仍較大，"
+      },
+      {
+        "en": "even though its growth rate was lower. ",
+        "zh": "儘管它的成長率較低。"
+      },
+      {
+        "en": "This comparison shows why business size ",
+        "zh": "這項比較說明了，業務規模"
+      },
+      {
+        "en": "and speed of growth should be considered separately.",
+        "zh": "與成長速度應分開看待。"
+      }
+    ],
+    [
+      {
+        "en": "ASML's October 14 results offer another perspective. ",
+        "zh": "艾司摩爾於10月14日公布的業績提供了另一種觀察角度。"
+      },
+      {
+        "en": "The chipmaking equipment supplier reported ",
+        "zh": "這家晶片製造設備供應商公布，"
+      },
+      {
+        "en": "quarterly sales of approximately €11.7 billion. ",
+        "zh": "季度銷售額約為117億歐元。"
+      },
+      {
+        "en": "It sold 113 new lithography systems, ",
+        "zh": "它售出113套新的微影系統，"
+      },
+      {
+        "en": "compared with 86 in the previous quarter. ",
+        "zh": "相較之下，前一季為86套。"
+      },
+      {
+        "en": "That is a measure of equipment sales, ",
+        "zh": "這是衡量設備銷售的指標，"
+      },
+      {
+        "en": "rather than the number of finished computer chips. ",
+        "zh": "並非製成的電腦晶片數量。"
+      },
+      {
+        "en": "The distinction helps place ASML's announcement ",
+        "zh": "這項區別有助於將艾司摩爾的公告"
+      },
+      {
+        "en": "within the wider manufacturing supply chain.",
+        "zh": "放回更廣泛的製造供應鏈脈絡中理解。"
+      }
+    ],
+    [
+      {
+        "en": "ASML also described increasing customer demand forecasts ",
+        "zh": "艾司摩爾也描述了客戶需求預測上升的情況，"
+      },
+      {
+        "en": "linked primarily to expectations about AI investment. ",
+        "zh": "主要與對人工智慧投資的預期有關。"
+      },
+      {
+        "en": "Management said its currently planned supply ",
+        "zh": "管理階層表示，目前規劃的供應量"
+      },
+      {
+        "en": "would not fully satisfy customer demand ",
+        "zh": "預計無法完全滿足客戶需求，"
+      },
+      {
+        "en": "in either 2027 or 2028. ",
+        "zh": "無論是2027年或2028年。"
+      },
+      {
+        "en": "It was therefore investigating additional capacity. ",
+        "zh": "因此，該公司正在研究增加產能。"
+      },
+      {
+        "en": "This indicates pressure on future equipment availability, ",
+        "zh": "這顯示未來設備供應可能面臨壓力，"
+      },
+      {
+        "en": "according to the company's own assessment. ",
+        "zh": "這是根據該公司本身的評估。"
+      },
+      {
+        "en": "It is not evidence that every proposed expansion ",
+        "zh": "這並不代表每項提出的擴產計畫"
+      },
+      {
+        "en": "has already been completed.",
+        "zh": "都已經完成。"
+      }
+    ],
+    [
+      {
+        "en": "TSMC's October 15 earnings call ",
+        "zh": "台積電於10月15日舉行的法說會"
+      },
+      {
+        "en": "adds a further view of computing demand. ",
+        "zh": "進一步呈現了運算需求的面貌。"
+      },
+      {
+        "en": "The company said high-performance computing ",
+        "zh": "該公司表示，高效能運算"
+      },
+      {
+        "en": "accounted for 68% of third-quarter revenue, ",
+        "zh": "占第三季營收的68%，"
+      },
+      {
+        "en": "while smartphones contributed 21%. ",
+        "zh": "而智慧型手機貢獻21%。"
+      },
+      {
+        "en": "Revenue from these platforms increased by 22% ",
+        "zh": "這兩類平台的營收分別增加22%"
+      },
+      {
+        "en": "and 10%, respectively, from the previous quarter. ",
+        "zh": "及10%，比較基準為前一季。"
+      },
+      {
+        "en": "Both grew, but at different speeds. ",
+        "zh": "兩者都成長，但速度不同。"
+      },
+      {
+        "en": "The figures describe platform categories; ",
+        "zh": "這些數字描述的是平台分類；"
+      },
+      {
+        "en": "they do not identify every individual customer's purchases.",
+        "zh": "並未揭露每位個別客戶的採購情況。"
+      }
+    ],
+    [
+      {
+        "en": "Careful comparisons require consistent reference points. ",
+        "zh": "審慎的比較需要一致的參考基準。"
+      },
+      {
+        "en": "Intel's growth figures above compare equivalent quarters ",
+        "zh": "前述英特爾的成長數字比較的是相同季度，"
+      },
+      {
+        "en": "in two different years. ",
+        "zh": "但分屬不同年份。"
+      },
+      {
+        "en": "The TSMC platform figures compare neighboring quarters. ",
+        "zh": "台積電的平台數字則比較相鄰兩季。"
+      },
+      {
+        "en": "Those percentages answer different questions. ",
+        "zh": "這些百分比回答的是不同問題。"
+      },
+      {
+        "en": "The reports also use different currencies ",
+        "zh": "這些報告也使用不同幣別，"
+      },
+      {
+        "en": "and describe different kinds of business. ",
+        "zh": "並描述不同類型的業務。"
+      },
+      {
+        "en": "Reading them together can reveal patterns, ",
+        "zh": "把它們放在一起閱讀，有助於發現趨勢，"
+      },
+      {
+        "en": "but simply ranking their headline numbers ",
+        "zh": "但若只憑整體數字直接排名，"
+      },
+      {
+        "en": "can hide the details that explain those patterns.",
+        "zh": "可能會掩蓋解釋這些趨勢的重要細節。"
+      }
+    ],
+    [
+      {
+        "en": "Taken together, these October reports suggest ",
+        "zh": "綜合來看，這些10月的報告顯示，"
+      },
+      {
+        "en": "that computing demand is reshaping several businesses ",
+        "zh": "運算需求正在改變多項業務，"
+      },
+      {
+        "en": "without lifting every activity equally. ",
+        "zh": "卻沒有讓每種業務都同樣受惠。"
+      },
+      {
+        "en": "That is an interpretation of the reported figures, ",
+        "zh": "這是對已公布數據的解讀，"
+      },
+      {
+        "en": "not a prediction of future sales. ",
+        "zh": "並非對未來銷售額的預測。"
+      },
+      {
+        "en": "For people following technology news, ",
+        "zh": "對關注科技新聞的人來說，"
+      },
+      {
+        "en": "the useful question is which products, customers, ",
+        "zh": "值得問的是：哪些產品、客戶，"
+      },
+      {
+        "en": "or production stages are driving a change. ",
+        "zh": "或生產階段正在推動變化。"
+      },
+      {
+        "en": "A single growth number cannot tell the whole story.",
+        "zh": "單一成長數字無法說明完整情況。"
+      }
+    ]
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一個"
+    },
+    "about": {
+      "meaning": "關於"
+    },
+    "above": {
+      "meaning": "上述的、前面提到的"
+    },
+    "according": {
+      "meaning": "according to 指根據"
+    },
+    "accounted": {
+      "meaning": "accounted for 指占某一比例"
+    },
+    "activity": {
+      "meaning": "活動；文中指業務"
+    },
+    "additional": {
+      "meaning": "額外的"
+    },
+    "adds": {
+      "meaning": "增添、提供另一項資訊"
+    },
+    "ai": {
+      "meaning": "人工智慧（artificial intelligence的縮寫）"
+    },
+    "already": {
+      "meaning": "已經"
+    },
+    "also": {
+      "meaning": "也、同時"
+    },
+    "an": {
+      "meaning": "一個"
+    },
+    "and": {
+      "meaning": "和、而且；連接詞"
+    },
+    "announcement": {
+      "meaning": "公告"
+    },
+    "another": {
+      "meaning": "另一個；再一次的"
+    },
+    "answer": {
+      "meaning": "回答"
+    },
+    "approximately": {
+      "meaning": "大約"
+    },
+    "are": {
+      "meaning": "是；也可作為進行式的助動詞"
+    },
+    "asml": {
+      "meaning": "艾司摩爾，半導體設備公司名稱"
+    },
+    "asml's": {
+      "meaning": "艾司摩爾公司的（所有格）"
+    },
+    "assessment": {
+      "meaning": "評估"
+    },
+    "at": {
+      "meaning": "以某種速率；at different speeds 指以不同速度"
+    },
+    "availability": {
+      "meaning": "可供應的情況"
+    },
+    "be": {
+      "meaning": "是；與過去分詞連用可構成被動語態"
+    },
+    "been": {
+      "meaning": "be 的過去分詞，文中與助動詞連用構成完成式或被動語態"
+    },
+    "between": {
+      "meaning": "在…之間"
+    },
+    "billion": {
+      "meaning": "十億"
+    },
+    "both": {
+      "meaning": "兩者；兩種都"
+    },
+    "business": {
+      "meaning": "業務、事業"
+    },
+    "businesses": {
+      "meaning": "業務、事業（複數）"
+    },
+    "but": {
+      "meaning": "但是"
+    },
+    "by": {
+      "meaning": "按照、以…衡量；by 22% 指增加22%"
+    },
+    "call": {
+      "meaning": "電話會議；earnings call 指法說會"
+    },
+    "can": {
+      "meaning": "能夠"
+    },
+    "cannot": {
+      "meaning": "不能、無法"
+    },
+    "capacity": {
+      "meaning": "產能"
+    },
+    "careful": {
+      "meaning": "審慎的"
+    },
+    "categories": {
+      "meaning": "分類、類別"
+    },
+    "center": {
+      "meaning": "中心；Data Center 指資料中心"
+    },
+    "chain": {
+      "meaning": "鏈；supply chain 指供應鏈"
+    },
+    "change": {
+      "meaning": "改變"
+    },
+    "chip": {
+      "meaning": "晶片"
+    },
+    "chipmaking": {
+      "meaning": "晶片製造"
+    },
+    "chips": {
+      "meaning": "晶片（複數）"
+    },
+    "client": {
+      "meaning": "用戶端；Client Computing 指用戶端運算"
+    },
+    "closer": {
+      "meaning": "更仔細的"
+    },
+    "company": {
+      "meaning": "公司"
+    },
+    "company's": {
+      "meaning": "公司的（所有格）"
+    },
+    "compare": {
+      "meaning": "比較"
+    },
+    "compared": {
+      "meaning": "比較；compared with 指相較於"
+    },
+    "comparison": {
+      "meaning": "比較"
+    },
+    "comparisons": {
+      "meaning": "比較（複數）"
+    },
+    "completed": {
+      "meaning": "已完成的"
+    },
+    "computer": {
+      "meaning": "電腦"
+    },
+    "computing": {
+      "meaning": "運算"
+    },
+    "considered": {
+      "meaning": "考量、看待（過去分詞）"
+    },
+    "consistent": {
+      "meaning": "一致的"
+    },
+    "contrast": {
+      "meaning": "對比"
+    },
+    "contributed": {
+      "meaning": "貢獻"
+    },
+    "currencies": {
+      "meaning": "幣別、貨幣（複數）"
+    },
+    "currently": {
+      "meaning": "目前"
+    },
+    "customer": {
+      "meaning": "客戶"
+    },
+    "customer's": {
+      "meaning": "客戶的（所有格）"
+    },
+    "customers": {
+      "meaning": "客戶（複數）"
+    },
+    "data": {
+      "meaning": "資料"
+    },
+    "data-center": {
+      "meaning": "資料中心的"
+    },
+    "demand": {
+      "meaning": "需求"
+    },
+    "describe": {
+      "meaning": "描述"
+    },
+    "described": {
+      "meaning": "描述（過去式）"
+    },
+    "deserves": {
+      "meaning": "值得"
+    },
+    "detailed": {
+      "meaning": "詳細的"
+    },
+    "details": {
+      "meaning": "細節"
+    },
+    "different": {
+      "meaning": "不同的"
+    },
+    "distinction": {
+      "meaning": "區別"
+    },
+    "do": {
+      "meaning": "助動詞，構成否定或疑問"
+    },
+    "does": {
+      "meaning": "助動詞，用於第三人稱單數"
+    },
+    "down": {
+      "meaning": "下降"
+    },
+    "driving": {
+      "meaning": "推動"
+    },
+    "earlier": {
+      "meaning": "較早的；a year earlier 指前一年"
+    },
+    "earnings": {
+      "meaning": "獲利；earnings release 指財報，earnings call 指法說會"
+    },
+    "either": {
+      "meaning": "兩者任一；not ... either ... or ... 指兩個情況都不"
+    },
+    "equally": {
+      "meaning": "同樣地、同等程度地"
+    },
+    "equipment": {
+      "meaning": "設備"
+    },
+    "equivalent": {
+      "meaning": "相同或相對應的"
+    },
+    "even": {
+      "meaning": "即使；even though 指儘管"
+    },
+    "every": {
+      "meaning": "每個"
+    },
+    "evidence": {
+      "meaning": "證據"
+    },
+    "expanding": {
+      "meaning": "擴張中的"
+    },
+    "expansion": {
+      "meaning": "擴張、擴產"
+    },
+    "expectations": {
+      "meaning": "預期"
+    },
+    "explain": {
+      "meaning": "解釋"
+    },
+    "figures": {
+      "meaning": "數字、數據"
+    },
+    "finished": {
+      "meaning": "製成的"
+    },
+    "following": {
+      "meaning": "關注、追蹤（某領域的發展）"
+    },
+    "for": {
+      "meaning": "對…而言；accounted for 指占某比例"
+    },
+    "forecasts": {
+      "meaning": "預測"
+    },
+    "from": {
+      "meaning": "從；來自"
+    },
+    "fully": {
+      "meaning": "全面地、完全地"
+    },
+    "further": {
+      "meaning": "進一步的"
+    },
+    "future": {
+      "meaning": "未來的"
+    },
+    "grew": {
+      "meaning": "成長（grow的過去式）"
+    },
+    "group": {
+      "meaning": "事業群；一組"
+    },
+    "grows": {
+      "meaning": "成長、增加"
+    },
+    "growth": {
+      "meaning": "成長"
+    },
+    "has": {
+      "meaning": "與過去分詞連用，構成現在完成式"
+    },
+    "headline": {
+      "meaning": "標題；此處亦指整體數字"
+    },
+    "helps": {
+      "meaning": "幫助"
+    },
+    "hide": {
+      "meaning": "掩蓋、隱藏"
+    },
+    "high-performance": {
+      "meaning": "高效能的"
+    },
+    "however": {
+      "meaning": "不過、然而"
+    },
+    "identify": {
+      "meaning": "辨識、揭露"
+    },
+    "in": {
+      "meaning": "在…之中；在某時間"
+    },
+    "increase": {
+      "meaning": "增加"
+    },
+    "increased": {
+      "meaning": "增加（過去式）"
+    },
+    "increasing": {
+      "meaning": "增加中的"
+    },
+    "indicates": {
+      "meaning": "顯示"
+    },
+    "individual": {
+      "meaning": "個別的"
+    },
+    "industry": {
+      "meaning": "產業；業界"
+    },
+    "intel's": {
+      "meaning": "英特爾公司的（所有格）"
+    },
+    "interpretation": {
+      "meaning": "解讀"
+    },
+    "investigating": {
+      "meaning": "研究、探討"
+    },
+    "investment": {
+      "meaning": "投資"
+    },
+    "is": {
+      "meaning": "是；也可作為進行式的助動詞"
+    },
+    "it": {
+      "meaning": "它；此處指公司或前述情況"
+    },
+    "its": {
+      "meaning": "它的；該公司的"
+    },
+    "kinds": {
+      "meaning": "種類"
+    },
+    "larger": {
+      "meaning": "規模較大的"
+    },
+    "last": {
+      "meaning": "上一個；last year 指去年"
+    },
+    "lifting": {
+      "meaning": "提升、使受惠"
+    },
+    "linked": {
+      "meaning": "與…相關聯的"
+    },
+    "lithography": {
+      "meaning": "微影；半導體製造的圖案轉印技術"
+    },
+    "look": {
+      "meaning": "看"
+    },
+    "lower": {
+      "meaning": "較低的"
+    },
+    "major": {
+      "meaning": "主要的"
+    },
+    "management": {
+      "meaning": "管理階層"
+    },
+    "manufacturing": {
+      "meaning": "製造"
+    },
+    "meanwhile": {
+      "meaning": "另一方面；同時"
+    },
+    "measure": {
+      "meaning": "衡量的指標"
+    },
+    "moves": {
+      "meaning": "推進、發展"
+    },
+    "neighboring": {
+      "meaning": "相鄰的"
+    },
+    "new": {
+      "meaning": "新的"
+    },
+    "news": {
+      "meaning": "新聞"
+    },
+    "not": {
+      "meaning": "不、沒有"
+    },
+    "number": {
+      "meaning": "數字；數量"
+    },
+    "numbers": {
+      "meaning": "數字（複數）"
+    },
+    "october": {
+      "meaning": "十月"
+    },
+    "of": {
+      "meaning": "…的；連接事物與其內容、性質等關係"
+    },
+    "offer": {
+      "meaning": "提供"
+    },
+    "on": {
+      "meaning": "在某日期；在…上"
+    },
+    "or": {
+      "meaning": "或者"
+    },
+    "own": {
+      "meaning": "自己的"
+    },
+    "patterns": {
+      "meaning": "趨勢、規律"
+    },
+    "people": {
+      "meaning": "人們"
+    },
+    "percentages": {
+      "meaning": "百分比"
+    },
+    "perspective": {
+      "meaning": "觀察角度"
+    },
+    "physical": {
+      "meaning": "實體的；Physical AI 指實體人工智慧"
+    },
+    "place": {
+      "meaning": "放置；place ... within 指將…放在某個脈絡中理解"
+    },
+    "planned": {
+      "meaning": "預定的、規劃中的"
+    },
+    "platform": {
+      "meaning": "平台；文中指按應用區分的業務類別"
+    },
+    "platforms": {
+      "meaning": "平台（複數）"
+    },
+    "points": {
+      "meaning": "基準點；reference points 指參考基準"
+    },
+    "prediction": {
+      "meaning": "預測"
+    },
+    "pressure": {
+      "meaning": "壓力"
+    },
+    "previous": {
+      "meaning": "前一個的"
+    },
+    "primarily": {
+      "meaning": "主要地"
+    },
+    "production": {
+      "meaning": "生產"
+    },
+    "products": {
+      "meaning": "產品"
+    },
+    "proposed": {
+      "meaning": "提出的、提議的"
+    },
+    "purchases": {
+      "meaning": "採購、購買"
+    },
+    "quarter": {
+      "meaning": "季度"
+    },
+    "quarterly": {
+      "meaning": "季度的"
+    },
+    "quarters": {
+      "meaning": "季度（複數）"
+    },
+    "question": {
+      "meaning": "問題"
+    },
+    "questions": {
+      "meaning": "問題（複數）"
+    },
+    "ranking": {
+      "meaning": "排名、排序"
+    },
+    "rapidly": {
+      "meaning": "快速地"
+    },
+    "rate": {
+      "meaning": "比率；growth rate 指成長率"
+    },
+    "rather": {
+      "meaning": "rather than 指而非"
+    },
+    "reading": {
+      "meaning": "閱讀"
+    },
+    "recorded": {
+      "meaning": "錄得、記錄"
+    },
+    "reference": {
+      "meaning": "參考"
+    },
+    "release": {
+      "meaning": "發布、發布資料；earnings release 指財報"
+    },
+    "remained": {
+      "meaning": "仍然是、維持"
+    },
+    "reported": {
+      "meaning": "公布、報告；指公司發布業績數據"
+    },
+    "reports": {
+      "meaning": "報告"
+    },
+    "require": {
+      "meaning": "需要"
+    },
+    "reshaping": {
+      "meaning": "重塑、改變"
+    },
+    "respectively": {
+      "meaning": "分別地"
+    },
+    "results": {
+      "meaning": "業績、結果"
+    },
+    "reveal": {
+      "meaning": "揭露、顯示"
+    },
+    "revenue": {
+      "meaning": "營收"
+    },
+    "said": {
+      "meaning": "表示、說（say 的過去式）"
+    },
+    "sales": {
+      "meaning": "銷售額；銷售"
+    },
+    "same": {
+      "meaning": "相同的"
+    },
+    "satisfy": {
+      "meaning": "滿足"
+    },
+    "second": {
+      "meaning": "第二個"
+    },
+    "separately": {
+      "meaning": "分開地"
+    },
+    "several": {
+      "meaning": "數個、多項"
+    },
+    "sharp": {
+      "meaning": "鮮明的、顯著的"
+    },
+    "should": {
+      "meaning": "應該"
+    },
+    "shows": {
+      "meaning": "顯示"
+    },
+    "simply": {
+      "meaning": "只是、單純地"
+    },
+    "single": {
+      "meaning": "單一的"
+    },
+    "size": {
+      "meaning": "規模"
+    },
+    "smartphones": {
+      "meaning": "智慧型手機（複數）"
+    },
+    "sold": {
+      "meaning": "售出（sell的過去式）"
+    },
+    "speed": {
+      "meaning": "速度"
+    },
+    "speeds": {
+      "meaning": "速度（複數）"
+    },
+    "stages": {
+      "meaning": "階段"
+    },
+    "story": {
+      "meaning": "情況；tell the whole story 指說明完整情況"
+    },
+    "suggest": {
+      "meaning": "顯示、意味著；並非已證實的結論"
+    },
+    "supplier": {
+      "meaning": "供應商"
+    },
+    "supply": {
+      "meaning": "供應量；supply chain 指供應鏈"
+    },
+    "systems": {
+      "meaning": "系統（複數）"
+    },
+    "taken": {
+      "meaning": "take 的過去分詞；taken together 指綜合來看"
+    },
+    "technology": {
+      "meaning": "科技、技術"
+    },
+    "tell": {
+      "meaning": "說明、告訴"
+    },
+    "than": {
+      "meaning": "比；rather than 指而非"
+    },
+    "that": {
+      "meaning": "那個；亦用於引導子句"
+    },
+    "the": {
+      "meaning": "定冠詞，指特定或已提過的事物"
+    },
+    "their": {
+      "meaning": "他們的"
+    },
+    "them": {
+      "meaning": "他們；它們（受詞）"
+    },
+    "therefore": {
+      "meaning": "因此"
+    },
+    "these": {
+      "meaning": "這些"
+    },
+    "they": {
+      "meaning": "他們"
+    },
+    "third-quarter": {
+      "meaning": "第三季的"
+    },
+    "this": {
+      "meaning": "這"
+    },
+    "those": {
+      "meaning": "那些"
+    },
+    "though": {
+      "meaning": "even though 指儘管"
+    },
+    "to": {
+      "meaning": "到、向；也用於不定詞，接動詞原形"
+    },
+    "together": {
+      "meaning": "一起；taken together 指綜合來看"
+    },
+    "tsmc": {
+      "meaning": "台積電，半導體製造公司名稱"
+    },
+    "tsmc's": {
+      "meaning": "台積電公司的（所有格）"
+    },
+    "two": {
+      "meaning": "兩個"
+    },
+    "up": {
+      "meaning": "上升、增加"
+    },
+    "use": {
+      "meaning": "使用"
+    },
+    "useful": {
+      "meaning": "實用的"
+    },
+    "view": {
+      "meaning": "觀點、面貌"
+    },
+    "was": {
+      "meaning": "是（過去式）"
+    },
+    "weaker": {
+      "meaning": "較疲弱的"
+    },
+    "well": {
+      "meaning": "充分地、恰當地"
+    },
+    "which": {
+      "meaning": "哪個、哪些；文中用於指出值得關注的產品或業務"
+    },
+    "while": {
+      "meaning": "而；同時"
+    },
+    "whole": {
+      "meaning": "完整的、全部的"
+    },
+    "why": {
+      "meaning": "為何"
+    },
+    "wider": {
+      "meaning": "範圍更廣的"
+    },
+    "with": {
+      "meaning": "與；compared with 指相較於"
+    },
+    "within": {
+      "meaning": "在…內部、在…範圍中"
+    },
+    "without": {
+      "meaning": "沒有、未…的情況下"
+    },
+    "would": {
+      "meaning": "從過去的時間點描述將會發生的事"
+    },
+    "year": {
+      "meaning": "年"
+    },
+    "years": {
+      "meaning": "年（複數）"
+    }
+  },
+  "quiz": [
+    {
+      "question": "What is the main purpose of the article?",
+      "choices": [
+        {
+          "text": "To rank three companies only by their total quarterly sales.",
+          "explanation": "錯誤。第6段提醒幣別、業務種類與比較基準不同，只按整體數字排名可能掩蓋細節。"
+        },
+        {
+          "text": "To show that every chip-related business is growing equally.",
+          "explanation": "錯誤。第1、2及5段提供不同業務的差異，第7段也明確指出並非所有業務都同樣受惠。"
+        },
+        {
+          "text": "To explain uneven business growth and the need for careful comparisons.",
+          "explanation": "正確。文章以英特爾、艾司摩爾及台積電的10月報告說明業務成長速度不同，再解釋比較數據時應留意的基準。"
+        },
+        {
+          "text": "To predict which company will have the highest future sales.",
+          "explanation": "錯誤。第7段明確將全文定位為已公布數據的解讀，而非未來銷售預測，也未預測誰將排名第一。"
+        }
+      ],
+      "answerIndex": 2,
+      "explanation": "本題考主旨。第7段總結運算需求改變多項業務，但受惠程度不同；第6段補充不能忽略比較期間、幣別及業務類型。因此，全文重點是理解差異與審慎比較，而非公司排名或業績預測。",
+      "evidence": [
+        {
+          "paragraph": 7,
+          "quote": "Taken together, these October reports suggest that computing demand is reshaping several businesses without lifting every activity equally."
+        },
+        {
+          "paragraph": 6,
+          "quote": "The reports also use different currencies and describe different kinds of business."
+        }
+      ]
+    },
+    {
+      "question": "What can be inferred from Intel's two business groups?",
+      "choices": [
+        {
+          "text": "The faster-growing group can still have lower revenue.",
+          "explanation": "正確。第2段中資料中心暨AI事業群成長78%、營收73億美元；另一事業群成長率為負5%、營收卻較高，達81億美元。成長較快不代表規模較大。"
+        },
+        {
+          "text": "The group with higher revenue must also grow faster.",
+          "explanation": "錯誤。第2段正好提供反例：營收較大的第二事業群，其成長率反而較低。"
+        },
+        {
+          "text": "Both groups had lower revenue than a year earlier.",
+          "explanation": "錯誤。只有第二事業群年減5%，第一個事業群則年增78%，不能說兩者都下降。"
+        },
+        {
+          "text": "The data-center group's growth was measured against the previous quarter.",
+          "explanation": "錯誤。第2段寫的是與去年同季相比，第6段也再次說明英特爾數字採跨年度的相同季度比較。"
+        }
+      ],
+      "answerIndex": 0,
+      "explanation": "本題考合理推論。比較第2段的兩組數字可知，成長率是變化速度，營收是當期規模；成長率高的業務，其當期營收仍可能小於成長率低的業務。兩個指標必須分別判讀。",
+      "evidence": [
+        {
+          "paragraph": 2,
+          "quote": "Intel's Data Center and AI group recorded revenue of $7.3 billion, up 78% from the same quarter last year. Meanwhile, its Client Computing and Physical AI group reported $8.1 billion, down 5%. The second group remained larger by revenue, even though its growth rate was lower. This comparison shows why business size and speed of growth should be considered separately."
+        }
+      ]
+    },
+    {
+      "question": "Which conclusion best summarizes the article for a reader comparing the reports?",
+      "choices": [
+        {
+          "text": "The largest percentage always identifies the largest business.",
+          "explanation": "錯誤。第2段顯示成長率較高的事業群，營收仍可較小，因此百分比大小不能直接代表業務規模。"
+        },
+        {
+          "text": "Growth figures should be read with their time periods and business categories.",
+          "explanation": "正確。第6段指出英特爾採跨年度同季比較，台積電平台採相鄰兩季比較；幣別和業務類型也不同，必須連同背景閱讀。"
+        },
+        {
+          "text": "All the growth percentages use the same comparison period.",
+          "explanation": "錯誤。第6段明確對比兩種期間基準，並說明它們回答不同問題。"
+        },
+        {
+          "text": "The equipment sales figures count finished computer chips.",
+          "explanation": "錯誤。第3段直接區分設備銷售與製成晶片數量，兩者代表供應鏈中不同的事物。"
+        }
+      ],
+      "answerIndex": 1,
+      "explanation": "本題考整體總結。要理解這些報告，須先確認每個數字衡量什麼，以及它與哪段期間比較。文章以業務類別、供應鏈位置、幣別及比較期間提醒讀者，單一成長數字無法解釋完整情況。",
+      "evidence": [
+        {
+          "paragraph": 6,
+          "quote": "Intel's growth figures above compare equivalent quarters in two different years. The TSMC platform figures compare neighboring quarters. Those percentages answer different questions."
+        },
+        {
+          "paragraph": 2,
+          "quote": "The second group remained larger by revenue, even though its growth rate was lower."
+        },
+        {
+          "paragraph": 3,
+          "quote": "That is a measure of equipment sales, rather than the number of finished computer chips."
+        }
+      ]
+    }
+  ]
+}
