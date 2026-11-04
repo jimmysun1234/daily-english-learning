@@ -1,0 +1,1169 @@
+{
+  "version": 1,
+  "date": "2026-11-05",
+  "level": "B2",
+  "title": "Apple Opens a New Route Between Siri AI and Apps",
+  "topic": "科技業新聞",
+  "sources": [
+    {
+      "name": "Apple Developer",
+      "title": "Siri AI is now open to all developers",
+      "url": "https://developer.apple.com/news/?id=gdk2umrf"
+    },
+    {
+      "name": "Apple Newsroom",
+      "title": "Siri AI is available in more languages starting today",
+      "url": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/"
+    },
+    {
+      "name": "Apple Newsroom",
+      "title": "Siri AI, a profoundly more capable and personal assistant, is here",
+      "url": "https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "en": "On November 3, 2026, Apple announced ",
+        "zh": "2026年11月3日，蘋果宣布"
+      },
+      {
+        "en": "that developers could begin trying a new way ",
+        "zh": "開發者可以開始嘗試一種新方式，"
+      },
+      {
+        "en": "to connect their apps with Siri AI. ",
+        "zh": "讓自己的應用程式與Siri AI連接。"
+      },
+      {
+        "en": "The Developer Preview arrived with new beta software, ",
+        "zh": "這項開發者預覽隨新的測試版軟體推出，"
+      },
+      {
+        "en": "including iOS 27.3 and macOS 27.3. ",
+        "zh": "其中包括iOS 27.3及macOS 27.3。"
+      },
+      {
+        "en": "Its purpose is to let more app makers ",
+        "zh": "其目的是讓更多應用程式開發者"
+      },
+      {
+        "en": "offer their content and actions through the assistant. ",
+        "zh": "透過助理提供程式內容與操作功能。"
+      },
+      {
+        "en": "For the industry, this creates another route ",
+        "zh": "對產業而言，這創造了另一條途徑，"
+      },
+      {
+        "en": "through which people might discover and use apps.",
+        "zh": "讓人們有機會發現並使用應用程式。"
+      }
+    ],
+    [
+      {
+        "en": "The connection uses a framework called App Intents. ",
+        "zh": "這種連接使用名為App Intents的框架。"
+      },
+      {
+        "en": "Developers describe actions their software can perform, ",
+        "zh": "開發者描述軟體能執行的操作，"
+      },
+      {
+        "en": "so the assistant can respond to ordinary requests. ",
+        "zh": "讓助理能回應日常語言提出的要求。"
+      },
+      {
+        "en": "Apple gives examples such as checking a delivery ",
+        "zh": "蘋果舉的例子包括查詢配送狀態，"
+      },
+      {
+        "en": "or making a reservation. ",
+        "zh": "或預訂服務。"
+      },
+      {
+        "en": "It also describes tools for combining several actions ",
+        "zh": "它也描述了能整合多項操作的工具，"
+      },
+      {
+        "en": "into one experience when a request is complex. ",
+        "zh": "以便在要求較複雜時，串成一次完整的體驗。"
+      },
+      {
+        "en": "The underlying app still supplies the supported action.",
+        "zh": "底層應用程式仍須提供所支援的操作功能。"
+      }
+    ],
+    [
+      {
+        "en": "Apple's earlier September 14 announcement ",
+        "zh": "蘋果先前於9月14日發布的公告"
+      },
+      {
+        "en": "explained the broader idea behind its assistant. ",
+        "zh": "解釋了這款助理背後更廣泛的構想。"
+      },
+      {
+        "en": "Siri AI can use personal context ",
+        "zh": "Siri AI可以運用個人情境，"
+      },
+      {
+        "en": "to locate information across messages, emails, and photos. ",
+        "zh": "跨越訊息、電子郵件與照片尋找資訊。"
+      },
+      {
+        "en": "One example involved finding a family recipe ",
+        "zh": "其中一個例子是找出家人的食譜，"
+      },
+      {
+        "en": "and adding ingredients to a shopping list. ",
+        "zh": "再把食材加入購物清單。"
+      },
+      {
+        "en": "The company also described questions about onscreen content. ",
+        "zh": "該公司也描述了針對螢幕內容提出問題的用法。"
+      },
+      {
+        "en": "These examples illustrate Apple's intended experience: ",
+        "zh": "這些例子呈現了蘋果想提供的體驗："
+      },
+      {
+        "en": "users describe a goal instead of every individual step.",
+        "zh": "使用者描述目標，而不是逐一說明每個步驟。"
+      }
+    ],
+    [
+      {
+        "en": "Language is another part of the expansion. ",
+        "zh": "語言是這波擴展的另一個部分。"
+      },
+      {
+        "en": "On October 26, Apple announced support ",
+        "zh": "10月26日，蘋果宣布新增支援"
+      },
+      {
+        "en": "for French, Japanese, Korean, Portuguese, and Spanish. ",
+        "zh": "法文、日文、韓文、葡萄牙文及西班牙文。"
+      },
+      {
+        "en": "That update followed the initial English release. ",
+        "zh": "這項更新接續最初的英文版本而來。"
+      },
+      {
+        "en": "The same announcement said Traditional Chinese, Norwegian, ",
+        "zh": "同一份公告表示，繁體中文、挪威文、"
+      },
+      {
+        "en": "Turkish, and Vietnamese would follow ",
+        "zh": "土耳其文及越南文將陸續加入，"
+      },
+      {
+        "en": "by the end of 2026. ",
+        "zh": "預計在2026年底之前提供。"
+      },
+      {
+        "en": "Those languages were announced as future additions, ",
+        "zh": "這些語言當時是以未來新增項目公布的，"
+      },
+      {
+        "en": "so readers should distinguish the schedule from current support.",
+        "zh": "因此，讀者應區分預定時程與現有支援。"
+      }
+    ],
+    [
+      {
+        "en": "Access also depends on hardware and location. ",
+        "zh": "能否使用也取決於硬體與所在地。"
+      },
+      {
+        "en": "Apple says Siri AI requires a device ",
+        "zh": "蘋果表示，Siri AI需要一部"
+      },
+      {
+        "en": "that supports Apple Intelligence, set to a supported language. ",
+        "zh": "支援Apple Intelligence且設定為支援語言的裝置。"
+      },
+      {
+        "en": "Its October availability notes describe the service as beta. ",
+        "zh": "10月的供應說明將這項服務列為測試版。"
+      },
+      {
+        "en": "They also say it is unavailable ",
+        "zh": "說明也指出，這項服務尚未提供於"
+      },
+      {
+        "en": "to European Union users on iOS, iPadOS, and watchOS. ",
+        "zh": "歐盟地區的iOS、iPadOS與watchOS使用者。"
+      },
+      {
+        "en": "That restriction names particular operating systems. ",
+        "zh": "這項限制指的是特定作業系統。"
+      },
+      {
+        "en": "It should not be read as a statement ",
+        "zh": "讀者不應將其解讀為"
+      },
+      {
+        "en": "that every Apple product has identical regional availability.",
+        "zh": "每一款蘋果產品的地區供應情況都完全相同。"
+      }
+    ],
+    [
+      {
+        "en": "The November preview is aimed at development work. ",
+        "zh": "11月的預覽版是為開發工作而設。"
+      },
+      {
+        "en": "Apple says developers have time to explore, ",
+        "zh": "蘋果表示，開發者可以利用這段時間探索、"
+      },
+      {
+        "en": "build, and provide feedback before wider customer delivery. ",
+        "zh": "建置並提供回饋，之後才會更廣泛地交付給消費者。"
+      },
+      {
+        "en": "It expects App Store submissions for these experiences ",
+        "zh": "該公司預期，這類體驗的App Store上架申請"
+      },
+      {
+        "en": "to open in the following spring. ",
+        "zh": "將於隔年春季開放。"
+      },
+      {
+        "en": "The announcement therefore describes an opportunity to prepare, ",
+        "zh": "因此，這份公告描述的是準備的機會，"
+      },
+      {
+        "en": "not an immediate upgrade for every existing app. ",
+        "zh": "並非每個既有程式都會立即升級。"
+      },
+      {
+        "en": "App makers must still create their integrations.",
+        "zh": "應用程式開發者仍須自行建立整合功能。"
+      }
+    ],
+    [
+      {
+        "en": "The possible change for users is straightforward. ",
+        "zh": "對使用者而言，可能出現的改變很直接。"
+      },
+      {
+        "en": "A useful app might become accessible ",
+        "zh": "實用的應用程式可能變得更容易使用，"
+      },
+      {
+        "en": "through a spoken request rather than a familiar button. ",
+        "zh": "人們可以提出口頭要求，而不必透過熟悉的按鈕操作。"
+      },
+      {
+        "en": "For developers, that makes the clarity ",
+        "zh": "對開發者來說，這使得清楚界定"
+      },
+      {
+        "en": "of each available action especially important. ",
+        "zh": "每個可用操作變得特別重要。"
+      },
+      {
+        "en": "If these integrations work reliably, ",
+        "zh": "如果這些整合能可靠運作，"
+      },
+      {
+        "en": "they could change how people move between services. ",
+        "zh": "就可能改變人們在不同服務之間切換的方式。"
+      },
+      {
+        "en": "That remains a possibility to evaluate ",
+        "zh": "這仍是有待評估的可能性，"
+      },
+      {
+        "en": "as the preview develops into a wider release.",
+        "zh": "必須觀察預覽版走向更廣泛發布的過程。"
+      }
+    ]
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一個"
+    },
+    "about": {
+      "meaning": "關於"
+    },
+    "access": {
+      "meaning": "取得、使用的機會"
+    },
+    "accessible": {
+      "meaning": "可使用的、容易取得的"
+    },
+    "across": {
+      "meaning": "遍及；涵蓋多個部門或群體"
+    },
+    "action": {
+      "meaning": "操作、動作"
+    },
+    "actions": {
+      "meaning": "操作、動作（複數）"
+    },
+    "adding": {
+      "meaning": "加入"
+    },
+    "additions": {
+      "meaning": "新增項目"
+    },
+    "ai": {
+      "meaning": "人工智慧（artificial intelligence的縮寫）"
+    },
+    "aimed": {
+      "meaning": "以…為目標；aimed at 指旨在"
+    },
+    "also": {
+      "meaning": "也、同時"
+    },
+    "an": {
+      "meaning": "一個"
+    },
+    "and": {
+      "meaning": "和、而且；連接詞"
+    },
+    "announced": {
+      "meaning": "宣布"
+    },
+    "announcement": {
+      "meaning": "公告"
+    },
+    "another": {
+      "meaning": "另一個；再一次的"
+    },
+    "app": {
+      "meaning": "應用程式"
+    },
+    "apple": {
+      "meaning": "蘋果公司"
+    },
+    "apple's": {
+      "meaning": "蘋果公司的（所有格）"
+    },
+    "apps": {
+      "meaning": "應用程式（複數）"
+    },
+    "arrived": {
+      "meaning": "推出、到來"
+    },
+    "as": {
+      "meaning": "作為、以…的身分"
+    },
+    "assistant": {
+      "meaning": "助理"
+    },
+    "at": {
+      "meaning": "在；aimed at 指以…為對象"
+    },
+    "availability": {
+      "meaning": "可供應的情況"
+    },
+    "available": {
+      "meaning": "現有的、可取得的"
+    },
+    "be": {
+      "meaning": "是；與過去分詞連用可構成被動語態"
+    },
+    "become": {
+      "meaning": "變成"
+    },
+    "before": {
+      "meaning": "在…之前"
+    },
+    "begin": {
+      "meaning": "開始"
+    },
+    "behind": {
+      "meaning": "背後的"
+    },
+    "beta": {
+      "meaning": "測試版"
+    },
+    "between": {
+      "meaning": "在…之間"
+    },
+    "broader": {
+      "meaning": "範圍更廣的、更大規模的"
+    },
+    "build": {
+      "meaning": "建置、開發"
+    },
+    "button": {
+      "meaning": "按鈕"
+    },
+    "by": {
+      "meaning": "藉由；by the end of 指在…結束之前"
+    },
+    "called": {
+      "meaning": "名為、稱作"
+    },
+    "can": {
+      "meaning": "能夠"
+    },
+    "change": {
+      "meaning": "改變"
+    },
+    "checking": {
+      "meaning": "查看"
+    },
+    "chinese": {
+      "meaning": "中文；Traditional Chinese 指繁體中文"
+    },
+    "clarity": {
+      "meaning": "清楚程度、明確性"
+    },
+    "combining": {
+      "meaning": "結合、整合"
+    },
+    "company": {
+      "meaning": "公司"
+    },
+    "complex": {
+      "meaning": "複雜的"
+    },
+    "connect": {
+      "meaning": "連接"
+    },
+    "connection": {
+      "meaning": "連接"
+    },
+    "content": {
+      "meaning": "內容"
+    },
+    "context": {
+      "meaning": "情境、背景；personal context 指與使用者個人有關的資訊脈絡"
+    },
+    "could": {
+      "meaning": "可以；也可表示可能"
+    },
+    "create": {
+      "meaning": "建立"
+    },
+    "creates": {
+      "meaning": "創造"
+    },
+    "current": {
+      "meaning": "目前的"
+    },
+    "customer": {
+      "meaning": "客戶"
+    },
+    "delivery": {
+      "meaning": "交付、配送"
+    },
+    "depends": {
+      "meaning": "取決於；depends on 指取決於"
+    },
+    "describe": {
+      "meaning": "描述"
+    },
+    "described": {
+      "meaning": "描述（過去式）"
+    },
+    "describes": {
+      "meaning": "描述"
+    },
+    "developer": {
+      "meaning": "開發者；用於描述開發者使用的版本"
+    },
+    "developers": {
+      "meaning": "開發者（複數）"
+    },
+    "development": {
+      "meaning": "開發"
+    },
+    "develops": {
+      "meaning": "發展、演進"
+    },
+    "device": {
+      "meaning": "裝置"
+    },
+    "discover": {
+      "meaning": "發現"
+    },
+    "distinguish": {
+      "meaning": "區分"
+    },
+    "each": {
+      "meaning": "每一個"
+    },
+    "earlier": {
+      "meaning": "先前的"
+    },
+    "emails": {
+      "meaning": "電子郵件"
+    },
+    "end": {
+      "meaning": "結束"
+    },
+    "english": {
+      "meaning": "英文"
+    },
+    "especially": {
+      "meaning": "特別地"
+    },
+    "european": {
+      "meaning": "歐洲的；European Union 指歐盟"
+    },
+    "evaluate": {
+      "meaning": "評估"
+    },
+    "every": {
+      "meaning": "每個"
+    },
+    "example": {
+      "meaning": "例子"
+    },
+    "examples": {
+      "meaning": "例子（複數）"
+    },
+    "existing": {
+      "meaning": "現有的"
+    },
+    "expansion": {
+      "meaning": "擴展"
+    },
+    "expects": {
+      "meaning": "預期"
+    },
+    "experience": {
+      "meaning": "體驗"
+    },
+    "experiences": {
+      "meaning": "體驗（複數）"
+    },
+    "explained": {
+      "meaning": "解釋"
+    },
+    "explore": {
+      "meaning": "探索"
+    },
+    "familiar": {
+      "meaning": "熟悉的",
+      "ipa": "/fəˈmɪliər/"
+    },
+    "family": {
+      "meaning": "家人、家庭的"
+    },
+    "feedback": {
+      "meaning": "回饋"
+    },
+    "finding": {
+      "meaning": "找出"
+    },
+    "follow": {
+      "meaning": "接續、陸續加入"
+    },
+    "followed": {
+      "meaning": "接續而來"
+    },
+    "following": {
+      "meaning": "接下來的、隨後的"
+    },
+    "for": {
+      "meaning": "為了、對於；表示用途或對象"
+    },
+    "framework": {
+      "meaning": "框架"
+    },
+    "french": {
+      "meaning": "法文"
+    },
+    "from": {
+      "meaning": "從；來自"
+    },
+    "future": {
+      "meaning": "未來的"
+    },
+    "gives": {
+      "meaning": "給予"
+    },
+    "goal": {
+      "meaning": "目標"
+    },
+    "hardware": {
+      "meaning": "硬體"
+    },
+    "has": {
+      "meaning": "具有、擁有"
+    },
+    "have": {
+      "meaning": "有、擁有"
+    },
+    "how": {
+      "meaning": "如何"
+    },
+    "idea": {
+      "meaning": "想法、要旨"
+    },
+    "identical": {
+      "meaning": "完全相同的"
+    },
+    "if": {
+      "meaning": "如果"
+    },
+    "illustrate": {
+      "meaning": "呈現、說明"
+    },
+    "immediate": {
+      "meaning": "眼前的、立即的"
+    },
+    "important": {
+      "meaning": "重要的"
+    },
+    "in": {
+      "meaning": "在…之中；在某時間"
+    },
+    "including": {
+      "meaning": "包含"
+    },
+    "individual": {
+      "meaning": "個別的"
+    },
+    "industry": {
+      "meaning": "產業；業界"
+    },
+    "information": {
+      "meaning": "資訊"
+    },
+    "ingredients": {
+      "meaning": "食材"
+    },
+    "initial": {
+      "meaning": "最初的"
+    },
+    "instead": {
+      "meaning": "改為；instead of 指沒有採取某做法，而改用另一種做法"
+    },
+    "integrations": {
+      "meaning": "整合功能"
+    },
+    "intelligence": {
+      "meaning": "智慧；Apple Intelligence 為蘋果智慧功能的品牌名稱"
+    },
+    "intended": {
+      "meaning": "預定的、想提供的"
+    },
+    "intents": {
+      "meaning": "意圖；App Intents 為蘋果讓程式公開操作功能的框架名稱"
+    },
+    "into": {
+      "meaning": "進入；文中亦指帶入某階段"
+    },
+    "involved": {
+      "meaning": "涉及；此處指例子包含某項情境"
+    },
+    "ios": {
+      "meaning": "iOS，蘋果iPhone作業系統名稱"
+    },
+    "ipados": {
+      "meaning": "iPadOS，蘋果iPad作業系統名稱"
+    },
+    "is": {
+      "meaning": "是；也可作為進行式的助動詞"
+    },
+    "it": {
+      "meaning": "它；文中指助理、公司、公告或前述情況"
+    },
+    "its": {
+      "meaning": "它的；文中指公司或預覽版的"
+    },
+    "japanese": {
+      "meaning": "日文"
+    },
+    "korean": {
+      "meaning": "韓文"
+    },
+    "language": {
+      "meaning": "語言"
+    },
+    "languages": {
+      "meaning": "語言（複數）"
+    },
+    "let": {
+      "meaning": "讓"
+    },
+    "list": {
+      "meaning": "清單"
+    },
+    "locate": {
+      "meaning": "找出、尋找"
+    },
+    "location": {
+      "meaning": "所在地"
+    },
+    "macos": {
+      "meaning": "macOS，蘋果Mac電腦作業系統名稱"
+    },
+    "makers": {
+      "meaning": "開發者、製作者；app makers 指應用程式開發者"
+    },
+    "makes": {
+      "meaning": "使得"
+    },
+    "making": {
+      "meaning": "做出；making a reservation 指預訂"
+    },
+    "messages": {
+      "meaning": "訊息"
+    },
+    "might": {
+      "meaning": "可以、也許"
+    },
+    "more": {
+      "meaning": "更多的；更"
+    },
+    "move": {
+      "meaning": "移動、切換"
+    },
+    "must": {
+      "meaning": "必須"
+    },
+    "names": {
+      "meaning": "指出、列明"
+    },
+    "new": {
+      "meaning": "新的"
+    },
+    "norwegian": {
+      "meaning": "挪威文"
+    },
+    "not": {
+      "meaning": "不、沒有"
+    },
+    "notes": {
+      "meaning": "說明、註記"
+    },
+    "november": {
+      "meaning": "十一月"
+    },
+    "october": {
+      "meaning": "十月"
+    },
+    "of": {
+      "meaning": "…的；連接事物與其內容、性質等關係"
+    },
+    "offer": {
+      "meaning": "提供"
+    },
+    "on": {
+      "meaning": "在某日期；關於；on track 指朝向目標的正確方向"
+    },
+    "one": {
+      "meaning": "一個"
+    },
+    "onscreen": {
+      "meaning": "螢幕上的"
+    },
+    "open": {
+      "meaning": "開放"
+    },
+    "opens": {
+      "meaning": "開啟"
+    },
+    "operating": {
+      "meaning": "運作的；operating systems 指作業系統"
+    },
+    "opportunity": {
+      "meaning": "機會"
+    },
+    "or": {
+      "meaning": "或者"
+    },
+    "ordinary": {
+      "meaning": "日常的、一般的"
+    },
+    "part": {
+      "meaning": "部分"
+    },
+    "particular": {
+      "meaning": "特定的"
+    },
+    "people": {
+      "meaning": "人們"
+    },
+    "perform": {
+      "meaning": "執行"
+    },
+    "personal": {
+      "meaning": "個人的"
+    },
+    "photos": {
+      "meaning": "照片"
+    },
+    "portuguese": {
+      "meaning": "葡萄牙文"
+    },
+    "possibility": {
+      "meaning": "可能性"
+    },
+    "possible": {
+      "meaning": "可能的"
+    },
+    "prepare": {
+      "meaning": "準備"
+    },
+    "preview": {
+      "meaning": "預覽、預覽版"
+    },
+    "product": {
+      "meaning": "產品"
+    },
+    "provide": {
+      "meaning": "提供"
+    },
+    "purpose": {
+      "meaning": "目的、用途"
+    },
+    "questions": {
+      "meaning": "問題（複數）"
+    },
+    "rather": {
+      "meaning": "rather than 指而非"
+    },
+    "read": {
+      "meaning": "解讀；be read as 指被解讀為"
+    },
+    "readers": {
+      "meaning": "讀者"
+    },
+    "recipe": {
+      "meaning": "食譜"
+    },
+    "regional": {
+      "meaning": "地區的"
+    },
+    "release": {
+      "meaning": "發布；發布版本"
+    },
+    "reliably": {
+      "meaning": "可靠地"
+    },
+    "remains": {
+      "meaning": "仍然是"
+    },
+    "request": {
+      "meaning": "要求、請求"
+    },
+    "requests": {
+      "meaning": "要求、請求（複數）"
+    },
+    "requires": {
+      "meaning": "需要"
+    },
+    "reservation": {
+      "meaning": "預訂"
+    },
+    "respond": {
+      "meaning": "回應"
+    },
+    "restriction": {
+      "meaning": "限制"
+    },
+    "route": {
+      "meaning": "路徑"
+    },
+    "said": {
+      "meaning": "表示、說（say 的過去式）"
+    },
+    "same": {
+      "meaning": "相同的"
+    },
+    "say": {
+      "meaning": "說"
+    },
+    "says": {
+      "meaning": "說"
+    },
+    "schedule": {
+      "meaning": "預定時程"
+    },
+    "september": {
+      "meaning": "九月"
+    },
+    "service": {
+      "meaning": "服務"
+    },
+    "services": {
+      "meaning": "服務（複數）"
+    },
+    "set": {
+      "meaning": "設定（過去分詞）"
+    },
+    "several": {
+      "meaning": "數個、多項"
+    },
+    "shopping": {
+      "meaning": "購物"
+    },
+    "should": {
+      "meaning": "應該"
+    },
+    "siri": {
+      "meaning": "Siri，蘋果智慧助理名稱"
+    },
+    "so": {
+      "meaning": "因此"
+    },
+    "software": {
+      "meaning": "軟體"
+    },
+    "spanish": {
+      "meaning": "西班牙文"
+    },
+    "spoken": {
+      "meaning": "口頭的、以說話方式表達的"
+    },
+    "spring": {
+      "meaning": "春季"
+    },
+    "statement": {
+      "meaning": "聲明"
+    },
+    "step": {
+      "meaning": "步驟"
+    },
+    "still": {
+      "meaning": "仍然、依然"
+    },
+    "store": {
+      "meaning": "商店；App Store 為蘋果應用程式商店"
+    },
+    "straightforward": {
+      "meaning": "直接的、容易理解的"
+    },
+    "submissions": {
+      "meaning": "申請、送審資料"
+    },
+    "such": {
+      "meaning": "such as 指例如"
+    },
+    "supplies": {
+      "meaning": "提供、供應"
+    },
+    "support": {
+      "meaning": "支援、支持"
+    },
+    "supported": {
+      "meaning": "支援的、已獲支援的"
+    },
+    "supports": {
+      "meaning": "支援"
+    },
+    "systems": {
+      "meaning": "系統（複數）"
+    },
+    "than": {
+      "meaning": "比；rather than 指而非"
+    },
+    "that": {
+      "meaning": "那個；亦用於引導子句"
+    },
+    "the": {
+      "meaning": "定冠詞，指特定或已提過的事物"
+    },
+    "their": {
+      "meaning": "他們的"
+    },
+    "therefore": {
+      "meaning": "因此"
+    },
+    "these": {
+      "meaning": "這些"
+    },
+    "they": {
+      "meaning": "他們"
+    },
+    "this": {
+      "meaning": "這"
+    },
+    "those": {
+      "meaning": "那些"
+    },
+    "through": {
+      "meaning": "透過、藉由"
+    },
+    "time": {
+      "meaning": "時間"
+    },
+    "to": {
+      "meaning": "到、向；也用於不定詞，接動詞原形"
+    },
+    "tools": {
+      "meaning": "工具"
+    },
+    "traditional": {
+      "meaning": "傳統的；Traditional Chinese 指繁體中文"
+    },
+    "trying": {
+      "meaning": "嘗試"
+    },
+    "turkish": {
+      "meaning": "土耳其文"
+    },
+    "unavailable": {
+      "meaning": "未提供的、無法使用的"
+    },
+    "underlying": {
+      "meaning": "底層的"
+    },
+    "union": {
+      "meaning": "聯盟；European Union 指歐盟"
+    },
+    "update": {
+      "meaning": "更新"
+    },
+    "upgrade": {
+      "meaning": "升級"
+    },
+    "use": {
+      "meaning": "使用"
+    },
+    "useful": {
+      "meaning": "實用的"
+    },
+    "users": {
+      "meaning": "使用者"
+    },
+    "uses": {
+      "meaning": "使用"
+    },
+    "vietnamese": {
+      "meaning": "越南文"
+    },
+    "watchos": {
+      "meaning": "watchOS，蘋果Apple Watch作業系統名稱"
+    },
+    "way": {
+      "meaning": "方式"
+    },
+    "were": {
+      "meaning": "是；與過去分詞連用，構成過去式被動語態"
+    },
+    "when": {
+      "meaning": "當…時"
+    },
+    "which": {
+      "meaning": "關係代名詞；through which 指透過某個途徑"
+    },
+    "wider": {
+      "meaning": "範圍更廣的"
+    },
+    "with": {
+      "meaning": "與；隨著、連同"
+    },
+    "work": {
+      "meaning": "工作"
+    },
+    "would": {
+      "meaning": "從過去的時間點描述將會發生的事"
+    }
+  },
+  "quiz": [
+    {
+      "question": "What is the main purpose of the article?",
+      "choices": [
+        {
+          "text": "To compare the quarterly revenue of several app makers.",
+          "explanation": "錯誤。文章沒有比較應用程式開發者的季度營收；主軸是Siri AI整合預覽及其使用條件。"
+        },
+        {
+          "text": "To explain a developer preview that connects app actions with Siri AI.",
+          "explanation": "正確。第1、2段介紹開發者預覽和App Intents，第6、7段補充開發時程及可能影響。"
+        },
+        {
+          "text": "To announce that every app already works with Siri AI.",
+          "explanation": "錯誤。第6段明確指出不是每個既有程式都會立即升級，開發者仍須建立整合功能。"
+        },
+        {
+          "text": "To teach readers how to install beta software on their phones.",
+          "explanation": "錯誤。文章提到測試版作為新聞背景，但沒有提供安裝步驟。"
+        }
+      ],
+      "answerIndex": 1,
+      "explanation": "本題考主旨。文章報導11月3日的開發者預覽，解釋它如何讓程式內容與操作連接Siri AI，並說明語言、裝置、地區和開發時程等限制。重點不是營收比較或安裝教學。",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "Its purpose is to let more app makers offer their content and actions through the assistant."
+        },
+        {
+          "paragraph": 6,
+          "quote": "The announcement therefore describes an opportunity to prepare, not an immediate upgrade for every existing app. App makers must still create their integrations."
+        }
+      ]
+    },
+    {
+      "question": "What can be inferred about two users trying the same service?",
+      "choices": [
+        {
+          "text": "They must have identical access because the assistant has one name.",
+          "explanation": "錯誤。第5段說能否使用取決於硬體、設定語言與所在地，名稱相同不代表條件相同。"
+        },
+        {
+          "text": "They can ignore device compatibility if their apps are installed.",
+          "explanation": "錯誤。第5段要求裝置支援Apple Intelligence且設定為支援語言，並非安裝程式就可忽略相容性。"
+        },
+        {
+          "text": "They may have different access because their devices, languages, or locations differ.",
+          "explanation": "正確。第5段明確列出硬體、語言與地區條件，因此兩位使用者的使用情況可能不同。"
+        },
+        {
+          "text": "They automatically receive every language announced for the future.",
+          "explanation": "錯誤。第4段將預定新增語言與現有支援區分，未來項目不會自動成為當前可用功能。"
+        }
+      ],
+      "answerIndex": 2,
+      "explanation": "本題考合理推論。相同的服務名稱與應用程式，並不足以保證相同供應情況。裝置能力、語言及所在地都是條件；此外，預定新增的語言也不能直接當成已推出。",
+      "evidence": [
+        {
+          "paragraph": 5,
+          "quote": "Access also depends on hardware and location. Apple says Siri AI requires a device that supports Apple Intelligence, set to a supported language."
+        },
+        {
+          "paragraph": 4,
+          "quote": "Those languages were announced as future additions, so readers should distinguish the schedule from current support."
+        }
+      ]
+    },
+    {
+      "question": "Which conclusion best summarizes the possible change described in the article?",
+      "choices": [
+        {
+          "text": "People may reach app services through requests, while developers still need to build reliable integrations.",
+          "explanation": "正確。第7段描述口頭要求成為操作入口的可能性，第6段指出開發者仍須建立整合；兩者合起來才能完整說明變化。"
+        },
+        {
+          "text": "Spoken requests remove the need for apps to supply supported actions.",
+          "explanation": "錯誤。第2段明確指出底層應用程式仍須提供支援的操作功能。"
+        },
+        {
+          "text": "The preview proves that every multi-step request will succeed.",
+          "explanation": "錯誤。第7段以條件句說明可靠整合可能帶來的變化，並未宣稱所有多步驟要求都已驗證成功。"
+        },
+        {
+          "text": "The language expansion and developer preview are the same announcement.",
+          "explanation": "錯誤。第1段的預覽公告日期為11月3日，第4段語言擴展公告日期為10月26日，是不同事件。"
+        }
+      ],
+      "answerIndex": 0,
+      "explanation": "本題考整體總結。文章描繪的變化，是使用者可以用自然語言接觸程式服務，而開發者要把可執行操作定義清楚並完成整合。這仍須觀察可靠性和後續發布，不能視為所有功能已自動完成。",
+      "evidence": [
+        {
+          "paragraph": 7,
+          "quote": "A useful app might become accessible through a spoken request rather than a familiar button. For developers, that makes the clarity of each available action especially important. If these integrations work reliably, they could change how people move between services."
+        },
+        {
+          "paragraph": 6,
+          "quote": "App makers must still create their integrations."
+        },
+        {
+          "paragraph": 2,
+          "quote": "The underlying app still supplies the supported action."
+        }
+      ]
+    }
+  ]
+}
