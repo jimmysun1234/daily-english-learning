@@ -1,0 +1,1183 @@
+{
+  "version": 1,
+  "date": "2026-11-06",
+  "level": "B2",
+  "title": "A New Building Efficiency Target Looks Beyond Total Energy Use",
+  "topic": "國際時事",
+  "sources": [
+    {
+      "name": "International Energy Agency (IEA)",
+      "title": "Making buildings more efficient offers a major opportunity to bring down energy bills and reduce emissions",
+      "url": "https://www.iea.org/news/making-buildings-more-efficient-offers-a-major-opportunity-to-bring-down-energy-bills-and-reduce-emissions"
+    },
+    {
+      "name": "United Nations Environment Programme (UNEP)",
+      "title": "Climate action key to affordable housing, but buildings decarbonisation stalls",
+      "url": "https://www.unep.org/en/news-and-stories/press-release/climate-action-key-affordable-housing-buildings-decarbonisation"
+    },
+    {
+      "name": "Australian Government — Your Home",
+      "title": "Insulation",
+      "url": "https://www.yourhome.gov.au/passive-design/insulation"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "en": "On November 5, 2026, the International Energy Agency ",
+        "zh": "2026年11月5日，國際能源總署"
+      },
+      {
+        "en": "published new analysis on making buildings more efficient. ",
+        "zh": "發布了提升建築能源效率的新分析。"
+      },
+      {
+        "en": "Prepared at the request of Turkey and Australia, ",
+        "zh": "這項分析應土耳其及澳洲的要求製作，"
+      },
+      {
+        "en": "the report examines a proposed global target: ",
+        "zh": "報告檢視了一項全球目標提案："
+      },
+      {
+        "en": "improving buildings' energy intensity by at least 25% ",
+        "zh": "讓建築的能源密集度至少改善25%，"
+      },
+      {
+        "en": "by 2035. ",
+        "zh": "期限為2035年。"
+      },
+      {
+        "en": "The agency says existing technologies could achieve this, ",
+        "zh": "該機構表示，現有技術有能力達成這點，"
+      },
+      {
+        "en": "but progress would need to accelerate substantially. ",
+        "zh": "但進步速度需要大幅加快。"
+      },
+      {
+        "en": "The proposal concerns how efficiently buildings use energy.",
+        "zh": "這項提案關注的是建築使用能源的效率。"
+      }
+    ],
+    [
+      {
+        "en": "Energy intensity compares energy consumption with building size. ",
+        "zh": "能源密集度是將能源消耗與建築面積相比。"
+      },
+      {
+        "en": "Consider a simple illustration: a building uses ",
+        "zh": "舉一個簡單的假設例子：某棟建築使用"
+      },
+      {
+        "en": "100 units of energy per square metre each year. ",
+        "zh": "每年每平方公尺100單位的能源。"
+      },
+      {
+        "en": "If that falls to 75 units, ",
+        "zh": "如果降為75單位，"
+      },
+      {
+        "en": "its intensity has decreased by 25%. ",
+        "zh": "能源密集度就下降了25%。"
+      },
+      {
+        "en": "These invented numbers explain the measure; ",
+        "zh": "這些假設數字只是用來解釋指標；"
+      },
+      {
+        "en": "they are not a forecast. ",
+        "zh": "並不是預測。"
+      },
+      {
+        "en": "A lower figure means less energy per unit of area, ",
+        "zh": "數字較低，代表每單位面積所用的能源較少，"
+      },
+      {
+        "en": "which differs from measuring an entire country's total consumption.",
+        "zh": "這與衡量整個國家的總消耗量不同。"
+      }
+    ],
+    [
+      {
+        "en": "The IEA identifies four main areas for improvement. ",
+        "zh": "國際能源總署指出四個主要改善領域。"
+      },
+      {
+        "en": "These are better building envelopes, greater electrification, ",
+        "zh": "包括改善建築外殼、提高電氣化程度、"
+      },
+      {
+        "en": "more efficient equipment, and wider access to clean cooking. ",
+        "zh": "提升設備效率，以及擴大潔淨烹飪的取得機會。"
+      },
+      {
+        "en": "A building envelope separates indoor and outdoor conditions. ",
+        "zh": "建築外殼將室內與室外環境分隔。"
+      },
+      {
+        "en": "Improving it can reduce the work ",
+        "zh": "改善外殼，可以減少"
+      },
+      {
+        "en": "that heating and cooling equipment must perform. ",
+        "zh": "供暖與冷房設備必須承擔的工作。"
+      },
+      {
+        "en": "Equipment upgrades address another part of the problem: ",
+        "zh": "設備升級則處理了問題的另一個面向："
+      },
+      {
+        "en": "how efficiently machines deliver the services people need.",
+        "zh": "機器如何更有效率地提供人們所需的服務。"
+      }
+    ],
+    [
+      {
+        "en": "Australia's government guide, Your Home, explains ",
+        "zh": "澳洲政府的《Your Home》指南解釋，"
+      },
+      {
+        "en": "that insulation slows the flow of heat. ",
+        "zh": "隔熱材料能減緩熱的流動。"
+      },
+      {
+        "en": "It helps keep indoor heat from escaping in winter ",
+        "zh": "它有助於減少冬季室內熱量流失，"
+      },
+      {
+        "en": "and outdoor heat from entering in summer. ",
+        "zh": "以及夏季室外熱量進入室內。"
+      },
+      {
+        "en": "However, the guide also emphasizes climate and design. ",
+        "zh": "不過，指南也強調氣候與設計的重要性。"
+      },
+      {
+        "en": "Insulation works alongside measures such as shading and ventilation. ",
+        "zh": "隔熱需要與遮陽、通風等措施相互配合。"
+      },
+      {
+        "en": "This technical background helps explain why ",
+        "zh": "這些技術背景有助於說明，為什麼"
+      },
+      {
+        "en": "building improvements involve a coordinated system, ",
+        "zh": "建築改善涉及一套需要協調的系統，"
+      },
+      {
+        "en": "rather than one product suitable for every location.",
+        "zh": "而不是一種適用於所有地點的產品。"
+      }
+    ],
+    [
+      {
+        "en": "An earlier United Nations Environment Programme report ",
+        "zh": "聯合國環境署先前的一份報告"
+      },
+      {
+        "en": "provides context for the new analysis. ",
+        "zh": "為這項新分析提供了背景。"
+      },
+      {
+        "en": "In its May 19, 2026 release, UNEP said ",
+        "zh": "在2026年5月19日發布的新聞稿中，聯合國環境署表示，"
+      },
+      {
+        "en": "global building energy intensity had fallen by 8.5% ",
+        "zh": "全球建築能源密集度已下降8.5%，"
+      },
+      {
+        "en": "since 2015. ",
+        "zh": "比較起點為2015年。"
+      },
+      {
+        "en": "Yet the world's building floor area ",
+        "zh": "然而，全球建築樓地板面積"
+      },
+      {
+        "en": "expanded by 1.7% in 2024. ",
+        "zh": "在2024年增加了1.7%。"
+      },
+      {
+        "en": "The figures highlight two simultaneous changes: ",
+        "zh": "這些數據凸顯了同時發生的兩種變化："
+      },
+      {
+        "en": "buildings can become more efficient ",
+        "zh": "建築可能變得更有效率，"
+      },
+      {
+        "en": "while the total amount of building space grows.",
+        "zh": "但建築空間的總量也持續增加。"
+      }
+    ],
+    [
+      {
+        "en": "The new IEA analysis calls for policy packages ",
+        "zh": "國際能源總署的新分析呼籲採用整套政策，"
+      },
+      {
+        "en": "that combine stronger standards with faster renovations. ",
+        "zh": "結合更嚴格的標準與更快速的翻修。"
+      },
+      {
+        "en": "It also discusses equipment performance requirements ",
+        "zh": "它也探討設備性能要求，"
+      },
+      {
+        "en": "and support for technologies such as heat pumps. ",
+        "zh": "以及對熱泵等技術的支持。"
+      },
+      {
+        "en": "The appropriate mix varies with national circumstances. ",
+        "zh": "合適的組合會隨各國情況而異。"
+      },
+      {
+        "en": "Meeting the proposed target would require ",
+        "zh": "要達成這項目標提案，"
+      },
+      {
+        "en": "more than doubling current improvement rates. ",
+        "zh": "改善速度必須提高至目前的兩倍以上。"
+      },
+      {
+        "en": "That makes delivery speed important alongside technical capability.",
+        "zh": "因此，除了技術能力，落實的速度也很重要。"
+      }
+    ],
+    [
+      {
+        "en": "For readers following energy news, the key distinction ",
+        "zh": "對關注能源新聞的讀者來說，關鍵區別"
+      },
+      {
+        "en": "is between a building's efficiency and total demand. ",
+        "zh": "在於建築效率與總需求並不相同。"
+      },
+      {
+        "en": "Lower consumption per square metre is valuable, ",
+        "zh": "降低每平方公尺的能源消耗很有價值，"
+      },
+      {
+        "en": "but growing floor area can offset some savings. ",
+        "zh": "但樓地板面積增加，可能抵銷部分節能效果。"
+      },
+      {
+        "en": "The reports therefore encourage a broader view ",
+        "zh": "因此，這些報告促使人們從更廣的角度"
+      },
+      {
+        "en": "of technology, construction growth, and implementation. ",
+        "zh": "看待技術、建築規模成長與實際執行。"
+      },
+      {
+        "en": "The practical question is how these factors interact ",
+        "zh": "實際的問題在於，這些因素如何相互作用，"
+      },
+      {
+        "en": "when countries plan their future buildings.",
+        "zh": "以及各國在規劃未來建築時如何考量它們。"
+      }
+    ]
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一個"
+    },
+    "accelerate": {
+      "meaning": "加快、加速"
+    },
+    "access": {
+      "meaning": "取得、使用的機會"
+    },
+    "achieve": {
+      "meaning": "達成"
+    },
+    "address": {
+      "meaning": "處理"
+    },
+    "agency": {
+      "meaning": "機構；文中指國際能源總署"
+    },
+    "alongside": {
+      "meaning": "與…同時、配合"
+    },
+    "also": {
+      "meaning": "也、同時"
+    },
+    "amount": {
+      "meaning": "量"
+    },
+    "an": {
+      "meaning": "一個"
+    },
+    "analysis": {
+      "meaning": "分析"
+    },
+    "and": {
+      "meaning": "和、而且；連接詞"
+    },
+    "another": {
+      "meaning": "另一個；再一次的"
+    },
+    "appropriate": {
+      "meaning": "合適的"
+    },
+    "are": {
+      "meaning": "是；也可作為進行式的助動詞"
+    },
+    "area": {
+      "meaning": "面積"
+    },
+    "areas": {
+      "meaning": "領域、面向"
+    },
+    "as": {
+      "meaning": "作為、以…的身分"
+    },
+    "at": {
+      "meaning": "在；at least 指至少"
+    },
+    "australia": {
+      "meaning": "澳洲"
+    },
+    "australia's": {
+      "meaning": "澳洲的（所有格）"
+    },
+    "background": {
+      "meaning": "背景"
+    },
+    "become": {
+      "meaning": "變成"
+    },
+    "better": {
+      "meaning": "更好的"
+    },
+    "between": {
+      "meaning": "在…之間"
+    },
+    "beyond": {
+      "meaning": "超出、不僅限於"
+    },
+    "broader": {
+      "meaning": "範圍更廣的、更大規模的"
+    },
+    "building": {
+      "meaning": "建築物；作為形容用法時指建築的"
+    },
+    "building's": {
+      "meaning": "建築的（所有格）"
+    },
+    "buildings": {
+      "meaning": "建築物（複數）"
+    },
+    "but": {
+      "meaning": "但是"
+    },
+    "by": {
+      "meaning": "在某期限之前；by 25% 指變化幅度為25%"
+    },
+    "calls": {
+      "meaning": "呼籲、要求；calls for 指要求或倡議"
+    },
+    "can": {
+      "meaning": "能夠"
+    },
+    "capability": {
+      "meaning": "能力"
+    },
+    "changes": {
+      "meaning": "變化"
+    },
+    "circumstances": {
+      "meaning": "情況"
+    },
+    "clean": {
+      "meaning": "潔淨的；clean cooking 指潔淨烹飪"
+    },
+    "climate": {
+      "meaning": "氣候"
+    },
+    "combine": {
+      "meaning": "結合"
+    },
+    "compares": {
+      "meaning": "比較"
+    },
+    "concerns": {
+      "meaning": "關注、涉及"
+    },
+    "conditions": {
+      "meaning": "環境條件"
+    },
+    "consider": {
+      "meaning": "考慮"
+    },
+    "construction": {
+      "meaning": "建築、營建；construction growth 指建築規模成長"
+    },
+    "consumption": {
+      "meaning": "消耗量"
+    },
+    "context": {
+      "meaning": "背景、脈絡"
+    },
+    "cooking": {
+      "meaning": "烹飪"
+    },
+    "cooling": {
+      "meaning": "冷房、降溫"
+    },
+    "coordinated": {
+      "meaning": "相互協調的"
+    },
+    "could": {
+      "meaning": "可以；也可表示可能"
+    },
+    "countries": {
+      "meaning": "國家（複數）"
+    },
+    "country's": {
+      "meaning": "國家的（所有格）"
+    },
+    "current": {
+      "meaning": "目前的"
+    },
+    "decreased": {
+      "meaning": "下降（過去分詞）"
+    },
+    "deliver": {
+      "meaning": "提供、實現"
+    },
+    "delivery": {
+      "meaning": "落實、執行"
+    },
+    "demand": {
+      "meaning": "需求"
+    },
+    "design": {
+      "meaning": "設計"
+    },
+    "differs": {
+      "meaning": "不同；differs from 指與…不同"
+    },
+    "discusses": {
+      "meaning": "探討"
+    },
+    "distinction": {
+      "meaning": "區別"
+    },
+    "doubling": {
+      "meaning": "增加至兩倍"
+    },
+    "each": {
+      "meaning": "每一個"
+    },
+    "earlier": {
+      "meaning": "先前的"
+    },
+    "efficiency": {
+      "meaning": "效率；文中指能源效率"
+    },
+    "efficient": {
+      "meaning": "有效率的、節能的"
+    },
+    "efficiently": {
+      "meaning": "有效率地"
+    },
+    "electrification": {
+      "meaning": "電氣化"
+    },
+    "emphasizes": {
+      "meaning": "強調"
+    },
+    "encourage": {
+      "meaning": "鼓勵、助長"
+    },
+    "energy": {
+      "meaning": "能源"
+    },
+    "entering": {
+      "meaning": "進入"
+    },
+    "entire": {
+      "meaning": "整個的"
+    },
+    "envelope": {
+      "meaning": "外殼；building envelope 指建築外殼"
+    },
+    "envelopes": {
+      "meaning": "外殼（複數）"
+    },
+    "environment": {
+      "meaning": "環境；United Nations Environment Programme 指聯合國環境署"
+    },
+    "equipment": {
+      "meaning": "設備"
+    },
+    "escaping": {
+      "meaning": "逸散、流失"
+    },
+    "every": {
+      "meaning": "每個"
+    },
+    "examines": {
+      "meaning": "檢視"
+    },
+    "existing": {
+      "meaning": "現有的"
+    },
+    "expanded": {
+      "meaning": "擴大、增加"
+    },
+    "explain": {
+      "meaning": "解釋"
+    },
+    "explains": {
+      "meaning": "解釋"
+    },
+    "factors": {
+      "meaning": "因素"
+    },
+    "fallen": {
+      "meaning": "下降（fall的過去分詞）"
+    },
+    "falls": {
+      "meaning": "下降"
+    },
+    "faster": {
+      "meaning": "更快速的"
+    },
+    "figure": {
+      "meaning": "數字"
+    },
+    "figures": {
+      "meaning": "數字、數據"
+    },
+    "floor": {
+      "meaning": "樓地板；floor area 指樓地板面積"
+    },
+    "flow": {
+      "meaning": "流動"
+    },
+    "following": {
+      "meaning": "關注、追蹤"
+    },
+    "for": {
+      "meaning": "為了、對於；表示用途或對象"
+    },
+    "forecast": {
+      "meaning": "預測"
+    },
+    "four": {
+      "meaning": "四"
+    },
+    "from": {
+      "meaning": "從；來自"
+    },
+    "future": {
+      "meaning": "未來的"
+    },
+    "global": {
+      "meaning": "全球的"
+    },
+    "government": {
+      "meaning": "政府"
+    },
+    "greater": {
+      "meaning": "更高程度的"
+    },
+    "growing": {
+      "meaning": "成長中的、增加中的"
+    },
+    "grows": {
+      "meaning": "成長、增加"
+    },
+    "growth": {
+      "meaning": "成長"
+    },
+    "guide": {
+      "meaning": "指南"
+    },
+    "had": {
+      "meaning": "與過去分詞連用，構成過去完成式"
+    },
+    "has": {
+      "meaning": "與過去分詞連用，構成現在完成式"
+    },
+    "heat": {
+      "meaning": "熱、熱量"
+    },
+    "heating": {
+      "meaning": "供暖"
+    },
+    "helps": {
+      "meaning": "幫助"
+    },
+    "highlight": {
+      "meaning": "凸顯"
+    },
+    "home": {
+      "meaning": "家；Your Home 為澳洲政府住宅設計指南名稱"
+    },
+    "how": {
+      "meaning": "如何"
+    },
+    "however": {
+      "meaning": "不過、然而"
+    },
+    "identifies": {
+      "meaning": "指出、說明身分"
+    },
+    "iea": {
+      "meaning": "國際能源總署的英文縮寫"
+    },
+    "if": {
+      "meaning": "如果"
+    },
+    "illustration": {
+      "meaning": "例子、說明"
+    },
+    "implementation": {
+      "meaning": "實際執行、落實"
+    },
+    "important": {
+      "meaning": "重要的"
+    },
+    "improvement": {
+      "meaning": "改善"
+    },
+    "improvements": {
+      "meaning": "改善措施、改善（複數）"
+    },
+    "improving": {
+      "meaning": "改善"
+    },
+    "in": {
+      "meaning": "在…之中；在某時間"
+    },
+    "indoor": {
+      "meaning": "室內的"
+    },
+    "insulation": {
+      "meaning": "隔熱材料、隔熱"
+    },
+    "intensity": {
+      "meaning": "密集度；energy intensity 指能源密集度"
+    },
+    "interact": {
+      "meaning": "相互作用"
+    },
+    "international": {
+      "meaning": "國際的"
+    },
+    "invented": {
+      "meaning": "假設的、為了說明而創造的"
+    },
+    "involve": {
+      "meaning": "涉及、包含"
+    },
+    "is": {
+      "meaning": "是；也可作為進行式的助動詞"
+    },
+    "it": {
+      "meaning": "它；文中指建築外殼或隔熱材料等前述事物"
+    },
+    "its": {
+      "meaning": "它的；文中指建築、機構或發布資料的"
+    },
+    "keep": {
+      "meaning": "維持；keep ... from 指防止某事發生"
+    },
+    "key": {
+      "meaning": "關鍵的"
+    },
+    "least": {
+      "meaning": "最少；at least 指至少"
+    },
+    "less": {
+      "meaning": "較少的"
+    },
+    "location": {
+      "meaning": "所在地"
+    },
+    "looks": {
+      "meaning": "看待、著眼於；looks beyond 指不僅關注"
+    },
+    "lower": {
+      "meaning": "較低的"
+    },
+    "machines": {
+      "meaning": "機器"
+    },
+    "main": {
+      "meaning": "主要的"
+    },
+    "makes": {
+      "meaning": "使得"
+    },
+    "making": {
+      "meaning": "使變得"
+    },
+    "may": {
+      "meaning": "五月"
+    },
+    "means": {
+      "meaning": "意味著"
+    },
+    "measure": {
+      "meaning": "衡量的指標"
+    },
+    "measures": {
+      "meaning": "措施"
+    },
+    "measuring": {
+      "meaning": "衡量"
+    },
+    "meeting": {
+      "meaning": "達成、滿足"
+    },
+    "metre": {
+      "meaning": "公尺"
+    },
+    "mix": {
+      "meaning": "組合"
+    },
+    "more": {
+      "meaning": "更多的；更"
+    },
+    "must": {
+      "meaning": "必須"
+    },
+    "national": {
+      "meaning": "國家的、中央層級的"
+    },
+    "nations": {
+      "meaning": "國家；United Nations 指聯合國"
+    },
+    "need": {
+      "meaning": "需要"
+    },
+    "new": {
+      "meaning": "新的"
+    },
+    "news": {
+      "meaning": "新聞"
+    },
+    "not": {
+      "meaning": "不、沒有"
+    },
+    "november": {
+      "meaning": "十一月"
+    },
+    "numbers": {
+      "meaning": "數字（複數）"
+    },
+    "of": {
+      "meaning": "…的；連接事物與其內容、性質等關係"
+    },
+    "offset": {
+      "meaning": "抵銷"
+    },
+    "on": {
+      "meaning": "在某日期；關於"
+    },
+    "one": {
+      "meaning": "一個"
+    },
+    "outdoor": {
+      "meaning": "室外的"
+    },
+    "packages": {
+      "meaning": "整套組合；policy packages 指整套政策"
+    },
+    "part": {
+      "meaning": "部分"
+    },
+    "people": {
+      "meaning": "人們"
+    },
+    "per": {
+      "meaning": "每"
+    },
+    "perform": {
+      "meaning": "執行"
+    },
+    "performance": {
+      "meaning": "表現、性能"
+    },
+    "plan": {
+      "meaning": "計畫"
+    },
+    "policy": {
+      "meaning": "政策"
+    },
+    "practical": {
+      "meaning": "實際的"
+    },
+    "prepared": {
+      "meaning": "製作、準備（過去分詞）"
+    },
+    "problem": {
+      "meaning": "問題"
+    },
+    "product": {
+      "meaning": "產品"
+    },
+    "programme": {
+      "meaning": "計畫；United Nations Environment Programme 指聯合國環境署"
+    },
+    "progress": {
+      "meaning": "進展"
+    },
+    "proposal": {
+      "meaning": "提案"
+    },
+    "proposed": {
+      "meaning": "提出的、提議的"
+    },
+    "provides": {
+      "meaning": "提供"
+    },
+    "published": {
+      "meaning": "發布"
+    },
+    "pumps": {
+      "meaning": "泵；heat pumps 指熱泵"
+    },
+    "question": {
+      "meaning": "問題"
+    },
+    "rates": {
+      "meaning": "速率"
+    },
+    "rather": {
+      "meaning": "rather than 指而非"
+    },
+    "readers": {
+      "meaning": "讀者"
+    },
+    "reduce": {
+      "meaning": "降低"
+    },
+    "release": {
+      "meaning": "發布資料、新聞稿"
+    },
+    "renovations": {
+      "meaning": "翻修"
+    },
+    "report": {
+      "meaning": "報告"
+    },
+    "reports": {
+      "meaning": "報告"
+    },
+    "request": {
+      "meaning": "要求、請求"
+    },
+    "require": {
+      "meaning": "需要"
+    },
+    "requirements": {
+      "meaning": "要求"
+    },
+    "said": {
+      "meaning": "表示、說（say 的過去式）"
+    },
+    "savings": {
+      "meaning": "節省的能源量、節能效果"
+    },
+    "says": {
+      "meaning": "說"
+    },
+    "separates": {
+      "meaning": "分隔"
+    },
+    "services": {
+      "meaning": "服務（複數）"
+    },
+    "shading": {
+      "meaning": "遮陽"
+    },
+    "simple": {
+      "meaning": "簡單的"
+    },
+    "simultaneous": {
+      "meaning": "同時發生的"
+    },
+    "since": {
+      "meaning": "自…以來"
+    },
+    "size": {
+      "meaning": "面積、大小"
+    },
+    "slows": {
+      "meaning": "減緩"
+    },
+    "some": {
+      "meaning": "一些"
+    },
+    "space": {
+      "meaning": "空間"
+    },
+    "speed": {
+      "meaning": "速度"
+    },
+    "square": {
+      "meaning": "平方的"
+    },
+    "standards": {
+      "meaning": "標準"
+    },
+    "stronger": {
+      "meaning": "更嚴格的、更有力的"
+    },
+    "substantially": {
+      "meaning": "大幅地"
+    },
+    "such": {
+      "meaning": "such as 指例如"
+    },
+    "suitable": {
+      "meaning": "適合的"
+    },
+    "summer": {
+      "meaning": "夏季"
+    },
+    "support": {
+      "meaning": "支援、支持"
+    },
+    "system": {
+      "meaning": "系統"
+    },
+    "target": {
+      "meaning": "目標"
+    },
+    "technical": {
+      "meaning": "技術的"
+    },
+    "technologies": {
+      "meaning": "技術（複數）"
+    },
+    "technology": {
+      "meaning": "科技、技術"
+    },
+    "than": {
+      "meaning": "比；rather than 指而非"
+    },
+    "that": {
+      "meaning": "那個；亦用於引導子句"
+    },
+    "the": {
+      "meaning": "定冠詞，指特定或已提過的事物"
+    },
+    "their": {
+      "meaning": "他們的"
+    },
+    "therefore": {
+      "meaning": "因此"
+    },
+    "these": {
+      "meaning": "這些"
+    },
+    "they": {
+      "meaning": "他們"
+    },
+    "this": {
+      "meaning": "這"
+    },
+    "to": {
+      "meaning": "到、向；也用於不定詞，接動詞原形"
+    },
+    "total": {
+      "meaning": "總量；總計的"
+    },
+    "turkey": {
+      "meaning": "土耳其"
+    },
+    "two": {
+      "meaning": "兩個"
+    },
+    "unep": {
+      "meaning": "聯合國環境署的英文縮寫"
+    },
+    "unit": {
+      "meaning": "單位"
+    },
+    "united": {
+      "meaning": "聯合的；United Nations 指聯合國"
+    },
+    "units": {
+      "meaning": "單位（複數）"
+    },
+    "upgrades": {
+      "meaning": "升級"
+    },
+    "use": {
+      "meaning": "使用"
+    },
+    "uses": {
+      "meaning": "使用"
+    },
+    "valuable": {
+      "meaning": "有價值的"
+    },
+    "varies": {
+      "meaning": "因情況而異"
+    },
+    "ventilation": {
+      "meaning": "通風"
+    },
+    "view": {
+      "meaning": "觀點、面貌"
+    },
+    "when": {
+      "meaning": "當…時"
+    },
+    "which": {
+      "meaning": "關係代名詞，指前述的概念"
+    },
+    "while": {
+      "meaning": "而；同時"
+    },
+    "why": {
+      "meaning": "為何"
+    },
+    "wider": {
+      "meaning": "範圍更廣的"
+    },
+    "winter": {
+      "meaning": "冬季"
+    },
+    "with": {
+      "meaning": "與；隨著、連同"
+    },
+    "work": {
+      "meaning": "工作"
+    },
+    "works": {
+      "meaning": "發揮作用、運作"
+    },
+    "world's": {
+      "meaning": "全球的、世界的（所有格）"
+    },
+    "would": {
+      "meaning": "從過去的時間點描述將會發生的事"
+    },
+    "year": {
+      "meaning": "年"
+    },
+    "yet": {
+      "meaning": "然而"
+    },
+    "your": {
+      "meaning": "你的；Your Home 為澳洲政府住宅設計指南名稱"
+    }
+  },
+  "quiz": [
+    {
+      "question": "What is the main purpose of the article?",
+      "choices": [
+        {
+          "text": "To provide detailed instructions for installing insulation.",
+          "explanation": "錯誤。第4段只提供隔熱與設計的背景概念，沒有列出施工或安裝步驟。"
+        },
+        {
+          "text": "To confirm that global building energy consumption has already fallen by 25%.",
+          "explanation": "錯誤。第1段談2035年的能源密集度目標提案，並非全球總能源消耗已實際下降25%。"
+        },
+        {
+          "text": "To explain a proposed efficiency target and why energy per area matters.",
+          "explanation": "正確。第1段介紹新目標，第2段說明能源密集度，第7段總結它與總需求的差異。"
+        },
+        {
+          "text": "To rank countries by their current building efficiency.",
+          "explanation": "錯誤。文章沒有國別效率排名，而是討論全球目標、技術與政策。"
+        }
+      ],
+      "answerIndex": 2,
+      "explanation": "本題考主旨。全文以11月5日的新分析為新聞起點，解釋目標衡量的是能源密集度，以及技術、建築面積成長和執行速度如何影響結果；不是施工教學或已達標的公告。",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "the report examines a proposed global target: improving buildings' energy intensity by at least 25% by 2035."
+        },
+        {
+          "paragraph": 7,
+          "quote": "For readers following energy news, the key distinction is between a building's efficiency and total demand."
+        }
+      ]
+    },
+    {
+      "question": "What can be inferred if energy use per square metre falls while total floor area grows?",
+      "choices": [
+        {
+          "text": "The intensity improvement alone does not guarantee a fall in total energy use.",
+          "explanation": "正確。第2段把單位面積指標與國家總消耗區分，第7段指出面積成長可能抵銷部分節能，因此不能只憑密集度下降保證總量下降。"
+        },
+        {
+          "text": "Every building must have become larger and less efficient.",
+          "explanation": "錯誤。總樓地板面積成長不代表每一棟建築都變大，也不能否定題目已說明的單位面積能源消耗下降。"
+        },
+        {
+          "text": "The same percentage decline must occur in national total consumption.",
+          "explanation": "錯誤。第2段明確區分單位面積能源密集度與國家總量，兩者不能直接套用相同百分比。"
+        },
+        {
+          "text": "Floor area no longer matters once an efficiency target is proposed.",
+          "explanation": "錯誤。第5及7段持續強調樓地板面積成長的影響，並未因提出目標而忽略它。"
+        }
+      ],
+      "answerIndex": 0,
+      "explanation": "本題考合理推論。總能源消耗同時受單位面積用能和總面積影響。當兩者朝相反方向變化時，必須知道變化幅度才能判斷總量，不能只看效率指標。",
+      "evidence": [
+        {
+          "paragraph": 2,
+          "quote": "A lower figure means less energy per unit of area, which differs from measuring an entire country's total consumption."
+        },
+        {
+          "paragraph": 7,
+          "quote": "Lower consumption per square metre is valuable, but growing floor area can offset some savings."
+        }
+      ]
+    },
+    {
+      "question": "Which conclusion best summarizes the approach described in the article?",
+      "choices": [
+        {
+          "text": "One insulation product can deliver the same result in every climate.",
+          "explanation": "錯誤。第4段說隔熱須與氣候、設計、遮陽和通風配合，並非單一產品適用於所有地點。"
+        },
+        {
+          "text": "Countries should wait for entirely new technologies before acting.",
+          "explanation": "錯誤。第1段說現有技術就有達成目標的能力，問題包含加快進展，不是等待尚不存在的技術。"
+        },
+        {
+          "text": "Equipment upgrades remove the need for building renovations or standards.",
+          "explanation": "錯誤。第3段列出多種改善面向，第6段也主張標準與翻修並行，並未用設備升級取代其他工作。"
+        },
+        {
+          "text": "Existing technologies need coordinated policies, suitable design, and faster implementation.",
+          "explanation": "正確。第1段提現有技術與加速，第4段提協調設計，第6段則提出政策組合與改善速度。"
+        }
+      ],
+      "answerIndex": 3,
+      "explanation": "本題考整體總結。文章描述的是將多種現有技術和政策結合，配合不同情況並加快落實。只依靠單一產品、等待全新技術或忽略翻修標準，都不足以概括全文。",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "The agency says existing technologies could achieve this, but progress would need to accelerate substantially."
+        },
+        {
+          "paragraph": 4,
+          "quote": "Insulation works alongside measures such as shading and ventilation."
+        },
+        {
+          "paragraph": 6,
+          "quote": "The new IEA analysis calls for policy packages that combine stronger standards with faster renovations."
+        }
+      ]
+    }
+  ]
+}
