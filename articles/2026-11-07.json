@@ -1,0 +1,1209 @@
+{
+  "version": 1,
+  "date": "2026-11-07",
+  "level": "B2",
+  "title": "Hera Uses Heat to Reveal a Different View of Two Asteroids",
+  "topic": "科技業新聞",
+  "sources": [
+    {
+      "name": "JAXA / Hera JAPAN",
+      "title": "First Thermal Imaging of a Binary Asteroid System",
+      "url": "https://hera.isas.jaxa.jp/wp-hera/en/5031/"
+    },
+    {
+      "name": "European Space Agency (ESA)",
+      "title": "Hera’s first close-up view of Didymos asteroids",
+      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-s-first-close-up-view-of-didymos-asteroids"
+    },
+    {
+      "name": "JAXA / Hera JAPAN",
+      "title": "Upcoming Observation and Mission Operations Plan for the Hera Spacecraft in the Binary Asteroid Exploration Mission",
+      "url": "https://hera.isas.jaxa.jp/wp-hera/en/4827/"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "en": "On November 6, 2026, Japan's space agency JAXA ",
+        "zh": "2026年11月6日，日本宇宙航空研究開發機構JAXA"
+      },
+      {
+        "en": "reported the first thermal images ",
+        "zh": "公布了首批熱影像，"
+      },
+      {
+        "en": "of the Didymos and Dimorphos asteroid system. ",
+        "zh": "拍攝對象是Didymos與Dimorphos組成的小行星系統。"
+      },
+      {
+        "en": "The images came from a Japanese instrument ",
+        "zh": "這些影像來自日本提供的儀器，"
+      },
+      {
+        "en": "on Europe's Hera spacecraft, ",
+        "zh": "搭載於歐洲的Hera太空船上，"
+      },
+      {
+        "en": "which reached the system on November 4, ",
+        "zh": "太空船於11月4日抵達該系統，"
+      },
+      {
+        "en": "according to the agency's announcement. ",
+        "zh": "這是該機構公告所記載的抵達日期。"
+      },
+      {
+        "en": "The observations offer a new way ",
+        "zh": "這些觀測提供了一種新方法，"
+      },
+      {
+        "en": "to investigate these small worlds.",
+        "zh": "可用來研究這兩個小天體。"
+      }
+    ],
+    [
+      {
+        "en": "The instrument, called TIRI, detects heat ",
+        "zh": "這部名為TIRI的儀器偵測熱，"
+      },
+      {
+        "en": "rather than light reflected from the Sun. ",
+        "zh": "而非從太陽反射而來的光。"
+      },
+      {
+        "en": "It captured the images on October 31, ",
+        "zh": "它於10月31日拍下這批影像，"
+      },
+      {
+        "en": "from about 57 kilometres away. ",
+        "zh": "當時距離約為57公里。"
+      },
+      {
+        "en": "This allows researchers to observe areas ",
+        "zh": "這讓研究人員能觀察某些區域，"
+      },
+      {
+        "en": "that a normal visible-light camera cannot easily show, ",
+        "zh": "那些區域是一般可見光相機不容易呈現的，"
+      },
+      {
+        "en": "including surfaces in shadow. ",
+        "zh": "包括陰影中的表面。"
+      },
+      {
+        "en": "However, converting the readings into temperatures requires calibration.",
+        "zh": "不過，將讀值換算成溫度需要進行校正。"
+      }
+    ],
+    [
+      {
+        "en": "Temperature changes may reveal how quickly ",
+        "zh": "溫度變化可能揭示"
+      },
+      {
+        "en": "surface materials warm up and cool down. ",
+        "zh": "表面物質升溫與冷卻的速度有多快。"
+      },
+      {
+        "en": "This could provide clues about surface texture. ",
+        "zh": "這可能提供表面質地的線索。"
+      },
+      {
+        "en": "Yet the analysis is still in progress. ",
+        "zh": "然而，分析仍在進行中。"
+      },
+      {
+        "en": "Dimorphos appears cooler partly because it lies ",
+        "zh": "Dimorphos看起來較冷，部分原因是它位於"
+      },
+      {
+        "en": "in the larger asteroid's shadow. ",
+        "zh": "較大小行星的陰影中。"
+      },
+      {
+        "en": "A cooler image alone therefore does not prove ",
+        "zh": "因此，單憑影像中較低的溫度，並不能證明"
+      },
+      {
+        "en": "that its material is different. ",
+        "zh": "它的物質有所不同。"
+      },
+      {
+        "en": "Repeated observations are valuable ",
+        "zh": "重複觀測很有價值，"
+      },
+      {
+        "en": "because a single reading cannot show ",
+        "zh": "因為單次讀值無法呈現"
+      },
+      {
+        "en": "how a surface responds ",
+        "zh": "表面如何隨著"
+      },
+      {
+        "en": "as its surroundings change.",
+        "zh": "周遭環境的改變而反應。"
+      }
+    ],
+    [
+      {
+        "en": "Hera's investigation follows NASA's DART mission. ",
+        "zh": "Hera的調查接續美國太空總署的DART任務而來。"
+      },
+      {
+        "en": "On September 26, 2022, DART hit Dimorphos ",
+        "zh": "2022年9月26日，DART撞上Dimorphos，"
+      },
+      {
+        "en": "and changed its orbit around Didymos. ",
+        "zh": "改變了它繞行Didymos的軌道。"
+      },
+      {
+        "en": "In a November 5 report, ",
+        "zh": "在11月5日的報導中，"
+      },
+      {
+        "en": "the European Space Agency described Hera's role ",
+        "zh": "歐洲太空總署說明了Hera的角色，"
+      },
+      {
+        "en": "as a detailed investigation of the impact site. ",
+        "zh": "就是對撞擊地點展開詳細調查。"
+      },
+      {
+        "en": "The aim is to improve understanding ",
+        "zh": "目標是增進人們的理解，"
+      },
+      {
+        "en": "of how such collisions could protect Earth ",
+        "zh": "了解這類撞擊如何能保護地球，"
+      },
+      {
+        "en": "if an asteroid threat ever arose. ",
+        "zh": "以因應未來可能出現的小行星威脅。"
+      },
+      {
+        "en": "This is a test of a possible defence method, ",
+        "zh": "這是在測試一種可能的防禦方法，"
+      },
+      {
+        "en": "rather than a warning ",
+        "zh": "並非警告大家"
+      },
+      {
+        "en": "that these particular asteroids are approaching Earth.",
+        "zh": "這兩顆特定的小行星正逼近地球。"
+      }
+    ],
+    [
+      {
+        "en": "The next stages involve much more ",
+        "zh": "接下來各階段的工作，遠遠超過"
+      },
+      {
+        "en": "than collecting attractive pictures. ",
+        "zh": "蒐集漂亮照片。"
+      },
+      {
+        "en": "In its November 2 operations plan, ",
+        "zh": "JAXA在11月2日的任務操作計畫中，"
+      },
+      {
+        "en": "JAXA outlined an initial survey ",
+        "zh": "概述了初期勘測工作，"
+      },
+      {
+        "en": "from roughly 20 to 30 kilometres away. ",
+        "zh": "距離大約是20至30公里。"
+      },
+      {
+        "en": "Researchers plan to study the asteroids' shapes, ",
+        "zh": "研究人員計畫研究這些小行星的形狀、"
+      },
+      {
+        "en": "masses and movements using several instruments. ",
+        "zh": "質量與運動情形，並運用多種儀器。"
+      },
+      {
+        "en": "Combining measurements can help them develop ",
+        "zh": "結合各種量測，有助於他們建立"
+      },
+      {
+        "en": "a fuller picture of the system. ",
+        "zh": "對這個系統更完整的認識。"
+      },
+      {
+        "en": "The planned distances allow the team ",
+        "zh": "規劃中的距離讓團隊能夠"
+      },
+      {
+        "en": "to build a broad survey ",
+        "zh": "先建立廣泛的勘測資料，"
+      },
+      {
+        "en": "before moving closer for more detailed work.",
+        "zh": "再更接近目標，進行更詳細的工作。"
+      }
+    ],
+    [
+      {
+        "en": "The same plan schedules two small spacecraft, ",
+        "zh": "同一份計畫安排了兩艘小型太空船，"
+      },
+      {
+        "en": "Juventas and Milani, for deployment in January 2027. ",
+        "zh": "Juventas與Milani，預定於2027年1月部署。"
+      },
+      {
+        "en": "Juventas is intended to examine internal structure ",
+        "zh": "Juventas的任務目標是檢查內部結構，"
+      },
+      {
+        "en": "using radar, while Milani will investigate surface composition. ",
+        "zh": "運用的是雷達，而Milani將研究表面成分。"
+      },
+      {
+        "en": "These are planned activities, not completed findings. ",
+        "zh": "這些是預定進行的活動，並非已完成的發現。"
+      },
+      {
+        "en": "They should add information that photographs alone ",
+        "zh": "它們應能補充僅靠照片"
+      },
+      {
+        "en": "cannot provide. ",
+        "zh": "無法提供的資訊。"
+      },
+      {
+        "en": "The instruments therefore have complementary jobs: ",
+        "zh": "因此，這些儀器的工作相互補足："
+      },
+      {
+        "en": "one looks beneath the surface, ",
+        "zh": "一個探查表面之下，"
+      },
+      {
+        "en": "while the other examines what is on it.",
+        "zh": "另一個檢視表面上的物質。"
+      }
+    ],
+    [
+      {
+        "en": "Together, the reports show why space research ",
+        "zh": "這幾份報導合在一起，說明了太空研究為何"
+      },
+      {
+        "en": "requires both advanced technology and careful interpretation. ",
+        "zh": "既需要先進技術，也需要審慎解讀。"
+      },
+      {
+        "en": "A heat map, a visible image and a radar measurement ",
+        "zh": "熱分布圖、可見光影像與雷達量測，"
+      },
+      {
+        "en": "answer different questions. ",
+        "zh": "各自回答不同的問題。"
+      },
+      {
+        "en": "Their value grows when scientists compare them ",
+        "zh": "當科學家將它們互相比較，"
+      },
+      {
+        "en": "and explain the limits of each result. ",
+        "zh": "並解釋每項結果的限制時，其價值便會提高。"
+      },
+      {
+        "en": "Hera's early images begin that process; ",
+        "zh": "Hera的初期影像開啟了這個過程；"
+      },
+      {
+        "en": "they do not finish the investigation.",
+        "zh": "並不代表調查已經完成。"
+      }
+    ]
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一個、一種；不定冠詞"
+    },
+    "about": {
+      "meaning": "大約；關於"
+    },
+    "according": {
+      "meaning": "according to 指根據"
+    },
+    "activities": {
+      "meaning": "活動；文中指任務作業"
+    },
+    "add": {
+      "meaning": "加入"
+    },
+    "advanced": {
+      "meaning": "先進的"
+    },
+    "agency": {
+      "meaning": "機構；文中指太空機構"
+    },
+    "agency's": {
+      "meaning": "該機構的"
+    },
+    "aim": {
+      "meaning": "目標"
+    },
+    "allow": {
+      "meaning": "使能夠"
+    },
+    "allows": {
+      "meaning": "使能夠"
+    },
+    "alone": {
+      "meaning": "單獨地；僅僅"
+    },
+    "an": {
+      "meaning": "一個、一種；母音發音前的不定冠詞"
+    },
+    "analysis": {
+      "meaning": "分析"
+    },
+    "and": {
+      "meaning": "和、而且；連接詞"
+    },
+    "announcement": {
+      "meaning": "公告"
+    },
+    "answer": {
+      "meaning": "回答"
+    },
+    "appears": {
+      "meaning": "看起來、似乎"
+    },
+    "approaching": {
+      "meaning": "接近、逼近"
+    },
+    "are": {
+      "meaning": "是；也可作被動語態的助動詞"
+    },
+    "areas": {
+      "meaning": "區域"
+    },
+    "arose": {
+      "meaning": "出現、發生；arise的過去式"
+    },
+    "around": {
+      "meaning": "繞著、環繞"
+    },
+    "as": {
+      "meaning": "當…時；作為"
+    },
+    "asteroid": {
+      "meaning": "小行星"
+    },
+    "asteroid's": {
+      "meaning": "小行星的"
+    },
+    "asteroids": {
+      "meaning": "小行星（複數）"
+    },
+    "attractive": {
+      "meaning": "吸引人的、漂亮的"
+    },
+    "away": {
+      "meaning": "遠；表示距離"
+    },
+    "because": {
+      "meaning": "因為"
+    },
+    "before": {
+      "meaning": "在…之前"
+    },
+    "begin": {
+      "meaning": "開始"
+    },
+    "beneath": {
+      "meaning": "在…之下"
+    },
+    "both": {
+      "meaning": "兩者都；both A and B指A與B兩者"
+    },
+    "broad": {
+      "meaning": "廣泛的"
+    },
+    "build": {
+      "meaning": "建立"
+    },
+    "calibration": {
+      "meaning": "校正；將儀器讀值對應至實際物理量"
+    },
+    "called": {
+      "meaning": "名為、稱作"
+    },
+    "came": {
+      "meaning": "來自；come的過去式"
+    },
+    "camera": {
+      "meaning": "相機"
+    },
+    "can": {
+      "meaning": "能夠"
+    },
+    "cannot": {
+      "meaning": "不能、無法"
+    },
+    "captured": {
+      "meaning": "拍攝、記錄了"
+    },
+    "careful": {
+      "meaning": "審慎的"
+    },
+    "change": {
+      "meaning": "變化、改變"
+    },
+    "changed": {
+      "meaning": "改變了"
+    },
+    "changes": {
+      "meaning": "變化"
+    },
+    "closer": {
+      "meaning": "更近地"
+    },
+    "clues": {
+      "meaning": "線索"
+    },
+    "collecting": {
+      "meaning": "蒐集"
+    },
+    "collisions": {
+      "meaning": "撞擊、碰撞（複數）"
+    },
+    "combining": {
+      "meaning": "結合、整合"
+    },
+    "compare": {
+      "meaning": "比較"
+    },
+    "complementary": {
+      "meaning": "互補的；各自提供可相互補足的資訊"
+    },
+    "completed": {
+      "meaning": "已完成的"
+    },
+    "composition": {
+      "meaning": "組成、成分"
+    },
+    "converting": {
+      "meaning": "轉換；文中指將讀值換算為溫度"
+    },
+    "cool": {
+      "meaning": "冷卻；cool down指降溫"
+    },
+    "cooler": {
+      "meaning": "溫度較低的"
+    },
+    "could": {
+      "meaning": "可以；也可表示可能"
+    },
+    "dart": {
+      "meaning": "雙小行星改道測試任務；NASA用於撞擊小行星的太空船"
+    },
+    "defence": {
+      "meaning": "防禦"
+    },
+    "deployment": {
+      "meaning": "部署；文中指釋放小型太空船展開任務"
+    },
+    "described": {
+      "meaning": "描述（過去式）"
+    },
+    "detailed": {
+      "meaning": "詳細的"
+    },
+    "detects": {
+      "meaning": "偵測"
+    },
+    "develop": {
+      "meaning": "建立、發展"
+    },
+    "didymos": {
+      "meaning": "迪迪莫斯；此系統中較大的小行星"
+    },
+    "different": {
+      "meaning": "不同的"
+    },
+    "dimorphos": {
+      "meaning": "迪莫弗斯；繞行Didymos的較小小行星"
+    },
+    "distances": {
+      "meaning": "距離（複數）"
+    },
+    "do": {
+      "meaning": "助動詞，構成否定或疑問"
+    },
+    "does": {
+      "meaning": "助動詞，用於第三人稱單數"
+    },
+    "down": {
+      "meaning": "向下；cool down指降溫"
+    },
+    "each": {
+      "meaning": "每一個"
+    },
+    "early": {
+      "meaning": "初期的"
+    },
+    "earth": {
+      "meaning": "地球"
+    },
+    "easily": {
+      "meaning": "容易地"
+    },
+    "europe's": {
+      "meaning": "歐洲的"
+    },
+    "european": {
+      "meaning": "歐洲的"
+    },
+    "ever": {
+      "meaning": "在任何時候；文中用於假設未來可能發生的情況"
+    },
+    "examine": {
+      "meaning": "檢查、研究"
+    },
+    "examines": {
+      "meaning": "檢查、研究"
+    },
+    "explain": {
+      "meaning": "解釋"
+    },
+    "findings": {
+      "meaning": "研究發現、成果"
+    },
+    "finish": {
+      "meaning": "完成"
+    },
+    "first": {
+      "meaning": "第一批的、最初的"
+    },
+    "follows": {
+      "meaning": "接續；在…之後進行"
+    },
+    "for": {
+      "meaning": "為了；用於；排定於某時"
+    },
+    "from": {
+      "meaning": "來自；距離…；從…"
+    },
+    "fuller": {
+      "meaning": "更完整的"
+    },
+    "grows": {
+      "meaning": "成長、增加"
+    },
+    "have": {
+      "meaning": "具有、擁有"
+    },
+    "heat": {
+      "meaning": "熱、熱量"
+    },
+    "help": {
+      "meaning": "幫助"
+    },
+    "hera": {
+      "meaning": "赫拉；歐洲太空總署的小行星探測任務及太空船"
+    },
+    "hera's": {
+      "meaning": "Hera太空船或任務的"
+    },
+    "hit": {
+      "meaning": "撞上；hit的過去式與原形相同"
+    },
+    "how": {
+      "meaning": "如何"
+    },
+    "however": {
+      "meaning": "不過、然而"
+    },
+    "if": {
+      "meaning": "如果"
+    },
+    "image": {
+      "meaning": "影像"
+    },
+    "images": {
+      "meaning": "影像"
+    },
+    "impact": {
+      "meaning": "撞擊"
+    },
+    "improve": {
+      "meaning": "提升、改善"
+    },
+    "in": {
+      "meaning": "在…之中、在某時間；in progress指進行中"
+    },
+    "including": {
+      "meaning": "包含"
+    },
+    "information": {
+      "meaning": "資訊"
+    },
+    "initial": {
+      "meaning": "最初的"
+    },
+    "instrument": {
+      "meaning": "儀器"
+    },
+    "instruments": {
+      "meaning": "儀器（複數）"
+    },
+    "intended": {
+      "meaning": "預定、旨在；is intended to指預定用來"
+    },
+    "internal": {
+      "meaning": "內部的"
+    },
+    "interpretation": {
+      "meaning": "解讀"
+    },
+    "into": {
+      "meaning": "轉成；文中指轉換成溫度"
+    },
+    "investigate": {
+      "meaning": "調查、研究"
+    },
+    "investigation": {
+      "meaning": "調查、研究"
+    },
+    "involve": {
+      "meaning": "涉及、包含"
+    },
+    "is": {
+      "meaning": "是；也可作被動或進行式的助動詞"
+    },
+    "it": {
+      "meaning": "它；指前述儀器、小行星或表面等事物"
+    },
+    "its": {
+      "meaning": "它的；指前述儀器、小行星或機構的"
+    },
+    "january": {
+      "meaning": "一月"
+    },
+    "japan's": {
+      "meaning": "日本的"
+    },
+    "japanese": {
+      "meaning": "日本的"
+    },
+    "jaxa": {
+      "meaning": "日本宇宙航空研究開發機構"
+    },
+    "jobs": {
+      "meaning": "工作、職責"
+    },
+    "juventas": {
+      "meaning": "Juventas小型太空船；計畫運用雷達研究小行星內部"
+    },
+    "kilometres": {
+      "meaning": "公里"
+    },
+    "larger": {
+      "meaning": "較大的"
+    },
+    "lies": {
+      "meaning": "位於；lie的第三人稱單數"
+    },
+    "light": {
+      "meaning": "光"
+    },
+    "limits": {
+      "meaning": "限制"
+    },
+    "looks": {
+      "meaning": "看；looks beneath指探查…之下"
+    },
+    "map": {
+      "meaning": "分布圖；heat map指熱分布圖"
+    },
+    "masses": {
+      "meaning": "質量（複數）"
+    },
+    "material": {
+      "meaning": "物質、材料"
+    },
+    "materials": {
+      "meaning": "物質、材料（複數）"
+    },
+    "may": {
+      "meaning": "可能；表示尚未確定的情況"
+    },
+    "measurement": {
+      "meaning": "量測、量測結果"
+    },
+    "measurements": {
+      "meaning": "各項量測、量測資料"
+    },
+    "method": {
+      "meaning": "方法"
+    },
+    "milani": {
+      "meaning": "Milani小型太空船；計畫研究小行星表面成分"
+    },
+    "mission": {
+      "meaning": "任務"
+    },
+    "more": {
+      "meaning": "更多；更"
+    },
+    "movements": {
+      "meaning": "運動、移動情形"
+    },
+    "moving": {
+      "meaning": "移動；moving closer指移到更近處"
+    },
+    "much": {
+      "meaning": "多；much more than指遠超過"
+    },
+    "nasa's": {
+      "meaning": "美國國家航空暨太空總署的"
+    },
+    "new": {
+      "meaning": "新的"
+    },
+    "next": {
+      "meaning": "下一個"
+    },
+    "normal": {
+      "meaning": "一般的、普通的"
+    },
+    "not": {
+      "meaning": "不、沒有"
+    },
+    "november": {
+      "meaning": "十一月"
+    },
+    "observations": {
+      "meaning": "觀測（複數）"
+    },
+    "observe": {
+      "meaning": "觀察、觀測"
+    },
+    "october": {
+      "meaning": "十月"
+    },
+    "of": {
+      "meaning": "…的；表示所屬、性質、內容等關係"
+    },
+    "offer": {
+      "meaning": "提供"
+    },
+    "on": {
+      "meaning": "在某日期；搭載於；在表面上"
+    },
+    "one": {
+      "meaning": "一個；文中指其中一部儀器"
+    },
+    "operations": {
+      "meaning": "運作；任務作業"
+    },
+    "orbit": {
+      "meaning": "軌道"
+    },
+    "other": {
+      "meaning": "另一個"
+    },
+    "outlined": {
+      "meaning": "概述了"
+    },
+    "particular": {
+      "meaning": "特定的"
+    },
+    "partly": {
+      "meaning": "部分地"
+    },
+    "photographs": {
+      "meaning": "照片"
+    },
+    "picture": {
+      "meaning": "圖像；a fuller picture比喻更完整的認識"
+    },
+    "pictures": {
+      "meaning": "圖片、影像"
+    },
+    "plan": {
+      "meaning": "計畫（名詞）；計畫、打算（動詞）"
+    },
+    "planned": {
+      "meaning": "預定的、規劃中的"
+    },
+    "possible": {
+      "meaning": "可能的"
+    },
+    "process": {
+      "meaning": "過程"
+    },
+    "progress": {
+      "meaning": "進展"
+    },
+    "protect": {
+      "meaning": "保護"
+    },
+    "prove": {
+      "meaning": "證實"
+    },
+    "provide": {
+      "meaning": "提供"
+    },
+    "questions": {
+      "meaning": "問題（複數）"
+    },
+    "quickly": {
+      "meaning": "快速地"
+    },
+    "radar": {
+      "meaning": "雷達"
+    },
+    "rather": {
+      "meaning": "rather than 指而非"
+    },
+    "reached": {
+      "meaning": "到達、進入（過去式）"
+    },
+    "reading": {
+      "meaning": "讀值"
+    },
+    "readings": {
+      "meaning": "儀器讀值"
+    },
+    "reflected": {
+      "meaning": "反射的；reflected from指從…反射而來"
+    },
+    "repeated": {
+      "meaning": "重複的、多次的"
+    },
+    "report": {
+      "meaning": "報告"
+    },
+    "reported": {
+      "meaning": "報導、公布了"
+    },
+    "reports": {
+      "meaning": "報告"
+    },
+    "requires": {
+      "meaning": "需要"
+    },
+    "research": {
+      "meaning": "研究"
+    },
+    "researchers": {
+      "meaning": "研究人員"
+    },
+    "responds": {
+      "meaning": "反應、回應"
+    },
+    "result": {
+      "meaning": "結果"
+    },
+    "reveal": {
+      "meaning": "揭露、顯示"
+    },
+    "role": {
+      "meaning": "角色、任務職責"
+    },
+    "roughly": {
+      "meaning": "大約"
+    },
+    "same": {
+      "meaning": "相同的"
+    },
+    "schedules": {
+      "meaning": "安排、排定時間"
+    },
+    "scientists": {
+      "meaning": "科學家"
+    },
+    "september": {
+      "meaning": "九月"
+    },
+    "several": {
+      "meaning": "數個、多項"
+    },
+    "shadow": {
+      "meaning": "陰影"
+    },
+    "shapes": {
+      "meaning": "形狀（複數）"
+    },
+    "should": {
+      "meaning": "應能、預期會"
+    },
+    "show": {
+      "meaning": "顯示、呈現"
+    },
+    "single": {
+      "meaning": "單一的、一次的"
+    },
+    "site": {
+      "meaning": "地點"
+    },
+    "small": {
+      "meaning": "小的"
+    },
+    "space": {
+      "meaning": "太空"
+    },
+    "spacecraft": {
+      "meaning": "太空載具；單複數同形"
+    },
+    "stages": {
+      "meaning": "階段"
+    },
+    "still": {
+      "meaning": "仍然、依然"
+    },
+    "structure": {
+      "meaning": "結構"
+    },
+    "study": {
+      "meaning": "研究"
+    },
+    "such": {
+      "meaning": "這樣的、這類的"
+    },
+    "sun": {
+      "meaning": "太陽"
+    },
+    "surface": {
+      "meaning": "表面"
+    },
+    "surfaces": {
+      "meaning": "表面（複數）"
+    },
+    "surroundings": {
+      "meaning": "周遭環境"
+    },
+    "survey": {
+      "meaning": "勘測、系統性調查"
+    },
+    "system": {
+      "meaning": "系統"
+    },
+    "team": {
+      "meaning": "團隊"
+    },
+    "technology": {
+      "meaning": "科技、技術"
+    },
+    "temperature": {
+      "meaning": "溫度"
+    },
+    "temperatures": {
+      "meaning": "各項溫度、溫度數值"
+    },
+    "test": {
+      "meaning": "測試"
+    },
+    "texture": {
+      "meaning": "質地"
+    },
+    "than": {
+      "meaning": "比；rather than指而非"
+    },
+    "that": {
+      "meaning": "引導關係子句或內容子句的連接詞"
+    },
+    "the": {
+      "meaning": "定冠詞，指特定或前文提過的事物"
+    },
+    "their": {
+      "meaning": "它們的；文中指各種觀測資料的"
+    },
+    "them": {
+      "meaning": "他們；它們（受詞）"
+    },
+    "therefore": {
+      "meaning": "因此"
+    },
+    "thermal": {
+      "meaning": "熱的；thermal images指呈現熱輻射資訊的影像"
+    },
+    "these": {
+      "meaning": "這些"
+    },
+    "they": {
+      "meaning": "它們；指前述任務活動或影像"
+    },
+    "this": {
+      "meaning": "這"
+    },
+    "threat": {
+      "meaning": "威脅"
+    },
+    "tiri": {
+      "meaning": "熱紅外線成像儀；搭載於Hera的日本儀器"
+    },
+    "to": {
+      "meaning": "到、向；也用於不定詞，接動詞原形"
+    },
+    "together": {
+      "meaning": "合在一起、綜合來看"
+    },
+    "two": {
+      "meaning": "兩個"
+    },
+    "understanding": {
+      "meaning": "理解"
+    },
+    "up": {
+      "meaning": "向上；warm up中的副詞，與warm合指升溫"
+    },
+    "using": {
+      "meaning": "使用、運用"
+    },
+    "valuable": {
+      "meaning": "有價值的"
+    },
+    "value": {
+      "meaning": "價值"
+    },
+    "visible": {
+      "meaning": "可見的；visible image指可見光影像"
+    },
+    "visible-light": {
+      "meaning": "可見光的"
+    },
+    "warm": {
+      "meaning": "使變暖；warm up指升溫"
+    },
+    "warning": {
+      "meaning": "警告"
+    },
+    "way": {
+      "meaning": "方法、方式"
+    },
+    "what": {
+      "meaning": "所…的事物；引導名詞子句"
+    },
+    "when": {
+      "meaning": "當…時"
+    },
+    "which": {
+      "meaning": "關係代名詞，文中指前述Hera太空船"
+    },
+    "while": {
+      "meaning": "而；同時"
+    },
+    "why": {
+      "meaning": "為何"
+    },
+    "will": {
+      "meaning": "將會；用於敘述計畫"
+    },
+    "work": {
+      "meaning": "工作；文中指研究工作"
+    },
+    "worlds": {
+      "meaning": "天體；文中比喻兩顆小行星"
+    },
+    "yet": {
+      "meaning": "然而"
+    }
+  },
+  "quiz": [
+    {
+      "question": "What is the main purpose of the article?",
+      "choices": [
+        {
+          "text": "To announce that Hera has completed every part of its mission.",
+          "explanation": "錯誤。正文最後指出調查尚未完成，第六段也說明部分工作仍屬計畫。"
+        },
+        {
+          "text": "To explain how different measurements can help Hera investigate two asteroids.",
+          "explanation": "正確。文章從熱影像出發，介紹撞擊調查及不同儀器如何提供互補資訊。"
+        },
+        {
+          "text": "To argue that visible images are no longer useful in space research.",
+          "explanation": "錯誤。第七段指出可見光影像能回答不同的問題，並未否定其價值。"
+        },
+        {
+          "text": "To show that surface temperature proves what an asteroid is made of.",
+          "explanation": "錯誤。第三段明確提醒，較冷的影像本身不能證明物質不同。"
+        }
+      ],
+      "answerIndex": 1,
+      "explanation": "全文介紹Hera如何結合熱影像、可見光與未來的雷達等觀測來理解小行星。主旨是不同量測的互補價值，同時提醒讀者分析與任務仍在進行。",
+      "evidence": [
+        {
+          "paragraph": 5,
+          "quote": "Combining measurements can help them develop a fuller picture of the system."
+        },
+        {
+          "paragraph": 7,
+          "quote": "A heat map, a visible image and a radar measurement answer different questions."
+        }
+      ]
+    },
+    {
+      "question": "What can reasonably be inferred from the discussion of the cooler image of Dimorphos?",
+      "choices": [
+        {
+          "text": "Researchers should consider lighting and shadow before drawing conclusions about its material.",
+          "explanation": "正確。正文指出陰影是溫度較低的部分原因，因此不能直接認定材質不同。"
+        },
+        {
+          "text": "The image confirms that Dimorphos and Didymos have identical surface materials.",
+          "explanation": "錯誤。不能證明物質不同，也不等於已證明兩者相同。"
+        },
+        {
+          "text": "A thermal instrument can only observe surfaces lit directly by the Sun.",
+          "explanation": "錯誤。第二段說明熱儀器也能觀察陰影中的表面。"
+        },
+        {
+          "text": "The research team has already finished analysing every temperature measurement.",
+          "explanation": "錯誤。第三段明確說明分析仍在進行。"
+        }
+      ],
+      "answerIndex": 0,
+      "explanation": "Dimorphos較冷可能受到陰影影響。合理推論是解讀溫度時應先考慮觀測環境，而非僅憑影像斷言材質相同或不同。",
+      "evidence": [
+        {
+          "paragraph": 3,
+          "quote": "Dimorphos appears cooler partly because it lies in the larger asteroid's shadow. A cooler image alone therefore does not prove that its material is different."
+        }
+      ]
+    },
+    {
+      "question": "Which statement best summarises the status of the mission described in the article?",
+      "choices": [
+        {
+          "text": "DART will reach Dimorphos after Juventas and Milani complete their work.",
+          "explanation": "錯誤。DART撞擊發生於2022年，而兩艘小型太空船的部署規劃在2027年。"
+        },
+        {
+          "text": "All three spacecraft have already produced final results about internal structure.",
+          "explanation": "錯誤。Juventas與Milani仍是預定部署，沒有已完成的內部結構研究結論。"
+        },
+        {
+          "text": "Hera has obtained early images, while further investigations remain planned.",
+          "explanation": "正確。第一段介紹已取得的熱影像，第六段區分未來活動與完成的發現。"
+        },
+        {
+          "text": "The mission is limited to taking photographs of the impact site.",
+          "explanation": "錯誤。第五、六段介紹形狀、質量、運動、內部結構與成分等研究目標。"
+        }
+      ],
+      "answerIndex": 2,
+      "explanation": "文章區分已發生的成果與未來計畫：初期熱影像已公布，更多勘測及小型太空船任務仍待執行，不能將預定研究當成既有成果。",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "On November 6, 2026, Japan's space agency JAXA reported the first thermal images of the Didymos and Dimorphos asteroid system."
+        },
+        {
+          "paragraph": 6,
+          "quote": "These are planned activities, not completed findings."
+        }
+      ]
+    }
+  ]
+}
