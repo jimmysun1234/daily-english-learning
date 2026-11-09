@@ -1,0 +1,1112 @@
+{
+  "version": 1,
+  "date": "2026-11-10",
+  "level": "B2",
+  "title": "As COP31 Opens, Climate Data Must Reach Communities",
+  "topic": "國際時事",
+  "sources": [
+    {
+      "name": "World Meteorological Organization (WMO)",
+      "title": "State of the climate in 2026 gives new meaning to phrase “off the charts”",
+      "url": "https://wmo.int/news/media-centre/state-of-climate-2026-gives-new-meaning-phrase-charts"
+    },
+    {
+      "name": "United Nations Climate Change (UNFCCC)",
+      "title": "Information for COP 31 participants (A-Z)",
+      "url": "https://unfccc.int/cop31/ifp"
+    },
+    {
+      "name": "United Nations Office for Disaster Risk Reduction (UNDRR)",
+      "title": "Definition: Early warning system",
+      "url": "https://www.undrr.org/terminology/early-warning-system"
+    },
+    {
+      "name": "World Meteorological Organization (WMO)",
+      "title": "COP31 - Water, agriculture and food security",
+      "url": "https://wmo.int/secretariat/celeste-saulo/cop31-water-agriculture-and-food-security"
+    },
+    {
+      "name": "World Meteorological Organization (WMO)",
+      "title": "WMO at the 31st Conference of Parties (COP31) to the UNFCCC",
+      "url": "https://public.wmo.int/themes/climate/wmo-at-cop31"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "en": "The COP31 climate conference began on November 9, 2026, ",
+        "zh": "COP31氣候大會於2026年11月9日開始，"
+      },
+      {
+        "en": "in Antalya, Turkey, ",
+        "zh": "地點在土耳其安塔利亞，"
+      },
+      {
+        "en": "with meetings scheduled to continue until November 20. ",
+        "zh": "會議預定持續至11月20日。"
+      },
+      {
+        "en": "On the opening day, ",
+        "zh": "在開幕當天，"
+      },
+      {
+        "en": "the World Meteorological Organization, or WMO, ",
+        "zh": "世界氣象組織，也就是WMO，"
+      },
+      {
+        "en": "released a climate update. ",
+        "zh": "發布了一份氣候現況更新報告。"
+      },
+      {
+        "en": "Its message connected rising climate risks ",
+        "zh": "報告的訊息將升高的氣候風險"
+      },
+      {
+        "en": "with the practical need for better forecasts and warnings.",
+        "zh": "與改善預報及預警的實際需求連結起來。"
+      }
+    ],
+    [
+      {
+        "en": "WMO expects 2026 to be ",
+        "zh": "WMO預期2026年將成為"
+      },
+      {
+        "en": "one of the four warmest years on record. ",
+        "zh": "有紀錄以來最熱的四個年份之一。"
+      },
+      {
+        "en": "The update compares global surface temperatures ",
+        "zh": "更新報告將全球地表溫度"
+      },
+      {
+        "en": "from January to September ",
+        "zh": "在1月至9月的數值，"
+      },
+      {
+        "en": "with the average for 1850 to 1900. ",
+        "zh": "與1850年至1900年的平均值相比。"
+      },
+      {
+        "en": "The recent average is about 1.47 degrees Celsius higher. ",
+        "zh": "今年這段期間的平均值約高出攝氏1.47度。"
+      },
+      {
+        "en": "This is not a complete annual assessment: ",
+        "zh": "這並非完整的全年評估："
+      },
+      {
+        "en": "the final report is due in March 2027.",
+        "zh": "最終報告預定於2027年3月發布。"
+      }
+    ],
+    [
+      {
+        "en": "The report also describes progress in early warnings. ",
+        "zh": "報告也描述了預警方面的進展。"
+      },
+      {
+        "en": "The report counts countries that reported ",
+        "zh": "報告統計了回報"
+      },
+      {
+        "en": "having systems for multiple hazards. ",
+        "zh": "具有多災害預警系統的國家。"
+      },
+      {
+        "en": "The total rose from 56 in 2015 to 136 in 2025. ",
+        "zh": "總數從2015年的56國增加至2025年的136國。"
+      },
+      {
+        "en": "These figures describe reported national systems. ",
+        "zh": "這些數字描述的是各國回報的國家級系統。"
+      },
+      {
+        "en": "They do not, by themselves, establish ",
+        "zh": "單憑這些數字，並無法證明"
+      },
+      {
+        "en": "that every community receives useful warnings.",
+        "zh": "每個社區都能收到有用的預警。"
+      }
+    ],
+    [
+      {
+        "en": "What makes a warning system effective? ",
+        "zh": "什麼能讓預警系統發揮作用？"
+      },
+      {
+        "en": "The UN Office for Disaster Risk Reduction ",
+        "zh": "聯合國減災辦公室"
+      },
+      {
+        "en": "identifies four connected elements. ",
+        "zh": "列出了四個彼此相連的要素。"
+      },
+      {
+        "en": "They include understanding risks, observing and forecasting hazards, ",
+        "zh": "其中包括了解風險、觀測與預報災害，"
+      },
+      {
+        "en": "communicating warnings, and preparing people to respond. ",
+        "zh": "傳遞預警，以及讓民眾準備好採取應對行動。"
+      },
+      {
+        "en": "The organisation stresses coordination among these elements. ",
+        "zh": "該機構強調，這些要素之間必須協調合作。"
+      },
+      {
+        "en": "A weakness in one part ",
+        "zh": "任何一個環節的弱點，"
+      },
+      {
+        "en": "can undermine the whole system.",
+        "zh": "都可能削弱整個系統。"
+      }
+    ],
+    [
+      {
+        "en": "This framework shows why accurate science ",
+        "zh": "這個架構說明了，精準的科學"
+      },
+      {
+        "en": "must be linked to communication and preparation. ",
+        "zh": "為何必須與溝通及準備工作連結。"
+      },
+      {
+        "en": "A forecast needs to reach the people at risk ",
+        "zh": "預報必須傳達給面臨風險的人，"
+      },
+      {
+        "en": "in a form they can understand and use. ",
+        "zh": "並以他們能理解及運用的形式呈現。"
+      },
+      {
+        "en": "Communities also need the ability to act on it. ",
+        "zh": "社區也需要有能力依據預報採取行動。"
+      },
+      {
+        "en": "Producing information and turning it into protection ",
+        "zh": "產出資訊，以及將資訊轉化成保護措施，"
+      },
+      {
+        "en": "are connected responsibilities. ",
+        "zh": "是彼此相連的責任。"
+      },
+      {
+        "en": "A message that arrives too late ",
+        "zh": "過晚傳達的訊息，"
+      },
+      {
+        "en": "or lacks clear instructions ",
+        "zh": "或缺乏明確指示的訊息，"
+      },
+      {
+        "en": "may fail to support timely action.",
+        "zh": "可能無法幫助民眾及時行動。"
+      }
+    ],
+    [
+      {
+        "en": "At a separate COP31 event on November 9, ",
+        "zh": "在11月9日另一場COP31活動中，"
+      },
+      {
+        "en": "WMO Secretary-General Celeste Saulo highlighted agriculture. ",
+        "zh": "WMO秘書長Celeste Saulo強調了農業議題。"
+      },
+      {
+        "en": "She explained that forecasts can help farmers decide ",
+        "zh": "她說明，預報能幫助農民決定"
+      },
+      {
+        "en": "what to plant and when to water. ",
+        "zh": "種植什麼，以及何時灌溉。"
+      },
+      {
+        "en": "The value comes from connecting climate information ",
+        "zh": "其價值來自將氣候資訊"
+      },
+      {
+        "en": "with decisions made in fields. ",
+        "zh": "與田間的實際決策連結起來。"
+      },
+      {
+        "en": "Saulo called for strong national weather services ",
+        "zh": "Saulo呼籲建立強健的國家氣象服務，"
+      },
+      {
+        "en": "to help information reach farming communities.",
+        "zh": "協助將資訊傳達給農業社區。"
+      }
+    ],
+    [
+      {
+        "en": "Finance and international cooperation were also discussed. ",
+        "zh": "資金與國際合作也是討論議題。"
+      },
+      {
+        "en": "WMO's opening-day coverage describes a session ",
+        "zh": "WMO的開幕日報導介紹了一場會議，"
+      },
+      {
+        "en": "on funding observations, data exchange and forecasting. ",
+        "zh": "內容涉及為觀測、資料交換與預報提供資金。"
+      },
+      {
+        "en": "Countries shared how they estimate costs ",
+        "zh": "各國分享了如何估算成本，"
+      },
+      {
+        "en": "for warning systems and climate services ",
+        "zh": "以建置預警系統及氣候服務，"
+      },
+      {
+        "en": "in their national adaptation plans. ",
+        "zh": "並將其納入國家調適計畫。"
+      },
+      {
+        "en": "These discussions concern maintaining the wider infrastructure ",
+        "zh": "這些討論關注的是維持更廣泛的基礎設施，"
+      },
+      {
+        "en": "that makes local forecasts possible.",
+        "zh": "讓地方預報得以實現。"
+      }
+    ],
+    [
+      {
+        "en": "The opening-day messages therefore connect global measurements ",
+        "zh": "因此，開幕日的訊息將全球量測結果"
+      },
+      {
+        "en": "with local decisions. ",
+        "zh": "與地方決策連結起來。"
+      },
+      {
+        "en": "A scientific report can describe a changing climate, ",
+        "zh": "科學報告能描述正在改變的氣候，"
+      },
+      {
+        "en": "while a functioning warning system ",
+        "zh": "而能正常運作的預警系統，"
+      },
+      {
+        "en": "helps people prepare for its risks. ",
+        "zh": "能幫助民眾為相關風險做好準備。"
+      },
+      {
+        "en": "The practical challenge is to connect reliable observations, ",
+        "zh": "實際挑戰是把可靠的觀測、"
+      },
+      {
+        "en": "clear messages and the capacity to respond. ",
+        "zh": "清楚的訊息與應對能力串連起來。"
+      },
+      {
+        "en": "Progress depends on how well those links work together.",
+        "zh": "進展取決於這些環節能否有效合作。"
+      }
+    ]
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一個、一種；不定冠詞"
+    },
+    "ability": {
+      "meaning": "能力"
+    },
+    "about": {
+      "meaning": "大約；關於"
+    },
+    "accurate": {
+      "meaning": "精準的、準確的"
+    },
+    "act": {
+      "meaning": "採取行動"
+    },
+    "action": {
+      "meaning": "行動"
+    },
+    "adaptation": {
+      "meaning": "調適；文中指因應氣候變遷影響的調整"
+    },
+    "agriculture": {
+      "meaning": "農業"
+    },
+    "also": {
+      "meaning": "也、同時"
+    },
+    "among": {
+      "meaning": "在…之間；文中指多個要素之間"
+    },
+    "and": {
+      "meaning": "和、而且；連接詞"
+    },
+    "annual": {
+      "meaning": "全年的、年度的"
+    },
+    "antalya": {
+      "meaning": "安塔利亞；土耳其城市"
+    },
+    "are": {
+      "meaning": "是；也可作被動語態的助動詞"
+    },
+    "arrives": {
+      "meaning": "抵達、傳達到"
+    },
+    "assessment": {
+      "meaning": "評估"
+    },
+    "at": {
+      "meaning": "在；表示活動發生的場合"
+    },
+    "average": {
+      "meaning": "平均值；平均的"
+    },
+    "be": {
+      "meaning": "是；與過去分詞連用可構成被動語態"
+    },
+    "began": {
+      "meaning": "開始（begin 的過去式）"
+    },
+    "better": {
+      "meaning": "更好的"
+    },
+    "by": {
+      "meaning": "由；引出執行者"
+    },
+    "called": {
+      "meaning": "呼籲；called for指呼籲、要求"
+    },
+    "can": {
+      "meaning": "能夠"
+    },
+    "capacity": {
+      "meaning": "能力；文中指應對風險的能力"
+    },
+    "celeste": {
+      "meaning": "Celeste Saulo姓名的一部分；指世界氣象組織秘書長"
+    },
+    "celsius": {
+      "meaning": "攝氏的；degrees Celsius指攝氏度"
+    },
+    "challenge": {
+      "meaning": "挑戰"
+    },
+    "changing": {
+      "meaning": "正在改變的"
+    },
+    "clear": {
+      "meaning": "明確的"
+    },
+    "climate": {
+      "meaning": "氣候"
+    },
+    "comes": {
+      "meaning": "來自；comes from指源自"
+    },
+    "communicating": {
+      "meaning": "傳遞、溝通"
+    },
+    "communication": {
+      "meaning": "溝通、訊息傳遞"
+    },
+    "communities": {
+      "meaning": "社群、社區"
+    },
+    "community": {
+      "meaning": "社區"
+    },
+    "compares": {
+      "meaning": "比較"
+    },
+    "complete": {
+      "meaning": "完整的"
+    },
+    "concern": {
+      "meaning": "涉及、關注"
+    },
+    "conference": {
+      "meaning": "大會、會議"
+    },
+    "connect": {
+      "meaning": "連接"
+    },
+    "connected": {
+      "meaning": "相互連接的"
+    },
+    "connecting": {
+      "meaning": "連結、串連"
+    },
+    "continue": {
+      "meaning": "持續"
+    },
+    "cooperation": {
+      "meaning": "合作"
+    },
+    "coordination": {
+      "meaning": "協調、協作"
+    },
+    "cop": {
+      "meaning": "COP31中的字母部分，指聯合國氣候變化綱要公約締約方大會"
+    },
+    "costs": {
+      "meaning": "成本"
+    },
+    "countries": {
+      "meaning": "國家（複數）"
+    },
+    "counts": {
+      "meaning": "統計、計算數量"
+    },
+    "coverage": {
+      "meaning": "報導、報導內容"
+    },
+    "data": {
+      "meaning": "資料"
+    },
+    "day": {
+      "meaning": "一天"
+    },
+    "decide": {
+      "meaning": "決定"
+    },
+    "decisions": {
+      "meaning": "決策、決定"
+    },
+    "degrees": {
+      "meaning": "度；溫度單位"
+    },
+    "depends": {
+      "meaning": "取決於；depends on 指取決於"
+    },
+    "describe": {
+      "meaning": "描述"
+    },
+    "describes": {
+      "meaning": "描述"
+    },
+    "disaster": {
+      "meaning": "災害"
+    },
+    "discussed": {
+      "meaning": "討論了；過去分詞可與were構成被動語態"
+    },
+    "discussions": {
+      "meaning": "討論"
+    },
+    "do": {
+      "meaning": "助動詞，構成否定或疑問"
+    },
+    "due": {
+      "meaning": "預定的；is due in指預定在某時發布"
+    },
+    "early": {
+      "meaning": "提早的；early warnings指預警"
+    },
+    "effective": {
+      "meaning": "有效的、能發揮作用的"
+    },
+    "elements": {
+      "meaning": "要素、環節"
+    },
+    "establish": {
+      "meaning": "證實、確立"
+    },
+    "estimate": {
+      "meaning": "估算"
+    },
+    "event": {
+      "meaning": "活動、事件"
+    },
+    "every": {
+      "meaning": "每個"
+    },
+    "exchange": {
+      "meaning": "交換；data exchange指資料交換"
+    },
+    "expects": {
+      "meaning": "預期"
+    },
+    "explained": {
+      "meaning": "解釋"
+    },
+    "fail": {
+      "meaning": "未能、無法；fail to指未能做某事"
+    },
+    "farmers": {
+      "meaning": "農民"
+    },
+    "farming": {
+      "meaning": "農業的、從事農耕的"
+    },
+    "fields": {
+      "meaning": "田地；文中指農田"
+    },
+    "figures": {
+      "meaning": "數字、數據"
+    },
+    "final": {
+      "meaning": "最終的、定案的"
+    },
+    "finance": {
+      "meaning": "資金、融資"
+    },
+    "for": {
+      "meaning": "為了、對於；也表示某時段的"
+    },
+    "forecast": {
+      "meaning": "預報"
+    },
+    "forecasting": {
+      "meaning": "預報、預測"
+    },
+    "forecasts": {
+      "meaning": "預報（複數）"
+    },
+    "form": {
+      "meaning": "形式、方式"
+    },
+    "four": {
+      "meaning": "四"
+    },
+    "framework": {
+      "meaning": "架構"
+    },
+    "from": {
+      "meaning": "從、由；from...to...指從…到…"
+    },
+    "functioning": {
+      "meaning": "能正常運作的"
+    },
+    "funding": {
+      "meaning": "提供資金；資金"
+    },
+    "global": {
+      "meaning": "全球的"
+    },
+    "having": {
+      "meaning": "具有、擁有"
+    },
+    "hazards": {
+      "meaning": "危害、可能致災的現象"
+    },
+    "help": {
+      "meaning": "幫助"
+    },
+    "helps": {
+      "meaning": "幫助"
+    },
+    "higher": {
+      "meaning": "較高的"
+    },
+    "highlighted": {
+      "meaning": "強調、著重指出"
+    },
+    "how": {
+      "meaning": "如何"
+    },
+    "identifies": {
+      "meaning": "指出、列出"
+    },
+    "in": {
+      "meaning": "在某時間、領域或範圍中"
+    },
+    "include": {
+      "meaning": "包括"
+    },
+    "information": {
+      "meaning": "資訊"
+    },
+    "infrastructure": {
+      "meaning": "基礎設施"
+    },
+    "instructions": {
+      "meaning": "指示"
+    },
+    "international": {
+      "meaning": "國際的"
+    },
+    "into": {
+      "meaning": "轉變成；turning...into...指將…轉化成…"
+    },
+    "is": {
+      "meaning": "是；也可作被動或進行式的助動詞"
+    },
+    "it": {
+      "meaning": "它；文中指預報或氣候資訊"
+    },
+    "its": {
+      "meaning": "它的；文中指氣候或氣候更新報告的"
+    },
+    "january": {
+      "meaning": "一月"
+    },
+    "lacks": {
+      "meaning": "缺乏"
+    },
+    "late": {
+      "meaning": "遲、晚"
+    },
+    "linked": {
+      "meaning": "與…相關聯的"
+    },
+    "links": {
+      "meaning": "環節、連結"
+    },
+    "local": {
+      "meaning": "地方的、當地的"
+    },
+    "made": {
+      "meaning": "作出的；decisions made指所作出的決策"
+    },
+    "maintaining": {
+      "meaning": "維持"
+    },
+    "makes": {
+      "meaning": "使得"
+    },
+    "march": {
+      "meaning": "三月"
+    },
+    "may": {
+      "meaning": "可能；表示尚未確定的情況"
+    },
+    "measurements": {
+      "meaning": "各項量測、量測資料"
+    },
+    "meetings": {
+      "meaning": "會議（複數）"
+    },
+    "message": {
+      "meaning": "訊息"
+    },
+    "messages": {
+      "meaning": "訊息"
+    },
+    "meteorological": {
+      "meaning": "氣象的"
+    },
+    "multiple": {
+      "meaning": "多種的、多個的"
+    },
+    "must": {
+      "meaning": "必須"
+    },
+    "national": {
+      "meaning": "國家的、中央層級的"
+    },
+    "need": {
+      "meaning": "需要"
+    },
+    "needs": {
+      "meaning": "需要"
+    },
+    "not": {
+      "meaning": "不、沒有"
+    },
+    "november": {
+      "meaning": "十一月"
+    },
+    "observations": {
+      "meaning": "觀測（複數）"
+    },
+    "observing": {
+      "meaning": "觀測、觀察"
+    },
+    "of": {
+      "meaning": "…的；表示所屬、性質、內容等關係"
+    },
+    "office": {
+      "meaning": "辦公室；UN Office for Disaster Risk Reduction指聯合國減災辦公室"
+    },
+    "on": {
+      "meaning": "在某日期；關於；act on指依據某事採取行動"
+    },
+    "one": {
+      "meaning": "一個、一項"
+    },
+    "opening": {
+      "meaning": "開幕、開始"
+    },
+    "opening-day": {
+      "meaning": "開幕當天的"
+    },
+    "or": {
+      "meaning": "或；文中也用來引出另一稱呼，即WMO"
+    },
+    "organisation": {
+      "meaning": "組織；英式拼法"
+    },
+    "organization": {
+      "meaning": "組織；World Meteorological Organization指世界氣象組織"
+    },
+    "part": {
+      "meaning": "部分"
+    },
+    "people": {
+      "meaning": "人們"
+    },
+    "plans": {
+      "meaning": "計畫（複數）"
+    },
+    "plant": {
+      "meaning": "種植（動詞）"
+    },
+    "possible": {
+      "meaning": "可能的"
+    },
+    "practical": {
+      "meaning": "實際的"
+    },
+    "preparation": {
+      "meaning": "準備"
+    },
+    "prepare": {
+      "meaning": "準備"
+    },
+    "preparing": {
+      "meaning": "使做好準備"
+    },
+    "producing": {
+      "meaning": "產出、製作"
+    },
+    "progress": {
+      "meaning": "進展"
+    },
+    "protection": {
+      "meaning": "保護"
+    },
+    "reach": {
+      "meaning": "達成；抵達、送達"
+    },
+    "receives": {
+      "meaning": "接收、獲得"
+    },
+    "recent": {
+      "meaning": "最近的；文中指2026年1月至9月"
+    },
+    "record": {
+      "meaning": "紀錄；on record指有紀錄以來"
+    },
+    "reduction": {
+      "meaning": "減少；Disaster Risk Reduction指減災"
+    },
+    "released": {
+      "meaning": "發布了"
+    },
+    "reliable": {
+      "meaning": "可靠的"
+    },
+    "report": {
+      "meaning": "報告"
+    },
+    "reported": {
+      "meaning": "回報的、回報了"
+    },
+    "respond": {
+      "meaning": "應對、作出反應"
+    },
+    "responsibilities": {
+      "meaning": "責任、職責"
+    },
+    "rising": {
+      "meaning": "升高的、增加中的"
+    },
+    "risk": {
+      "meaning": "風險"
+    },
+    "risks": {
+      "meaning": "風險（複數）"
+    },
+    "rose": {
+      "meaning": "增加、上升；rise的過去式"
+    },
+    "saulo": {
+      "meaning": "Saulo；世界氣象組織秘書長的姓氏"
+    },
+    "scheduled": {
+      "meaning": "預定的"
+    },
+    "science": {
+      "meaning": "科學"
+    },
+    "scientific": {
+      "meaning": "科學的"
+    },
+    "secretary-general": {
+      "meaning": "秘書長"
+    },
+    "separate": {
+      "meaning": "不同的、分開的"
+    },
+    "september": {
+      "meaning": "九月"
+    },
+    "services": {
+      "meaning": "服務（複數）"
+    },
+    "session": {
+      "meaning": "會議、場次"
+    },
+    "shared": {
+      "meaning": "分享了"
+    },
+    "she": {
+      "meaning": "她"
+    },
+    "shows": {
+      "meaning": "顯示"
+    },
+    "stresses": {
+      "meaning": "強調"
+    },
+    "strong": {
+      "meaning": "強健的、能力充足的"
+    },
+    "support": {
+      "meaning": "支持、幫助"
+    },
+    "surface": {
+      "meaning": "表面"
+    },
+    "system": {
+      "meaning": "系統"
+    },
+    "systems": {
+      "meaning": "系統（複數）"
+    },
+    "temperatures": {
+      "meaning": "溫度（複數）"
+    },
+    "that": {
+      "meaning": "那個；也可引導內容子句或關係子句"
+    },
+    "the": {
+      "meaning": "定冠詞，指特定或前文提過的事物"
+    },
+    "their": {
+      "meaning": "他們的、它們的；文中指各國的"
+    },
+    "themselves": {
+      "meaning": "它們本身；by themselves指單憑它們"
+    },
+    "therefore": {
+      "meaning": "因此"
+    },
+    "these": {
+      "meaning": "這些"
+    },
+    "they": {
+      "meaning": "它們、他們；文中指數字、要素或人們"
+    },
+    "this": {
+      "meaning": "這"
+    },
+    "those": {
+      "meaning": "那些"
+    },
+    "timely": {
+      "meaning": "及時的"
+    },
+    "to": {
+      "meaning": "到、向；也用於不定詞，接動詞原形"
+    },
+    "together": {
+      "meaning": "合在一起、綜合來看"
+    },
+    "too": {
+      "meaning": "太、過於"
+    },
+    "total": {
+      "meaning": "總數"
+    },
+    "turkey": {
+      "meaning": "土耳其"
+    },
+    "turning": {
+      "meaning": "轉化；turning into指將…轉變成"
+    },
+    "un": {
+      "meaning": "聯合國；United Nations的縮寫"
+    },
+    "undermine": {
+      "meaning": "削弱"
+    },
+    "understand": {
+      "meaning": "理解"
+    },
+    "understanding": {
+      "meaning": "理解"
+    },
+    "until": {
+      "meaning": "直到…才；在…之前"
+    },
+    "update": {
+      "meaning": "更新"
+    },
+    "use": {
+      "meaning": "使用"
+    },
+    "useful": {
+      "meaning": "實用的"
+    },
+    "value": {
+      "meaning": "價值"
+    },
+    "warmest": {
+      "meaning": "最溫暖的、最熱的"
+    },
+    "warning": {
+      "meaning": "預警"
+    },
+    "warnings": {
+      "meaning": "預警、警報（複數）"
+    },
+    "water": {
+      "meaning": "灌溉、澆水（動詞）"
+    },
+    "weakness": {
+      "meaning": "弱點、不足"
+    },
+    "weather": {
+      "meaning": "天氣"
+    },
+    "well": {
+      "meaning": "好地、有效地"
+    },
+    "were": {
+      "meaning": "是；與過去分詞連用，構成過去式被動語態"
+    },
+    "what": {
+      "meaning": "什麼；引導疑問句或名詞子句"
+    },
+    "when": {
+      "meaning": "何時；文中指何時灌溉"
+    },
+    "while": {
+      "meaning": "而；同時"
+    },
+    "whole": {
+      "meaning": "完整的、全部的"
+    },
+    "why": {
+      "meaning": "為何"
+    },
+    "wider": {
+      "meaning": "範圍更廣的"
+    },
+    "with": {
+      "meaning": "與；隨著、連同"
+    },
+    "wmo": {
+      "meaning": "世界氣象組織；World Meteorological Organization的縮寫"
+    },
+    "wmo's": {
+      "meaning": "世界氣象組織的"
+    },
+    "work": {
+      "meaning": "運作；work together指相互合作"
+    },
+    "world": {
+      "meaning": "世界、全球"
+    },
+    "years": {
+      "meaning": "年（複數）"
+    }
+  },
+  "quiz": [
+    {
+      "question": "What is the main purpose of the article?",
+      "choices": [
+        {
+          "text": "To explain why climate observations must be connected to warnings and practical action.",
+          "explanation": "正確。全文從COP31的氣候更新談到預警系統、農業決策與基礎設施，重點是讓資訊成為可用的防護。"
+        },
+        {
+          "text": "To announce that the final climate report for 2026 has already been completed.",
+          "explanation": "錯誤。第二段指出最終報告預定於2027年3月發布，目前並非完整全年評估。"
+        },
+        {
+          "text": "To compare the prices of farming equipment in different countries.",
+          "explanation": "錯誤。第六段討論預報如何幫助農業決策，沒有比較農具價格。"
+        },
+        {
+          "text": "To show that every community already receives reliable warnings.",
+          "explanation": "錯誤。第三段明確提醒，國家級系統數量不能證明每個社區都收到有用預警。"
+        }
+      ],
+      "answerIndex": 0,
+      "explanation": "主旨是連結全球氣候量測與地方的實際應對。科學報告、預報、訊息傳遞與社區應對能力必須串連，才能形成有效的預警系統。",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "Its message connected rising climate risks with the practical need for better forecasts and warnings."
+        },
+        {
+          "paragraph": 8,
+          "quote": "The practical challenge is to connect reliable observations, clear messages and the capacity to respond."
+        }
+      ]
+    },
+    {
+      "question": "What can reasonably be inferred from the increase from 56 countries to 136 countries?",
+      "choices": [
+        {
+          "text": "Every resident in all 136 countries is guaranteed to receive useful warnings.",
+          "explanation": "錯誤。第三段明確指出這些數字無法證明所有社區都收到有用預警。"
+        },
+        {
+          "text": "The figures measure completed warning-system coverage in every community in 2026.",
+          "explanation": "錯誤。數字指各國在2015年及2025年的回報，並非2026年逐一社區的完整涵蓋率。"
+        },
+        {
+          "text": "More countries reported having systems, but the figures alone do not prove universal access.",
+          "explanation": "正確。數字顯示回報擁有系統的國家增加，不能直接推定每個社區都能取得預警。"
+        },
+        {
+          "text": "Countries no longer need to invest in communication or response capabilities.",
+          "explanation": "錯誤。第四、五段仍強調傳達訊息及應對能力的重要性。"
+        }
+      ],
+      "answerIndex": 2,
+      "explanation": "國家級回報數量是進展指標，但與每個社區實際接收及使用預警的情況不同。不能從國家數量直接推出全面涵蓋。",
+      "evidence": [
+        {
+          "paragraph": 3,
+          "quote": "These figures describe reported national systems. They do not, by themselves, establish that every community receives useful warnings."
+        }
+      ]
+    },
+    {
+      "question": "Which situation would best reflect the effective warning system described in the article?",
+      "choices": [
+        {
+          "text": "Scientists produce a precise forecast that remains unavailable to affected communities.",
+          "explanation": "錯誤。第五段指出預報必須傳達給面臨風險的人。"
+        },
+        {
+          "text": "Communities receive understandable forecasts and have the ability to respond.",
+          "explanation": "正確。第五段同時要求民眾能理解及使用預報，並有能力依據資訊行動。"
+        },
+        {
+          "text": "Authorities count national systems without considering whether their parts work together.",
+          "explanation": "錯誤。第四段強調各要素需要協調合作，不能只計算系統數量。"
+        },
+        {
+          "text": "Farmers receive a global report but cannot connect it with decisions in their fields.",
+          "explanation": "錯誤。第六段說明資訊的價值在於能與田間決策連結。"
+        }
+      ],
+      "answerIndex": 1,
+      "explanation": "有效預警不只需要科學預報，也需要民眾能接收、理解、運用資訊，並具備應對能力。只有選項B同時符合這些條件。",
+      "evidence": [
+        {
+          "paragraph": 5,
+          "quote": "A forecast needs to reach the people at risk in a form they can understand and use. Communities also need the ability to act on it."
+        }
+      ]
+    }
+  ]
+}

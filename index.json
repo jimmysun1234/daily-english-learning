@@ -2,6 +2,12 @@
   "version": 1,
   "articles": [
     {
+      "date": "2026-11-10",
+      "title": "As COP31 Opens, Climate Data Must Reach Communities",
+      "topic": "國際時事",
+      "sha256": "99bf7b7c178c39663534dca2574c332a67f16090a37148528bd59662f3e53007"
+    },
+    {
       "date": "2026-11-09",
       "title": "Microsoft Brings Quantum-Resistant Protection to Cloud Connections",
       "topic": "科技業新聞",
