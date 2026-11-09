@@ -2,6 +2,12 @@
   "version": 1,
   "articles": [
     {
+      "date": "2026-11-09",
+      "title": "Microsoft Brings Quantum-Resistant Protection to Cloud Connections",
+      "topic": "科技業新聞",
+      "sha256": "d411dc4bb3ec2ae6e6bb6d5fee739deb5aae0bb9522c079e293c8503cb1943ec"
+    },
+    {
       "date": "2026-11-08",
       "title": "Montenegro Closes Two More Chapters on Its Path to the EU",
       "topic": "國際時事",

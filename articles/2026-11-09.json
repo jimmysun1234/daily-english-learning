@@ -1,0 +1,1136 @@
+{
+  "version": 1,
+  "date": "2026-11-09",
+  "level": "B2",
+  "title": "Microsoft Brings Quantum-Resistant Protection to Cloud Connections",
+  "topic": "科技業新聞",
+  "sources": [
+    {
+      "name": "Microsoft — Post Quantum Crypto Tech Blog",
+      "title": "Azure Front Door now Supports Post-Quantum Resilient Hybrid TLS 1.3",
+      "url": "https://techcommunity.microsoft.com/blog/post-quantum-crypto-tech-blog/azure-front-door-now-supports-post-quantum-resilient-hybrid-tls-1-3/4571081"
+    },
+    {
+      "name": "National Institute of Standards and Technology (NIST)",
+      "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
+      "url": "https://www.nist.gov/news-events/news/2026/10/nist-report-provides-guidelines-transition-post-quantum-cryptography"
+    },
+    {
+      "name": "National Institute of Standards and Technology (NIST)",
+      "title": "NIST Releases First 3 Finalized Post-Quantum Encryption Standards",
+      "url": "https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "en": "On November 6, 2026, Microsoft announced ",
+        "zh": "2026年11月6日，微軟宣布，"
+      },
+      {
+        "en": "that Azure Front Door now supports ",
+        "zh": "Azure Front Door現已支援"
+      },
+      {
+        "en": "a new form of protection against future quantum threats. ",
+        "zh": "一種針對未來量子威脅的新防護方式。"
+      },
+      {
+        "en": "The update concerns TLS 1.3, ",
+        "zh": "這項更新涉及TLS 1.3，"
+      },
+      {
+        "en": "a technology used to secure internet connections. ",
+        "zh": "這是一種用來保護網際網路連線的技術。"
+      },
+      {
+        "en": "Front Door sits between users and cloud applications, ",
+        "zh": "Front Door位於使用者與雲端應用程式之間，"
+      },
+      {
+        "en": "making it an important place to introduce stronger protection.",
+        "zh": "因此是導入更強防護的重要環節。"
+      }
+    ],
+    [
+      {
+        "en": "The concern extends beyond attacks happening today. ",
+        "zh": "這項考量不只涉及今天發生的攻擊。"
+      },
+      {
+        "en": "Attackers could collect encrypted information now ",
+        "zh": "攻擊者可能現在先蒐集加密資訊，"
+      },
+      {
+        "en": "and keep it until more powerful machines ",
+        "zh": "並保存到運算能力更強的機器"
+      },
+      {
+        "en": "can unlock it in the future. ",
+        "zh": "未來有能力解開它的時候。"
+      },
+      {
+        "en": "In an October 27 report announcement, ",
+        "zh": "在10月27日的報告公告中，"
+      },
+      {
+        "en": "the US National Institute of Standards and Technology (NIST) ",
+        "zh": "美國國家標準暨技術研究院（NIST）"
+      },
+      {
+        "en": "explained this risk. ",
+        "zh": "說明了這項風險。"
+      },
+      {
+        "en": "Information that must remain private for many years ",
+        "zh": "必須保密多年的資訊，"
+      },
+      {
+        "en": "could be especially exposed to this delayed threat.",
+        "zh": "可能特別容易受到這類延後發動的威脅影響。"
+      }
+    ],
+    [
+      {
+        "en": "Encryption protects information through difficult mathematical problems. ",
+        "zh": "加密透過難解的數學問題來保護資訊。"
+      },
+      {
+        "en": "Ordinary computers cannot easily solve the problems ",
+        "zh": "一般電腦無法輕易解開這些問題，"
+      },
+      {
+        "en": "behind many current methods. ",
+        "zh": "而這些問題正是許多現有方法的基礎。"
+      },
+      {
+        "en": "A sufficiently powerful quantum computer could change that. ",
+        "zh": "運算能力足夠強的量子電腦，可能改變這個情況。"
+      },
+      {
+        "en": "NIST published its first three completed post-quantum standards ",
+        "zh": "NIST發布了首批三項正式後量子標準，"
+      },
+      {
+        "en": "on August 13, 2024. ",
+        "zh": "日期為2024年8月13日。"
+      },
+      {
+        "en": "These use different mathematical problems ",
+        "zh": "這些標準運用不同的數學問題，"
+      },
+      {
+        "en": "chosen to resist attacks by both kinds of computer.",
+        "zh": "經過挑選，目的是抵禦這兩類電腦的攻擊。"
+      }
+    ],
+    [
+      {
+        "en": "Microsoft's new approach combines an established method ",
+        "zh": "微軟的新做法結合了一種既有方法"
+      },
+      {
+        "en": "with a method from the newer standards. ",
+        "zh": "及一種來自新標準的方法。"
+      },
+      {
+        "en": "This combination is called hybrid key establishment. ",
+        "zh": "這種組合稱為混合式金鑰建立。"
+      },
+      {
+        "en": "It helps two systems agree on a shared secret ",
+        "zh": "它幫助兩個系統協調出共同祕密，"
+      },
+      {
+        "en": "used to protect their communication. ",
+        "zh": "用來保護彼此的通訊。"
+      },
+      {
+        "en": "According to Microsoft, the combination remains secure ",
+        "zh": "根據微軟的說明，這種組合仍能維持安全，"
+      },
+      {
+        "en": "if either component remains secure. ",
+        "zh": "只要其中任一組成部分仍然安全即可。"
+      },
+      {
+        "en": "This offers protection while retaining established technology.",
+        "zh": "這能在保留既有技術的同時提供防護。"
+      }
+    ],
+    [
+      {
+        "en": "The coverage has an important boundary. ",
+        "zh": "這項防護範圍有一個重要界線。"
+      },
+      {
+        "en": "The company says the update currently protects ",
+        "zh": "微軟表示，這次更新目前保護的是"
+      },
+      {
+        "en": "the connection from a compatible client to Front Door. ",
+        "zh": "相容用戶端與Front Door之間的連線。"
+      },
+      {
+        "en": "Front Door then uses a separate connection ",
+        "zh": "接著，Front Door使用另一條獨立連線，"
+      },
+      {
+        "en": "to reach services behind it. ",
+        "zh": "連接後端服務。"
+      },
+      {
+        "en": "Extending the new protection to those connections ",
+        "zh": "將新防護延伸至那些連線，"
+      },
+      {
+        "en": "is a later engineering phase. ",
+        "zh": "屬於後續的工程階段。"
+      },
+      {
+        "en": "Older clients can use supported conventional methods, ",
+        "zh": "較舊的用戶端可以使用受支援的傳統方法，"
+      },
+      {
+        "en": "so compatibility remains part of the design.",
+        "zh": "因此，相容性仍是設計的一部分。"
+      }
+    ],
+    [
+      {
+        "en": "NIST's October report describes the broader migration challenge. ",
+        "zh": "NIST的10月報告說明了更廣泛的轉換挑戰。"
+      },
+      {
+        "en": "Organisations have different systems, suppliers and uses for encryption. ",
+        "zh": "各組織有不同的系統、供應商及加密用途。"
+      },
+      {
+        "en": "Their entire supply chain can affect the transition. ",
+        "zh": "整個供應鏈都可能影響轉換過程。"
+      },
+      {
+        "en": "Combining older and newer methods is one option, ",
+        "zh": "結合新舊方法是一種選項，"
+      },
+      {
+        "en": "but it can require additional computing resources. ",
+        "zh": "但可能需要額外的運算資源。"
+      },
+      {
+        "en": "A clear schedule helps organisations plan ",
+        "zh": "明確的時程能幫助各組織規劃，"
+      },
+      {
+        "en": "which technologies to replace and when.",
+        "zh": "決定哪些技術需要更換，以及何時更換。"
+      }
+    ],
+    [
+      {
+        "en": "The standards also address more than one task. ",
+        "zh": "這些標準處理的任務也不只一種。"
+      },
+      {
+        "en": "Some protect information exchanged across a network, ",
+        "zh": "有些保護透過網路交換的資訊，"
+      },
+      {
+        "en": "while others support digital signatures used to check identity. ",
+        "zh": "另一些則支援用來驗證身分的數位簽章。"
+      },
+      {
+        "en": "These tasks serve different purposes. ",
+        "zh": "這些任務各有不同目的。"
+      },
+      {
+        "en": "The distinction helps explain why a change ",
+        "zh": "這項區別有助於說明，為何針對"
+      },
+      {
+        "en": "in connection security is one part ",
+        "zh": "連線安全所做的改變，只是其中一部分，"
+      },
+      {
+        "en": "of a much wider technical effort.",
+        "zh": "而整體技術工作涉及的範圍更廣。"
+      }
+    ],
+    [
+      {
+        "en": "For the technology industry, these announcements illustrate ",
+        "zh": "對科技業而言，這些公告呈現了"
+      },
+      {
+        "en": "a gradual transition from standards to practical services. ",
+        "zh": "從標準走向實際服務的漸進轉換。"
+      },
+      {
+        "en": "New protection must work with existing software ",
+        "zh": "新防護必須與現有軟體協同運作，"
+      },
+      {
+        "en": "and fit into connected systems. ",
+        "zh": "並融入相互連接的系統。"
+      },
+      {
+        "en": "Microsoft's update provides a concrete example of that process. ",
+        "zh": "微軟的更新提供了這個過程的具體例子。"
+      },
+      {
+        "en": "Its stated limits also show why ",
+        "zh": "它所說明的限制也解釋了，"
+      },
+      {
+        "en": "the exact scope of each improvement matters.",
+        "zh": "為何每項改善的確切範圍都很重要。"
+      }
+    ]
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一個、一種；不定冠詞"
+    },
+    "according": {
+      "meaning": "according to 指根據"
+    },
+    "across": {
+      "meaning": "跨越、透過；across a network指透過網路"
+    },
+    "additional": {
+      "meaning": "額外的"
+    },
+    "address": {
+      "meaning": "處理"
+    },
+    "affect": {
+      "meaning": "影響"
+    },
+    "against": {
+      "meaning": "抵禦、對抗；protection against指針對某威脅的防護"
+    },
+    "agree": {
+      "meaning": "達成共識；agree on指協調出共同採用的事物"
+    },
+    "also": {
+      "meaning": "也、同時"
+    },
+    "an": {
+      "meaning": "一個、一種；母音發音前的不定冠詞"
+    },
+    "and": {
+      "meaning": "和、而且；連接詞"
+    },
+    "announced": {
+      "meaning": "宣布"
+    },
+    "announcement": {
+      "meaning": "公告"
+    },
+    "announcements": {
+      "meaning": "公告（複數）"
+    },
+    "applications": {
+      "meaning": "應用程式"
+    },
+    "approach": {
+      "meaning": "做法、方法"
+    },
+    "attackers": {
+      "meaning": "攻擊者"
+    },
+    "attacks": {
+      "meaning": "攻擊（複數）"
+    },
+    "august": {
+      "meaning": "八月"
+    },
+    "azure": {
+      "meaning": "Azure；微軟的雲端平台"
+    },
+    "be": {
+      "meaning": "是；與過去分詞連用可構成被動語態"
+    },
+    "behind": {
+      "meaning": "在…後端；也指構成某方法的基礎"
+    },
+    "between": {
+      "meaning": "在…之間"
+    },
+    "beyond": {
+      "meaning": "超出、不僅限於"
+    },
+    "both": {
+      "meaning": "兩者都；both A and B指A與B兩者"
+    },
+    "boundary": {
+      "meaning": "界線、範圍限制"
+    },
+    "broader": {
+      "meaning": "範圍更廣的、更大規模的"
+    },
+    "but": {
+      "meaning": "但是"
+    },
+    "by": {
+      "meaning": "由；引出執行者"
+    },
+    "called": {
+      "meaning": "名為、稱作"
+    },
+    "can": {
+      "meaning": "能夠"
+    },
+    "cannot": {
+      "meaning": "不能、無法"
+    },
+    "chain": {
+      "meaning": "鏈；supply chain 指供應鏈"
+    },
+    "challenge": {
+      "meaning": "挑戰"
+    },
+    "change": {
+      "meaning": "變化、改變"
+    },
+    "check": {
+      "meaning": "檢查、驗證"
+    },
+    "chosen": {
+      "meaning": "挑選的；choose的過去分詞"
+    },
+    "clear": {
+      "meaning": "明確的"
+    },
+    "client": {
+      "meaning": "用戶端；連線至服務的程式或裝置"
+    },
+    "clients": {
+      "meaning": "用戶端（複數）；連線至服務的程式或裝置"
+    },
+    "cloud": {
+      "meaning": "雲端"
+    },
+    "collect": {
+      "meaning": "蒐集"
+    },
+    "combination": {
+      "meaning": "組合"
+    },
+    "combines": {
+      "meaning": "結合"
+    },
+    "combining": {
+      "meaning": "結合、整合"
+    },
+    "communication": {
+      "meaning": "通訊；聯繫"
+    },
+    "company": {
+      "meaning": "公司"
+    },
+    "compatibility": {
+      "meaning": "相容性"
+    },
+    "compatible": {
+      "meaning": "相容的"
+    },
+    "completed": {
+      "meaning": "已完成的"
+    },
+    "component": {
+      "meaning": "組成部分"
+    },
+    "computer": {
+      "meaning": "電腦"
+    },
+    "computers": {
+      "meaning": "電腦（複數）"
+    },
+    "computing": {
+      "meaning": "運算"
+    },
+    "concern": {
+      "meaning": "考量、擔憂"
+    },
+    "concerns": {
+      "meaning": "涉及"
+    },
+    "concrete": {
+      "meaning": "具體的"
+    },
+    "connected": {
+      "meaning": "相互連接的"
+    },
+    "connection": {
+      "meaning": "連線"
+    },
+    "connections": {
+      "meaning": "連線（複數）"
+    },
+    "conventional": {
+      "meaning": "傳統的、既有的"
+    },
+    "could": {
+      "meaning": "可以；也可表示可能"
+    },
+    "coverage": {
+      "meaning": "涵蓋範圍；文中指防護範圍"
+    },
+    "current": {
+      "meaning": "目前的"
+    },
+    "currently": {
+      "meaning": "目前"
+    },
+    "delayed": {
+      "meaning": "延後發生的"
+    },
+    "describes": {
+      "meaning": "描述"
+    },
+    "design": {
+      "meaning": "設計"
+    },
+    "different": {
+      "meaning": "不同的"
+    },
+    "difficult": {
+      "meaning": "困難的"
+    },
+    "digital": {
+      "meaning": "數位的"
+    },
+    "distinction": {
+      "meaning": "區別"
+    },
+    "door": {
+      "meaning": "門；Front Door為微軟雲端服務名稱的一部分"
+    },
+    "each": {
+      "meaning": "每一個"
+    },
+    "easily": {
+      "meaning": "容易地"
+    },
+    "effort": {
+      "meaning": "努力、工作"
+    },
+    "either": {
+      "meaning": "兩者中任一個"
+    },
+    "encrypted": {
+      "meaning": "經過加密的"
+    },
+    "encryption": {
+      "meaning": "加密"
+    },
+    "engineering": {
+      "meaning": "工程；engineering phase指工程階段"
+    },
+    "entire": {
+      "meaning": "整個的"
+    },
+    "especially": {
+      "meaning": "特別地"
+    },
+    "established": {
+      "meaning": "既有的、已獲採用的"
+    },
+    "establishment": {
+      "meaning": "建立；key establishment指建立共同祕密金鑰的過程"
+    },
+    "exact": {
+      "meaning": "確切的"
+    },
+    "example": {
+      "meaning": "例子；for example指舉例來說"
+    },
+    "exchanged": {
+      "meaning": "交換的、傳輸的"
+    },
+    "existing": {
+      "meaning": "現有的"
+    },
+    "explain": {
+      "meaning": "解釋"
+    },
+    "explained": {
+      "meaning": "解釋"
+    },
+    "exposed": {
+      "meaning": "暴露的；exposed to指容易受到某風險影響"
+    },
+    "extending": {
+      "meaning": "延伸、擴展"
+    },
+    "extends": {
+      "meaning": "延伸；extends beyond指不只限於"
+    },
+    "first": {
+      "meaning": "第一批的、最初的"
+    },
+    "fit": {
+      "meaning": "融入、配合；fit into指融入某環境"
+    },
+    "for": {
+      "meaning": "為了、對於；for example指舉例來說"
+    },
+    "form": {
+      "meaning": "形式、方式"
+    },
+    "from": {
+      "meaning": "從、由；from...to...指從…到…"
+    },
+    "front": {
+      "meaning": "前面的；Front Door為微軟雲端服務名稱的一部分"
+    },
+    "future": {
+      "meaning": "未來的"
+    },
+    "gradual": {
+      "meaning": "漸進的"
+    },
+    "happening": {
+      "meaning": "發生中的"
+    },
+    "has": {
+      "meaning": "有、具有"
+    },
+    "have": {
+      "meaning": "具有、擁有"
+    },
+    "helps": {
+      "meaning": "幫助"
+    },
+    "hybrid": {
+      "meaning": "混合式的；文中指結合傳統與後量子方法"
+    },
+    "identity": {
+      "meaning": "身分"
+    },
+    "if": {
+      "meaning": "如果"
+    },
+    "illustrate": {
+      "meaning": "呈現、說明"
+    },
+    "important": {
+      "meaning": "重要的"
+    },
+    "improvement": {
+      "meaning": "改善"
+    },
+    "in": {
+      "meaning": "在某時間、領域或範圍中"
+    },
+    "industry": {
+      "meaning": "產業；業界"
+    },
+    "information": {
+      "meaning": "資訊"
+    },
+    "institute": {
+      "meaning": "研究院；文中為NIST全名的一部分"
+    },
+    "internet": {
+      "meaning": "網際網路"
+    },
+    "into": {
+      "meaning": "進入、融入"
+    },
+    "introduce": {
+      "meaning": "導入、引進"
+    },
+    "is": {
+      "meaning": "是；也可作被動或進行式的助動詞"
+    },
+    "it": {
+      "meaning": "它；文中指資訊、Front Door或某方法"
+    },
+    "its": {
+      "meaning": "它的；文中指NIST或微軟更新的"
+    },
+    "keep": {
+      "meaning": "保存、保留"
+    },
+    "key": {
+      "meaning": "金鑰；用於保護通訊的祕密資訊"
+    },
+    "kinds": {
+      "meaning": "種類"
+    },
+    "later": {
+      "meaning": "稍後的、後續的"
+    },
+    "limits": {
+      "meaning": "限制"
+    },
+    "machines": {
+      "meaning": "機器"
+    },
+    "making": {
+      "meaning": "使變得"
+    },
+    "many": {
+      "meaning": "許多"
+    },
+    "mathematical": {
+      "meaning": "數學的"
+    },
+    "matters": {
+      "meaning": "很重要、值得留意"
+    },
+    "method": {
+      "meaning": "方法"
+    },
+    "methods": {
+      "meaning": "方法（複數）"
+    },
+    "microsoft": {
+      "meaning": "微軟"
+    },
+    "microsoft's": {
+      "meaning": "微軟的"
+    },
+    "migration": {
+      "meaning": "轉換、遷移；文中指換用新的密碼技術"
+    },
+    "more": {
+      "meaning": "更多的；更；more than指不只是"
+    },
+    "much": {
+      "meaning": "多；much more than指遠超過"
+    },
+    "must": {
+      "meaning": "必須"
+    },
+    "national": {
+      "meaning": "國家的、中央層級的"
+    },
+    "network": {
+      "meaning": "網路"
+    },
+    "new": {
+      "meaning": "新的"
+    },
+    "newer": {
+      "meaning": "較新的"
+    },
+    "nist": {
+      "meaning": "美國國家標準暨技術研究院；制定相關密碼技術標準的機構"
+    },
+    "nist's": {
+      "meaning": "美國國家標準暨技術研究院的"
+    },
+    "november": {
+      "meaning": "十一月"
+    },
+    "now": {
+      "meaning": "現在"
+    },
+    "october": {
+      "meaning": "十月"
+    },
+    "of": {
+      "meaning": "…的；表示所屬、性質、內容等關係"
+    },
+    "offers": {
+      "meaning": "提出願意給予或幫忙；也指提供"
+    },
+    "older": {
+      "meaning": "較舊的"
+    },
+    "on": {
+      "meaning": "在某日期；agree on指協調決定"
+    },
+    "one": {
+      "meaning": "一個、一項"
+    },
+    "option": {
+      "meaning": "選項、可行做法"
+    },
+    "ordinary": {
+      "meaning": "日常的、一般的"
+    },
+    "organisations": {
+      "meaning": "組織、機構（複數）"
+    },
+    "others": {
+      "meaning": "其他的；文中指其他標準"
+    },
+    "part": {
+      "meaning": "部分"
+    },
+    "phase": {
+      "meaning": "階段"
+    },
+    "place": {
+      "meaning": "位置、環節"
+    },
+    "plan": {
+      "meaning": "計畫（名詞）；計畫、打算（動詞）"
+    },
+    "post-quantum": {
+      "meaning": "後量子的；指為抵禦未來量子電腦攻擊而設計的密碼技術"
+    },
+    "powerful": {
+      "meaning": "能力強大的；文中指運算能力強"
+    },
+    "practical": {
+      "meaning": "實際的"
+    },
+    "private": {
+      "meaning": "私密的、應保密的"
+    },
+    "problems": {
+      "meaning": "問題；文中指數學難題"
+    },
+    "process": {
+      "meaning": "過程"
+    },
+    "protect": {
+      "meaning": "保護"
+    },
+    "protection": {
+      "meaning": "保護"
+    },
+    "protects": {
+      "meaning": "保護"
+    },
+    "provides": {
+      "meaning": "提供"
+    },
+    "published": {
+      "meaning": "發布"
+    },
+    "purposes": {
+      "meaning": "用途、目的"
+    },
+    "quantum": {
+      "meaning": "量子的；quantum computer指量子電腦"
+    },
+    "reach": {
+      "meaning": "達成；抵達、送達"
+    },
+    "remain": {
+      "meaning": "保持；remain private指維持私密狀態"
+    },
+    "remains": {
+      "meaning": "保持、仍然是"
+    },
+    "replace": {
+      "meaning": "取代"
+    },
+    "report": {
+      "meaning": "報告"
+    },
+    "require": {
+      "meaning": "需要"
+    },
+    "resist": {
+      "meaning": "抵禦"
+    },
+    "resources": {
+      "meaning": "資源"
+    },
+    "retaining": {
+      "meaning": "保留"
+    },
+    "risk": {
+      "meaning": "風險"
+    },
+    "says": {
+      "meaning": "表示、說明"
+    },
+    "schedule": {
+      "meaning": "預定時程"
+    },
+    "scope": {
+      "meaning": "範圍"
+    },
+    "secret": {
+      "meaning": "祕密；文中指雙方共用以保護通訊的祕密資訊"
+    },
+    "secure": {
+      "meaning": "保護、使安全（動詞）；安全的（形容詞）"
+    },
+    "security": {
+      "meaning": "安全、防護"
+    },
+    "separate": {
+      "meaning": "不同的、分開的"
+    },
+    "serve": {
+      "meaning": "發揮作用；serve a purpose 指具有某種用途"
+    },
+    "services": {
+      "meaning": "服務（複數）"
+    },
+    "shared": {
+      "meaning": "共同的"
+    },
+    "show": {
+      "meaning": "顯示、呈現"
+    },
+    "signatures": {
+      "meaning": "簽章；digital signatures指用來驗證身分的數位簽章"
+    },
+    "sits": {
+      "meaning": "位於"
+    },
+    "so": {
+      "meaning": "因此"
+    },
+    "software": {
+      "meaning": "軟體"
+    },
+    "solve": {
+      "meaning": "解決、解開"
+    },
+    "some": {
+      "meaning": "一些"
+    },
+    "standards": {
+      "meaning": "標準"
+    },
+    "stated": {
+      "meaning": "所述的、明確表達的"
+    },
+    "stronger": {
+      "meaning": "更強的"
+    },
+    "sufficiently": {
+      "meaning": "足夠地"
+    },
+    "suppliers": {
+      "meaning": "供應商"
+    },
+    "supply": {
+      "meaning": "供應；supply chain指供應鏈"
+    },
+    "support": {
+      "meaning": "支援、支持"
+    },
+    "supported": {
+      "meaning": "支援的、已獲支援的"
+    },
+    "supports": {
+      "meaning": "支援"
+    },
+    "systems": {
+      "meaning": "系統（複數）"
+    },
+    "task": {
+      "meaning": "工作、任務"
+    },
+    "tasks": {
+      "meaning": "任務、工作（複數）"
+    },
+    "technical": {
+      "meaning": "技術性、實務細節上的"
+    },
+    "technologies": {
+      "meaning": "技術（複數）"
+    },
+    "technology": {
+      "meaning": "科技、技術"
+    },
+    "than": {
+      "meaning": "比；more than指不只是"
+    },
+    "that": {
+      "meaning": "引導關係子句或內容子句的連接詞"
+    },
+    "the": {
+      "meaning": "定冠詞，指特定或前文提過的事物"
+    },
+    "their": {
+      "meaning": "他們的、它們的；文中指兩個系統或各組織的"
+    },
+    "then": {
+      "meaning": "接著、然後"
+    },
+    "these": {
+      "meaning": "這些"
+    },
+    "this": {
+      "meaning": "這"
+    },
+    "those": {
+      "meaning": "那些"
+    },
+    "threat": {
+      "meaning": "威脅"
+    },
+    "threats": {
+      "meaning": "威脅（複數）"
+    },
+    "three": {
+      "meaning": "三個"
+    },
+    "through": {
+      "meaning": "透過"
+    },
+    "tls": {
+      "meaning": "傳輸層安全協定；用來保護網路連線的技術"
+    },
+    "to": {
+      "meaning": "到、向；也用於不定詞，接動詞原形"
+    },
+    "today": {
+      "meaning": "今天、現今"
+    },
+    "transition": {
+      "meaning": "轉型、轉換"
+    },
+    "two": {
+      "meaning": "兩個"
+    },
+    "unlock": {
+      "meaning": "解開；文中指解密已保存的資訊"
+    },
+    "until": {
+      "meaning": "直到…才；在…之前"
+    },
+    "update": {
+      "meaning": "更新"
+    },
+    "us": {
+      "meaning": "美國；文中US為United States的縮寫"
+    },
+    "use": {
+      "meaning": "使用"
+    },
+    "used": {
+      "meaning": "被使用的；used to protect指被用來保護"
+    },
+    "users": {
+      "meaning": "使用者"
+    },
+    "uses": {
+      "meaning": "使用（動詞）；用途（名詞複數）"
+    },
+    "when": {
+      "meaning": "當…時"
+    },
+    "which": {
+      "meaning": "哪些；文中引導所要更換技術的間接問句"
+    },
+    "while": {
+      "meaning": "而；同時"
+    },
+    "why": {
+      "meaning": "為何"
+    },
+    "wider": {
+      "meaning": "範圍更廣的"
+    },
+    "with": {
+      "meaning": "與；隨著、連同"
+    },
+    "work": {
+      "meaning": "運作；work with指與…協同運作"
+    },
+    "years": {
+      "meaning": "年（複數）"
+    }
+  },
+  "quiz": [
+    {
+      "question": "What is the main purpose of the article?",
+      "choices": [
+        {
+          "text": "To announce that every cloud connection is now protected by post-quantum methods.",
+          "explanation": "錯誤。第五段明確指出，目前只涵蓋相容用戶端與Front Door之間的連線。"
+        },
+        {
+          "text": "To explain a new cloud security update within the wider transition to post-quantum protection.",
+          "explanation": "正確。文章介紹微軟的新防護、適用界線及整體標準轉換背景。"
+        },
+        {
+          "text": "To show that all organisations can replace their encryption in exactly the same way.",
+          "explanation": "錯誤。第六段指出各組織的系統、供應商及用途不同。"
+        },
+        {
+          "text": "To argue that digital signatures and connection protection perform the same task.",
+          "explanation": "錯誤。第七段強調兩者的用途不同。"
+        }
+      ],
+      "answerIndex": 1,
+      "explanation": "全文從微軟11月6日的更新出發，說明量子風險、混合式方法、防護範圍，以及更廣泛的轉換工作。因此主旨是把新服務更新放進後量子防護的轉型背景中理解。",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "On November 6, 2026, Microsoft announced that Azure Front Door now supports a new form of protection against future quantum threats."
+        },
+        {
+          "paragraph": 8,
+          "quote": "For the technology industry, these announcements illustrate a gradual transition from standards to practical services."
+        }
+      ]
+    },
+    {
+      "question": "Why might information collected today remain at risk in the future?",
+      "choices": [
+        {
+          "text": "All existing encryption methods can already be broken by any ordinary computer.",
+          "explanation": "錯誤。第三段指出一般電腦不容易解開許多現有加密方法所依據的數學問題。"
+        },
+        {
+          "text": "Digital signatures automatically reveal the contents of stored messages.",
+          "explanation": "錯誤。文章只說數位簽章用於驗證身分，沒有說會洩露訊息內容。"
+        },
+        {
+          "text": "A more powerful future machine could unlock encrypted information that attackers have saved.",
+          "explanation": "正確。第二段說明攻擊者可能先蒐集、保存加密資訊，再等未來有能力的機器解開。"
+        },
+        {
+          "text": "Cloud suppliers are required to publish all private information after several years.",
+          "explanation": "錯誤。正文沒有這種規定，也沒有將風險歸因於供應商必須公開資料。"
+        }
+      ],
+      "answerIndex": 2,
+      "explanation": "風險來自時間差：資訊現在即使是加密狀態，仍可能被先行保存，等未來技術進步後再嘗試解密，尤其影響需要長期保密的資訊。",
+      "evidence": [
+        {
+          "paragraph": 2,
+          "quote": "Attackers could collect encrypted information now and keep it until more powerful machines can unlock it in the future."
+        }
+      ]
+    },
+    {
+      "question": "Which conclusion about the update is best supported by the article?",
+      "choices": [
+        {
+          "text": "It is a step in a wider transition, with further work needed on other connections.",
+          "explanation": "正確。第五段說後端連線防護屬於後續階段，第六段交代整體轉換涉及不同系統與供應鏈。"
+        },
+        {
+          "text": "It removes the need for any conventional method on older clients.",
+          "explanation": "錯誤。第五段指出較舊用戶端仍可使用受支援的傳統方法。"
+        },
+        {
+          "text": "It has already extended the new protection to every service behind Front Door.",
+          "explanation": "錯誤。第五段明確表示延伸至後端連線是後續工程階段。"
+        },
+        {
+          "text": "It proves that encryption no longer requires computing resources.",
+          "explanation": "錯誤。第六段指出結合新舊方法可能需要額外運算資源。"
+        }
+      ],
+      "answerIndex": 0,
+      "explanation": "更新有明確的現階段邊界，不能把用戶端至Front Door的防護，直接視為全部後端連線也已完成轉換。整體轉型仍涉及供應鏈及後續工程工作。",
+      "evidence": [
+        {
+          "paragraph": 5,
+          "quote": "Extending the new protection to those connections is a later engineering phase."
+        },
+        {
+          "paragraph": 6,
+          "quote": "Their entire supply chain can affect the transition."
+        }
+      ]
+    }
+  ]
+}
