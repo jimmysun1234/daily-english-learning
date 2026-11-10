@@ -1,0 +1,1098 @@
+{
+  "version": 1,
+  "date": "2026-11-11",
+  "level": "B2",
+  "title": "TSMC's October Sales Reach a New High for 2026",
+  "topic": "科技業新聞",
+  "sources": [
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company (TSMC)",
+      "title": "TSMC 2026 Monthly Revenue",
+      "url": "https://investor.tsmc.com/english/monthly-revenue/2026"
+    },
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company (TSMC)",
+      "title": "Financial Calendar — TSMC Monthly Sales, October 2026",
+      "url": "https://investor.tsmc.com/english/financial-calendar"
+    },
+    {
+      "name": "Taiwan Semiconductor Manufacturing Company (TSMC)",
+      "title": "Company Info",
+      "url": "https://www.tsmc.com/english/aboutTSMC/company_profile"
+    },
+    {
+      "name": "US Securities and Exchange Commission (SEC)",
+      "title": "Beginners' Guide to Financial Statement",
+      "url": "https://www.sec.gov/investor/pubs/begfinstmtguide.htm"
+    }
+  ],
+  "cover": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/TSMC_AP2_building_May_2025.jpg/960px-TSMC_AP2_building_May_2025.jpg",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:TSMC_AP2_building_May_2025.jpg",
+    "credit": "4300streetcar / Wikimedia Commons",
+    "alt": "台積電先進封裝二廠的一棟建築；2025年5月27日資料照，用於示意，非本次營收公告現場。",
+    "license": "CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/；使用Commons縮圖，未裁切。"
+  },
+  "paragraphs": [
+    [
+      {
+        "en": "TSMC's October sales reached a new high for 2026. ",
+        "zh": "台積電10月營收創下2026年以來新高。"
+      },
+      {
+        "en": "The company's financial calendar listed November 10 ",
+        "zh": "公司財務行事曆將11月10日"
+      },
+      {
+        "en": "as the reporting date for October sales. ",
+        "zh": "列為10月營收的公布日期。"
+      },
+      {
+        "en": "Its official monthly table now shows ",
+        "zh": "官方月營收表目前列出"
+      },
+      {
+        "en": "net revenue of about NT$586.89 billion, ",
+        "zh": "營業收入淨額約為新台幣5,868.9億元，"
+      },
+      {
+        "en": "up 59.7% from October 2025. ",
+        "zh": "較2025年10月增加59.7%。"
+      },
+      {
+        "en": "That exceeds every earlier monthly figure listed for this year.",
+        "zh": "這高於表中今年此前各月的所有數字。"
+      }
+    ],
+    [
+      {
+        "en": "The longer comparison also shows growth. ",
+        "zh": "拉長比較期間，也能看到成長。"
+      },
+      {
+        "en": "Revenue for January through October ",
+        "zh": "1月至10月的營收"
+      },
+      {
+        "en": "reached about NT$4.486 trillion, ",
+        "zh": "約達新台幣4.486兆元，"
+      },
+      {
+        "en": "43.3% above the same period in 2025. ",
+        "zh": "較2025年同期增加43.3%。"
+      },
+      {
+        "en": "The monthly and ten-month rates answer different questions. ",
+        "zh": "單月與十個月累計的成長率，回答的是不同問題。"
+      },
+      {
+        "en": "One compares a single month with its counterpart ",
+        "zh": "其中一個是比較單一月份與"
+      },
+      {
+        "en": "in the previous year; ",
+        "zh": "前一年的同一個月；"
+      },
+      {
+        "en": "the other covers a much longer period of business.",
+        "zh": "另一個則涵蓋更長期間的業務表現。"
+      }
+    ],
+    [
+      {
+        "en": "These figures come from a company ",
+        "zh": "這些數字來自一家"
+      },
+      {
+        "en": "with a particular role in the chip industry. ",
+        "zh": "在晶片產業中扮演特定角色的公司。"
+      },
+      {
+        "en": "TSMC's company profile describes its business ",
+        "zh": "台積電的公司簡介說明，其業務"
+      },
+      {
+        "en": "as manufacturing customers' products. ",
+        "zh": "是製造客戶的產品。"
+      },
+      {
+        "en": "This is the foundry model: ",
+        "zh": "這就是晶圓代工模式："
+      },
+      {
+        "en": "the manufacturer supplies production expertise ",
+        "zh": "製造商提供生產專業能力，"
+      },
+      {
+        "en": "for products developed by its customers. ",
+        "zh": "為客戶開發的產品進行製造。"
+      },
+      {
+        "en": "It helps explain why TSMC's business ",
+        "zh": "這有助於說明，台積電的業務為何"
+      },
+      {
+        "en": "is connected to many different technology markets.",
+        "zh": "會與多種不同科技市場相互連結。"
+      }
+    ],
+    [
+      {
+        "en": "The profile lists applications including powerful computing systems, ",
+        "zh": "公司簡介列出的應用包括高效能運算系統、"
+      },
+      {
+        "en": "smartphones, connected devices and vehicles. ",
+        "zh": "智慧型手機、連網裝置與汽車。"
+      },
+      {
+        "en": "It says that in 2025, ",
+        "zh": "簡介指出，在2025年，"
+      },
+      {
+        "en": "TSMC manufactured more than 12,000 products ",
+        "zh": "台積電製造了超過12,000種產品，"
+      },
+      {
+        "en": "for more than 500 customers. ",
+        "zh": "服務超過500家客戶。"
+      },
+      {
+        "en": "Those historical figures describe the range of its business. ",
+        "zh": "這些歷史數據描述了其業務範圍。"
+      },
+      {
+        "en": "They do not identify which customers ",
+        "zh": "但並未指出哪些客戶"
+      },
+      {
+        "en": "contributed to October's increase. ",
+        "zh": "對10月的成長作出貢獻。"
+      },
+      {
+        "en": "The monthly table does not provide that breakdown.",
+        "zh": "月營收表也沒有提供這項細分資料。"
+      }
+    ],
+    [
+      {
+        "en": "Higher revenue is also different from higher profit. ",
+        "zh": "營收增加與獲利增加也是不同概念。"
+      },
+      {
+        "en": "Revenue records sales, while profit takes account ",
+        "zh": "營收記錄銷售收入，而獲利還必須考量"
+      },
+      {
+        "en": "of the costs involved in earning them. ",
+        "zh": "為賺取這些收入所投入的成本。"
+      },
+      {
+        "en": "The US Securities and Exchange Commission explains ",
+        "zh": "美國證券交易委員會說明，"
+      },
+      {
+        "en": "that an income statement includes both revenue and expenses. ",
+        "zh": "損益表同時涵蓋營收與費用。"
+      },
+      {
+        "en": "Net income comes after the relevant costs ",
+        "zh": "淨利是在相關成本"
+      },
+      {
+        "en": "and other expenses have been deducted. ",
+        "zh": "及其他費用都扣除之後才得出的。"
+      },
+      {
+        "en": "A sales total alone cannot supply that result.",
+        "zh": "因此，單憑營收總額無法得出這個結果。"
+      }
+    ],
+    [
+      {
+        "en": "Cash flow supplies another part of the picture. ",
+        "zh": "現金流量則補充了另一個面向。"
+      },
+      {
+        "en": "It tracks money moving into and out of a company. ",
+        "zh": "它追蹤資金流入與流出公司的情況。"
+      },
+      {
+        "en": "That differs from the profit reported ",
+        "zh": "這與損益表中"
+      },
+      {
+        "en": "on an income statement. ",
+        "zh": "呈報的獲利有所不同。"
+      },
+      {
+        "en": "These measures are related, but each has a separate purpose. ",
+        "zh": "這些指標彼此相關，但各有不同用途。"
+      },
+      {
+        "en": "A fuller description of a chipmaker's financial condition ",
+        "zh": "要更完整地描述一家晶片製造商的財務狀況，"
+      },
+      {
+        "en": "therefore requires more than its monthly sales table.",
+        "zh": "就需要月營收表以外的更多資訊。"
+      }
+    ],
+    [
+      {
+        "en": "TSMC labels its 2026 monthly figures as unaudited. ",
+        "zh": "台積電將2026年的月營收數據標示為未經查核。"
+      },
+      {
+        "en": "The table also states that its amounts ",
+        "zh": "表格也說明，其中的金額"
+      },
+      {
+        "en": "are expressed in millions of New Taiwan dollars. ",
+        "zh": "是以新台幣百萬元為單位。"
+      },
+      {
+        "en": "Both details matter when interpreting the release. ",
+        "zh": "解讀這些資料時，這兩項細節都很重要。"
+      },
+      {
+        "en": "The unit explains the size of the numbers, ",
+        "zh": "單位說明了數字的量級，"
+      },
+      {
+        "en": "while the audit label identifies their reporting status. ",
+        "zh": "而查核標示則指出數據的報告狀態。"
+      },
+      {
+        "en": "Neither detail should disappear when the figures are summarised.",
+        "zh": "摘要數據時，這些細節都應保留。"
+      }
+    ],
+    [
+      {
+        "en": "October's figures show strong sales growth ",
+        "zh": "10月數據顯示，營收出現強勁成長，"
+      },
+      {
+        "en": "at a manufacturer serving several technology markets. ",
+        "zh": "而這家製造商服務多種科技市場。"
+      },
+      {
+        "en": "They provide a timely update on one important business ",
+        "zh": "這些數字提供了重要業者的最新動態，"
+      },
+      {
+        "en": "in the semiconductor supply chain. ",
+        "zh": "該業者位於半導體供應鏈之中。"
+      },
+      {
+        "en": "Understanding what the figures measure, ",
+        "zh": "了解這些數字衡量什麼、"
+      },
+      {
+        "en": "which period they cover and which information is absent ",
+        "zh": "涵蓋哪個期間，以及缺少哪些資訊，"
+      },
+      {
+        "en": "keeps that news clear and precise.",
+        "zh": "能讓這則新聞保持清楚而精確。"
+      }
+    ]
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一個、一種；不定冠詞"
+    },
+    "about": {
+      "meaning": "大約；關於"
+    },
+    "above": {
+      "meaning": "高於；文中指營收比前期高出某百分比"
+    },
+    "absent": {
+      "meaning": "缺少的、未提供的"
+    },
+    "account": {
+      "meaning": "考量；take account of指將…納入考慮"
+    },
+    "after": {
+      "meaning": "之後"
+    },
+    "alone": {
+      "meaning": "單獨地；僅僅"
+    },
+    "also": {
+      "meaning": "也、同時"
+    },
+    "amounts": {
+      "meaning": "金額"
+    },
+    "an": {
+      "meaning": "一個、一種；母音發音前的不定冠詞"
+    },
+    "and": {
+      "meaning": "和、而且；連接詞"
+    },
+    "another": {
+      "meaning": "另一個；再一次的"
+    },
+    "answer": {
+      "meaning": "回答"
+    },
+    "applications": {
+      "meaning": "應用、應用領域"
+    },
+    "are": {
+      "meaning": "是；也可作被動語態的助動詞"
+    },
+    "as": {
+      "meaning": "作為；描述為"
+    },
+    "at": {
+      "meaning": "在；文中指在某一家製造商"
+    },
+    "audit": {
+      "meaning": "查核；文中指財務查核"
+    },
+    "been": {
+      "meaning": "be 的過去分詞，文中與助動詞連用構成完成式或被動語態"
+    },
+    "billion": {
+      "meaning": "十億"
+    },
+    "both": {
+      "meaning": "兩者都；both A and B指A與B兩者"
+    },
+    "breakdown": {
+      "meaning": "細分資料"
+    },
+    "business": {
+      "meaning": "業務、事業"
+    },
+    "but": {
+      "meaning": "但是"
+    },
+    "by": {
+      "meaning": "由；引出執行者"
+    },
+    "calendar": {
+      "meaning": "行事曆"
+    },
+    "cannot": {
+      "meaning": "不能、無法"
+    },
+    "cash": {
+      "meaning": "現金"
+    },
+    "chain": {
+      "meaning": "鏈；supply chain 指供應鏈"
+    },
+    "chip": {
+      "meaning": "晶片"
+    },
+    "chipmaker's": {
+      "meaning": "晶片製造商的"
+    },
+    "clear": {
+      "meaning": "明確的"
+    },
+    "come": {
+      "meaning": "來；come from 指來自"
+    },
+    "comes": {
+      "meaning": "產生；comes after指在…之後得出"
+    },
+    "commission": {
+      "meaning": "委員會；文中為美國證券交易委員會名稱的一部分"
+    },
+    "company": {
+      "meaning": "公司"
+    },
+    "company's": {
+      "meaning": "公司的（所有格）"
+    },
+    "compares": {
+      "meaning": "比較"
+    },
+    "comparison": {
+      "meaning": "比較"
+    },
+    "computing": {
+      "meaning": "運算"
+    },
+    "condition": {
+      "meaning": "狀態"
+    },
+    "connected": {
+      "meaning": "相互連接的"
+    },
+    "contributed": {
+      "meaning": "貢獻"
+    },
+    "costs": {
+      "meaning": "成本"
+    },
+    "counterpart": {
+      "meaning": "對應者；文中指前一年的同一月份"
+    },
+    "cover": {
+      "meaning": "涵蓋"
+    },
+    "covers": {
+      "meaning": "涵蓋；cover的第三人稱單數"
+    },
+    "customers": {
+      "meaning": "客戶（複數）"
+    },
+    "date": {
+      "meaning": "日期"
+    },
+    "deducted": {
+      "meaning": "扣除的"
+    },
+    "describe": {
+      "meaning": "描述"
+    },
+    "describes": {
+      "meaning": "描述"
+    },
+    "description": {
+      "meaning": "描述、說法"
+    },
+    "detail": {
+      "meaning": "細節"
+    },
+    "details": {
+      "meaning": "細節"
+    },
+    "developed": {
+      "meaning": "開發的、研發的"
+    },
+    "devices": {
+      "meaning": "裝置"
+    },
+    "different": {
+      "meaning": "不同的"
+    },
+    "differs": {
+      "meaning": "不同；differs from 指與…不同"
+    },
+    "disappear": {
+      "meaning": "消失、被省略"
+    },
+    "do": {
+      "meaning": "助動詞，構成否定或疑問"
+    },
+    "does": {
+      "meaning": "助動詞，用於第三人稱單數"
+    },
+    "dollars": {
+      "meaning": "元；New Taiwan dollars指新台幣"
+    },
+    "each": {
+      "meaning": "每一個"
+    },
+    "earlier": {
+      "meaning": "先前的"
+    },
+    "earning": {
+      "meaning": "賺取、取得"
+    },
+    "every": {
+      "meaning": "每個"
+    },
+    "exceeds": {
+      "meaning": "超過"
+    },
+    "exchange": {
+      "meaning": "交易；文中為美國證券交易委員會名稱的一部分"
+    },
+    "expenses": {
+      "meaning": "費用、支出"
+    },
+    "expertise": {
+      "meaning": "專業能力"
+    },
+    "explain": {
+      "meaning": "解釋"
+    },
+    "explains": {
+      "meaning": "解釋"
+    },
+    "expressed": {
+      "meaning": "表達、表示；expressed in指以某單位表示"
+    },
+    "figure": {
+      "meaning": "數字"
+    },
+    "figures": {
+      "meaning": "數字、數據"
+    },
+    "financial": {
+      "meaning": "資金的、財務的"
+    },
+    "flow": {
+      "meaning": "流動"
+    },
+    "for": {
+      "meaning": "為了、對於；也表示某時段的"
+    },
+    "foundry": {
+      "meaning": "晶圓代工；替客戶製造晶片的業務"
+    },
+    "from": {
+      "meaning": "從、由；from...to...指從…到…"
+    },
+    "fuller": {
+      "meaning": "更完整的"
+    },
+    "growth": {
+      "meaning": "成長"
+    },
+    "has": {
+      "meaning": "有、具有"
+    },
+    "have": {
+      "meaning": "助動詞；與been及過去分詞連用構成完成式被動語態"
+    },
+    "helps": {
+      "meaning": "幫助"
+    },
+    "high": {
+      "meaning": "高點、新高"
+    },
+    "higher": {
+      "meaning": "較高的"
+    },
+    "historical": {
+      "meaning": "歷史的、過去的"
+    },
+    "identifies": {
+      "meaning": "指出、列出"
+    },
+    "identify": {
+      "meaning": "辨識、揭露"
+    },
+    "important": {
+      "meaning": "重要的"
+    },
+    "in": {
+      "meaning": "在某時間、領域或範圍中"
+    },
+    "includes": {
+      "meaning": "包括"
+    },
+    "including": {
+      "meaning": "包含"
+    },
+    "income": {
+      "meaning": "所得；net income指淨利，income statement指損益表"
+    },
+    "increase": {
+      "meaning": "增加"
+    },
+    "industry": {
+      "meaning": "產業；業界"
+    },
+    "information": {
+      "meaning": "資訊"
+    },
+    "interpreting": {
+      "meaning": "解讀"
+    },
+    "into": {
+      "meaning": "進入；文中指資金流入"
+    },
+    "involved": {
+      "meaning": "涉及的、相關的"
+    },
+    "is": {
+      "meaning": "是；也可作被動或進行式的助動詞"
+    },
+    "it": {
+      "meaning": "它；文中指代工模式、公司簡介或現金流量"
+    },
+    "its": {
+      "meaning": "它的；文中指台積電、製造商或某月份的"
+    },
+    "january": {
+      "meaning": "一月"
+    },
+    "keeps": {
+      "meaning": "使維持"
+    },
+    "label": {
+      "meaning": "標示"
+    },
+    "labels": {
+      "meaning": "標示為"
+    },
+    "listed": {
+      "meaning": "列為、列出的"
+    },
+    "lists": {
+      "meaning": "列出"
+    },
+    "longer": {
+      "meaning": "更長的"
+    },
+    "manufactured": {
+      "meaning": "製造了"
+    },
+    "manufacturer": {
+      "meaning": "製造商"
+    },
+    "manufacturing": {
+      "meaning": "製造"
+    },
+    "many": {
+      "meaning": "許多"
+    },
+    "markets": {
+      "meaning": "市場（複數）"
+    },
+    "matter": {
+      "meaning": "重要、值得留意"
+    },
+    "measure": {
+      "meaning": "衡量（動詞）"
+    },
+    "measures": {
+      "meaning": "指標、衡量方式"
+    },
+    "millions": {
+      "meaning": "百萬；in millions指以百萬為單位"
+    },
+    "model": {
+      "meaning": "模式；文中指商業模式"
+    },
+    "money": {
+      "meaning": "資金、金錢"
+    },
+    "month": {
+      "meaning": "月份"
+    },
+    "monthly": {
+      "meaning": "每月的、單月的"
+    },
+    "more": {
+      "meaning": "更多；more than指超過、不只是"
+    },
+    "moving": {
+      "meaning": "流動；文中指資金流動"
+    },
+    "much": {
+      "meaning": "多；much more than指遠超過"
+    },
+    "neither": {
+      "meaning": "兩者都不；neither detail指兩項細節都不應被省略"
+    },
+    "net": {
+      "meaning": "淨額的；net revenue指營業收入淨額，net income指淨利"
+    },
+    "new": {
+      "meaning": "新的"
+    },
+    "news": {
+      "meaning": "新聞"
+    },
+    "not": {
+      "meaning": "不、沒有"
+    },
+    "november": {
+      "meaning": "十一月"
+    },
+    "now": {
+      "meaning": "現在"
+    },
+    "nt": {
+      "meaning": "NT$中的字母部分，代表新台幣"
+    },
+    "numbers": {
+      "meaning": "數字（複數）"
+    },
+    "october": {
+      "meaning": "十月"
+    },
+    "october's": {
+      "meaning": "十月的"
+    },
+    "of": {
+      "meaning": "…的；表示所屬、性質、內容等關係"
+    },
+    "official": {
+      "meaning": "官方的"
+    },
+    "on": {
+      "meaning": "在某張報表中；關於"
+    },
+    "one": {
+      "meaning": "一個、一項"
+    },
+    "other": {
+      "meaning": "其他的；另一個"
+    },
+    "out": {
+      "meaning": "向外；out of指流出"
+    },
+    "part": {
+      "meaning": "部分"
+    },
+    "particular": {
+      "meaning": "特定的"
+    },
+    "period": {
+      "meaning": "期間"
+    },
+    "picture": {
+      "meaning": "圖像；a fuller picture比喻更完整的認識"
+    },
+    "powerful": {
+      "meaning": "能力強大的；文中指運算能力強"
+    },
+    "precise": {
+      "meaning": "精確的"
+    },
+    "previous": {
+      "meaning": "前一個的"
+    },
+    "production": {
+      "meaning": "生產"
+    },
+    "products": {
+      "meaning": "產品"
+    },
+    "profile": {
+      "meaning": "簡介"
+    },
+    "profit": {
+      "meaning": "獲利、利潤"
+    },
+    "provide": {
+      "meaning": "提供"
+    },
+    "purpose": {
+      "meaning": "目的、用途"
+    },
+    "questions": {
+      "meaning": "問題（複數）"
+    },
+    "range": {
+      "meaning": "範圍"
+    },
+    "rates": {
+      "meaning": "比率；文中指成長率"
+    },
+    "reached": {
+      "meaning": "達到"
+    },
+    "records": {
+      "meaning": "記錄、載明"
+    },
+    "related": {
+      "meaning": "相關的"
+    },
+    "release": {
+      "meaning": "公布的資料、發布資訊"
+    },
+    "relevant": {
+      "meaning": "相關的"
+    },
+    "reported": {
+      "meaning": "回報的、回報了"
+    },
+    "reporting": {
+      "meaning": "公布、呈報；reporting status指報告狀態"
+    },
+    "requires": {
+      "meaning": "需要"
+    },
+    "result": {
+      "meaning": "結果"
+    },
+    "revenue": {
+      "meaning": "營收"
+    },
+    "role": {
+      "meaning": "角色、任務職責"
+    },
+    "sales": {
+      "meaning": "銷售額；銷售"
+    },
+    "same": {
+      "meaning": "相同的"
+    },
+    "says": {
+      "meaning": "表示、說明"
+    },
+    "securities": {
+      "meaning": "證券；為美國證券交易委員會名稱的一部分"
+    },
+    "semiconductor": {
+      "meaning": "半導體"
+    },
+    "separate": {
+      "meaning": "不同的、分開的"
+    },
+    "serving": {
+      "meaning": "服務、為…提供產品或服務"
+    },
+    "several": {
+      "meaning": "數個、多項"
+    },
+    "should": {
+      "meaning": "應該、應當"
+    },
+    "show": {
+      "meaning": "顯示、呈現"
+    },
+    "shows": {
+      "meaning": "顯示"
+    },
+    "single": {
+      "meaning": "單一的、一次的"
+    },
+    "size": {
+      "meaning": "規模、量級"
+    },
+    "smartphones": {
+      "meaning": "智慧型手機（複數）"
+    },
+    "statement": {
+      "meaning": "報表；income statement指損益表"
+    },
+    "states": {
+      "meaning": "指出、說明"
+    },
+    "status": {
+      "meaning": "狀態"
+    },
+    "strong": {
+      "meaning": "強勁的"
+    },
+    "summarised": {
+      "meaning": "摘要、彙整的；summarise的過去分詞"
+    },
+    "supplies": {
+      "meaning": "提供；supply的第三人稱單數"
+    },
+    "supply": {
+      "meaning": "提供（動詞）；supply chain指供應鏈"
+    },
+    "systems": {
+      "meaning": "系統（複數）"
+    },
+    "table": {
+      "meaning": "表格；文中指月營收表"
+    },
+    "taiwan": {
+      "meaning": "臺灣；New Taiwan dollars指新台幣"
+    },
+    "takes": {
+      "meaning": "take的第三人稱單數；takes account of指考量"
+    },
+    "technology": {
+      "meaning": "科技、技術"
+    },
+    "ten-month": {
+      "meaning": "十個月的"
+    },
+    "than": {
+      "meaning": "比；more than指不只是"
+    },
+    "that": {
+      "meaning": "那個；也可引導內容子句或關係子句"
+    },
+    "the": {
+      "meaning": "定冠詞，指特定或前文提過的事物"
+    },
+    "their": {
+      "meaning": "它們的；文中指數據的"
+    },
+    "them": {
+      "meaning": "它們；文中指銷售收入或數字"
+    },
+    "therefore": {
+      "meaning": "因此"
+    },
+    "these": {
+      "meaning": "這些"
+    },
+    "they": {
+      "meaning": "它們；文中指歷史數據、指標或營收數字"
+    },
+    "this": {
+      "meaning": "這"
+    },
+    "those": {
+      "meaning": "那些"
+    },
+    "through": {
+      "meaning": "從…到…；文中指1月至10月"
+    },
+    "timely": {
+      "meaning": "及時的"
+    },
+    "to": {
+      "meaning": "到、向；也用於不定詞，接動詞原形"
+    },
+    "total": {
+      "meaning": "總額、總數"
+    },
+    "tracks": {
+      "meaning": "追蹤、記錄"
+    },
+    "trillion": {
+      "meaning": "兆；一兆等於一萬億"
+    },
+    "tsmc": {
+      "meaning": "台積電，半導體製造公司名稱"
+    },
+    "tsmc's": {
+      "meaning": "台積電公司的（所有格）"
+    },
+    "unaudited": {
+      "meaning": "未經查核的"
+    },
+    "understanding": {
+      "meaning": "理解"
+    },
+    "unit": {
+      "meaning": "單位"
+    },
+    "up": {
+      "meaning": "增加、上升"
+    },
+    "update": {
+      "meaning": "更新"
+    },
+    "us": {
+      "meaning": "美國；文中US為United States的縮寫"
+    },
+    "vehicles": {
+      "meaning": "車輛"
+    },
+    "what": {
+      "meaning": "什麼；引導疑問句或名詞子句"
+    },
+    "when": {
+      "meaning": "當…時"
+    },
+    "which": {
+      "meaning": "哪個、哪些；可引導關係子句或間接問句"
+    },
+    "while": {
+      "meaning": "而；同時"
+    },
+    "why": {
+      "meaning": "為何"
+    },
+    "with": {
+      "meaning": "與；隨著、連同"
+    },
+    "year": {
+      "meaning": "年"
+    }
+  },
+  "quiz": [
+    {
+      "question": "What is the main purpose of the article?",
+      "choices": [
+        {
+          "text": "To predict the exact profits of all semiconductor companies for the rest of 2026.",
+          "explanation": "錯誤。文章並未預測各家公司的獲利，還特別區分營收與獲利。"
+        },
+        {
+          "text": "To describe TSMC’s October sales growth and explain what the figures do and do not show.",
+          "explanation": "正確。文章介紹最新營收成長，並交代期間、業務背景與數據所缺少的資訊。"
+        },
+        {
+          "text": "To announce that TSMC has stopped serving smartphone customers.",
+          "explanation": "錯誤。第四段將智慧型手機列為其應用市場之一，並未宣布停止服務。"
+        },
+        {
+          "text": "To compare the retail prices of several consumer devices.",
+          "explanation": "錯誤。文章沒有比較消費裝置售價，而是討論晶圓代工與公司營收數據。"
+        }
+      ],
+      "answerIndex": 1,
+      "explanation": "全文以台積電10月營收創今年新高為新聞起點，說明單月與累計成長，並以晶圓代工業務、營收與獲利差異、單位及查核狀態補充背景。",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "TSMC's October sales reached a new high for 2026."
+        },
+        {
+          "paragraph": 8,
+          "quote": "Understanding what the figures measure, which period they cover and which information is absent keeps that news clear and precise."
+        }
+      ]
+    },
+    {
+      "question": "Why should the 59.7% and 43.3% growth rates be interpreted separately?",
+      "choices": [
+        {
+          "text": "They compare revenue over different lengths of time.",
+          "explanation": "正確。59.7%比較單一10月的年增率，43.3%比較前十個月累計營收。"
+        },
+        {
+          "text": "One measures profit and the other measures cash flow.",
+          "explanation": "錯誤。這兩個比率都是營收成長率，並非獲利或現金流量。"
+        },
+        {
+          "text": "They describe two competing manufacturers.",
+          "explanation": "錯誤。兩個數字都指台積電，只是比較期間不同。"
+        },
+        {
+          "text": "One is a forecast and the other is a customer count.",
+          "explanation": "錯誤。兩者都來自已列出的營收資料，並不是預測或客戶數量。"
+        }
+      ],
+      "answerIndex": 0,
+      "explanation": "比較期間決定了成長率的意義。單月比率觀察今年10月相對去年10月的變化；累計比率則涵蓋1月至10月，不能把兩者當作同一期間的不同答案。",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "net revenue of about NT$586.89 billion, up 59.7% from October 2025."
+        },
+        {
+          "paragraph": 2,
+          "quote": "The monthly and ten-month rates answer different questions. One compares a single month with its counterpart in the previous year; the other covers a much longer period of business."
+        }
+      ]
+    },
+    {
+      "question": "Which conclusion is best supported by the monthly sales information described in the article?",
+      "choices": [
+        {
+          "text": "Every customer contributed equally to the revenue increase.",
+          "explanation": "錯誤。第四段指出月營收表沒有提供各客戶的細分貢獻。"
+        },
+        {
+          "text": "The sales total proves that October’s profit increased at the same rate.",
+          "explanation": "錯誤。第五段指出營收與獲利不同，僅靠營收無法得出扣除成本後的結果。"
+        },
+        {
+          "text": "TSMC’s October revenue grew, while customer contributions and profit require additional information.",
+          "explanation": "正確。第一段確認營收成長，第四、五段分別說明客戶貢獻與獲利資訊的限制。"
+        },
+        {
+          "text": "The unaudited label means that the amounts are expressed in US dollars.",
+          "explanation": "錯誤。查核狀態與貨幣單位是不同資訊，第七段指出單位是新台幣百萬元。"
+        }
+      ],
+      "answerIndex": 2,
+      "explanation": "營收數據支持台積電10月銷售成長的結論，但沒有客戶細分，也沒有提供扣除成本及費用後的獲利。不能由同一營收總額推定這些未提供的結果。",
+      "evidence": [
+        {
+          "paragraph": 4,
+          "quote": "They do not identify which customers contributed to October's increase. The monthly table does not provide that breakdown."
+        },
+        {
+          "paragraph": 5,
+          "quote": "A sales total alone cannot supply that result."
+        }
+      ]
+    }
+  ]
+}

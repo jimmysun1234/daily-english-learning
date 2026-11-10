@@ -2,6 +2,12 @@
   "version": 1,
   "articles": [
     {
+      "date": "2026-11-11",
+      "title": "TSMC's October Sales Reach a New High for 2026",
+      "topic": "科技業新聞",
+      "sha256": "93b347560cfbbfdcb2b1b226912cee0838f367a2d979d713b09fb1b9fe0da4d3"
+    },
+    {
       "date": "2026-11-10",
       "title": "As COP31 Opens, Climate Data Must Reach Communities",
       "topic": "國際時事",
