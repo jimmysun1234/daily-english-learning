@@ -1,0 +1,1124 @@
+{
+  "version": 1,
+  "date": "2026-11-12",
+  "level": "B2",
+  "title": "Samsung Connects Galaxy Gallery with Google Storage",
+  "topic": "科技業新聞",
+  "sources": [
+    {
+      "name": "Samsung Global Newsroom",
+      "title": "Samsung Gallery Makes It Easier To Access Photos and Videos Across Galaxy Devices",
+      "url": "https://news.samsung.com/global/samsung-gallery-makes-it-easier-to-access-photos-and-videos-across-galaxy-devices"
+    },
+    {
+      "name": "Google Photos Help",
+      "title": "Back up photos & videos",
+      "url": "https://support.google.com/photos/answer/6193313?hl=en"
+    },
+    {
+      "name": "Google Photos Help",
+      "title": "Check your backup",
+      "url": "https://support.google.com/photos/answer/9343402?hl=en"
+    },
+    {
+      "name": "Google Photos Help",
+      "title": "Manage your storage",
+      "url": "https://support.google.com/photos/answer/9284827?co=GENIE&hl=en"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "en": "In a November 10 announcement, ",
+        "zh": "在11月10日的公告中，"
+      },
+      {
+        "en": "Samsung described a Gallery service ",
+        "zh": "三星介紹了一項相簿服務，"
+      },
+      {
+        "en": "that connects its photo app with Google storage. ",
+        "zh": "將自家的相片應用程式與Google儲存空間連結。"
+      },
+      {
+        "en": "The service initially supports selected phones and tablets ",
+        "zh": "這項服務初期支援部分手機和平板電腦，"
+      },
+      {
+        "en": "running One UI 9, ",
+        "zh": "且須搭載One UI 9，"
+      },
+      {
+        "en": "and availability varies by market. ",
+        "zh": "實際供應情況則因市場而異。"
+      },
+      {
+        "en": "The collaboration brings cloud access directly ",
+        "zh": "這項合作將雲端存取功能直接"
+      },
+      {
+        "en": "into Samsung's existing photo app, ",
+        "zh": "整合進三星既有的相片應用程式，"
+      },
+      {
+        "en": "so users can browse their synchronized collection ",
+        "zh": "讓使用者可以瀏覽已同步的相片集，"
+      },
+      {
+        "en": "in a familiar interface.",
+        "zh": "並使用熟悉的操作介面。"
+      }
+    ],
+    [
+      {
+        "en": "To view photos across supported devices, ",
+        "zh": "若要跨支援的裝置瀏覽相片，"
+      },
+      {
+        "en": "users need the same Samsung and Google accounts ",
+        "zh": "使用者必須登入相同的三星與Google帳戶，"
+      },
+      {
+        "en": "and must enable synchronization on each device. ",
+        "zh": "並在各裝置上開啟同步功能。"
+      },
+      {
+        "en": "A new device can display previews ",
+        "zh": "新裝置可以顯示預覽，"
+      },
+      {
+        "en": "while original files remain online. ",
+        "zh": "而原始檔案仍保留在雲端。"
+      },
+      {
+        "en": "Users can download originals when needed. ",
+        "zh": "使用者可以在需要時下載原始檔。"
+      },
+      {
+        "en": "For example, a picture taken on a Galaxy phone ",
+        "zh": "例如，用Galaxy手機拍下的相片，"
+      },
+      {
+        "en": "can later be viewed in Gallery on a tablet ",
+        "zh": "之後便能在平板電腦的相簿中瀏覽，"
+      },
+      {
+        "en": "with the required accounts and settings.",
+        "zh": "前提是使用所需的帳戶與設定。"
+      }
+    ],
+    [
+      {
+        "en": "Samsung also offers a feature ",
+        "zh": "三星也提供一項功能，"
+      },
+      {
+        "en": "that removes synchronized originals from a device ",
+        "zh": "可從裝置移除已同步的原始檔案，"
+      },
+      {
+        "en": "while keeping small preview images visible. ",
+        "zh": "同時繼續顯示小型預覽圖。"
+      },
+      {
+        "en": "However, deleting a synchronized item in Gallery ",
+        "zh": "不過，若在相簿中刪除已同步的項目，"
+      },
+      {
+        "en": "also removes it from linked Google storage ",
+        "zh": "也會將它從連結的Google儲存空間中移除，"
+      },
+      {
+        "en": "and other connected Galaxy devices.",
+        "zh": "其他已連結的Galaxy裝置也會移除該項目。"
+      }
+    ],
+    [
+      {
+        "en": "There is another important limit. ",
+        "zh": "此外，還有一項重要限制。"
+      },
+      {
+        "en": "At launch, pictures already stored in Google storage ",
+        "zh": "服務推出時，原本已存於Google儲存空間的相片"
+      },
+      {
+        "en": "will not automatically appear in Gallery. ",
+        "zh": "不會自動顯示在三星相簿中。"
+      },
+      {
+        "en": "The service uses existing account capacity ",
+        "zh": "這項服務使用帳戶既有的儲存容量，"
+      },
+      {
+        "en": "rather than providing an additional storage allowance.",
+        "zh": "而不會額外提供一份儲存額度。"
+      }
+    ],
+    [
+      {
+        "en": "Google's general backup documentation provides useful background. ",
+        "zh": "Google的一般備份說明文件提供了實用的背景資訊。"
+      },
+      {
+        "en": "In Google Photos, enabling backup ",
+        "zh": "在Google相簿中，開啟備份"
+      },
+      {
+        "en": "allows photos and videos to be saved automatically. ",
+        "zh": "就能自動儲存相片和影片。"
+      },
+      {
+        "en": "Saved items can be accessed on signed-in devices, ",
+        "zh": "已儲存的項目可在登入帳戶的裝置上存取，"
+      },
+      {
+        "en": "and they remain private unless shared. ",
+        "zh": "除非主動分享，否則不會公開。"
+      },
+      {
+        "en": "Google also explains that the app ",
+        "zh": "Google也說明，這款應用程式"
+      },
+      {
+        "en": "can display files stored only on a phone. ",
+        "zh": "也能顯示僅存於手機上的檔案。"
+      },
+      {
+        "en": "Seeing an image there does not prove ",
+        "zh": "因此，在應用程式裡看見影像，並不能證明"
+      },
+      {
+        "en": "that an online copy exists.",
+        "zh": "雲端已有副本。"
+      }
+    ],
+    [
+      {
+        "en": "A separate Google help page explains ",
+        "zh": "另一個Google說明頁面指出，"
+      },
+      {
+        "en": "that backup settings affect both timing and content. ",
+        "zh": "備份設定會同時影響備份時間與內容。"
+      },
+      {
+        "en": "The selected account and device folders matter, ",
+        "zh": "選定的帳戶與裝置資料夾都很重要，"
+      },
+      {
+        "en": "as does permission to use mobile data. ",
+        "zh": "是否允許使用行動數據也同樣重要。"
+      },
+      {
+        "en": "The status display distinguishes work still in progress ",
+        "zh": "狀態畫面會區分仍在進行中的備份"
+      },
+      {
+        "en": "from a completed backup. ",
+        "zh": "與已完成的備份。"
+      },
+      {
+        "en": "For readers assessing the new partnership, ",
+        "zh": "對於評估這項新合作的讀者而言，"
+      },
+      {
+        "en": "these details highlight the difference ",
+        "zh": "這些細節凸顯了"
+      },
+      {
+        "en": "between turning a feature on and finishing a transfer.",
+        "zh": "開啟功能與完成傳輸之間的差別。"
+      }
+    ],
+    [
+      {
+        "en": "Capacity is another part of the wider picture. ",
+        "zh": "儲存容量也是整體情況的一環。"
+      },
+      {
+        "en": "Google's storage guidance says ",
+        "zh": "Google的儲存空間說明指出，"
+      },
+      {
+        "en": "that running out of account space ",
+        "zh": "帳戶空間用盡時，"
+      },
+      {
+        "en": "prevents further photo and video backups. ",
+        "zh": "便無法繼續備份相片與影片。"
+      },
+      {
+        "en": "It also affects Gmail and Google Drive. ",
+        "zh": "這也會影響Gmail與Google雲端硬碟。"
+      },
+      {
+        "en": "The storage management screen offers a usage summary ",
+        "zh": "儲存空間管理畫面提供用量摘要，"
+      },
+      {
+        "en": "and identifies categories such as large videos. ",
+        "zh": "並列出大型影片等檔案類別。"
+      },
+      {
+        "en": "Free space on a handset ",
+        "zh": "手機上的可用空間"
+      },
+      {
+        "en": "and available account storage are different measurements.",
+        "zh": "與帳戶剩餘容量，是兩種不同的衡量數據。"
+      }
+    ],
+    [
+      {
+        "en": "The announcement illustrates a broader technology question: ",
+        "zh": "這份公告帶出了一個更廣泛的科技問題："
+      },
+      {
+        "en": "how can companies make connected services understandable? ",
+        "zh": "企業如何讓使用者理解彼此連結的服務？"
+      },
+      {
+        "en": "Putting online files inside a familiar app ",
+        "zh": "將雲端檔案放進熟悉的應用程式，"
+      },
+      {
+        "en": "may make access feel simpler. ",
+        "zh": "可能讓存取過程感覺更簡單。"
+      },
+      {
+        "en": "Yet clear explanations of availability, storage, and deletion ",
+        "zh": "然而，清楚說明供應範圍、儲存空間與刪除行為，"
+      },
+      {
+        "en": "remain essential for understanding what the system does. ",
+        "zh": "對理解系統的實際運作仍不可或缺。"
+      },
+      {
+        "en": "Convenience depends on clear information ",
+        "zh": "便利性有賴於清楚的資訊，"
+      },
+      {
+        "en": "as well as software integration.",
+        "zh": "也有賴於軟體整合。"
+      }
+    ]
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一個、一種；不定冠詞"
+    },
+    "access": {
+      "meaning": "存取、取得檔案的功能或能力"
+    },
+    "accessed": {
+      "meaning": "被存取、被開啟查看"
+    },
+    "account": {
+      "meaning": "帳戶；文中指Google或三星帳戶"
+    },
+    "accounts": {
+      "meaning": "帳戶（複數）"
+    },
+    "across": {
+      "meaning": "跨越；文中指跨不同裝置"
+    },
+    "additional": {
+      "meaning": "額外的"
+    },
+    "affect": {
+      "meaning": "影響"
+    },
+    "affects": {
+      "meaning": "影響（第三人稱單數）"
+    },
+    "allowance": {
+      "meaning": "配額、額度；文中指儲存額度"
+    },
+    "allows": {
+      "meaning": "使能夠"
+    },
+    "already": {
+      "meaning": "已經"
+    },
+    "also": {
+      "meaning": "也、同時"
+    },
+    "an": {
+      "meaning": "一個、一種；母音發音前的不定冠詞"
+    },
+    "and": {
+      "meaning": "和、而且；連接詞"
+    },
+    "announcement": {
+      "meaning": "公告"
+    },
+    "another": {
+      "meaning": "另一個；再一次的"
+    },
+    "app": {
+      "meaning": "應用程式"
+    },
+    "appear": {
+      "meaning": "出現、顯示"
+    },
+    "are": {
+      "meaning": "是；也可作被動語態的助動詞"
+    },
+    "as": {
+      "meaning": "如同；as does指…也一樣，such as指例如，as well as指也、以及"
+    },
+    "assessing": {
+      "meaning": "評估"
+    },
+    "at": {
+      "meaning": "在某時間點；at launch指服務推出時"
+    },
+    "automatically": {
+      "meaning": "自動地"
+    },
+    "availability": {
+      "meaning": "供應或可使用的範圍、情況"
+    },
+    "available": {
+      "meaning": "可用的"
+    },
+    "background": {
+      "meaning": "背景"
+    },
+    "backup": {
+      "meaning": "備份；指複製儲存資料的功能或結果"
+    },
+    "backups": {
+      "meaning": "備份（複數）"
+    },
+    "be": {
+      "meaning": "是；與過去分詞連用可構成被動語態"
+    },
+    "between": {
+      "meaning": "在…之間"
+    },
+    "both": {
+      "meaning": "兩者都；both A and B指A與B兩者"
+    },
+    "brings": {
+      "meaning": "帶來；文中指引入、整合某項功能"
+    },
+    "broader": {
+      "meaning": "範圍更廣的、更大規模的"
+    },
+    "browse": {
+      "meaning": "瀏覽"
+    },
+    "by": {
+      "meaning": "依、隨；varies by market指因市場而異"
+    },
+    "can": {
+      "meaning": "能夠"
+    },
+    "capacity": {
+      "meaning": "容量；文中指帳戶的儲存容量"
+    },
+    "categories": {
+      "meaning": "分類、類別"
+    },
+    "clear": {
+      "meaning": "明確的"
+    },
+    "cloud": {
+      "meaning": "雲端；透過網路提供的遠端運算或儲存環境"
+    },
+    "collaboration": {
+      "meaning": "合作"
+    },
+    "collection": {
+      "meaning": "收藏集；文中指同步後的相片集"
+    },
+    "companies": {
+      "meaning": "公司、企業（複數）"
+    },
+    "completed": {
+      "meaning": "已完成的"
+    },
+    "connected": {
+      "meaning": "相互連接的"
+    },
+    "connects": {
+      "meaning": "連結"
+    },
+    "content": {
+      "meaning": "內容"
+    },
+    "convenience": {
+      "meaning": "便利性"
+    },
+    "copy": {
+      "meaning": "副本"
+    },
+    "data": {
+      "meaning": "資料"
+    },
+    "deleting": {
+      "meaning": "刪除"
+    },
+    "deletion": {
+      "meaning": "刪除的行為或處理方式"
+    },
+    "depends": {
+      "meaning": "取決於；depends on 指取決於"
+    },
+    "described": {
+      "meaning": "描述（過去式）"
+    },
+    "details": {
+      "meaning": "細節"
+    },
+    "device": {
+      "meaning": "裝置"
+    },
+    "devices": {
+      "meaning": "裝置"
+    },
+    "difference": {
+      "meaning": "差別、差異"
+    },
+    "different": {
+      "meaning": "不同的"
+    },
+    "directly": {
+      "meaning": "直接地"
+    },
+    "display": {
+      "meaning": "顯示；也指顯示畫面"
+    },
+    "distinguishes": {
+      "meaning": "區分、辨別"
+    },
+    "documentation": {
+      "meaning": "說明文件"
+    },
+    "does": {
+      "meaning": "助動詞，用於第三人稱單數"
+    },
+    "download": {
+      "meaning": "下載"
+    },
+    "drive": {
+      "meaning": "硬碟；Google Drive為Google雲端硬碟服務"
+    },
+    "each": {
+      "meaning": "每一個"
+    },
+    "enable": {
+      "meaning": "啟用、開啟功能"
+    },
+    "enabling": {
+      "meaning": "啟用、開啟"
+    },
+    "essential": {
+      "meaning": "不可或缺的"
+    },
+    "example": {
+      "meaning": "例子；for example指例如"
+    },
+    "existing": {
+      "meaning": "現有的"
+    },
+    "exists": {
+      "meaning": "存在"
+    },
+    "explains": {
+      "meaning": "解釋"
+    },
+    "explanations": {
+      "meaning": "說明、解釋（複數）"
+    },
+    "familiar": {
+      "meaning": "熟悉的",
+      "ipa": "/fəˈmɪliər/"
+    },
+    "feature": {
+      "meaning": "功能"
+    },
+    "feel": {
+      "meaning": "感覺"
+    },
+    "files": {
+      "meaning": "檔案"
+    },
+    "finishing": {
+      "meaning": "完成"
+    },
+    "folders": {
+      "meaning": "資料夾"
+    },
+    "for": {
+      "meaning": "為了、對於；也表示某時段的"
+    },
+    "free": {
+      "meaning": "可用的、未被占用的；free space指可用空間"
+    },
+    "from": {
+      "meaning": "從；亦用於區分兩種事物"
+    },
+    "further": {
+      "meaning": "後續的、更多的"
+    },
+    "galaxy": {
+      "meaning": "Galaxy；三星的裝置產品系列名稱"
+    },
+    "gallery": {
+      "meaning": "相簿；Samsung Gallery指三星的相片應用程式"
+    },
+    "general": {
+      "meaning": "一般的、概括性的"
+    },
+    "gmail": {
+      "meaning": "Gmail；Google的電子郵件服務"
+    },
+    "google": {
+      "meaning": "Google；科技公司名稱"
+    },
+    "google's": {
+      "meaning": "Google的"
+    },
+    "guidance": {
+      "meaning": "說明、指引"
+    },
+    "handset": {
+      "meaning": "手機"
+    },
+    "help": {
+      "meaning": "幫助"
+    },
+    "highlight": {
+      "meaning": "凸顯"
+    },
+    "how": {
+      "meaning": "如何"
+    },
+    "however": {
+      "meaning": "不過、然而"
+    },
+    "identifies": {
+      "meaning": "指出、列出"
+    },
+    "illustrates": {
+      "meaning": "說明、顯示"
+    },
+    "image": {
+      "meaning": "影像"
+    },
+    "images": {
+      "meaning": "影像"
+    },
+    "important": {
+      "meaning": "重要的"
+    },
+    "in": {
+      "meaning": "在某時間、領域或範圍中"
+    },
+    "information": {
+      "meaning": "資訊"
+    },
+    "initially": {
+      "meaning": "初期、一開始"
+    },
+    "inside": {
+      "meaning": "在…裡面"
+    },
+    "integration": {
+      "meaning": "整合"
+    },
+    "interface": {
+      "meaning": "介面；文中指應用程式的操作介面"
+    },
+    "into": {
+      "meaning": "進入…之中"
+    },
+    "is": {
+      "meaning": "是；也可作被動或進行式的助動詞"
+    },
+    "it": {
+      "meaning": "它；文中指已同步的項目或帳戶空間不足的情況"
+    },
+    "item": {
+      "meaning": "項目；文中指一個相片或影片檔案"
+    },
+    "items": {
+      "meaning": "項目（複數）"
+    },
+    "its": {
+      "meaning": "它的；文中指三星的"
+    },
+    "keeping": {
+      "meaning": "保留、維持"
+    },
+    "large": {
+      "meaning": "大型的；文中指檔案容量較大的"
+    },
+    "later": {
+      "meaning": "稍後、之後"
+    },
+    "launch": {
+      "meaning": "推出；文中指服務正式開始提供"
+    },
+    "limit": {
+      "meaning": "限制"
+    },
+    "linked": {
+      "meaning": "與…相關聯的"
+    },
+    "make": {
+      "meaning": "使、讓；make services understandable指讓服務容易理解"
+    },
+    "management": {
+      "meaning": "管理；文中指儲存空間管理"
+    },
+    "market": {
+      "meaning": "市場"
+    },
+    "matter": {
+      "meaning": "重要、值得留意"
+    },
+    "may": {
+      "meaning": "可能；表示尚未確定的情況"
+    },
+    "measurements": {
+      "meaning": "衡量的數據、測量值"
+    },
+    "mobile": {
+      "meaning": "行動的；mobile data指行動數據"
+    },
+    "must": {
+      "meaning": "必須"
+    },
+    "need": {
+      "meaning": "需要"
+    },
+    "needed": {
+      "meaning": "被需要的；when needed指有需要時"
+    },
+    "new": {
+      "meaning": "新的"
+    },
+    "not": {
+      "meaning": "不、沒有"
+    },
+    "november": {
+      "meaning": "十一月"
+    },
+    "of": {
+      "meaning": "…的；表示所屬、性質、內容等關係"
+    },
+    "offers": {
+      "meaning": "提供"
+    },
+    "on": {
+      "meaning": "在…上；turning on指開啟功能"
+    },
+    "one": {
+      "meaning": "One UI中的One為三星系統介面名稱的一部分"
+    },
+    "online": {
+      "meaning": "在線上、在雲端；線上的"
+    },
+    "only": {
+      "meaning": "唯一的、僅有的"
+    },
+    "original": {
+      "meaning": "原始的；未以預覽圖取代的完整檔案"
+    },
+    "originals": {
+      "meaning": "原始檔（複數）"
+    },
+    "other": {
+      "meaning": "其他的；另一個"
+    },
+    "out": {
+      "meaning": "用盡；running out of指…即將或已經用完"
+    },
+    "page": {
+      "meaning": "網頁、頁面"
+    },
+    "part": {
+      "meaning": "部分"
+    },
+    "partnership": {
+      "meaning": "合作關係"
+    },
+    "permission": {
+      "meaning": "許可、權限"
+    },
+    "phone": {
+      "meaning": "手機"
+    },
+    "phones": {
+      "meaning": "手機（複數）"
+    },
+    "photo": {
+      "meaning": "相片"
+    },
+    "photos": {
+      "meaning": "照片"
+    },
+    "picture": {
+      "meaning": "相片；wider picture指更完整的整體情況"
+    },
+    "pictures": {
+      "meaning": "圖片、影像"
+    },
+    "prevents": {
+      "meaning": "阻止、使無法"
+    },
+    "preview": {
+      "meaning": "預覽；文中指縮小的預覽影像"
+    },
+    "previews": {
+      "meaning": "預覽、預覽影像"
+    },
+    "private": {
+      "meaning": "不公開的、僅限本人查看的"
+    },
+    "progress": {
+      "meaning": "進行中的狀態；in progress指正在進行"
+    },
+    "prove": {
+      "meaning": "證實"
+    },
+    "provides": {
+      "meaning": "提供"
+    },
+    "providing": {
+      "meaning": "提供"
+    },
+    "putting": {
+      "meaning": "放置、放進"
+    },
+    "question": {
+      "meaning": "問題"
+    },
+    "rather": {
+      "meaning": "rather than 指而非"
+    },
+    "readers": {
+      "meaning": "讀者"
+    },
+    "remain": {
+      "meaning": "仍然保持、留在某種狀態"
+    },
+    "removes": {
+      "meaning": "移除"
+    },
+    "required": {
+      "meaning": "所需的、必要的"
+    },
+    "running": {
+      "meaning": "運行、搭載；running out of指用盡"
+    },
+    "same": {
+      "meaning": "相同的"
+    },
+    "samsung": {
+      "meaning": "三星；科技公司名稱"
+    },
+    "samsung's": {
+      "meaning": "三星的"
+    },
+    "saved": {
+      "meaning": "已儲存的"
+    },
+    "says": {
+      "meaning": "表示、說明"
+    },
+    "screen": {
+      "meaning": "畫面、螢幕"
+    },
+    "seeing": {
+      "meaning": "看見"
+    },
+    "selected": {
+      "meaning": "選定的、部分經挑選的"
+    },
+    "separate": {
+      "meaning": "不同的、分開的"
+    },
+    "service": {
+      "meaning": "服務"
+    },
+    "services": {
+      "meaning": "服務（複數）"
+    },
+    "settings": {
+      "meaning": "設定"
+    },
+    "shared": {
+      "meaning": "被分享"
+    },
+    "signed-in": {
+      "meaning": "已登入帳戶的"
+    },
+    "simpler": {
+      "meaning": "更簡單的"
+    },
+    "small": {
+      "meaning": "小的"
+    },
+    "so": {
+      "meaning": "所以、因此"
+    },
+    "software": {
+      "meaning": "軟體"
+    },
+    "space": {
+      "meaning": "空間；文中指儲存空間"
+    },
+    "status": {
+      "meaning": "狀態"
+    },
+    "still": {
+      "meaning": "仍然"
+    },
+    "storage": {
+      "meaning": "儲存、儲存空間"
+    },
+    "stored": {
+      "meaning": "被儲存的"
+    },
+    "such": {
+      "meaning": "這樣的、這類的"
+    },
+    "summary": {
+      "meaning": "摘要、概況"
+    },
+    "supported": {
+      "meaning": "受支援的、可使用該服務的"
+    },
+    "supports": {
+      "meaning": "支援"
+    },
+    "synchronization": {
+      "meaning": "同步；讓不同裝置或雲端的資料保持連動"
+    },
+    "synchronized": {
+      "meaning": "已同步的"
+    },
+    "system": {
+      "meaning": "系統"
+    },
+    "tablet": {
+      "meaning": "平板電腦"
+    },
+    "tablets": {
+      "meaning": "平板電腦（複數）"
+    },
+    "taken": {
+      "meaning": "拍攝的；take a picture的過去分詞"
+    },
+    "technology": {
+      "meaning": "科技、技術"
+    },
+    "than": {
+      "meaning": "與rather連用，rather than指而不是"
+    },
+    "that": {
+      "meaning": "那個；也可引導內容子句或關係子句"
+    },
+    "the": {
+      "meaning": "定冠詞，指特定或前文提過的事物"
+    },
+    "their": {
+      "meaning": "他們的；文中指使用者的"
+    },
+    "there": {
+      "meaning": "那裡；亦與be連用表示存在"
+    },
+    "these": {
+      "meaning": "這些"
+    },
+    "they": {
+      "meaning": "它們；文中指已儲存的相片與影片等項目"
+    },
+    "timing": {
+      "meaning": "時機、時間安排"
+    },
+    "to": {
+      "meaning": "到、向；也用於不定詞，接動詞原形"
+    },
+    "transfer": {
+      "meaning": "傳輸；文中指將檔案傳至雲端"
+    },
+    "turning": {
+      "meaning": "開啟；turning a feature on指啟用功能"
+    },
+    "ui": {
+      "meaning": "使用者介面；One UI是三星的系統介面名稱"
+    },
+    "understandable": {
+      "meaning": "容易理解的"
+    },
+    "understanding": {
+      "meaning": "理解"
+    },
+    "unless": {
+      "meaning": "除非"
+    },
+    "usage": {
+      "meaning": "使用量、用量"
+    },
+    "use": {
+      "meaning": "使用"
+    },
+    "useful": {
+      "meaning": "實用的"
+    },
+    "users": {
+      "meaning": "使用者"
+    },
+    "uses": {
+      "meaning": "使用（動詞）；用途（名詞複數）"
+    },
+    "varies": {
+      "meaning": "因情況而異"
+    },
+    "video": {
+      "meaning": "影片"
+    },
+    "videos": {
+      "meaning": "影片（複數）"
+    },
+    "view": {
+      "meaning": "查看、瀏覽"
+    },
+    "viewed": {
+      "meaning": "被查看、被瀏覽"
+    },
+    "visible": {
+      "meaning": "可見的、仍顯示的"
+    },
+    "well": {
+      "meaning": "as well as指也、以及"
+    },
+    "what": {
+      "meaning": "什麼；引導疑問句或名詞子句"
+    },
+    "when": {
+      "meaning": "當…時"
+    },
+    "while": {
+      "meaning": "當…時；同時、而"
+    },
+    "wider": {
+      "meaning": "範圍更廣的"
+    },
+    "will": {
+      "meaning": "將會；表示預期未來情形"
+    },
+    "with": {
+      "meaning": "與、透過；也表示具備某項條件"
+    },
+    "work": {
+      "meaning": "作業、工作；文中指正在進行的備份作業"
+    },
+    "yet": {
+      "meaning": "然而"
+    }
+  },
+  "quiz": [
+    {
+      "question": "What is the main purpose of the article?",
+      "choices": [
+        {
+          "text": "To explain a Galaxy photo service and the conditions that shape its use.",
+          "explanation": "正確。文章介紹三星相簿與Google儲存空間的連結，並說明裝置支援、帳戶、同步、刪除及容量等條件。"
+        },
+        {
+          "text": "To announce unlimited photo storage for all Samsung customers.",
+          "explanation": "錯誤。第四段明確表示服務使用既有帳戶容量，並未額外提供儲存額度；第一段也限制支援裝置及市場。"
+        },
+        {
+          "text": "To compare the camera quality of new phones and tablets.",
+          "explanation": "錯誤。文章討論相片的存取與儲存，沒有比較相機畫質。"
+        },
+        {
+          "text": "To argue that online storage should replace every local file.",
+          "explanation": "錯誤。文章說明雲端與裝置儲存的差異，沒有主張全面取代本機檔案。"
+        }
+      ],
+      "answerIndex": 0,
+      "explanation": "主旨題應涵蓋整篇內容。第一段介紹合作服務，第八段點出使用者還需要理解供應範圍、儲存與刪除行為，因此只有第一個選項同時涵蓋功能與使用條件。",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "Samsung described a Gallery service that connects its photo app with Google storage."
+        },
+        {
+          "paragraph": 8,
+          "quote": "Yet clear explanations of availability, storage, and deletion remain essential for understanding what the system does."
+        }
+      ]
+    },
+    {
+      "question": "What can readers infer about removing photos through Samsung Gallery?",
+      "choices": [
+        {
+          "text": "Every removal action affects only the phone being used.",
+          "explanation": "錯誤。一般刪除已同步項目會影響連結的Google儲存空間及其他已連結裝置。"
+        },
+        {
+          "text": "A preview means the original must still occupy space on that device.",
+          "explanation": "錯誤。第三段指出，可移除裝置上的已同步原始檔並保留小型預覽圖。"
+        },
+        {
+          "text": "Removing synchronized local originals and deleting synchronized items have different effects.",
+          "explanation": "正確。前者可以保留預覽並釋放裝置空間；後者也會從雲端與其他連結的Galaxy裝置移除項目。"
+        },
+        {
+          "text": "Deleting a synchronized item increases the account storage allowance.",
+          "explanation": "錯誤。刪除可能改變使用量，但文章沒有說會提高帳戶的儲存額度；第四段指出服務不額外提供額度。"
+        }
+      ],
+      "answerIndex": 2,
+      "explanation": "第三段區分兩種動作：移除裝置內已同步的原始檔，仍可保留預覽；在相簿刪除已同步項目，則會影響連結的雲端及其他裝置。不能把這兩種動作視為相同。",
+      "evidence": [
+        {
+          "paragraph": 3,
+          "quote": "Samsung also offers a feature that removes synchronized originals from a device while keeping small preview images visible. However, deleting a synchronized item in Gallery also removes it from linked Google storage and other connected Galaxy devices."
+        }
+      ]
+    },
+    {
+      "question": "Why might seeing a photo in Google Photos be insufficient evidence that it has been backed up online?",
+      "choices": [
+        {
+          "text": "The app always hides photos after a backup finishes.",
+          "explanation": "錯誤。文章沒有說備份完成後會隱藏相片；第六段說可用狀態畫面區分備份是否完成。"
+        },
+        {
+          "text": "The app may show a local file, and a transfer may still be unfinished.",
+          "explanation": "正確。第五段說應用程式可能顯示僅存於手機的檔案，第六段則指出開啟備份與完成傳輸不同。"
+        },
+        {
+          "text": "The service requires every photo to be shared publicly before backup.",
+          "explanation": "錯誤。第五段指出，已儲存項目除非分享，否則保持不公開，並無先公開才能備份的要求。"
+        },
+        {
+          "text": "An image can be backed up only after the phone has no free space.",
+          "explanation": "錯誤。文中沒有這項條件；第七段反而指出帳戶空間用盡會阻止後續備份。"
+        }
+      ],
+      "answerIndex": 1,
+      "explanation": "要結合第五與第六段推論：相片出現在應用程式中，可能只是本機檔案；即使已開啟備份，也不代表傳輸完成。因此，單靠看見相片不足以確認雲端副本存在。",
+      "evidence": [
+        {
+          "paragraph": 5,
+          "quote": "Google also explains that the app can display files stored only on a phone. Seeing an image there does not prove that an online copy exists."
+        },
+        {
+          "paragraph": 6,
+          "quote": "The status display distinguishes work still in progress from a completed backup."
+        }
+      ]
+    }
+  ]
+}
