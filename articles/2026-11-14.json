@@ -1,0 +1,1186 @@
+{
+  "version": 1,
+  "date": "2026-11-14",
+  "level": "B2",
+  "title": "ESA's November Forum Explores Data Centres in Space",
+  "topic": "科技業新聞",
+  "sources": [
+    {
+      "name": "European Space Agency (ESA)",
+      "title": "Strategy Forum on Space-Based Data Centres",
+      "url": "https://commercialisation.esa.int/event/strategy-forum-on-space-based-data-centres/"
+    },
+    {
+      "name": "US Government Accountability Office (GAO)",
+      "title": "Science & Tech Spotlight: Data Centers in Space",
+      "url": "https://www.gao.gov/products/gao-26-109012"
+    },
+    {
+      "name": "NASA Goddard Space Flight Center — Cosmicopia",
+      "title": "Ask Us: Space Physics — Heat, Temperature, and the Electromagnetic Spectrum (How Does a Spacecraft Dissipate Heat?)",
+      "url": "https://science.gsfc.nasa.gov/attic/cosmicopia.gsfc.nasa.gov/qa_sp_ht.html"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "en": "The European Space Agency's public calendar ",
+        "zh": "歐洲太空總署的公開行事曆"
+      },
+      {
+        "en": "scheduled a strategy forum on space-based data centres ",
+        "zh": "安排了一場太空資料中心策略論壇，"
+      },
+      {
+        "en": "for November 12 and 13, 2026, at ESTEC. ",
+        "zh": "日期為2026年11月12日至13日，地點在ESTEC技術中心。"
+      },
+      {
+        "en": "The listing places the idea ",
+        "zh": "這份活動資訊將這個構想"
+      },
+      {
+        "en": "within a wider discussion about future digital infrastructure. ",
+        "zh": "放在未來數位基礎設施的廣泛討論之中。"
+      },
+      {
+        "en": "It describes a meeting for exploring strategy, ",
+        "zh": "它描述的是一場探索策略的會議，"
+      },
+      {
+        "en": "rather than announcing an operational computing network.",
+        "zh": "並非宣布已有可營運的運算網路。"
+      }
+    ],
+    [
+      {
+        "en": "ESA's description brings together several kinds of participants: ",
+        "zh": "歐洲太空總署的說明列出多種類型的參與者："
+      },
+      {
+        "en": "space companies, operators, digital technology providers, ",
+        "zh": "太空企業、營運商、數位科技供應商、"
+      },
+      {
+        "en": "research organisations, investors, and public institutions. ",
+        "zh": "研究組織、投資者以及公共機構。"
+      },
+      {
+        "en": "That range suggests a question extending beyond individual computer chips. ",
+        "zh": "這樣的範圍顯示，問題不只涉及個別電腦晶片。"
+      },
+      {
+        "en": "Building a service would involve ",
+        "zh": "建立一項服務需要"
+      },
+      {
+        "en": "both technical systems and organisations ",
+        "zh": "技術系統與組織共同投入，"
+      },
+      {
+        "en": "able to develop, operate, and support them.",
+        "zh": "並且具備開發、營運及支援這些系統的能力。"
+      }
+    ],
+    [
+      {
+        "en": "The attraction is easy to understand. ",
+        "zh": "這個構想的吸引力不難理解。"
+      },
+      {
+        "en": "A US Government Accountability Office report, ",
+        "zh": "美國政府問責署的一份報告"
+      },
+      {
+        "en": "published on April 28, 2026, ",
+        "zh": "於2026年4月28日發布，"
+      },
+      {
+        "en": "explains that orbital data centres ",
+        "zh": "說明軌道上的資料中心"
+      },
+      {
+        "en": "could reduce demand for land, electricity, and water on Earth. ",
+        "zh": "可能降低地球上對土地、電力與水的需求。"
+      },
+      {
+        "en": "It also identifies another possible benefit: ",
+        "zh": "報告也指出另一項可能的好處："
+      },
+      {
+        "en": "processing observations near the satellites that collect them ",
+        "zh": "在蒐集觀測資料的衛星附近處理資料，"
+      },
+      {
+        "en": "could reduce how much data must be sent to Earth.",
+        "zh": "可能減少必須傳回地球的資料量。"
+      }
+    ],
+    [
+      {
+        "en": "However, moving computers into space ",
+        "zh": "不過，把電腦移到太空"
+      },
+      {
+        "en": "creates a different cooling problem. ",
+        "zh": "會帶來不同的散熱問題。"
+      },
+      {
+        "en": "NASA's educational explanation distinguishes heat carried by moving matter ",
+        "zh": "NASA的科普說明區分了由移動物質帶走的熱"
+      },
+      {
+        "en": "from heat transferred through radiation. ",
+        "zh": "與透過輻射傳遞的熱。"
+      },
+      {
+        "en": "A fan relies on moving air, ",
+        "zh": "風扇仰賴空氣流動，"
+      },
+      {
+        "en": "while a spacecraft can release heat ",
+        "zh": "太空飛行器則能釋放熱能，"
+      },
+      {
+        "en": "through radiators facing the dark sky. ",
+        "zh": "方式是利用朝向黑暗天空的散熱器。"
+      },
+      {
+        "en": "The practical question is how to remove heat effectively, ",
+        "zh": "實際問題在於如何有效移除熱能，"
+      },
+      {
+        "en": "not simply whether space is cold.",
+        "zh": "不能只看太空是否寒冷。"
+      }
+    ],
+    [
+      {
+        "en": "The GAO report adds an important limit ",
+        "zh": "政府問責署的報告也為"
+      },
+      {
+        "en": "when discussing large installations. ",
+        "zh": "大型設施的討論補上一項重要限制。"
+      },
+      {
+        "en": "Although basic satellite support technologies are established, ",
+        "zh": "雖然衛星的基本支援技術已成熟，"
+      },
+      {
+        "en": "using them for large data centres remains unproven. ",
+        "zh": "但將它們用於大型資料中心仍未經證實。"
+      },
+      {
+        "en": "Power supplies, cooling equipment, and communication links ",
+        "zh": "電力供應、散熱設備與通訊鏈路"
+      },
+      {
+        "en": "must work together at the required scale. ",
+        "zh": "必須在所需的規模下協同運作。"
+      },
+      {
+        "en": "Success with a smaller computing task ",
+        "zh": "成功執行較小型的運算任務，"
+      },
+      {
+        "en": "would not automatically demonstrate readiness ",
+        "zh": "不會自動證明系統已準備好"
+      },
+      {
+        "en": "for much larger workloads.",
+        "zh": "處理大得多的工作負載。"
+      }
+    ],
+    [
+      {
+        "en": "There are also risks beyond energy and heat. ",
+        "zh": "除了能源與熱能之外，也存在其他風險。"
+      },
+      {
+        "en": "GAO notes that space radiation ",
+        "zh": "政府問責署指出，太空輻射"
+      },
+      {
+        "en": "can damage hardware and corrupt data. ",
+        "zh": "可能損害硬體並破壞資料。"
+      },
+      {
+        "en": "More satellites could increase collision risks ",
+        "zh": "更多衛星可能提高碰撞風險，"
+      },
+      {
+        "en": "and complicate the management of crowded orbits. ",
+        "zh": "並讓擁擠軌道的管理更複雜。"
+      },
+      {
+        "en": "These concerns mean that computing performance alone ",
+        "zh": "這些疑慮意味著，單靠運算效能"
+      },
+      {
+        "en": "cannot settle whether a proposed system is practical.",
+        "zh": "無法判定提出的系統是否切實可行。"
+      }
+    ],
+    [
+      {
+        "en": "The forum's stated purpose is therefore significant. ",
+        "zh": "因此，論壇所述的目的值得關注。"
+      },
+      {
+        "en": "ESA presents it as an interactive exercise ",
+        "zh": "歐洲太空總署將它定位為互動式活動，"
+      },
+      {
+        "en": "connecting the space and digital sectors. ",
+        "zh": "連結太空與數位產業。"
+      },
+      {
+        "en": "Its event page gives the dates and intended participants, ",
+        "zh": "活動頁面列出日期與預定參與者類型，"
+      },
+      {
+        "en": "but it does not establish ",
+        "zh": "但這不代表"
+      },
+      {
+        "en": "that the engineering challenges have been solved. ",
+        "zh": "工程挑戰已經解決。"
+      },
+      {
+        "en": "A discussion agenda and a demonstrated capability ",
+        "zh": "討論議程與經過驗證的能力，"
+      },
+      {
+        "en": "are different kinds of evidence.",
+        "zh": "是不同類型的證據。"
+      }
+    ],
+    [
+      {
+        "en": "For the technology industry, ",
+        "zh": "對科技業而言，"
+      },
+      {
+        "en": "the central issue is the whole system. ",
+        "zh": "核心問題是整個系統。"
+      },
+      {
+        "en": "Potential benefits must be considered ",
+        "zh": "潛在效益必須"
+      },
+      {
+        "en": "alongside reliable operation and shared orbital resources. ",
+        "zh": "與可靠的運作及共同使用的軌道資源一併考量。"
+      },
+      {
+        "en": "The November forum puts these questions ",
+        "zh": "11月的論壇將這些問題"
+      },
+      {
+        "en": "on a common agenda. ",
+        "zh": "放上共同議程。"
+      },
+      {
+        "en": "Whether the concept becomes a useful service ",
+        "zh": "這個構想能否成為實用服務，"
+      },
+      {
+        "en": "will depend on evidence about performance, costs, and safety, ",
+        "zh": "將取決於效能、成本與安全方面的證據，"
+      },
+      {
+        "en": "as well as cooperation between different organisations.",
+        "zh": "也有賴於不同組織之間的合作。"
+      }
+    ]
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一個、一種；不定冠詞"
+    },
+    "able": {
+      "meaning": "有能力的；be able to指能夠"
+    },
+    "about": {
+      "meaning": "大約；關於"
+    },
+    "accountability": {
+      "meaning": "問責、負責；Government Accountability Office是美國政府問責署"
+    },
+    "adds": {
+      "meaning": "增添、提供另一項資訊"
+    },
+    "agency's": {
+      "meaning": "該機構的；文中指歐洲太空總署的"
+    },
+    "agenda": {
+      "meaning": "議程、討論事項"
+    },
+    "air": {
+      "meaning": "空氣"
+    },
+    "alone": {
+      "meaning": "單獨地；僅僅"
+    },
+    "alongside": {
+      "meaning": "與…同時、配合"
+    },
+    "also": {
+      "meaning": "也、同時"
+    },
+    "although": {
+      "meaning": "雖然"
+    },
+    "an": {
+      "meaning": "一個、一種；母音發音前的不定冠詞"
+    },
+    "and": {
+      "meaning": "和、而且；連接詞"
+    },
+    "announcing": {
+      "meaning": "宣布"
+    },
+    "another": {
+      "meaning": "另一個；再一次的"
+    },
+    "april": {
+      "meaning": "四月"
+    },
+    "are": {
+      "meaning": "是；也可作被動語態的助動詞"
+    },
+    "as": {
+      "meaning": "作為、當作；as well as指也、以及"
+    },
+    "at": {
+      "meaning": "在；文中用於地點與規模"
+    },
+    "attraction": {
+      "meaning": "吸引力"
+    },
+    "automatically": {
+      "meaning": "自動地"
+    },
+    "basic": {
+      "meaning": "基本的"
+    },
+    "be": {
+      "meaning": "是；與過去分詞連用可構成被動語態"
+    },
+    "becomes": {
+      "meaning": "成為"
+    },
+    "been": {
+      "meaning": "be 的過去分詞，文中與助動詞連用構成完成式或被動語態"
+    },
+    "benefit": {
+      "meaning": "益處、好處"
+    },
+    "benefits": {
+      "meaning": "效益、好處（複數）"
+    },
+    "between": {
+      "meaning": "在…之間"
+    },
+    "beyond": {
+      "meaning": "超出、不僅限於"
+    },
+    "both": {
+      "meaning": "兩者都；both A and B指A與B兩者"
+    },
+    "brings": {
+      "meaning": "帶來；brings together指匯集"
+    },
+    "building": {
+      "meaning": "建立、建造"
+    },
+    "but": {
+      "meaning": "但是"
+    },
+    "by": {
+      "meaning": "藉由、透過；亦用於被動語態引出作用來源"
+    },
+    "calendar": {
+      "meaning": "行事曆"
+    },
+    "can": {
+      "meaning": "能夠"
+    },
+    "cannot": {
+      "meaning": "不能、無法"
+    },
+    "capability": {
+      "meaning": "能力"
+    },
+    "carried": {
+      "meaning": "被帶走、被傳遞"
+    },
+    "central": {
+      "meaning": "核心的"
+    },
+    "centres": {
+      "meaning": "中心（複數）；data centres指資料中心，為英式拼法"
+    },
+    "challenges": {
+      "meaning": "挑戰、難題"
+    },
+    "chips": {
+      "meaning": "晶片（複數）"
+    },
+    "cold": {
+      "meaning": "寒冷的"
+    },
+    "collect": {
+      "meaning": "蒐集"
+    },
+    "collision": {
+      "meaning": "碰撞"
+    },
+    "common": {
+      "meaning": "共同的"
+    },
+    "communication": {
+      "meaning": "通訊、資料傳遞"
+    },
+    "companies": {
+      "meaning": "公司、企業（複數）"
+    },
+    "complicate": {
+      "meaning": "使複雜化"
+    },
+    "computer": {
+      "meaning": "電腦"
+    },
+    "computers": {
+      "meaning": "電腦（複數）"
+    },
+    "computing": {
+      "meaning": "運算"
+    },
+    "concept": {
+      "meaning": "構想、概念"
+    },
+    "concerns": {
+      "meaning": "疑慮、令人擔心的事"
+    },
+    "connecting": {
+      "meaning": "連結、串連"
+    },
+    "considered": {
+      "meaning": "考量、看待（過去分詞）"
+    },
+    "cooling": {
+      "meaning": "散熱、冷卻"
+    },
+    "cooperation": {
+      "meaning": "合作"
+    },
+    "corrupt": {
+      "meaning": "破壞資料、使資料錯誤"
+    },
+    "costs": {
+      "meaning": "成本"
+    },
+    "could": {
+      "meaning": "可以；也可表示可能"
+    },
+    "creates": {
+      "meaning": "造成、帶來"
+    },
+    "crowded": {
+      "meaning": "擁擠的"
+    },
+    "damage": {
+      "meaning": "破壞、損害"
+    },
+    "dark": {
+      "meaning": "黑暗的"
+    },
+    "data": {
+      "meaning": "資料"
+    },
+    "dates": {
+      "meaning": "日期（複數）"
+    },
+    "demand": {
+      "meaning": "需求"
+    },
+    "demonstrate": {
+      "meaning": "示範、展示；驗證能力"
+    },
+    "demonstrated": {
+      "meaning": "經示範或驗證（過去分詞）"
+    },
+    "depend": {
+      "meaning": "取決於；depend on指視…而定"
+    },
+    "describes": {
+      "meaning": "描述"
+    },
+    "description": {
+      "meaning": "描述、說法"
+    },
+    "develop": {
+      "meaning": "建立、發展"
+    },
+    "different": {
+      "meaning": "不同的"
+    },
+    "digital": {
+      "meaning": "數位的"
+    },
+    "discussing": {
+      "meaning": "討論"
+    },
+    "discussion": {
+      "meaning": "討論"
+    },
+    "distinguishes": {
+      "meaning": "區分、辨別"
+    },
+    "does": {
+      "meaning": "助動詞，用於第三人稱單數"
+    },
+    "earth": {
+      "meaning": "地球"
+    },
+    "easy": {
+      "meaning": "容易的"
+    },
+    "educational": {
+      "meaning": "教育性的、科普的"
+    },
+    "effectively": {
+      "meaning": "有效地"
+    },
+    "electricity": {
+      "meaning": "電力"
+    },
+    "energy": {
+      "meaning": "能源"
+    },
+    "engineering": {
+      "meaning": "工程"
+    },
+    "equipment": {
+      "meaning": "設備"
+    },
+    "esa": {
+      "meaning": "歐洲太空總署；European Space Agency的縮寫"
+    },
+    "esa's": {
+      "meaning": "歐洲太空總署的"
+    },
+    "establish": {
+      "meaning": "證實、確立"
+    },
+    "established": {
+      "meaning": "成熟的、已建立的"
+    },
+    "estec": {
+      "meaning": "歐洲太空研究與技術中心；歐洲太空總署的技術中心"
+    },
+    "european": {
+      "meaning": "歐洲的"
+    },
+    "event": {
+      "meaning": "活動、事件"
+    },
+    "evidence": {
+      "meaning": "證據"
+    },
+    "exercise": {
+      "meaning": "活動、演練；文中指共同討論策略的互動活動"
+    },
+    "explains": {
+      "meaning": "解釋"
+    },
+    "explanation": {
+      "meaning": "說明、解釋"
+    },
+    "exploring": {
+      "meaning": "探索、研究"
+    },
+    "extending": {
+      "meaning": "延伸、擴展"
+    },
+    "facing": {
+      "meaning": "朝向、面向"
+    },
+    "fan": {
+      "meaning": "風扇"
+    },
+    "for": {
+      "meaning": "為了、對於；也表示某時段的"
+    },
+    "forum": {
+      "meaning": "論壇"
+    },
+    "forum's": {
+      "meaning": "論壇的"
+    },
+    "from": {
+      "meaning": "從；亦用於區分兩種事物"
+    },
+    "future": {
+      "meaning": "未來的"
+    },
+    "gao": {
+      "meaning": "美國政府問責署；Government Accountability Office的縮寫"
+    },
+    "gives": {
+      "meaning": "給予"
+    },
+    "government": {
+      "meaning": "政府"
+    },
+    "hardware": {
+      "meaning": "硬體"
+    },
+    "have": {
+      "meaning": "有；亦可作完成式助動詞"
+    },
+    "heat": {
+      "meaning": "熱、熱量"
+    },
+    "how": {
+      "meaning": "如何"
+    },
+    "however": {
+      "meaning": "不過、然而"
+    },
+    "idea": {
+      "meaning": "想法、要旨"
+    },
+    "identifies": {
+      "meaning": "指出、列出"
+    },
+    "important": {
+      "meaning": "重要的"
+    },
+    "increase": {
+      "meaning": "增加"
+    },
+    "individual": {
+      "meaning": "個別的"
+    },
+    "industry": {
+      "meaning": "產業；業界"
+    },
+    "infrastructure": {
+      "meaning": "基礎設施"
+    },
+    "installations": {
+      "meaning": "設施（複數）"
+    },
+    "institutions": {
+      "meaning": "機構；文中指參與論壇的公共機構"
+    },
+    "intended": {
+      "meaning": "旨在、預定用來；is intended to指目的是"
+    },
+    "interactive": {
+      "meaning": "互動式的"
+    },
+    "into": {
+      "meaning": "進入…之中"
+    },
+    "investors": {
+      "meaning": "投資者"
+    },
+    "involve": {
+      "meaning": "涉及、包含"
+    },
+    "is": {
+      "meaning": "是；也可作被動或進行式的助動詞"
+    },
+    "issue": {
+      "meaning": "議題、問題"
+    },
+    "it": {
+      "meaning": "它；文中指活動資訊或歐洲太空總署"
+    },
+    "its": {
+      "meaning": "它的；文中指歐洲太空總署的"
+    },
+    "kinds": {
+      "meaning": "種類"
+    },
+    "land": {
+      "meaning": "土地"
+    },
+    "large": {
+      "meaning": "大型的"
+    },
+    "larger": {
+      "meaning": "較大的"
+    },
+    "limit": {
+      "meaning": "限制"
+    },
+    "links": {
+      "meaning": "鏈路、連線；communication links指通訊鏈路"
+    },
+    "listing": {
+      "meaning": "活動資訊、列出的項目"
+    },
+    "management": {
+      "meaning": "管理；文中指軌道的管理"
+    },
+    "matter": {
+      "meaning": "物質"
+    },
+    "mean": {
+      "meaning": "表示、意味著"
+    },
+    "meeting": {
+      "meaning": "會議"
+    },
+    "more": {
+      "meaning": "更多；more than指超過、不只是"
+    },
+    "moving": {
+      "meaning": "移動、搬移"
+    },
+    "much": {
+      "meaning": "程度很高地；much larger指大得多的"
+    },
+    "must": {
+      "meaning": "必須"
+    },
+    "nasa's": {
+      "meaning": "美國國家航空暨太空總署的"
+    },
+    "near": {
+      "meaning": "在…附近"
+    },
+    "network": {
+      "meaning": "網路"
+    },
+    "not": {
+      "meaning": "不、沒有"
+    },
+    "notes": {
+      "meaning": "指出、說明（動詞）"
+    },
+    "november": {
+      "meaning": "十一月"
+    },
+    "observations": {
+      "meaning": "觀測（複數）"
+    },
+    "of": {
+      "meaning": "…的；表示所屬、性質、內容等關係"
+    },
+    "office": {
+      "meaning": "署、辦公機關；Government Accountability Office指美國政府問責署"
+    },
+    "on": {
+      "meaning": "關於、就某事；也表示日期"
+    },
+    "operate": {
+      "meaning": "營運、操作"
+    },
+    "operation": {
+      "meaning": "運作、營運"
+    },
+    "operational": {
+      "meaning": "投入運作的；與運作有關的"
+    },
+    "operators": {
+      "meaning": "營運商、操作單位"
+    },
+    "orbital": {
+      "meaning": "軌道上的、與軌道有關的"
+    },
+    "orbits": {
+      "meaning": "軌道（複數）"
+    },
+    "organisations": {
+      "meaning": "組織、機構（複數）"
+    },
+    "page": {
+      "meaning": "網頁、頁面"
+    },
+    "participants": {
+      "meaning": "參與者"
+    },
+    "performance": {
+      "meaning": "表現、性能"
+    },
+    "places": {
+      "meaning": "將…放在某個脈絡或位置"
+    },
+    "possible": {
+      "meaning": "可能的"
+    },
+    "potential": {
+      "meaning": "潛在的"
+    },
+    "power": {
+      "meaning": "電力"
+    },
+    "practical": {
+      "meaning": "實際的"
+    },
+    "presents": {
+      "meaning": "將…定位或描述為"
+    },
+    "problem": {
+      "meaning": "問題"
+    },
+    "processing": {
+      "meaning": "處理；文中指資料處理"
+    },
+    "proposed": {
+      "meaning": "提出的、提議的"
+    },
+    "providers": {
+      "meaning": "供應商、服務提供者"
+    },
+    "public": {
+      "meaning": "公開的；也指公共的"
+    },
+    "published": {
+      "meaning": "發布"
+    },
+    "purpose": {
+      "meaning": "目的、用途"
+    },
+    "puts": {
+      "meaning": "放置；puts questions on an agenda指將問題列入議程"
+    },
+    "question": {
+      "meaning": "問題"
+    },
+    "questions": {
+      "meaning": "問題（複數）"
+    },
+    "radiation": {
+      "meaning": "輻射；熱傳時指熱輻射，space radiation指可能損害電子設備的太空輻射"
+    },
+    "radiators": {
+      "meaning": "散熱器；文中指利用輻射釋放熱能的裝置"
+    },
+    "range": {
+      "meaning": "範圍"
+    },
+    "rather": {
+      "meaning": "rather than 指而非"
+    },
+    "readiness": {
+      "meaning": "準備就緒的程度"
+    },
+    "reduce": {
+      "meaning": "降低"
+    },
+    "release": {
+      "meaning": "釋放；文中指釋放熱能"
+    },
+    "reliable": {
+      "meaning": "可靠的"
+    },
+    "relies": {
+      "meaning": "仰賴、依靠"
+    },
+    "remains": {
+      "meaning": "仍然是、仍處於某種狀態"
+    },
+    "remove": {
+      "meaning": "移除、帶走"
+    },
+    "report": {
+      "meaning": "報告"
+    },
+    "required": {
+      "meaning": "所需的、必要的"
+    },
+    "research": {
+      "meaning": "研究"
+    },
+    "resources": {
+      "meaning": "資源"
+    },
+    "risks": {
+      "meaning": "風險（複數）"
+    },
+    "safety": {
+      "meaning": "安全"
+    },
+    "satellite": {
+      "meaning": "衛星"
+    },
+    "satellites": {
+      "meaning": "衛星（複數）"
+    },
+    "scale": {
+      "meaning": "規模"
+    },
+    "scheduled": {
+      "meaning": "安排、排定；文中指行事曆列出預定活動"
+    },
+    "sectors": {
+      "meaning": "產業、領域（複數）"
+    },
+    "sent": {
+      "meaning": "被傳送、被送出"
+    },
+    "service": {
+      "meaning": "服務"
+    },
+    "settle": {
+      "meaning": "確定、解決；文中指判定問題的答案"
+    },
+    "several": {
+      "meaning": "數個、多項"
+    },
+    "shared": {
+      "meaning": "共同的"
+    },
+    "significant": {
+      "meaning": "重要的、值得關注的"
+    },
+    "simply": {
+      "meaning": "只是、單純地"
+    },
+    "sky": {
+      "meaning": "天空"
+    },
+    "smaller": {
+      "meaning": "更小的"
+    },
+    "solved": {
+      "meaning": "已解決"
+    },
+    "space": {
+      "meaning": "太空、空間；文中主要指外太空"
+    },
+    "space-based": {
+      "meaning": "設於太空的"
+    },
+    "spacecraft": {
+      "meaning": "太空載具；單複數同形"
+    },
+    "stated": {
+      "meaning": "所述的、明確表達的"
+    },
+    "strategy": {
+      "meaning": "策略"
+    },
+    "success": {
+      "meaning": "成功"
+    },
+    "suggests": {
+      "meaning": "顯示、暗示"
+    },
+    "supplies": {
+      "meaning": "供應；power supplies指電力供應或供電設備"
+    },
+    "support": {
+      "meaning": "支援；文中指系統運作所需的協助或配套"
+    },
+    "system": {
+      "meaning": "系統"
+    },
+    "systems": {
+      "meaning": "系統（複數）"
+    },
+    "task": {
+      "meaning": "工作、任務"
+    },
+    "technical": {
+      "meaning": "技術性、實務細節上的"
+    },
+    "technologies": {
+      "meaning": "技術（複數）"
+    },
+    "technology": {
+      "meaning": "科技、技術"
+    },
+    "than": {
+      "meaning": "與rather連用，rather than指而不是"
+    },
+    "that": {
+      "meaning": "那個；也可引導內容子句或關係子句"
+    },
+    "the": {
+      "meaning": "定冠詞，指特定或前文提過的事物"
+    },
+    "them": {
+      "meaning": "它們；文中指技術系統、支援技術或衛星觀測資料"
+    },
+    "there": {
+      "meaning": "那裡；亦與be連用表示存在"
+    },
+    "therefore": {
+      "meaning": "因此"
+    },
+    "these": {
+      "meaning": "這些"
+    },
+    "through": {
+      "meaning": "透過、經由"
+    },
+    "to": {
+      "meaning": "到、向；也用於不定詞，接動詞原形"
+    },
+    "together": {
+      "meaning": "合在一起、綜合來看"
+    },
+    "transferred": {
+      "meaning": "被傳遞、被轉移"
+    },
+    "understand": {
+      "meaning": "理解"
+    },
+    "unproven": {
+      "meaning": "未經證實的"
+    },
+    "us": {
+      "meaning": "美國；文中US為United States的縮寫"
+    },
+    "useful": {
+      "meaning": "實用的"
+    },
+    "using": {
+      "meaning": "使用、運用"
+    },
+    "water": {
+      "meaning": "水"
+    },
+    "well": {
+      "meaning": "as well as指也、以及"
+    },
+    "when": {
+      "meaning": "當…時"
+    },
+    "whether": {
+      "meaning": "是否"
+    },
+    "while": {
+      "meaning": "當…時；同時、而"
+    },
+    "whole": {
+      "meaning": "完整的、全部的"
+    },
+    "wider": {
+      "meaning": "範圍更廣的"
+    },
+    "will": {
+      "meaning": "將會；表示預期未來情形"
+    },
+    "with": {
+      "meaning": "與、透過；也表示具備某項條件"
+    },
+    "within": {
+      "meaning": "在…內部、在…範圍中"
+    },
+    "work": {
+      "meaning": "運作；文中work together指協同運作"
+    },
+    "workloads": {
+      "meaning": "工作負載（複數）；文中指運算系統須處理的任務量"
+    },
+    "would": {
+      "meaning": "將會、會；用於尚未實現的設想或條件"
+    }
+  },
+  "quiz": [
+    {
+      "question": "Which statement best summarizes the article?",
+      "choices": [
+        {
+          "text": "ESA has announced that a large orbital computing network is already operating.",
+          "explanation": "錯誤。第一段指出活動是探索策略的會議，第七段也說活動資訊不能證明工程難題已解決。"
+        },
+        {
+          "text": "A recent ESA forum agenda highlights the possibilities and unresolved challenges of computing in space.",
+          "explanation": "正確。文章以11月論壇議程為新聞背景，介紹可能效益、散熱、規模與軌道風險，並區分討論與實證。"
+        },
+        {
+          "text": "Space data centres have been shown to need no cooling equipment.",
+          "explanation": "錯誤。第四段說明輻射散熱，第五段也將散熱設備列為大型資料中心的必要系統之一。"
+        },
+        {
+          "text": "The only purpose of the forum is to compare individual computer chips.",
+          "explanation": "錯誤。第二段指出參與者橫跨多個領域，討論超出個別晶片，第七段則說活動連結太空與數位產業。"
+        }
+      ],
+      "answerIndex": 1,
+      "explanation": "主旨要結合論壇背景與文章對技術成熟度的判斷。第一段介紹探索策略的活動，第七段強調議程與已驗證能力不同；中間各段再說明效益與限制。因此第二個選項最完整。",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "It describes a meeting for exploring strategy, rather than announcing an operational computing network."
+        },
+        {
+          "paragraph": 7,
+          "quote": "A discussion agenda and a demonstrated capability are different kinds of evidence."
+        }
+      ]
+    },
+    {
+      "question": "Why would a successful small computing task be insufficient to prove that a large space data centre is ready?",
+      "choices": [
+        {
+          "text": "Large systems must coordinate power, cooling, and communications at a different scale.",
+          "explanation": "正確。第五段指出，各支援系統必須在所需規模下共同運作，小型任務成功不等於大型工作負載已準備就緒。"
+        },
+        {
+          "text": "The article says small computing tasks never produce useful results.",
+          "explanation": "錯誤。文章沒有否定小型任務的價值；它只是指出不能直接推論大型系統已成熟。"
+        },
+        {
+          "text": "Radiation affects only computers on Earth.",
+          "explanation": "錯誤。第六段說太空輻射可能損害硬體並破壞資料。"
+        },
+        {
+          "text": "All communication with Earth would become unnecessary.",
+          "explanation": "錯誤。第三段只說可能減少傳回地球的資料量，並未說可完全免除通訊；第五段仍列出通訊鏈路。"
+        }
+      ],
+      "answerIndex": 0,
+      "explanation": "第五段把規模列為關鍵：衛星基本技術已成熟，並不表示能直接用於大型資料中心。電力、散熱與通訊必須在所需規模下協同運作，因此小型任務的成功不足以完成大型系統的驗證。",
+      "evidence": [
+        {
+          "paragraph": 5,
+          "quote": "Power supplies, cooling equipment, and communication links must work together at the required scale. Success with a smaller computing task would not automatically demonstrate readiness for much larger workloads."
+        }
+      ]
+    },
+    {
+      "question": "What can be inferred about assessing the practicality of space data centres?",
+      "choices": [
+        {
+          "text": "A high computing speed would settle every important question.",
+          "explanation": "錯誤。第六段明確說運算效能本身不足以判定實用性。"
+        },
+        {
+          "text": "Holding a strategy meeting proves that collision risks have been removed.",
+          "explanation": "錯誤。第六段仍指出碰撞風險，第七段也區分討論議程與已驗證的能力。"
+        },
+        {
+          "text": "Potential savings on Earth guarantee that every proposal will be worthwhile.",
+          "explanation": "錯誤。第三段的效益只是可能性，後文仍要求考量可靠性、成本、安全與共享資源。"
+        },
+        {
+          "text": "Evaluation must include technical reliability and the effects on shared orbital space.",
+          "explanation": "正確。第六段提到硬體、資料與碰撞風險，第八段則主張將可靠運作與共同使用的軌道資源一併考量。"
+        }
+      ],
+      "answerIndex": 3,
+      "explanation": "合理評估不能只看運算能力或地球上的資源節省。第六段列出輻射、資料損壞及碰撞風險，第八段總結需兼顧可靠運作、軌道資源、成本與安全。因此第四個選項有完整的文章支持。",
+      "evidence": [
+        {
+          "paragraph": 6,
+          "quote": "These concerns mean that computing performance alone cannot settle whether a proposed system is practical."
+        },
+        {
+          "paragraph": 8,
+          "quote": "Potential benefits must be considered alongside reliable operation and shared orbital resources."
+        }
+      ]
+    }
+  ]
+}
