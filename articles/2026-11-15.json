@@ -1,0 +1,1162 @@
+{
+  "version": 1,
+  "date": "2026-11-15",
+  "level": "B2",
+  "title": "Europe Links AI Competitiveness with Public Trust in Dublin",
+  "topic": "科技業新聞",
+  "sources": [
+    {
+      "name": "European Council",
+      "title": "Informal meeting of heads of state or government, 13 November 2026",
+      "url": "https://www.consilium.europa.eu/en/meetings/european-council/2026/11/13/"
+    },
+    {
+      "name": "European Council",
+      "title": "Remarks by President António Costa at the press conference following the informal meeting of Heads of State or Government of 13 November 2026",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/13/remarks-by-president-antonio-costa-at-the-press-conference-following-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/"
+    },
+    {
+      "name": "Irish Presidency of the Council of the European Union",
+      "title": "Taoiseach Micheál Martin hosts informal meeting of the European Council",
+      "url": "https://irish-presidency.consilium.europa.eu/en/news/taoiseach-micheal-martin-hosts-informal-meeting-of-the-european-council/"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "en": "European Union leaders met in Dublin ",
+        "zh": "歐盟領袖在都柏林會面，"
+      },
+      {
+        "en": "on November 13, 2026, ",
+        "zh": "日期是2026年11月13日，"
+      },
+      {
+        "en": "for an informal European Council meeting. ",
+        "zh": "這是一場非正式歐洲理事會會議。"
+      },
+      {
+        "en": "Their first dedicated strategic discussion on artificial intelligence ",
+        "zh": "他們首次針對人工智慧進行專門的策略討論，"
+      },
+      {
+        "en": "connected two concerns: economic competitiveness and public trust. ",
+        "zh": "將兩項關切連結起來：經濟競爭力與公眾信任。"
+      },
+      {
+        "en": "The official meeting report described both ",
+        "zh": "官方會議報告同時說明了"
+      },
+      {
+        "en": "opportunities for European industry ",
+        "zh": "歐洲產業面臨的機會，"
+      },
+      {
+        "en": "and wider effects on society and security.",
+        "zh": "以及這項科技對社會與安全的更廣泛影響。"
+      }
+    ],
+    [
+      {
+        "en": "One guest was Arthur Mensch, ",
+        "zh": "受邀來賓之一是亞瑟．孟許，"
+      },
+      {
+        "en": "chief executive of Mistral AI. ",
+        "zh": "他是Mistral AI公司的執行長。"
+      },
+      {
+        "en": "The discussion with him addressed ",
+        "zh": "與他的討論聚焦於"
+      },
+      {
+        "en": "Europe's position in the global AI industry. ",
+        "zh": "歐洲在全球人工智慧產業中的地位。"
+      },
+      {
+        "en": "Leaders considered public and private investment, ",
+        "zh": "領袖們考量了公私部門投資、"
+      },
+      {
+        "en": "stronger European capabilities, and reliable supply chains. ",
+        "zh": "更強的歐洲能力，以及可靠的供應鏈。"
+      },
+      {
+        "en": "They also examined access to clean, affordable energy, ",
+        "zh": "他們也檢視如何取得潔淨且價格可負擔的能源，"
+      },
+      {
+        "en": "which is part of the infrastructure question.",
+        "zh": "這也是基礎設施問題的一環。"
+      }
+    ],
+    [
+      {
+        "en": "European Council President Antonio Costa ",
+        "zh": "歐洲理事會主席安東尼奧．科斯塔"
+      },
+      {
+        "en": "also emphasised the importance of actually using AI. ",
+        "zh": "也強調實際採用人工智慧的重要性。"
+      },
+      {
+        "en": "In his remarks after the meeting, ",
+        "zh": "他在會後談話中"
+      },
+      {
+        "en": "he linked adoption across the economy ",
+        "zh": "將整體經濟中的技術採用"
+      },
+      {
+        "en": "with the possibility of higher productivity. ",
+        "zh": "與提高生產力的可能性連結起來。"
+      },
+      {
+        "en": "This points to a practical distinction: ",
+        "zh": "這點帶出一項實際區分："
+      },
+      {
+        "en": "developing advanced models and helping organisations use them ",
+        "zh": "開發先進模型與協助組織使用模型，"
+      },
+      {
+        "en": "are related but different tasks.",
+        "zh": "是相關卻不同的工作。"
+      }
+    ],
+    [
+      {
+        "en": "Another guest, Nobel Prize laureate Geoffrey Hinton, ",
+        "zh": "另一位來賓是諾貝爾獎得主傑佛瑞．辛頓，"
+      },
+      {
+        "en": "joined the discussion of AI's social impact. ",
+        "zh": "他參與了人工智慧社會影響的討論。"
+      },
+      {
+        "en": "Topics included children's rights, democratic processes, ",
+        "zh": "議題包括兒童權利、民主程序、"
+      },
+      {
+        "en": "labour markets, market concentration, and cybersecurity. ",
+        "zh": "勞動市場、市場集中與網路安全。"
+      },
+      {
+        "en": "These subjects extend beyond ",
+        "zh": "這些主題超出了"
+      },
+      {
+        "en": "the performance of a particular software product. ",
+        "zh": "單一特定軟體產品的效能。"
+      },
+      {
+        "en": "They concern how powerful technology ",
+        "zh": "它們關係到強大的科技"
+      },
+      {
+        "en": "interacts with institutions and people's lives.",
+        "zh": "如何與制度及人們的生活互相影響。"
+      }
+    ],
+    [
+      {
+        "en": "Costa argued that clear oversight ",
+        "zh": "科斯塔主張，明確的監督"
+      },
+      {
+        "en": "is necessary for public confidence in AI. ",
+        "zh": "是公眾對人工智慧建立信心的必要條件。"
+      },
+      {
+        "en": "He presented trust as a condition ",
+        "zh": "他將信任視為一項條件，"
+      },
+      {
+        "en": "for a successful strategy, ",
+        "zh": "有了它，策略才能成功，"
+      },
+      {
+        "en": "rather than a separate issue to consider later. ",
+        "zh": "而不是留待日後再考慮的獨立議題。"
+      },
+      {
+        "en": "He also called for European participation ",
+        "zh": "他也呼籲歐洲參與"
+      },
+      {
+        "en": "in international discussions about responsible AI governance, ",
+        "zh": "有關負責任人工智慧治理的國際討論，"
+      },
+      {
+        "en": "including debates in the United Nations.",
+        "zh": "其中包括聯合國內的討論。"
+      }
+    ],
+    [
+      {
+        "en": "Ireland's announcement before the meeting ",
+        "zh": "愛爾蘭在會議前發布的公告"
+      },
+      {
+        "en": "had already outlined this balance. ",
+        "zh": "就已勾勒出這種平衡。"
+      },
+      {
+        "en": "Prime Minister Micheal Martin described opportunities for innovation, ",
+        "zh": "總理米歇爾．馬丁描述了創新機會，"
+      },
+      {
+        "en": "while also highlighting risks for societies and democracies. ",
+        "zh": "同時也強調社會與民主制度面臨的風險。"
+      },
+      {
+        "en": "He framed the meeting as a chance ",
+        "zh": "他將會議定位為一次機會，"
+      },
+      {
+        "en": "to consider further action ",
+        "zh": "讓各方思考後續行動，"
+      },
+      {
+        "en": "while building on existing regulations. ",
+        "zh": "並以現有規範為基礎。"
+      },
+      {
+        "en": "His comments brought industry and research perspectives ",
+        "zh": "他的談話將產業與研究觀點"
+      },
+      {
+        "en": "into the same political conversation.",
+        "zh": "帶入同一場政治討論。"
+      }
+    ],
+    [
+      {
+        "en": "The discussion will continue beyond Dublin. ",
+        "zh": "討論將在都柏林會議後持續進行。"
+      },
+      {
+        "en": "Costa said leaders would return to AI ",
+        "zh": "科斯塔表示，領袖們將再次討論人工智慧，"
+      },
+      {
+        "en": "at their February 5, 2027, meeting in Alden Biesen. ",
+        "zh": "時間為2027年2月5日，地點在奧爾登比森。"
+      },
+      {
+        "en": "He also identified AI's effects on society and jobs ",
+        "zh": "他也將人工智慧對社會與工作的影響"
+      },
+      {
+        "en": "as a central theme for the 2027 Social Summit. ",
+        "zh": "列為2027年社會高峰會的核心主題。"
+      },
+      {
+        "en": "Those announcements describe a future agenda, ",
+        "zh": "這些宣布描述的是未來議程，"
+      },
+      {
+        "en": "not completed solutions to the challenges raised.",
+        "zh": "不代表會中提出的挑戰已經獲得解決。"
+      }
+    ],
+    [
+      {
+        "en": "Taken together, the accounts show ",
+        "zh": "綜合來看，這些紀錄顯示，"
+      },
+      {
+        "en": "why AI policy involves several connected choices. ",
+        "zh": "人工智慧政策涉及多項彼此連結的選擇。"
+      },
+      {
+        "en": "Investment and adoption address economic capacity, ",
+        "zh": "投資與採用關係到經濟能力，"
+      },
+      {
+        "en": "while oversight and cooperation address confidence and accountability. ",
+        "zh": "監督與合作則關係到信心與問責。"
+      },
+      {
+        "en": "For Europe's technology sector, ",
+        "zh": "對歐洲科技業而言，"
+      },
+      {
+        "en": "the Dublin meeting signals political attention ",
+        "zh": "都柏林會議顯示，政治層面的關注"
+      },
+      {
+        "en": "across this whole range of issues. ",
+        "zh": "涵蓋了這整組議題。"
+      },
+      {
+        "en": "The next test is how those discussions ",
+        "zh": "接下來要看的，是這些討論"
+      },
+      {
+        "en": "are translated into practical decisions.",
+        "zh": "如何化為實際決策。"
+      }
+    ]
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一個、一種；不定冠詞"
+    },
+    "about": {
+      "meaning": "大約；關於"
+    },
+    "access": {
+      "meaning": "取得、使用的機會；文中指取得能源"
+    },
+    "accountability": {
+      "meaning": "問責、負責；文中指對人工智慧的發展與使用負責"
+    },
+    "accounts": {
+      "meaning": "紀錄、敘述；文中指官方報告與談話紀錄"
+    },
+    "across": {
+      "meaning": "遍及、涵蓋"
+    },
+    "action": {
+      "meaning": "行動"
+    },
+    "actually": {
+      "meaning": "實際上、確實地"
+    },
+    "address": {
+      "meaning": "處理"
+    },
+    "addressed": {
+      "meaning": "探討、處理"
+    },
+    "adoption": {
+      "meaning": "採用；文中指實際運用人工智慧"
+    },
+    "advanced": {
+      "meaning": "先進的"
+    },
+    "affordable": {
+      "meaning": "價格可負擔的"
+    },
+    "after": {
+      "meaning": "之後"
+    },
+    "agenda": {
+      "meaning": "議程、討論事項"
+    },
+    "ai": {
+      "meaning": "人工智慧（artificial intelligence的縮寫）"
+    },
+    "ai's": {
+      "meaning": "人工智慧的"
+    },
+    "alden": {
+      "meaning": "Alden；Alden Biesen為比利時奧爾登比森的地名"
+    },
+    "already": {
+      "meaning": "已經"
+    },
+    "also": {
+      "meaning": "也、同時"
+    },
+    "an": {
+      "meaning": "一個、一種；母音發音前的不定冠詞"
+    },
+    "and": {
+      "meaning": "和、而且；連接詞"
+    },
+    "announcement": {
+      "meaning": "公告"
+    },
+    "announcements": {
+      "meaning": "公告（複數）"
+    },
+    "another": {
+      "meaning": "另一個；再一次的"
+    },
+    "antonio": {
+      "meaning": "Antonio；人名安東尼奧"
+    },
+    "are": {
+      "meaning": "是；也可作被動語態的助動詞"
+    },
+    "argued": {
+      "meaning": "主張、提出論點"
+    },
+    "arthur": {
+      "meaning": "Arthur；人名亞瑟"
+    },
+    "artificial": {
+      "meaning": "人工的；artificial intelligence指人工智慧"
+    },
+    "as": {
+      "meaning": "作為、當作；as well as指也、以及"
+    },
+    "at": {
+      "meaning": "在某時間或地點"
+    },
+    "attention": {
+      "meaning": "注意、關注"
+    },
+    "balance": {
+      "meaning": "平衡"
+    },
+    "before": {
+      "meaning": "在…之前"
+    },
+    "beyond": {
+      "meaning": "超出、不僅限於"
+    },
+    "biesen": {
+      "meaning": "Biesen；Alden Biesen為比利時奧爾登比森的地名"
+    },
+    "both": {
+      "meaning": "兩者都；both A and B指A與B兩者"
+    },
+    "brought": {
+      "meaning": "使來到一起；brought together 指讓…齊聚"
+    },
+    "building": {
+      "meaning": "建立；building on指以…為基礎"
+    },
+    "but": {
+      "meaning": "但是"
+    },
+    "called": {
+      "meaning": "呼籲；called for指呼籲、要求"
+    },
+    "capabilities": {
+      "meaning": "能力、功能"
+    },
+    "capacity": {
+      "meaning": "能力；文中指經濟能力"
+    },
+    "central": {
+      "meaning": "核心的"
+    },
+    "chains": {
+      "meaning": "鏈、鏈條（複數）；supply chains指供應鏈"
+    },
+    "challenges": {
+      "meaning": "挑戰、難題"
+    },
+    "chance": {
+      "meaning": "機會"
+    },
+    "chief": {
+      "meaning": "首席的；chief executive指執行長"
+    },
+    "children's": {
+      "meaning": "兒童的"
+    },
+    "choices": {
+      "meaning": "選擇（複數）"
+    },
+    "clean": {
+      "meaning": "潔淨的；文中指潔淨能源"
+    },
+    "clear": {
+      "meaning": "明確的"
+    },
+    "comments": {
+      "meaning": "談話、評論（複數）"
+    },
+    "competitiveness": {
+      "meaning": "競爭力"
+    },
+    "completed": {
+      "meaning": "已完成的"
+    },
+    "concentration": {
+      "meaning": "集中；market concentration指市場集中於少數企業的情況"
+    },
+    "concern": {
+      "meaning": "涉及、關注"
+    },
+    "concerns": {
+      "meaning": "關切的事項"
+    },
+    "condition": {
+      "meaning": "條件"
+    },
+    "confidence": {
+      "meaning": "信心、信任"
+    },
+    "connected": {
+      "meaning": "相互連接的"
+    },
+    "consider": {
+      "meaning": "考慮"
+    },
+    "considered": {
+      "meaning": "考量、看待（過去分詞）"
+    },
+    "continue": {
+      "meaning": "持續"
+    },
+    "conversation": {
+      "meaning": "交談、對話"
+    },
+    "cooperation": {
+      "meaning": "合作"
+    },
+    "costa": {
+      "meaning": "Costa；科斯塔，人名姓氏"
+    },
+    "council": {
+      "meaning": "理事會；文中European Council指由歐盟領袖組成的歐洲理事會"
+    },
+    "cybersecurity": {
+      "meaning": "網路安全"
+    },
+    "debates": {
+      "meaning": "討論、辯論（複數）"
+    },
+    "decisions": {
+      "meaning": "決策、決定"
+    },
+    "dedicated": {
+      "meaning": "專門的、針對特定主題的"
+    },
+    "democracies": {
+      "meaning": "民主制度、民主社會（複數）"
+    },
+    "democratic": {
+      "meaning": "民主的"
+    },
+    "describe": {
+      "meaning": "描述"
+    },
+    "described": {
+      "meaning": "描述（過去式）"
+    },
+    "developing": {
+      "meaning": "開發、發展"
+    },
+    "different": {
+      "meaning": "不同的"
+    },
+    "discussion": {
+      "meaning": "討論"
+    },
+    "discussions": {
+      "meaning": "討論"
+    },
+    "distinction": {
+      "meaning": "區別"
+    },
+    "dublin": {
+      "meaning": "都柏林；愛爾蘭首都"
+    },
+    "economic": {
+      "meaning": "經濟的"
+    },
+    "economy": {
+      "meaning": "經濟、經濟體系"
+    },
+    "effects": {
+      "meaning": "影響（複數）"
+    },
+    "emphasised": {
+      "meaning": "強調；emphasized的英式拼法"
+    },
+    "energy": {
+      "meaning": "能源"
+    },
+    "europe's": {
+      "meaning": "歐洲的"
+    },
+    "european": {
+      "meaning": "歐洲的"
+    },
+    "examined": {
+      "meaning": "檢視、探討"
+    },
+    "executive": {
+      "meaning": "執行長；chief executive指執行長"
+    },
+    "existing": {
+      "meaning": "現有的"
+    },
+    "extend": {
+      "meaning": "延伸、超出"
+    },
+    "february": {
+      "meaning": "二月"
+    },
+    "first": {
+      "meaning": "首次的、第一的"
+    },
+    "for": {
+      "meaning": "為了、對於；也表示某時段的"
+    },
+    "framed": {
+      "meaning": "將…定位、將…描述為"
+    },
+    "further": {
+      "meaning": "後續的、更多的"
+    },
+    "future": {
+      "meaning": "未來的"
+    },
+    "geoffrey": {
+      "meaning": "Geoffrey；人名傑佛瑞"
+    },
+    "global": {
+      "meaning": "全球的"
+    },
+    "governance": {
+      "meaning": "治理"
+    },
+    "guest": {
+      "meaning": "來賓、受邀者"
+    },
+    "had": {
+      "meaning": "與過去分詞連用，構成過去完成式"
+    },
+    "he": {
+      "meaning": "他"
+    },
+    "helping": {
+      "meaning": "協助、幫助"
+    },
+    "higher": {
+      "meaning": "較高的"
+    },
+    "highlighting": {
+      "meaning": "強調、凸顯"
+    },
+    "him": {
+      "meaning": "他；文中指亞瑟．孟許"
+    },
+    "hinton": {
+      "meaning": "Hinton；辛頓，人名姓氏"
+    },
+    "his": {
+      "meaning": "他的"
+    },
+    "how": {
+      "meaning": "如何"
+    },
+    "identified": {
+      "meaning": "指出、列為"
+    },
+    "impact": {
+      "meaning": "影響"
+    },
+    "importance": {
+      "meaning": "重要性"
+    },
+    "in": {
+      "meaning": "在某時間、領域或範圍中"
+    },
+    "included": {
+      "meaning": "包括"
+    },
+    "including": {
+      "meaning": "包含"
+    },
+    "industry": {
+      "meaning": "產業；業界"
+    },
+    "informal": {
+      "meaning": "非正式的"
+    },
+    "infrastructure": {
+      "meaning": "基礎設施"
+    },
+    "innovation": {
+      "meaning": "創新"
+    },
+    "institutions": {
+      "meaning": "制度、機構；文中指與科技互相影響的社會制度及機構"
+    },
+    "intelligence": {
+      "meaning": "智慧；artificial intelligence指人工智慧"
+    },
+    "interacts": {
+      "meaning": "互動、互相影響"
+    },
+    "international": {
+      "meaning": "國際的"
+    },
+    "into": {
+      "meaning": "進入…之中"
+    },
+    "investment": {
+      "meaning": "投資"
+    },
+    "involves": {
+      "meaning": "涉及"
+    },
+    "ireland's": {
+      "meaning": "愛爾蘭的"
+    },
+    "is": {
+      "meaning": "是；也可作被動或進行式的助動詞"
+    },
+    "issue": {
+      "meaning": "議題、問題"
+    },
+    "issues": {
+      "meaning": "議題（複數）"
+    },
+    "jobs": {
+      "meaning": "工作、就業機會（複數）"
+    },
+    "joined": {
+      "meaning": "參與、加入"
+    },
+    "labour": {
+      "meaning": "勞動；labour markets指勞動市場"
+    },
+    "later": {
+      "meaning": "稍後、之後"
+    },
+    "laureate": {
+      "meaning": "得獎者"
+    },
+    "leaders": {
+      "meaning": "領袖"
+    },
+    "linked": {
+      "meaning": "與…相關聯的"
+    },
+    "lives": {
+      "meaning": "生活；life的複數"
+    },
+    "market": {
+      "meaning": "市場"
+    },
+    "markets": {
+      "meaning": "市場（複數）"
+    },
+    "martin": {
+      "meaning": "Martin；馬丁，人名姓氏"
+    },
+    "meeting": {
+      "meaning": "會議"
+    },
+    "mensch": {
+      "meaning": "Mensch；孟許，人名姓氏"
+    },
+    "met": {
+      "meaning": "會面；meet的過去式"
+    },
+    "micheal": {
+      "meaning": "Micheal；米歇爾，愛爾蘭人名Micheál的無重音符號寫法"
+    },
+    "minister": {
+      "meaning": "部長；prime minister指總理"
+    },
+    "mistral": {
+      "meaning": "Mistral；人工智慧公司Mistral AI的名稱"
+    },
+    "models": {
+      "meaning": "模型（複數）"
+    },
+    "nations": {
+      "meaning": "國家；United Nations 指聯合國"
+    },
+    "necessary": {
+      "meaning": "必要的"
+    },
+    "next": {
+      "meaning": "接下來的"
+    },
+    "nobel": {
+      "meaning": "諾貝爾；Nobel Prize指諾貝爾獎"
+    },
+    "not": {
+      "meaning": "不、沒有"
+    },
+    "november": {
+      "meaning": "十一月"
+    },
+    "of": {
+      "meaning": "…的；表示所屬、性質、內容等關係"
+    },
+    "official": {
+      "meaning": "官方的"
+    },
+    "on": {
+      "meaning": "關於、就某事；也表示日期"
+    },
+    "one": {
+      "meaning": "一、一個"
+    },
+    "opportunities": {
+      "meaning": "機會（複數）"
+    },
+    "organisations": {
+      "meaning": "組織、機構（複數）"
+    },
+    "outlined": {
+      "meaning": "概述了"
+    },
+    "oversight": {
+      "meaning": "監督"
+    },
+    "part": {
+      "meaning": "部分"
+    },
+    "participation": {
+      "meaning": "參與"
+    },
+    "particular": {
+      "meaning": "特定的"
+    },
+    "people's": {
+      "meaning": "人們的"
+    },
+    "performance": {
+      "meaning": "表現、性能"
+    },
+    "perspectives": {
+      "meaning": "觀點（複數）"
+    },
+    "points": {
+      "meaning": "指向、帶出；points to指顯示、指出"
+    },
+    "policy": {
+      "meaning": "政策"
+    },
+    "political": {
+      "meaning": "政治的"
+    },
+    "position": {
+      "meaning": "地位、位置"
+    },
+    "possibility": {
+      "meaning": "可能性"
+    },
+    "powerful": {
+      "meaning": "強大的、有重大影響力的"
+    },
+    "practical": {
+      "meaning": "實際的"
+    },
+    "presented": {
+      "meaning": "將…描述或定位為"
+    },
+    "president": {
+      "meaning": "主席；文中指歐洲理事會主席"
+    },
+    "prime": {
+      "meaning": "首要的；prime minister指總理"
+    },
+    "private": {
+      "meaning": "民間的、私部門的"
+    },
+    "prize": {
+      "meaning": "獎項"
+    },
+    "processes": {
+      "meaning": "程序、過程（複數）"
+    },
+    "product": {
+      "meaning": "產品"
+    },
+    "productivity": {
+      "meaning": "生產力"
+    },
+    "public": {
+      "meaning": "公眾的、公共的；public investment指公部門投資"
+    },
+    "question": {
+      "meaning": "問題"
+    },
+    "raised": {
+      "meaning": "提出的"
+    },
+    "range": {
+      "meaning": "範圍"
+    },
+    "rather": {
+      "meaning": "rather than 指而非"
+    },
+    "regulations": {
+      "meaning": "規範、法規（複數）"
+    },
+    "related": {
+      "meaning": "相關的"
+    },
+    "reliable": {
+      "meaning": "可靠的"
+    },
+    "remarks": {
+      "meaning": "談話、發言（複數）"
+    },
+    "report": {
+      "meaning": "報告"
+    },
+    "research": {
+      "meaning": "研究"
+    },
+    "responsible": {
+      "meaning": "負責任的"
+    },
+    "return": {
+      "meaning": "重新回到；return to指重新討論"
+    },
+    "rights": {
+      "meaning": "權利"
+    },
+    "risks": {
+      "meaning": "風險（複數）"
+    },
+    "said": {
+      "meaning": "表示、說（say 的過去式）"
+    },
+    "same": {
+      "meaning": "相同的"
+    },
+    "sector": {
+      "meaning": "產業、部門"
+    },
+    "security": {
+      "meaning": "安全、防護"
+    },
+    "separate": {
+      "meaning": "不同的、分開的"
+    },
+    "several": {
+      "meaning": "數個、多項"
+    },
+    "show": {
+      "meaning": "顯示、呈現"
+    },
+    "signals": {
+      "meaning": "顯示、傳達某種訊息"
+    },
+    "social": {
+      "meaning": "社會的"
+    },
+    "societies": {
+      "meaning": "社會（複數）"
+    },
+    "society": {
+      "meaning": "社會"
+    },
+    "software": {
+      "meaning": "軟體"
+    },
+    "solutions": {
+      "meaning": "解決方案（複數）"
+    },
+    "strategic": {
+      "meaning": "策略性的"
+    },
+    "strategy": {
+      "meaning": "策略"
+    },
+    "stronger": {
+      "meaning": "更強的"
+    },
+    "subjects": {
+      "meaning": "主題（複數）"
+    },
+    "successful": {
+      "meaning": "成功的"
+    },
+    "summit": {
+      "meaning": "高峰會"
+    },
+    "supply": {
+      "meaning": "供應；supply chains指供應鏈"
+    },
+    "taken": {
+      "meaning": "與together連用；taken together指綜合來看"
+    },
+    "tasks": {
+      "meaning": "任務、工作（複數）"
+    },
+    "technology": {
+      "meaning": "科技、技術"
+    },
+    "test": {
+      "meaning": "考驗；文中指後續須觀察的實際成果"
+    },
+    "than": {
+      "meaning": "與rather連用，rather than指而不是"
+    },
+    "that": {
+      "meaning": "那個；也可引導內容子句或關係子句"
+    },
+    "the": {
+      "meaning": "定冠詞，指特定或前文提過的事物"
+    },
+    "their": {
+      "meaning": "他們的；文中指歐盟領袖的"
+    },
+    "them": {
+      "meaning": "它們；文中指人工智慧模型"
+    },
+    "theme": {
+      "meaning": "主題"
+    },
+    "these": {
+      "meaning": "這些"
+    },
+    "they": {
+      "meaning": "他們；文中指歐盟領袖"
+    },
+    "this": {
+      "meaning": "這"
+    },
+    "those": {
+      "meaning": "那些"
+    },
+    "to": {
+      "meaning": "到、向；也用於不定詞，接動詞原形"
+    },
+    "together": {
+      "meaning": "合在一起、綜合來看"
+    },
+    "topics": {
+      "meaning": "議題、主題（複數）"
+    },
+    "translated": {
+      "meaning": "轉化；translated into指化為、落實為"
+    },
+    "trust": {
+      "meaning": "信任"
+    },
+    "two": {
+      "meaning": "兩個"
+    },
+    "union": {
+      "meaning": "聯盟；European Union指歐盟"
+    },
+    "united": {
+      "meaning": "聯合的；United Nations 指聯合國"
+    },
+    "use": {
+      "meaning": "使用"
+    },
+    "using": {
+      "meaning": "使用、運用"
+    },
+    "was": {
+      "meaning": "是（過去式）"
+    },
+    "which": {
+      "meaning": "哪個、哪些；可引導關係子句或間接問句"
+    },
+    "while": {
+      "meaning": "當…時；同時、而"
+    },
+    "whole": {
+      "meaning": "完整的、全部的"
+    },
+    "why": {
+      "meaning": "為何"
+    },
+    "wider": {
+      "meaning": "範圍更廣的"
+    },
+    "will": {
+      "meaning": "將會；表示預期未來情形"
+    },
+    "with": {
+      "meaning": "與、透過；也表示具備某項條件"
+    },
+    "would": {
+      "meaning": "將會、會；用於尚未實現的設想或條件"
+    }
+  },
+  "quiz": [
+    {
+      "question": "What is the main message of the article?",
+      "choices": [
+        {
+          "text": "EU leaders discussed AI as both an economic opportunity and a matter of public trust.",
+          "explanation": "正確。第一段將競爭力與公眾信任連結，後文分別說明投資、採用、監督與社會影響。"
+        },
+        {
+          "text": "The Dublin meeting completed every decision needed for European AI policy.",
+          "explanation": "錯誤。第七段說未來仍有討論議程，第八段則指出接下來要看討論如何轉化為決策。"
+        },
+        {
+          "text": "AI policy should be limited to improving individual software products.",
+          "explanation": "錯誤。第四段說討論超越單一產品效能，涉及制度、權利及人們的生活。"
+        },
+        {
+          "text": "Public trust was excluded from the economic discussion.",
+          "explanation": "錯誤。第一段將兩者連結，第五段更將信任視為策略成功的條件。"
+        }
+      ],
+      "answerIndex": 0,
+      "explanation": "文章主旨是雙重關注：一方面提升經濟競爭力，另一方面建立公眾信任並處理社會影響。第一與第八段呼應這個結構，因此第一個選項最完整。",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "Their first dedicated strategic discussion on artificial intelligence connected two concerns: economic competitiveness and public trust."
+        },
+        {
+          "paragraph": 8,
+          "quote": "Investment and adoption address economic capacity, while oversight and cooperation address confidence and accountability."
+        }
+      ]
+    },
+    {
+      "question": "What can be inferred from the discussion of developing models and adopting AI?",
+      "choices": [
+        {
+          "text": "Developing a model automatically means every organisation will use it effectively.",
+          "explanation": "錯誤。第三段把模型開發與協助組織採用視為不同工作，不能自動視為同一結果。"
+        },
+        {
+          "text": "Organisations should wait until all model development has stopped before using AI.",
+          "explanation": "錯誤。文章未提出這種等待條件，第三段強調的是採用的重要性。"
+        },
+        {
+          "text": "Technical development and practical use require attention as related but distinct tasks.",
+          "explanation": "正確。第三段直接指出，開發先進模型與協助組織使用模型相關，但屬於不同工作。"
+        },
+        {
+          "text": "Productivity gains were described as impossible.",
+          "explanation": "錯誤。第三段說採用人工智慧與提升生產力的可能性有關，並未否定這種可能。"
+        }
+      ],
+      "answerIndex": 2,
+      "explanation": "第三段說明模型開發與實際採用之間的區別。模型存在並不足以代表組織已能有效使用，因此兩項相關工作都需要關注，而不能互相取代。",
+      "evidence": [
+        {
+          "paragraph": 3,
+          "quote": "This points to a practical distinction: developing advanced models and helping organisations use them are related but different tasks."
+        }
+      ]
+    },
+    {
+      "question": "Which conclusion is best supported by the announced future meetings?",
+      "choices": [
+        {
+          "text": "All social risks from AI have already been removed.",
+          "explanation": "錯誤。第七段明確說未來議程不代表相關挑戰已經解決。"
+        },
+        {
+          "text": "AI remains an ongoing political issue, with further discussion of its social effects planned.",
+          "explanation": "正確。第七段列出2027年2月會議及社會高峰會的相關議程，顯示討論將持續。"
+        },
+        {
+          "text": "EU leaders will stop considering employment issues.",
+          "explanation": "錯誤。第七段將人工智慧對工作與社會的影響列為2027年社會高峰會核心主題。"
+        },
+        {
+          "text": "The future agenda proves that every organisation has already adopted AI.",
+          "explanation": "錯誤。議程只代表後續討論規劃，無法證明所有組織已採用人工智慧。"
+        }
+      ],
+      "answerIndex": 1,
+      "explanation": "未來會議安排能支持「政策討論仍在持續」這項結論，但不能用來證明風險已消失或政策已全面落實。第七段同時提供日程與這項限制。",
+      "evidence": [
+        {
+          "paragraph": 7,
+          "quote": "He also identified AI's effects on society and jobs as a central theme for the 2027 Social Summit. Those announcements describe a future agenda, not completed solutions to the challenges raised."
+        }
+      ]
+    }
+  ]
+}
