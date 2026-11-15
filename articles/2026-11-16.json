@@ -1,0 +1,1077 @@
+{
+  "version": 1,
+  "date": "2026-11-16",
+  "level": "B2",
+  "title": "Firefox 160 Changes How People View and Access Web Content",
+  "topic": "科技業新聞",
+  "sources": [
+    {
+      "name": "Mozilla Firefox",
+      "title": "Firefox 160.0, See All New Features, Updates and Fixes",
+      "url": "https://www.firefox.com/en-US/firefox/160.0/releasenotes/"
+    },
+    {
+      "name": "Mozilla Connect — Mozilla employee asafko (Ania)",
+      "title": "Mini Window beta is going live in Firefox 160 and we want your feedback",
+      "url": "https://connect.mozilla.org/t5/discussions/mini-window-beta-is-going-live-in-firefox-160-and-we-want-your/td-p/144137"
+    },
+    {
+      "name": "MDN Web Docs",
+      "title": "MathML",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/MathML"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "en": "Firefox 160 reached desktop release users ",
+        "zh": "Firefox 160開始向桌面正式版使用者提供，"
+      },
+      {
+        "en": "on November 10, 2026. ",
+        "zh": "日期為2026年11月10日。"
+      },
+      {
+        "en": "Mozilla's release notes describe changes ",
+        "zh": "Mozilla的版本說明介紹了多項變更，"
+      },
+      {
+        "en": "to viewing windows, video controls, and saved documents. ",
+        "zh": "涵蓋檢視視窗、影片控制與儲存的文件。"
+      },
+      {
+        "en": "Among them is Mini Window, ",
+        "zh": "其中包括迷你視窗功能，"
+      },
+      {
+        "en": "an early feature that changes ",
+        "zh": "這項初期功能改變了"
+      },
+      {
+        "en": "how a browser can keep information in view.",
+        "zh": "瀏覽器持續顯示資訊的方式。"
+      }
+    ],
+    [
+      {
+        "en": "Mini Window allows a complete tab ",
+        "zh": "迷你視窗可將完整分頁"
+      },
+      {
+        "en": "or a selected section of a page ",
+        "zh": "或網頁上選定的區域"
+      },
+      {
+        "en": "to move into a compact window. ",
+        "zh": "移入小型視窗。"
+      },
+      {
+        "en": "That window stays above other windows while browsing. ",
+        "zh": "瀏覽時，這個視窗會保持在其他視窗上方。"
+      },
+      {
+        "en": "In an October 19 introduction on Mozilla Connect, ",
+        "zh": "在10月19日發布於Mozilla Connect的介紹中，"
+      },
+      {
+        "en": "a Mozilla employee explained that the idea ",
+        "zh": "一位Mozilla員工說明，這個構想"
+      },
+      {
+        "en": "extends the familiar Picture-in-Picture pattern beyond video.",
+        "zh": "將熟悉的子母畫面模式擴展至影片以外的內容。"
+      }
+    ],
+    [
+      {
+        "en": "The employee's explanation gives an important detail: ",
+        "zh": "該員工的說明提供了一項重要細節："
+      },
+      {
+        "en": "when a tab or section moves, ",
+        "zh": "當分頁或區域被移出時，"
+      },
+      {
+        "en": "it is no longer accessible in the regular window. ",
+        "zh": "使用者便無法再從原本視窗存取它。"
+      },
+      {
+        "en": "Users can send it back ",
+        "zh": "使用者可以將它送回原處，"
+      },
+      {
+        "en": "from the Mini Window. ",
+        "zh": "操作位置就在迷你視窗中。"
+      },
+      {
+        "en": "This describes moving a view between windows, ",
+        "zh": "這描述的是將檢視內容移至不同視窗，"
+      },
+      {
+        "en": "rather than creating an independent copy ",
+        "zh": "而不是建立一份獨立副本，"
+      },
+      {
+        "en": "that can be edited separately.",
+        "zh": "讓使用者分開編輯。"
+      }
+    ],
+    [
+      {
+        "en": "Video viewing receives a different improvement. ",
+        "zh": "影片觀看則獲得另一項改進。"
+      },
+      {
+        "en": "The Picture-in-Picture player now offers playback speeds ",
+        "zh": "子母畫面播放器現在提供播放速度選項，"
+      },
+      {
+        "en": "from one quarter of normal speed ",
+        "zh": "範圍從正常速度的四分之一"
+      },
+      {
+        "en": "to twice normal speed. ",
+        "zh": "到正常速度的兩倍。"
+      },
+      {
+        "en": "According to the release notes, ",
+        "zh": "根據版本說明，"
+      },
+      {
+        "en": "the speed setting appears only ",
+        "zh": "速度設定只會出現在"
+      },
+      {
+        "en": "when the player is medium-sized or larger. ",
+        "zh": "中型或更大的播放器視窗中。"
+      },
+      {
+        "en": "A control's availability can therefore depend ",
+        "zh": "因此，一個控制項是否顯示，可能取決於"
+      },
+      {
+        "en": "on the size of its window.",
+        "zh": "所處視窗的大小。"
+      }
+    ],
+    [
+      {
+        "en": "Another change concerns pages saved as PDF. ",
+        "zh": "另一項變更涉及儲存為PDF的網頁。"
+      },
+      {
+        "en": "Firefox's notes say mathematical content written in MathML ",
+        "zh": "Firefox的說明指出，以MathML編寫的數學內容"
+      },
+      {
+        "en": "is now accessible to assistive technology ",
+        "zh": "現在可供輔助科技存取，"
+      },
+      {
+        "en": "such as screen readers in those documents. ",
+        "zh": "例如螢幕閱讀器可讀取這些文件中的內容。"
+      },
+      {
+        "en": "This is a specific improvement for mathematical content, ",
+        "zh": "這是針對數學內容的特定改進，"
+      },
+      {
+        "en": "not a claim that every possible document ",
+        "zh": "並非宣稱所有可能的文件"
+      },
+      {
+        "en": "will work perfectly with every reading tool.",
+        "zh": "都能與每一種閱讀工具完美搭配。"
+      }
+    ],
+    [
+      {
+        "en": "MDN's technical documentation explains the background. ",
+        "zh": "MDN的技術文件說明了相關背景。"
+      },
+      {
+        "en": "MathML is a markup language ",
+        "zh": "MathML是一種標記語言，"
+      },
+      {
+        "en": "for describing mathematical notation. ",
+        "zh": "用來描述數學符號表示法。"
+      },
+      {
+        "en": "Its learning materials include structured formulas, ",
+        "zh": "相關學習材料涵蓋結構化公式，"
+      },
+      {
+        "en": "with elements for fractions and roots. ",
+        "zh": "並包含表示分數與根式的元素。"
+      },
+      {
+        "en": "That context helps explain why saving a page ",
+        "zh": "這個背景有助於說明，為何儲存網頁時"
+      },
+      {
+        "en": "can involve more than preserving ",
+        "zh": "不只涉及保留"
+      },
+      {
+        "en": "what appears on the screen.",
+        "zh": "畫面上看得到的內容。"
+      }
+    ],
+    [
+      {
+        "en": "The release also changes some smaller interactions. ",
+        "zh": "這次更新也調整了一些較小的操作細節。"
+      },
+      {
+        "en": "History entries can be dragged ",
+        "zh": "使用者可以拖曳歷史紀錄項目，"
+      },
+      {
+        "en": "from the sidebar to the tab strip ",
+        "zh": "從側邊欄移到分頁列，"
+      },
+      {
+        "en": "to open new tabs. ",
+        "zh": "藉此開啟新分頁。"
+      },
+      {
+        "en": "Mozilla also reports stronger visual contrast ",
+        "zh": "Mozilla也表示，網址列中的視覺對比已提高，"
+      },
+      {
+        "en": "between a site's domain name ",
+        "zh": "這項對比位於網站網域名稱"
+      },
+      {
+        "en": "and the rest of its address. ",
+        "zh": "與網址其餘部分之間。"
+      },
+      {
+        "en": "These adjustments affect navigation and recognition, ",
+        "zh": "這些調整影響導覽與辨識，"
+      },
+      {
+        "en": "even though they are less visible than a new window feature.",
+        "zh": "即使它們不像新視窗功能那麼顯眼。"
+      }
+    ],
+    [
+      {
+        "en": "Together, these changes illustrate ",
+        "zh": "綜合來看，這些變更展現了"
+      },
+      {
+        "en": "several dimensions of browser development. ",
+        "zh": "瀏覽器開發的多個面向。"
+      },
+      {
+        "en": "Mini Window concerns how information is arranged, ",
+        "zh": "迷你視窗關係到資訊如何排列，"
+      },
+      {
+        "en": "video controls concern how it is experienced, ",
+        "zh": "影片控制關係到資訊的觀看體驗，"
+      },
+      {
+        "en": "and the PDF change concerns who can access it. ",
+        "zh": "PDF的變更則關係到誰能存取內容。"
+      },
+      {
+        "en": "Mozilla describes Mini Window as an early version ",
+        "zh": "Mozilla將迷你視窗稱為初期版本，"
+      },
+      {
+        "en": "and asks for feedback. ",
+        "zh": "並邀請使用者提供意見。"
+      },
+      {
+        "en": "The release therefore combines new capabilities ",
+        "zh": "因此，這次更新同時提供新能力，"
+      },
+      {
+        "en": "with work that remains open to refinement. ",
+        "zh": "也保留了持續改善的空間。"
+      },
+      {
+        "en": "These are desktop changes described in Mozilla's announcement.",
+        "zh": "這些都是Mozilla公告中介紹的桌面版變更。"
+      }
+    ]
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一個、一種；不定冠詞"
+    },
+    "above": {
+      "meaning": "在…上方；文中指視窗顯示層級"
+    },
+    "access": {
+      "meaning": "存取、讀取內容"
+    },
+    "accessible": {
+      "meaning": "可供存取、可讓輔助科技讀取的"
+    },
+    "according": {
+      "meaning": "according to 指根據"
+    },
+    "address": {
+      "meaning": "網址；文中指網站的網路位址"
+    },
+    "adjustments": {
+      "meaning": "調整（複數）"
+    },
+    "affect": {
+      "meaning": "影響"
+    },
+    "allows": {
+      "meaning": "使能夠"
+    },
+    "also": {
+      "meaning": "也、同時"
+    },
+    "among": {
+      "meaning": "在…之中"
+    },
+    "an": {
+      "meaning": "一個、一種；母音發音前的不定冠詞"
+    },
+    "and": {
+      "meaning": "和、而且；連接詞"
+    },
+    "announcement": {
+      "meaning": "公告"
+    },
+    "another": {
+      "meaning": "另一個；再一次的"
+    },
+    "appears": {
+      "meaning": "出現、顯示"
+    },
+    "are": {
+      "meaning": "是；也可作被動語態的助動詞"
+    },
+    "arranged": {
+      "meaning": "被排列、被安排"
+    },
+    "as": {
+      "meaning": "作為、當作；as well as指也、以及"
+    },
+    "asks": {
+      "meaning": "邀請、要求；asks for feedback指邀請提供意見"
+    },
+    "assistive": {
+      "meaning": "輔助的；assistive technology指協助使用者的輔助科技"
+    },
+    "availability": {
+      "meaning": "可用性；文中指控制項是否顯示可用"
+    },
+    "back": {
+      "meaning": "返回；send back指送回"
+    },
+    "background": {
+      "meaning": "背景"
+    },
+    "be": {
+      "meaning": "是；與過去分詞連用可構成被動語態"
+    },
+    "between": {
+      "meaning": "在…之間"
+    },
+    "beyond": {
+      "meaning": "超出、不僅限於"
+    },
+    "browser": {
+      "meaning": "瀏覽器"
+    },
+    "browsing": {
+      "meaning": "瀏覽網頁"
+    },
+    "can": {
+      "meaning": "能夠"
+    },
+    "capabilities": {
+      "meaning": "能力、功能"
+    },
+    "change": {
+      "meaning": "變化、改變"
+    },
+    "changes": {
+      "meaning": "變化"
+    },
+    "claim": {
+      "meaning": "聲稱、主張"
+    },
+    "combines": {
+      "meaning": "結合"
+    },
+    "compact": {
+      "meaning": "小巧的、精簡的"
+    },
+    "complete": {
+      "meaning": "完整的"
+    },
+    "concern": {
+      "meaning": "涉及、關注"
+    },
+    "concerns": {
+      "meaning": "涉及、關於（動詞）"
+    },
+    "connect": {
+      "meaning": "Connect；Mozilla Connect是Mozilla的社群平台名稱"
+    },
+    "content": {
+      "meaning": "內容"
+    },
+    "context": {
+      "meaning": "背景、脈絡"
+    },
+    "contrast": {
+      "meaning": "對比"
+    },
+    "control's": {
+      "meaning": "控制項的"
+    },
+    "controls": {
+      "meaning": "控制項、操作功能（複數）"
+    },
+    "copy": {
+      "meaning": "副本"
+    },
+    "creating": {
+      "meaning": "建立、設立"
+    },
+    "depend": {
+      "meaning": "取決於；depend on指視…而定"
+    },
+    "describe": {
+      "meaning": "描述"
+    },
+    "described": {
+      "meaning": "描述（過去式）"
+    },
+    "describes": {
+      "meaning": "描述"
+    },
+    "describing": {
+      "meaning": "描述"
+    },
+    "desktop": {
+      "meaning": "桌面版；供桌上型或筆記型電腦使用的版本"
+    },
+    "detail": {
+      "meaning": "細節"
+    },
+    "development": {
+      "meaning": "開發；文中指瀏覽器的軟體開發"
+    },
+    "different": {
+      "meaning": "不同的"
+    },
+    "dimensions": {
+      "meaning": "面向、層面（複數）"
+    },
+    "document": {
+      "meaning": "文件"
+    },
+    "documentation": {
+      "meaning": "說明文件"
+    },
+    "documents": {
+      "meaning": "文件"
+    },
+    "domain": {
+      "meaning": "網域；domain name指網域名稱"
+    },
+    "dragged": {
+      "meaning": "被拖曳"
+    },
+    "early": {
+      "meaning": "初期的、早期的"
+    },
+    "edited": {
+      "meaning": "被編輯"
+    },
+    "elements": {
+      "meaning": "元素；文中指標記語言中的組成元素"
+    },
+    "employee": {
+      "meaning": "員工"
+    },
+    "employee's": {
+      "meaning": "該員工的"
+    },
+    "entries": {
+      "meaning": "項目；history entries指瀏覽歷史紀錄項目"
+    },
+    "even": {
+      "meaning": "即使；even after指即使在…之後"
+    },
+    "every": {
+      "meaning": "每個"
+    },
+    "experienced": {
+      "meaning": "被體驗、被感受"
+    },
+    "explain": {
+      "meaning": "解釋"
+    },
+    "explained": {
+      "meaning": "解釋"
+    },
+    "explains": {
+      "meaning": "解釋"
+    },
+    "explanation": {
+      "meaning": "說明、解釋"
+    },
+    "extends": {
+      "meaning": "延伸；extends beyond指不只限於"
+    },
+    "familiar": {
+      "meaning": "熟悉的",
+      "ipa": "/fəˈmɪliər/"
+    },
+    "feature": {
+      "meaning": "功能"
+    },
+    "feedback": {
+      "meaning": "回饋"
+    },
+    "firefox": {
+      "meaning": "Firefox；Mozilla的瀏覽器名稱"
+    },
+    "firefox's": {
+      "meaning": "Firefox的"
+    },
+    "for": {
+      "meaning": "為了、對於；也表示某時段的"
+    },
+    "formulas": {
+      "meaning": "公式（複數）"
+    },
+    "fractions": {
+      "meaning": "分數（複數）；數學中的分數"
+    },
+    "from": {
+      "meaning": "從；亦用於區分兩種事物"
+    },
+    "gives": {
+      "meaning": "給予"
+    },
+    "helps": {
+      "meaning": "幫助"
+    },
+    "history": {
+      "meaning": "歷史；文中指瀏覽紀錄"
+    },
+    "how": {
+      "meaning": "如何"
+    },
+    "idea": {
+      "meaning": "想法、要旨"
+    },
+    "illustrate": {
+      "meaning": "呈現、說明"
+    },
+    "important": {
+      "meaning": "重要的"
+    },
+    "improvement": {
+      "meaning": "改善"
+    },
+    "in": {
+      "meaning": "在某時間、領域或範圍中"
+    },
+    "include": {
+      "meaning": "包括"
+    },
+    "independent": {
+      "meaning": "獨立的"
+    },
+    "information": {
+      "meaning": "資訊"
+    },
+    "interactions": {
+      "meaning": "互動、操作（複數）"
+    },
+    "into": {
+      "meaning": "進入…之中"
+    },
+    "introduction": {
+      "meaning": "介紹"
+    },
+    "involve": {
+      "meaning": "涉及、包含"
+    },
+    "is": {
+      "meaning": "是；也可作被動或進行式的助動詞"
+    },
+    "it": {
+      "meaning": "它；文中可指移出的分頁內容、控制項或資訊"
+    },
+    "its": {
+      "meaning": "它的；文中指播放器或網站的"
+    },
+    "keep": {
+      "meaning": "保持、維持"
+    },
+    "language": {
+      "meaning": "語言"
+    },
+    "larger": {
+      "meaning": "較大的"
+    },
+    "learning": {
+      "meaning": "學習的"
+    },
+    "less": {
+      "meaning": "較少的"
+    },
+    "longer": {
+      "meaning": "更久；no longer指不再"
+    },
+    "markup": {
+      "meaning": "標記；markup language指用標記描述內容結構的語言"
+    },
+    "materials": {
+      "meaning": "材料；learning materials指學習教材"
+    },
+    "mathematical": {
+      "meaning": "數學的"
+    },
+    "mathml": {
+      "meaning": "MathML；Mathematical Markup Language，數學標記語言"
+    },
+    "mdn's": {
+      "meaning": "MDN的；MDN為提供網頁技術文件的平台"
+    },
+    "medium-sized": {
+      "meaning": "中等大小的"
+    },
+    "mini": {
+      "meaning": "迷你的；Mini Window為Firefox的迷你視窗功能"
+    },
+    "more": {
+      "meaning": "更多；more than指超過、不只是"
+    },
+    "move": {
+      "meaning": "移動、切換"
+    },
+    "moves": {
+      "meaning": "移動、移入"
+    },
+    "moving": {
+      "meaning": "移動、搬移"
+    },
+    "mozilla": {
+      "meaning": "Mozilla；Firefox背後的組織名稱"
+    },
+    "mozilla's": {
+      "meaning": "Mozilla的"
+    },
+    "name": {
+      "meaning": "名稱"
+    },
+    "navigation": {
+      "meaning": "導覽；文中指網頁與分頁間的操作"
+    },
+    "new": {
+      "meaning": "新的"
+    },
+    "no": {
+      "meaning": "沒有、無"
+    },
+    "normal": {
+      "meaning": "正常的；文中指一般播放速度"
+    },
+    "not": {
+      "meaning": "不、沒有"
+    },
+    "notation": {
+      "meaning": "符號表示法；mathematical notation指數學表示法"
+    },
+    "notes": {
+      "meaning": "說明、紀錄；release notes指版本更新說明"
+    },
+    "november": {
+      "meaning": "十一月"
+    },
+    "now": {
+      "meaning": "現在"
+    },
+    "october": {
+      "meaning": "十月"
+    },
+    "of": {
+      "meaning": "…的；表示所屬、性質、內容等關係"
+    },
+    "offers": {
+      "meaning": "提供"
+    },
+    "on": {
+      "meaning": "關於、就某事；也表示日期"
+    },
+    "one": {
+      "meaning": "一、一個"
+    },
+    "only": {
+      "meaning": "唯一的、僅有的"
+    },
+    "open": {
+      "meaning": "開啟；open to refinement指仍可改進的"
+    },
+    "or": {
+      "meaning": "或、或者"
+    },
+    "other": {
+      "meaning": "其他的；另一個"
+    },
+    "page": {
+      "meaning": "網頁、頁面"
+    },
+    "pages": {
+      "meaning": "網頁（複數）"
+    },
+    "pattern": {
+      "meaning": "模式"
+    },
+    "pdf": {
+      "meaning": "PDF；可攜式文件格式"
+    },
+    "perfectly": {
+      "meaning": "完美地"
+    },
+    "picture-in-picture": {
+      "meaning": "子母畫面；將影片移至浮動視窗播放的功能"
+    },
+    "playback": {
+      "meaning": "播放"
+    },
+    "player": {
+      "meaning": "播放器"
+    },
+    "possible": {
+      "meaning": "可能的"
+    },
+    "preserving": {
+      "meaning": "保留、維持"
+    },
+    "quarter": {
+      "meaning": "四分之一"
+    },
+    "rather": {
+      "meaning": "rather than 指而非"
+    },
+    "reached": {
+      "meaning": "開始提供給、送達；文中指版本向使用者發布"
+    },
+    "readers": {
+      "meaning": "閱讀器；screen readers指螢幕閱讀器"
+    },
+    "reading": {
+      "meaning": "閱讀的"
+    },
+    "receives": {
+      "meaning": "獲得、接收"
+    },
+    "recognition": {
+      "meaning": "辨識、認出"
+    },
+    "refinement": {
+      "meaning": "改進、進一步調整"
+    },
+    "regular": {
+      "meaning": "原本的、一般的"
+    },
+    "release": {
+      "meaning": "版本發布、正式版；文中也指這次更新"
+    },
+    "remains": {
+      "meaning": "仍然是、仍處於某種狀態"
+    },
+    "reports": {
+      "meaning": "表示、報告（動詞）"
+    },
+    "rest": {
+      "meaning": "其餘部分"
+    },
+    "roots": {
+      "meaning": "根式（複數）；數學中的根式"
+    },
+    "saved": {
+      "meaning": "已儲存的"
+    },
+    "saving": {
+      "meaning": "儲存"
+    },
+    "say": {
+      "meaning": "說"
+    },
+    "screen": {
+      "meaning": "畫面、螢幕"
+    },
+    "section": {
+      "meaning": "區域、部分"
+    },
+    "selected": {
+      "meaning": "選定的、部分經挑選的"
+    },
+    "send": {
+      "meaning": "送出、傳送"
+    },
+    "separately": {
+      "meaning": "分開地"
+    },
+    "setting": {
+      "meaning": "設定、設定選項"
+    },
+    "several": {
+      "meaning": "數個、多項"
+    },
+    "sidebar": {
+      "meaning": "側邊欄"
+    },
+    "site's": {
+      "meaning": "網站的"
+    },
+    "size": {
+      "meaning": "大小；文中指視窗大小"
+    },
+    "smaller": {
+      "meaning": "更小的"
+    },
+    "some": {
+      "meaning": "一些"
+    },
+    "specific": {
+      "meaning": "特定的"
+    },
+    "speed": {
+      "meaning": "速度"
+    },
+    "speeds": {
+      "meaning": "速度（複數）"
+    },
+    "stays": {
+      "meaning": "保持、維持在某位置"
+    },
+    "strip": {
+      "meaning": "列；tab strip指分頁列"
+    },
+    "stronger": {
+      "meaning": "更強的"
+    },
+    "structured": {
+      "meaning": "有結構的、結構化的"
+    },
+    "such": {
+      "meaning": "這樣的、這類的"
+    },
+    "tab": {
+      "meaning": "分頁"
+    },
+    "tabs": {
+      "meaning": "分頁（複數）"
+    },
+    "technical": {
+      "meaning": "技術的"
+    },
+    "technology": {
+      "meaning": "科技、技術"
+    },
+    "than": {
+      "meaning": "比；rather than指而不是"
+    },
+    "that": {
+      "meaning": "那個；也可引導內容子句或關係子句"
+    },
+    "the": {
+      "meaning": "定冠詞，指特定或前文提過的事物"
+    },
+    "them": {
+      "meaning": "它們；among them指在前述變更之中"
+    },
+    "therefore": {
+      "meaning": "因此"
+    },
+    "these": {
+      "meaning": "這些"
+    },
+    "they": {
+      "meaning": "它們；文中指介面調整"
+    },
+    "this": {
+      "meaning": "這"
+    },
+    "those": {
+      "meaning": "那些"
+    },
+    "though": {
+      "meaning": "even though 指儘管"
+    },
+    "to": {
+      "meaning": "到、向；也用於不定詞，接動詞原形"
+    },
+    "together": {
+      "meaning": "合在一起、綜合來看"
+    },
+    "tool": {
+      "meaning": "工具"
+    },
+    "twice": {
+      "meaning": "兩倍"
+    },
+    "users": {
+      "meaning": "使用者"
+    },
+    "version": {
+      "meaning": "版本"
+    },
+    "video": {
+      "meaning": "影片"
+    },
+    "view": {
+      "meaning": "檢視內容；in view指保持可見"
+    },
+    "viewing": {
+      "meaning": "觀看、檢視"
+    },
+    "visible": {
+      "meaning": "可見的、仍顯示的"
+    },
+    "visual": {
+      "meaning": "視覺上的"
+    },
+    "what": {
+      "meaning": "什麼；引導疑問句或名詞子句"
+    },
+    "when": {
+      "meaning": "當…時"
+    },
+    "while": {
+      "meaning": "當…時；同時、而"
+    },
+    "who": {
+      "meaning": "誰；也可引導關係子句，指前述的人"
+    },
+    "why": {
+      "meaning": "為何"
+    },
+    "will": {
+      "meaning": "將會；表示預期未來情形"
+    },
+    "window": {
+      "meaning": "視窗"
+    },
+    "windows": {
+      "meaning": "視窗（複數）"
+    },
+    "with": {
+      "meaning": "與、透過；也表示具備某項條件"
+    },
+    "work": {
+      "meaning": "運作、搭配使用"
+    },
+    "written": {
+      "meaning": "被編寫的、被寫出的"
+    }
+  },
+  "quiz": [
+    {
+      "question": "Which statement best summarizes the article?",
+      "choices": [
+        {
+          "text": "Firefox 160 focuses only on changing video speed.",
+          "explanation": "錯誤。影片速度只是其中一項，文章也討論迷你視窗、PDF數學內容的存取與導覽細節。"
+        },
+        {
+          "text": "Firefox 160 removes the need for reading tools and browser tabs.",
+          "explanation": "錯誤。第五段說改進對輔助科技的支援，第七段仍討論開啟新分頁，並未移除這些工具。"
+        },
+        {
+          "text": "Firefox 160 includes changes to window organisation, media controls, and content access.",
+          "explanation": "正確。第一段列出更新範圍，第八段總結資訊排列、觀看體驗及內容存取等不同面向。"
+        },
+        {
+          "text": "Every new Firefox feature is described as complete and needing no further feedback.",
+          "explanation": "錯誤。第八段指出迷你視窗仍是初期版本，Mozilla邀請使用者提供意見。"
+        }
+      ],
+      "answerIndex": 2,
+      "explanation": "主旨應涵蓋文章介紹的多項更新，而不能只抓住影片速度或迷你視窗。第一段概述三種變更，第八段再總結其不同用途，因此第三個選項最完整。",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "Mozilla's release notes describe changes to viewing windows, video controls, and saved documents."
+        },
+        {
+          "paragraph": 8,
+          "quote": "Mini Window concerns how information is arranged, video controls concern how it is experienced, and the PDF change concerns who can access it."
+        }
+      ]
+    },
+    {
+      "question": "What should a user understand when moving a tab into Mini Window?",
+      "choices": [
+        {
+          "text": "The same content becomes unavailable in the regular window until it is sent back.",
+          "explanation": "正確。第三段說內容移入迷你視窗後，原本視窗不再可存取，並可由迷你視窗送回。"
+        },
+        {
+          "text": "The browser creates a second copy that can be edited independently.",
+          "explanation": "錯誤。第三段明確區分移動檢視內容與建立可獨立編輯的副本。"
+        },
+        {
+          "text": "The content is permanently deleted from the browser.",
+          "explanation": "錯誤。內容移到另一個視窗，使用者仍可送回，並非永久刪除。"
+        },
+        {
+          "text": "Only video content can be moved.",
+          "explanation": "錯誤。第二段說功能支援完整分頁或選定區域，並將子母畫面模式擴展至影片以外的內容。"
+        }
+      ],
+      "answerIndex": 0,
+      "explanation": "應將第二段的功能範圍與第三段的行為一起理解：這是移動分頁或區域，而非複製或刪除。第三段直接說原本視窗不再可存取該內容，直到使用者將它送回。",
+      "evidence": [
+        {
+          "paragraph": 3,
+          "quote": "The employee's explanation gives an important detail: when a tab or section moves, it is no longer accessible in the regular window. Users can send it back from the Mini Window."
+        }
+      ]
+    },
+    {
+      "question": "What is the most reasonable conclusion about the PDF improvement?",
+      "choices": [
+        {
+          "text": "Every kind of PDF now works perfectly with every reading tool.",
+          "explanation": "錯誤。第五段明確說這並非對所有文件與閱讀工具的全面保證。"
+        },
+        {
+          "text": "Making mathematical content accessible can involve more than preserving its visual appearance.",
+          "explanation": "正確。第五段說明MathML內容對輔助科技的支援，第六段解釋結構化數學表示法，並指出儲存不只涉及畫面外觀。"
+        },
+        {
+          "text": "MathML is a video format used to control playback speed.",
+          "explanation": "錯誤。第六段說MathML用來描述數學表示法，影片速度則是第四段的另一項功能。"
+        },
+        {
+          "text": "The change affects only the size of the Picture-in-Picture window.",
+          "explanation": "錯誤。視窗大小限制屬於第四段的速度設定；PDF改進關乎數學內容及輔助科技。"
+        }
+      ],
+      "answerIndex": 1,
+      "explanation": "第五與第六段連結了輔助科技存取與數學內容的結構。這支持「可讀取內容不只是外觀」的推論，但不能擴大為所有PDF都已完美無障礙。",
+      "evidence": [
+        {
+          "paragraph": 5,
+          "quote": "Firefox's notes say mathematical content written in MathML is now accessible to assistive technology such as screen readers in those documents."
+        },
+        {
+          "paragraph": 6,
+          "quote": "That context helps explain why saving a page can involve more than preserving what appears on the screen."
+        }
+      ]
+    }
+  ]
+}
