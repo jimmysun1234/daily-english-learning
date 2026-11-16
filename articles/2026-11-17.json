@@ -1,0 +1,1178 @@
+{
+  "version": 1,
+  "date": "2026-11-17",
+  "level": "B2",
+  "title": "Europe Looks Ready for Winter, but Local Power Risks Remain",
+  "topic": "國際時事",
+  "sources": [
+    {
+      "name": "ENTSO-E — European Network of Transmission System Operators for Electricity",
+      "title": "ENTSO-E Winter Outlook 2026-2027 - Europe is prepared. Some risks remain in specific areas.",
+      "url": "https://www.entsoe.eu/news/2026/11/13/entso-e-winter-outlook-2026-2027-europe-is-prepared-some-risks-remain-in-specific-areas/"
+    },
+    {
+      "name": "ENTSO-E — European Network of Transmission System Operators for Electricity",
+      "title": "Winter Outlook 2026-2027 — Executive Summary and Your Questions, Our Answers",
+      "url": "https://www.entsoe.eu/outlooks/seasonal/"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "en": "Europe enters the coming winter ",
+        "zh": "歐洲即將進入冬季，"
+      },
+      {
+        "en": "with a broadly favourable electricity supply outlook, ",
+        "zh": "整體電力供應展望大致有利，"
+      },
+      {
+        "en": "according to a November 13, 2026, announcement from ENTSO-E. ",
+        "zh": "這是ENTSO-E於2026年11月13日公告中的評估。"
+      },
+      {
+        "en": "The organisation represents electricity transmission system operators. ",
+        "zh": "這個組織代表電力輸電系統營運商。"
+      },
+      {
+        "en": "Its assessment for winter 2026-2027 ",
+        "zh": "它針對2026至2027年冬季的評估"
+      },
+      {
+        "en": "also identifies local vulnerabilities, ",
+        "zh": "也指出了局部脆弱之處，"
+      },
+      {
+        "en": "showing that a positive European picture ",
+        "zh": "顯示歐洲整體情況良好，"
+      },
+      {
+        "en": "does not remove every regional risk.",
+        "zh": "並不代表所有地區風險都已消失。"
+      }
+    ],
+    [
+      {
+        "en": "The system has changed since the previous winter. ",
+        "zh": "相較前一個冬季，電力系統已有變化。"
+      },
+      {
+        "en": "ENTSO-E reports more renewable generation capacity ",
+        "zh": "ENTSO-E表示，再生能源發電容量增加，"
+      },
+      {
+        "en": "and battery storage capacity, ",
+        "zh": "電池儲能容量也增加，"
+      },
+      {
+        "en": "while conventional thermal capacity has declined. ",
+        "zh": "傳統火力發電容量則下降。"
+      },
+      {
+        "en": "It also notes that water levels in hydro reservoirs ",
+        "zh": "它也指出，水力發電水庫的水位"
+      },
+      {
+        "en": "are below average overall. ",
+        "zh": "整體低於平均值。"
+      },
+      {
+        "en": "These developments make the outlook ",
+        "zh": "這些變化使展望"
+      },
+      {
+        "en": "more complex than a simple count of power plants.",
+        "zh": "比單純計算發電廠數量更複雜。"
+      }
+    ],
+    [
+      {
+        "en": "Connections between electricity systems are another important factor. ",
+        "zh": "電力系統之間的連結，也是重要因素。"
+      },
+      {
+        "en": "The announcement identifies risks in Cyprus, ",
+        "zh": "公告指出賽普勒斯存在風險，"
+      },
+      {
+        "en": "which has no connection to the continental European network. ",
+        "zh": "當地未與歐洲大陸電網連結。"
+      },
+      {
+        "en": "Some risks also appear in Malta and Ireland ",
+        "zh": "馬爾他與愛爾蘭也有部分風險，"
+      },
+      {
+        "en": "under normal market conditions. ",
+        "zh": "這是正常市場條件下的評估。"
+      },
+      {
+        "en": "However, dedicated resources kept outside normal markets ",
+        "zh": "不過，專門保留於一般市場之外的資源"
+      },
+      {
+        "en": "substantially reduce those risks.",
+        "zh": "大幅降低了這些風險。"
+      }
+    ],
+    [
+      {
+        "en": "ENTSO-E stresses the importance of continued monitoring. ",
+        "zh": "ENTSO-E強調持續監測的重要性。"
+      },
+      {
+        "en": "Actual conditions could be tighter ",
+        "zh": "實際情況可能更加吃緊，"
+      },
+      {
+        "en": "if weather, demand, generation availability, ",
+        "zh": "若天氣、需求、發電設備可用性，"
+      },
+      {
+        "en": "or exchanges across borders differ from the assumptions. ",
+        "zh": "或跨境電力交換，與評估假設不同。"
+      },
+      {
+        "en": "The favourable overall result therefore comes ",
+        "zh": "因此，整體有利的結果"
+      },
+      {
+        "en": "with a clear need for coordination. ",
+        "zh": "也伴隨明確的協調需求。"
+      },
+      {
+        "en": "It describes the assessed situation, ",
+        "zh": "它描述的是經評估的情況，"
+      },
+      {
+        "en": "not a promise of identical conditions everywhere.",
+        "zh": "並非保證各地情況完全相同。"
+      }
+    ],
+    [
+      {
+        "en": "The organisation's explanation of seasonal outlooks ",
+        "zh": "該組織對季節展望的說明"
+      },
+      {
+        "en": "helps clarify this distinction. ",
+        "zh": "有助於釐清這個差別。"
+      },
+      {
+        "en": "Their purpose is to identify ",
+        "zh": "這類展望的目的，是找出"
+      },
+      {
+        "en": "when and where electricity supply ",
+        "zh": "何時、何地的電力供應"
+      },
+      {
+        "en": "might struggle to meet demand. ",
+        "zh": "可能難以滿足需求。"
+      },
+      {
+        "en": "They are risk assessments, ",
+        "zh": "它們是風險評估，"
+      },
+      {
+        "en": "rather than predictions of exactly what will happen. ",
+        "zh": "而非對未來確切事件的預言。"
+      },
+      {
+        "en": "Finding a potential weakness gives operators ",
+        "zh": "找出潛在弱點，能讓營運商"
+      },
+      {
+        "en": "an opportunity to prepare measures ",
+        "zh": "有機會預先準備措施，"
+      },
+      {
+        "en": "before the difficult conditions arrive.",
+        "zh": "以因應尚未到來的困難情況。"
+      }
+    ],
+    [
+      {
+        "en": "The same explanation describes non-market resources. ",
+        "zh": "同一份說明也介紹了非市場資源。"
+      },
+      {
+        "en": "Depending on the country, ",
+        "zh": "依不同國家而定，"
+      },
+      {
+        "en": "these can include generation, storage, ",
+        "zh": "這些資源可能包括發電、儲能，"
+      },
+      {
+        "en": "and changes in electricity demand. ",
+        "zh": "以及調整用電需求。"
+      },
+      {
+        "en": "They are normally kept outside the market ",
+        "zh": "它們通常保留於市場之外，"
+      },
+      {
+        "en": "but can be called upon during a shortage. ",
+        "zh": "但可在供應短缺時調用。"
+      },
+      {
+        "en": "This helps explain why a risk ",
+        "zh": "這有助於說明，為何一項風險"
+      },
+      {
+        "en": "identified under ordinary trading conditions ",
+        "zh": "在一般交易條件下被辨識出來，"
+      },
+      {
+        "en": "does not tell the whole preparedness story.",
+        "zh": "卻不能代表整體準備情況的全貌。"
+      }
+    ],
+    [
+      {
+        "en": "Preparation also operates on different timescales. ",
+        "zh": "準備工作也分成不同時間尺度。"
+      },
+      {
+        "en": "ENTSO-E says regional coordination centres ",
+        "zh": "ENTSO-E表示，區域協調中心"
+      },
+      {
+        "en": "use recent operator data ",
+        "zh": "會使用營運商的近期資料，"
+      },
+      {
+        "en": "to examine supply adequacy ",
+        "zh": "檢視供電充裕度，"
+      },
+      {
+        "en": "from a week ahead to a day ahead. ",
+        "zh": "時間範圍從提前一週到提前一天。"
+      },
+      {
+        "en": "Those checks consider electricity exchanges ",
+        "zh": "這些檢查會考量電力交換，"
+      },
+      {
+        "en": "and operational security limits. ",
+        "zh": "以及運轉安全限制。"
+      },
+      {
+        "en": "A seasonal overview can guide preparation, ",
+        "zh": "季節性概況可以引導準備工作，"
+      },
+      {
+        "en": "while shorter assessments help operators ",
+        "zh": "較短期的評估則協助營運商"
+      },
+      {
+        "en": "respond as conditions develop.",
+        "zh": "隨情況發展採取因應行動。"
+      }
+    ],
+    [
+      {
+        "en": "The winter outlook therefore carries two messages. ",
+        "zh": "因此，這份冬季展望傳達了兩項訊息。"
+      },
+      {
+        "en": "Europe's overall supply position is encouraging, ",
+        "zh": "歐洲整體供電情況令人鼓舞，"
+      },
+      {
+        "en": "and local preparation still matters. ",
+        "zh": "而地方層級的準備仍然重要。"
+      },
+      {
+        "en": "For governments and the electricity industry, ",
+        "zh": "對政府與電力產業而言，"
+      },
+      {
+        "en": "readiness depends on understanding both. ",
+        "zh": "準備就緒有賴於同時理解這兩點。"
+      },
+      {
+        "en": "New capacity, access to neighbouring systems, ",
+        "zh": "新增容量、與鄰近系統連通，"
+      },
+      {
+        "en": "and the ability to coordinate responses ",
+        "zh": "以及協調應對措施的能力，"
+      },
+      {
+        "en": "all contribute to a reliable supply. ",
+        "zh": "都對可靠供電有所貢獻。"
+      },
+      {
+        "en": "A broad conclusion becomes useful ",
+        "zh": "廣泛的結論要發揮作用，"
+      },
+      {
+        "en": "when it supports specific operational decisions.",
+        "zh": "就必須能支持具體的運轉決策。"
+      }
+    ]
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一個、一種；不定冠詞"
+    },
+    "ability": {
+      "meaning": "能力"
+    },
+    "access": {
+      "meaning": "取得、連通；文中指與鄰近電力系統連通"
+    },
+    "according": {
+      "meaning": "according to 指根據"
+    },
+    "across": {
+      "meaning": "遍及、涵蓋"
+    },
+    "actual": {
+      "meaning": "實際的"
+    },
+    "adequacy": {
+      "meaning": "充裕度；文中指資源能否滿足用電需求"
+    },
+    "ahead": {
+      "meaning": "提前、事先；a week ahead指提前一週"
+    },
+    "all": {
+      "meaning": "全部的、所有的"
+    },
+    "also": {
+      "meaning": "也、同時"
+    },
+    "an": {
+      "meaning": "一個、一種；母音發音前的不定冠詞"
+    },
+    "and": {
+      "meaning": "和、而且；連接詞"
+    },
+    "announcement": {
+      "meaning": "公告"
+    },
+    "another": {
+      "meaning": "另一個；再一次的"
+    },
+    "appear": {
+      "meaning": "出現、顯示"
+    },
+    "are": {
+      "meaning": "是；也可作被動語態的助動詞"
+    },
+    "arrive": {
+      "meaning": "抵達"
+    },
+    "as": {
+      "meaning": "隨著"
+    },
+    "assessed": {
+      "meaning": "經評估的"
+    },
+    "assessment": {
+      "meaning": "評估"
+    },
+    "assessments": {
+      "meaning": "評估（複數）"
+    },
+    "assumptions": {
+      "meaning": "假設條件（複數）"
+    },
+    "availability": {
+      "meaning": "可用性；文中指發電設備可運轉的程度"
+    },
+    "average": {
+      "meaning": "平均值；平均的"
+    },
+    "battery": {
+      "meaning": "電池"
+    },
+    "be": {
+      "meaning": "是；與過去分詞連用可構成被動語態"
+    },
+    "becomes": {
+      "meaning": "成為"
+    },
+    "before": {
+      "meaning": "在…之前"
+    },
+    "below": {
+      "meaning": "低於"
+    },
+    "between": {
+      "meaning": "在…之間"
+    },
+    "borders": {
+      "meaning": "邊界、國界（複數）"
+    },
+    "both": {
+      "meaning": "兩者都；both A and B指A與B兩者"
+    },
+    "broad": {
+      "meaning": "廣泛的"
+    },
+    "broadly": {
+      "meaning": "大致上、整體上"
+    },
+    "but": {
+      "meaning": "但是"
+    },
+    "called": {
+      "meaning": "被調用；called upon指需要時調用"
+    },
+    "can": {
+      "meaning": "能夠"
+    },
+    "capacity": {
+      "meaning": "容量；文中指發電或儲能設施的容量"
+    },
+    "carries": {
+      "meaning": "帶有、傳達；carries messages指傳達訊息"
+    },
+    "centres": {
+      "meaning": "中心（複數）；文中指區域協調中心"
+    },
+    "changed": {
+      "meaning": "改變了"
+    },
+    "changes": {
+      "meaning": "變化"
+    },
+    "checks": {
+      "meaning": "查看、檢查"
+    },
+    "clarify": {
+      "meaning": "釐清、說明清楚"
+    },
+    "clear": {
+      "meaning": "明確的"
+    },
+    "comes": {
+      "meaning": "伴隨而來；comes with指伴隨著"
+    },
+    "coming": {
+      "meaning": "即將到來的"
+    },
+    "complex": {
+      "meaning": "複雜的"
+    },
+    "conclusion": {
+      "meaning": "結論"
+    },
+    "conditions": {
+      "meaning": "情況、條件；文中指供電、市場或天氣條件"
+    },
+    "connection": {
+      "meaning": "連結；文中指電網互聯"
+    },
+    "connections": {
+      "meaning": "連結（複數）；文中指電力系統間的連結"
+    },
+    "consider": {
+      "meaning": "考慮"
+    },
+    "continental": {
+      "meaning": "大陸的；continental European指歐洲大陸的"
+    },
+    "continued": {
+      "meaning": "持續的"
+    },
+    "contribute": {
+      "meaning": "有所貢獻、促成"
+    },
+    "conventional": {
+      "meaning": "傳統的、既有的"
+    },
+    "coordinate": {
+      "meaning": "協調"
+    },
+    "coordination": {
+      "meaning": "協調、協作"
+    },
+    "could": {
+      "meaning": "可以；也可表示可能"
+    },
+    "count": {
+      "meaning": "數量、計數"
+    },
+    "country": {
+      "meaning": "國家"
+    },
+    "cyprus": {
+      "meaning": "賽普勒斯"
+    },
+    "data": {
+      "meaning": "資料"
+    },
+    "day": {
+      "meaning": "一天"
+    },
+    "decisions": {
+      "meaning": "決策、決定"
+    },
+    "declined": {
+      "meaning": "下降、減少"
+    },
+    "dedicated": {
+      "meaning": "專門的、針對特定主題的"
+    },
+    "demand": {
+      "meaning": "需求"
+    },
+    "depending": {
+      "meaning": "依…而定；depending on指取決於"
+    },
+    "depends": {
+      "meaning": "取決於；depends on 指取決於"
+    },
+    "describes": {
+      "meaning": "描述"
+    },
+    "develop": {
+      "meaning": "發展、變化；文中指情況演變"
+    },
+    "developments": {
+      "meaning": "變化、發展（複數）"
+    },
+    "differ": {
+      "meaning": "不同、存在差異"
+    },
+    "different": {
+      "meaning": "不同的"
+    },
+    "difficult": {
+      "meaning": "困難的"
+    },
+    "distinction": {
+      "meaning": "區別"
+    },
+    "does": {
+      "meaning": "助動詞，用於第三人稱單數"
+    },
+    "during": {
+      "meaning": "在…期間"
+    },
+    "electricity": {
+      "meaning": "電力"
+    },
+    "encouraging": {
+      "meaning": "令人鼓舞的"
+    },
+    "enters": {
+      "meaning": "進入"
+    },
+    "entso-e": {
+      "meaning": "歐洲輸電系統營運商協會；European Network of Transmission System Operators for Electricity的縮寫"
+    },
+    "europe": {
+      "meaning": "歐洲"
+    },
+    "europe's": {
+      "meaning": "歐洲的"
+    },
+    "european": {
+      "meaning": "歐洲的"
+    },
+    "every": {
+      "meaning": "每個"
+    },
+    "everywhere": {
+      "meaning": "到處"
+    },
+    "exactly": {
+      "meaning": "確切地"
+    },
+    "examine": {
+      "meaning": "檢查、研究"
+    },
+    "exchanges": {
+      "meaning": "交換（複數）；文中指跨境電力交換"
+    },
+    "explain": {
+      "meaning": "解釋"
+    },
+    "explanation": {
+      "meaning": "說明、解釋"
+    },
+    "factor": {
+      "meaning": "因素"
+    },
+    "favourable": {
+      "meaning": "有利的、情況良好的"
+    },
+    "finding": {
+      "meaning": "找出"
+    },
+    "for": {
+      "meaning": "為了、對於；也表示某時段的"
+    },
+    "from": {
+      "meaning": "從；亦用於區分兩種事物"
+    },
+    "generation": {
+      "meaning": "發電；generation capacity指發電容量"
+    },
+    "gives": {
+      "meaning": "給予"
+    },
+    "governments": {
+      "meaning": "政府（複數）"
+    },
+    "guide": {
+      "meaning": "引導、指引（動詞）"
+    },
+    "happen": {
+      "meaning": "發生"
+    },
+    "has": {
+      "meaning": "有；也可作現在完成式助動詞"
+    },
+    "help": {
+      "meaning": "幫助"
+    },
+    "helps": {
+      "meaning": "幫助"
+    },
+    "however": {
+      "meaning": "不過、然而"
+    },
+    "hydro": {
+      "meaning": "水力發電的"
+    },
+    "identical": {
+      "meaning": "完全相同的"
+    },
+    "identified": {
+      "meaning": "指出、列為"
+    },
+    "identifies": {
+      "meaning": "指出、列出"
+    },
+    "identify": {
+      "meaning": "辨識、揭露"
+    },
+    "if": {
+      "meaning": "如果"
+    },
+    "importance": {
+      "meaning": "重要性"
+    },
+    "important": {
+      "meaning": "重要的"
+    },
+    "in": {
+      "meaning": "在某時間、領域或範圍中"
+    },
+    "include": {
+      "meaning": "包括"
+    },
+    "industry": {
+      "meaning": "產業；業界"
+    },
+    "ireland": {
+      "meaning": "愛爾蘭"
+    },
+    "is": {
+      "meaning": "是；也可作被動或進行式的助動詞"
+    },
+    "it": {
+      "meaning": "它；文中指整體評估結果"
+    },
+    "its": {
+      "meaning": "它的；文中指ENTSO-E的"
+    },
+    "kept": {
+      "meaning": "被保留、被維持"
+    },
+    "levels": {
+      "meaning": "水位、程度（複數）"
+    },
+    "limits": {
+      "meaning": "限制、上限"
+    },
+    "local": {
+      "meaning": "地方的、當地的"
+    },
+    "make": {
+      "meaning": "使、讓"
+    },
+    "malta": {
+      "meaning": "馬爾他"
+    },
+    "market": {
+      "meaning": "市場"
+    },
+    "markets": {
+      "meaning": "市場（複數）"
+    },
+    "matters": {
+      "meaning": "很重要、值得留意"
+    },
+    "measures": {
+      "meaning": "措施"
+    },
+    "meet": {
+      "meaning": "滿足；文中meet demand指滿足用電需求"
+    },
+    "messages": {
+      "meaning": "訊息"
+    },
+    "might": {
+      "meaning": "可能、也許"
+    },
+    "monitoring": {
+      "meaning": "監測、持續檢查"
+    },
+    "more": {
+      "meaning": "更多；more than指超過、不只是"
+    },
+    "need": {
+      "meaning": "需要"
+    },
+    "neighbouring": {
+      "meaning": "鄰近的"
+    },
+    "network": {
+      "meaning": "網路；文中指輸電網路、電網"
+    },
+    "new": {
+      "meaning": "新的"
+    },
+    "no": {
+      "meaning": "沒有、無"
+    },
+    "non-market": {
+      "meaning": "非市場的；文中指平時保留於一般市場之外的資源"
+    },
+    "normal": {
+      "meaning": "正常的、一般的"
+    },
+    "normally": {
+      "meaning": "通常、平常"
+    },
+    "not": {
+      "meaning": "不、沒有"
+    },
+    "notes": {
+      "meaning": "指出、說明（動詞）"
+    },
+    "november": {
+      "meaning": "十一月"
+    },
+    "of": {
+      "meaning": "…的；表示所屬、性質、內容等關係"
+    },
+    "on": {
+      "meaning": "關於、就某事；也表示日期"
+    },
+    "operates": {
+      "meaning": "運作"
+    },
+    "operational": {
+      "meaning": "投入運作的；與運作有關的"
+    },
+    "operator": {
+      "meaning": "營運商"
+    },
+    "operators": {
+      "meaning": "營運商、操作單位"
+    },
+    "opportunity": {
+      "meaning": "機會"
+    },
+    "or": {
+      "meaning": "或、或者"
+    },
+    "ordinary": {
+      "meaning": "日常的、一般的"
+    },
+    "organisation": {
+      "meaning": "組織；英式拼法"
+    },
+    "organisation's": {
+      "meaning": "該組織的；文中指ENTSO-E的"
+    },
+    "outlook": {
+      "meaning": "展望；文中指季節供電風險評估"
+    },
+    "outlooks": {
+      "meaning": "展望（複數）；文中指季節供電風險評估"
+    },
+    "outside": {
+      "meaning": "在外面"
+    },
+    "overall": {
+      "meaning": "整體的"
+    },
+    "overview": {
+      "meaning": "概況、總覽"
+    },
+    "picture": {
+      "meaning": "情況、整體面貌"
+    },
+    "plants": {
+      "meaning": "廠；power plants指發電廠"
+    },
+    "position": {
+      "meaning": "情況、處境；文中指供電狀況"
+    },
+    "positive": {
+      "meaning": "正面的、良好的"
+    },
+    "potential": {
+      "meaning": "潛在的"
+    },
+    "power": {
+      "meaning": "電力"
+    },
+    "predictions": {
+      "meaning": "預測、預言（複數）"
+    },
+    "preparation": {
+      "meaning": "準備"
+    },
+    "prepare": {
+      "meaning": "準備"
+    },
+    "preparedness": {
+      "meaning": "準備情況、應變準備程度"
+    },
+    "previous": {
+      "meaning": "前一個的"
+    },
+    "promise": {
+      "meaning": "承諾"
+    },
+    "purpose": {
+      "meaning": "目的、用途"
+    },
+    "rather": {
+      "meaning": "rather than 指而非"
+    },
+    "readiness": {
+      "meaning": "準備就緒的程度"
+    },
+    "recent": {
+      "meaning": "近期的"
+    },
+    "reduce": {
+      "meaning": "降低"
+    },
+    "regional": {
+      "meaning": "地區的"
+    },
+    "reliable": {
+      "meaning": "可靠的"
+    },
+    "remove": {
+      "meaning": "消除、移除"
+    },
+    "renewable": {
+      "meaning": "再生的；renewable generation指再生能源發電"
+    },
+    "reports": {
+      "meaning": "表示、報告（動詞）"
+    },
+    "represents": {
+      "meaning": "代表"
+    },
+    "reservoirs": {
+      "meaning": "水庫（複數）"
+    },
+    "resources": {
+      "meaning": "資源"
+    },
+    "respond": {
+      "meaning": "應對、作出反應"
+    },
+    "responses": {
+      "meaning": "應對行動、反應（複數）"
+    },
+    "result": {
+      "meaning": "結果"
+    },
+    "risk": {
+      "meaning": "風險"
+    },
+    "risks": {
+      "meaning": "風險（複數）"
+    },
+    "same": {
+      "meaning": "相同的"
+    },
+    "says": {
+      "meaning": "表示、說明"
+    },
+    "seasonal": {
+      "meaning": "季節性的"
+    },
+    "security": {
+      "meaning": "安全、防護"
+    },
+    "shortage": {
+      "meaning": "短缺"
+    },
+    "shorter": {
+      "meaning": "更短的"
+    },
+    "showing": {
+      "meaning": "顯示、表明"
+    },
+    "simple": {
+      "meaning": "簡單的"
+    },
+    "since": {
+      "meaning": "自…以來"
+    },
+    "situation": {
+      "meaning": "情況"
+    },
+    "some": {
+      "meaning": "一些"
+    },
+    "specific": {
+      "meaning": "特定的"
+    },
+    "still": {
+      "meaning": "仍然"
+    },
+    "storage": {
+      "meaning": "儲能；文中指電池或其他能源儲存資源"
+    },
+    "story": {
+      "meaning": "情況；tell the whole story 指說明完整情況"
+    },
+    "stresses": {
+      "meaning": "強調"
+    },
+    "struggle": {
+      "meaning": "面臨困難、難以做到"
+    },
+    "substantially": {
+      "meaning": "大幅地"
+    },
+    "supply": {
+      "meaning": "供應、供電"
+    },
+    "supports": {
+      "meaning": "支持、提供依據"
+    },
+    "system": {
+      "meaning": "系統"
+    },
+    "systems": {
+      "meaning": "系統（複數）"
+    },
+    "tell": {
+      "meaning": "說明、告訴"
+    },
+    "than": {
+      "meaning": "比；rather than指而不是"
+    },
+    "that": {
+      "meaning": "那個；也可引導內容子句或關係子句"
+    },
+    "the": {
+      "meaning": "定冠詞，指特定或前文提過的事物"
+    },
+    "their": {
+      "meaning": "它們的；文中指季節展望的"
+    },
+    "therefore": {
+      "meaning": "因此"
+    },
+    "thermal": {
+      "meaning": "熱能的；conventional thermal capacity指傳統火力發電容量"
+    },
+    "these": {
+      "meaning": "這些"
+    },
+    "they": {
+      "meaning": "它們；文中指風險評估或非市場資源"
+    },
+    "this": {
+      "meaning": "這"
+    },
+    "those": {
+      "meaning": "那些"
+    },
+    "tighter": {
+      "meaning": "更吃緊的；文中指供需較緊繃"
+    },
+    "timescales": {
+      "meaning": "時間尺度（複數）"
+    },
+    "to": {
+      "meaning": "到、向；也用於不定詞，接動詞原形"
+    },
+    "trading": {
+      "meaning": "交易"
+    },
+    "transmission": {
+      "meaning": "輸電；電力從發電端向用戶端傳輸"
+    },
+    "two": {
+      "meaning": "兩個"
+    },
+    "under": {
+      "meaning": "在某條件下；文中指市場條件"
+    },
+    "understanding": {
+      "meaning": "理解"
+    },
+    "upon": {
+      "meaning": "與call連用；called upon指被調用"
+    },
+    "use": {
+      "meaning": "使用"
+    },
+    "useful": {
+      "meaning": "實用的"
+    },
+    "vulnerabilities": {
+      "meaning": "脆弱之處、易受影響的環節（複數）"
+    },
+    "water": {
+      "meaning": "水"
+    },
+    "weakness": {
+      "meaning": "弱點、不足"
+    },
+    "weather": {
+      "meaning": "天氣"
+    },
+    "week": {
+      "meaning": "一週"
+    },
+    "what": {
+      "meaning": "什麼；引導疑問句或名詞子句"
+    },
+    "when": {
+      "meaning": "當…時"
+    },
+    "where": {
+      "meaning": "在…的地方；哪裡"
+    },
+    "which": {
+      "meaning": "哪個、哪些；可引導關係子句或間接問句"
+    },
+    "while": {
+      "meaning": "當…時；同時、而"
+    },
+    "whole": {
+      "meaning": "完整的、全部的"
+    },
+    "why": {
+      "meaning": "為何"
+    },
+    "will": {
+      "meaning": "將會；表示預期未來情形"
+    },
+    "winter": {
+      "meaning": "冬季"
+    },
+    "with": {
+      "meaning": "與、透過；也表示具備某項條件"
+    }
+  },
+  "quiz": [
+    {
+      "question": "Which statement best captures the article’s main message?",
+      "choices": [
+        {
+          "text": "Every part of Europe is guaranteed identical electricity conditions this winter.",
+          "explanation": "錯誤。第一段說仍有地方風險，第四段也明確說整體有利的結果不是各地情況相同的保證。"
+        },
+        {
+          "text": "Europe has a favourable overall outlook, while local risks still require preparation and coordination.",
+          "explanation": "正確。第一段交代整體展望與局部風險，第八段總結地方準備和協調仍不可或缺。"
+        },
+        {
+          "text": "The winter assessment counts power plants and ignores other resources.",
+          "explanation": "錯誤。第二段說情況比單純計算電廠更複雜，後文也談到儲能、跨境連結與非市場資源。"
+        },
+        {
+          "text": "Seasonal assessments have replaced all shorter operational checks.",
+          "explanation": "錯誤。第七段同時介紹季節性概況與提前一週至一天的評估，兩者用途不同。"
+        }
+      ],
+      "answerIndex": 1,
+      "explanation": "主旨需同時掌握正面的整體評估與仍須處理的局部風險。文章沒有保證各地都安全無虞，也沒有取消持續監測與短期評估，因此第二個選項最完整。",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "Its assessment for winter 2026-2027 also identifies local vulnerabilities, showing that a positive European picture does not remove every regional risk."
+        },
+        {
+          "paragraph": 8,
+          "quote": "Europe's overall supply position is encouraging, and local preparation still matters."
+        }
+      ]
+    },
+    {
+      "question": "Why might a risk under normal market conditions be reduced when assessing overall preparedness?",
+      "choices": [
+        {
+          "text": "All electricity demand disappears once a risk is identified.",
+          "explanation": "錯誤。文章未說需求會消失；第六段說可使用發電、儲能或需求調整等額外資源。"
+        },
+        {
+          "text": "A seasonal assessment guarantees the exact weather for each day.",
+          "explanation": "錯誤。第五段說風險評估不是未來確切事件的預言，第四段也說實際天氣可能偏離假設。"
+        },
+        {
+          "text": "Countries stop exchanging electricity whenever ordinary trading is insufficient.",
+          "explanation": "錯誤。文章強調跨境電力交換及協調的重要性，沒有說一出現風險就停止交換。"
+        },
+        {
+          "text": "Dedicated resources outside ordinary markets may be available during a shortage.",
+          "explanation": "正確。第三段說專門資源降低部分地區風險，第六段說這類資源可在短缺時調用。"
+        }
+      ],
+      "answerIndex": 3,
+      "explanation": "一般市場條件下的風險只是評估的一部分。第三段提供馬爾他與愛爾蘭的例子，第六段解釋非市場資源在短缺時可以加入，因此能降低一般交易條件所顯示的風險。",
+      "evidence": [
+        {
+          "paragraph": 3,
+          "quote": "However, dedicated resources kept outside normal markets substantially reduce those risks."
+        },
+        {
+          "paragraph": 6,
+          "quote": "They are normally kept outside the market but can be called upon during a shortage."
+        }
+      ]
+    },
+    {
+      "question": "How do the shorter assessments complement the seasonal outlook?",
+      "choices": [
+        {
+          "text": "They use recent data to support responses as operating conditions change.",
+          "explanation": "正確。第七段說區域協調中心使用近期資料，進行提前一週至一天的評估，協助營運商隨情況發展因應。"
+        },
+        {
+          "text": "They prove that all seasonal risks were imaginary.",
+          "explanation": "錯誤。短期評估是補充季節性準備，並不代表先前風險不存在。"
+        },
+        {
+          "text": "They remove operational security limits from the analysis.",
+          "explanation": "錯誤。第七段明確說檢查會考量運轉安全限制。"
+        },
+        {
+          "text": "They focus only on the number of new power plants.",
+          "explanation": "錯誤。第七段列出供電充裕度、電力交換與安全限制，並不只看新增電廠數量。"
+        }
+      ],
+      "answerIndex": 0,
+      "explanation": "季節展望引導較長期準備，短期評估則以近期資料檢查供需與運轉限制。第七段直接說明，後者能幫助營運商在實際條件發展時採取行動。",
+      "evidence": [
+        {
+          "paragraph": 7,
+          "quote": "A seasonal overview can guide preparation, while shorter assessments help operators respond as conditions develop."
+        }
+      ]
+    }
+  ]
+}
