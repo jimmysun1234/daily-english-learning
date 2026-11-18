@@ -1,0 +1,1248 @@
+{
+  "version": 1,
+  "date": "2026-11-19",
+  "level": "B2",
+  "title": "Europe Weighs New Materials Against New Supply Risks",
+  "topic": "科技業新聞",
+  "sources": [
+    {
+      "name": "European Commission — Joint Research Centre",
+      "title": "Advanced materials key to cutting critical raw material reliance in strategic sectors",
+      "url": "https://joint-research-centre.ec.europa.eu/jrc-news-and-updates/advanced-materials-key-cutting-critical-raw-material-reliance-strategic-sectors-2026-11-18_en?prefLang=et"
+    },
+    {
+      "name": "European Commission — Research and Innovation",
+      "title": "Advanced materials for Europe",
+      "url": "https://research-and-innovation.ec.europa.eu/research-area/industrial-research-and-innovation/advanced-materials-europe_en?prefLang=es"
+    },
+    {
+      "name": "European Commission — Joint Research Centre",
+      "title": "Reducing dependencies on Critical Raw Materials with advanced materials",
+      "url": "https://publications.jrc.ec.europa.eu/repository/handle/JRC148453"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "en": "On November 18, 2026, ",
+        "zh": "2026年11月18日，"
+      },
+      {
+        "en": "the European Commission's Joint Research Centre ",
+        "zh": "歐盟執委會的聯合研究中心"
+      },
+      {
+        "en": "published findings on 266 innovation options ",
+        "zh": "公布了針對266項創新選項的研究結果，"
+      },
+      {
+        "en": "for reducing dependence on critical raw materials. ",
+        "zh": "探討如何降低對關鍵原物料的依賴。"
+      },
+      {
+        "en": "The work covers energy, electronics, vehicles, and construction. ",
+        "zh": "研究涵蓋能源、電子、車輛與建築。"
+      },
+      {
+        "en": "Its central message is careful rather than dramatic: ",
+        "zh": "其核心訊息採取審慎態度，而非誇大成效："
+      },
+      {
+        "en": "substitutes can help, but involve compromises.",
+        "zh": "替代材料可能有幫助，卻也涉及取捨。"
+      }
+    ],
+    [
+      {
+        "en": "Advanced materials are designed ",
+        "zh": "先進材料經過設計，"
+      },
+      {
+        "en": "to give products improved properties. ",
+        "zh": "使產品具備更好的特性。"
+      },
+      {
+        "en": "The Commission's wider materials agenda ",
+        "zh": "執委會更廣泛的材料議程"
+      },
+      {
+        "en": "includes examples such as smart glass windows ",
+        "zh": "列舉了智慧玻璃窗等例子，"
+      },
+      {
+        "en": "and magnets made without critical raw materials. ",
+        "zh": "以及不使用關鍵原物料製成的磁鐵。"
+      },
+      {
+        "en": "The agenda concerns research and industrial development, ",
+        "zh": "該議程著重研究與產業發展，"
+      },
+      {
+        "en": "rather than claiming that all these products ",
+        "zh": "並未宣稱所有這些產品"
+      },
+      {
+        "en": "are already available everywhere. ",
+        "zh": "都已在各地普遍供應。"
+      },
+      {
+        "en": "It proposes making Europe a global leader ",
+        "zh": "該議程提議讓歐洲成為全球領導者，"
+      },
+      {
+        "en": "in developing, producing, and using safer materials by 2035.",
+        "zh": "在2035年前引領更安全材料的開發、生產與使用。"
+      }
+    ],
+    [
+      {
+        "en": "The research centre compared alternatives ",
+        "zh": "研究中心比較了各種替代方案，"
+      },
+      {
+        "en": "with technologies that perform the same job. ",
+        "zh": "並以具有相同功能的現有技術作對照。"
+      },
+      {
+        "en": "It considered cost, useful life, reliability, ",
+        "zh": "評估因素包括成本、使用壽命、可靠性、"
+      },
+      {
+        "en": "and environmental performance, among other factors. ",
+        "zh": "環境表現等。"
+      },
+      {
+        "en": "Many options have reached an advanced prototype stage ",
+        "zh": "許多選項已進入成熟原型階段，"
+      },
+      {
+        "en": "or are already being used. ",
+        "zh": "或已經投入使用。"
+      },
+      {
+        "en": "However, readiness alone does not settle every question.",
+        "zh": "然而，技術成熟度本身無法解決所有問題。"
+      }
+    ],
+    [
+      {
+        "en": "Gallium provides a concrete example. ",
+        "zh": "鎵提供了一個具體例子。"
+      },
+      {
+        "en": "The centre says China supplies around 97% ",
+        "zh": "研究中心表示，中國供應了約97%的"
+      },
+      {
+        "en": "of Europe's gallium imports. ",
+        "zh": "歐洲進口鎵。"
+      },
+      {
+        "en": "Silicon or silicon carbide may replace it ",
+        "zh": "矽或碳化矽可能取代鎵，"
+      },
+      {
+        "en": "in certain applications, though costs can rise. ",
+        "zh": "適用於某些用途，但成本可能增加。"
+      },
+      {
+        "en": "Changing a material can therefore reduce one vulnerability ",
+        "zh": "因此，更換材料可能降低一項弱點，"
+      },
+      {
+        "en": "while introducing another.",
+        "zh": "卻同時引入另一項弱點。"
+      }
+    ],
+    [
+      {
+        "en": "A different supplier does not automatically ",
+        "zh": "換一家供應商並不會自動"
+      },
+      {
+        "en": "mean an independent supply chain. ",
+        "zh": "讓供應鏈變得自主。"
+      },
+      {
+        "en": "The centre warns that dependence can shift ",
+        "zh": "研究中心警告，依賴可能轉移"
+      },
+      {
+        "en": "between countries or materials. ",
+        "zh": "到其他國家或材料上。"
+      },
+      {
+        "en": "Europe may also lack the manufacturing capacity ",
+        "zh": "歐洲也可能缺乏所需的製造能力，"
+      },
+      {
+        "en": "needed for a promising substitute. ",
+        "zh": "即使某種替代材料前景良好也一樣。"
+      },
+      {
+        "en": "That makes production capability part of the comparison.",
+        "zh": "因此，生產能力也必須納入比較。"
+      }
+    ],
+    [
+      {
+        "en": "The Commission's proposed agenda addresses ",
+        "zh": "執委會提出的議程著重處理"
+      },
+      {
+        "en": "how ideas move towards industrial use. ",
+        "zh": "構想如何走向工業應用。"
+      },
+      {
+        "en": "It calls for better coordination of research, ",
+        "zh": "議程呼籲加強研究協調、"
+      },
+      {
+        "en": "shared digital tools, faster testing, ",
+        "zh": "共享數位工具、加快測試、"
+      },
+      {
+        "en": "support for larger production, and workforce training. ",
+        "zh": "支援擴大生產，以及培訓人才。"
+      },
+      {
+        "en": "Its targets for 2035 include ",
+        "zh": "議程的2035年目標包括"
+      },
+      {
+        "en": "at least 20% more research and innovation investment ",
+        "zh": "讓研究與創新投資至少增加20%，"
+      },
+      {
+        "en": "and at least 20% more materials startups and scaleups. ",
+        "zh": "並讓材料領域的新創及成長期企業至少增加20%。"
+      },
+      {
+        "en": "Another proposed benchmark is for at least 20% ",
+        "zh": "另一項提議的標準，是讓至少20%的"
+      },
+      {
+        "en": "of projects involving safer, more sustainable advanced materials ",
+        "zh": "以更安全、更永續的先進材料為主題的專案"
+      },
+      {
+        "en": "to reach deployment. ",
+        "zh": "達到實際應用階段。"
+      },
+      {
+        "en": "These remain proposed benchmarks, not completed results.",
+        "zh": "這些仍是提議中的衡量標準，並非已完成的成果。"
+      }
+    ],
+    [
+      {
+        "en": "A related research centre factsheet, dated September 30, ",
+        "zh": "研究中心於9月30日發布的相關簡介，"
+      },
+      {
+        "en": "places substitution within a wider strategy. ",
+        "zh": "將材料替代置於更廣泛的策略中。"
+      },
+      {
+        "en": "It also identifies efficient material use, ",
+        "zh": "簡介也指出，提高材料使用效率、"
+      },
+      {
+        "en": "repair, reuse, and recycling ",
+        "zh": "維修、重複使用與回收，"
+      },
+      {
+        "en": "as ways to complement a more diverse supply. ",
+        "zh": "都能與供應來源多元化相輔相成。"
+      },
+      {
+        "en": "Replacing a substance is therefore one route ",
+        "zh": "因此，替換某種物質只是其中一條途徑，"
+      },
+      {
+        "en": "among several, rather than a complete solution. ",
+        "zh": "還有其他方式，單靠替代並非完整解方。"
+      },
+      {
+        "en": "This approach connects the design of a product ",
+        "zh": "這種做法將產品設計"
+      },
+      {
+        "en": "with decisions about how long its materials stay useful ",
+        "zh": "與材料能使用多久的考量連結起來，"
+      },
+      {
+        "en": "and what happens afterwards.",
+        "zh": "也納入使用結束後如何處理的問題。"
+      }
+    ],
+    [
+      {
+        "en": "For technology companies, the combined message ",
+        "zh": "對科技公司而言，這些訊息共同指出，"
+      },
+      {
+        "en": "is that a laboratory breakthrough needs practical support. ",
+        "zh": "實驗室中的突破需要實際配套。"
+      },
+      {
+        "en": "Price, production, durability, and access to supplies ",
+        "zh": "價格、生產、耐用度及取得供應的能力，"
+      },
+      {
+        "en": "can all affect whether an alternative succeeds. ",
+        "zh": "都可能影響替代方案是否成功。"
+      },
+      {
+        "en": "A replacement that works in a small demonstration ",
+        "zh": "在小型展示中可行的替代方案，"
+      },
+      {
+        "en": "still needs a realistic route ",
+        "zh": "仍需要一條切實可行的途徑，"
+      },
+      {
+        "en": "to consistent, larger production. ",
+        "zh": "才能走向穩定且更大規模的生產。"
+      },
+      {
+        "en": "The new findings offer a way ",
+        "zh": "這項新研究提供一種方法，"
+      },
+      {
+        "en": "to compare those choices more clearly. ",
+        "zh": "讓人更清楚地比較這些選擇。"
+      },
+      {
+        "en": "They do not promise that Europe ",
+        "zh": "它們並未保證歐洲"
+      },
+      {
+        "en": "can remove every materials risk immediately.",
+        "zh": "能立即消除所有材料風險。"
+      }
+    ]
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一個、一種；不定冠詞"
+    },
+    "about": {
+      "meaning": "大約；關於"
+    },
+    "access": {
+      "meaning": "取得的能力或管道；access to supplies指取得所需供應的能力"
+    },
+    "addresses": {
+      "meaning": "處理、應對"
+    },
+    "advanced": {
+      "meaning": "先進的；advanced prototype stage指已相當成熟的原型開發階段"
+    },
+    "affect": {
+      "meaning": "影響"
+    },
+    "afterwards": {
+      "meaning": "之後；此處指材料使用結束之後"
+    },
+    "agenda": {
+      "meaning": "議程、討論事項"
+    },
+    "all": {
+      "meaning": "全部的、所有的"
+    },
+    "alone": {
+      "meaning": "單獨地；僅僅"
+    },
+    "already": {
+      "meaning": "已經"
+    },
+    "also": {
+      "meaning": "也、同時"
+    },
+    "alternative": {
+      "meaning": "替代方案；也可作形容詞表示替代的"
+    },
+    "alternatives": {
+      "meaning": "替代方案"
+    },
+    "among": {
+      "meaning": "在…之中"
+    },
+    "an": {
+      "meaning": "一個、一種；母音發音前的不定冠詞"
+    },
+    "and": {
+      "meaning": "和、而且；連接詞"
+    },
+    "another": {
+      "meaning": "另一個；再一次的"
+    },
+    "applications": {
+      "meaning": "應用、應用領域"
+    },
+    "approach": {
+      "meaning": "做法、方法"
+    },
+    "are": {
+      "meaning": "是；也可作被動語態的助動詞"
+    },
+    "around": {
+      "meaning": "大約；文中指約97%"
+    },
+    "as": {
+      "meaning": "例如；such as指例如；as ways指作為方法"
+    },
+    "at": {
+      "meaning": "在某時間或地點"
+    },
+    "automatically": {
+      "meaning": "自動地"
+    },
+    "available": {
+      "meaning": "可用的"
+    },
+    "being": {
+      "meaning": "與過去分詞連用，構成進行式的被動語態"
+    },
+    "benchmark": {
+      "meaning": "衡量標準、指標"
+    },
+    "benchmarks": {
+      "meaning": "衡量標準、指標（複數）"
+    },
+    "better": {
+      "meaning": "更好的"
+    },
+    "between": {
+      "meaning": "在…之間"
+    },
+    "breakthrough": {
+      "meaning": "突破"
+    },
+    "but": {
+      "meaning": "但是"
+    },
+    "by": {
+      "meaning": "在…之前、不晚於；by 2035指在2035年前"
+    },
+    "calls": {
+      "meaning": "呼籲、要求；calls for 指要求或倡議"
+    },
+    "can": {
+      "meaning": "能夠"
+    },
+    "capability": {
+      "meaning": "能力"
+    },
+    "capacity": {
+      "meaning": "能力、產能；manufacturing capacity指製造能力"
+    },
+    "carbide": {
+      "meaning": "碳化物；silicon carbide指碳化矽"
+    },
+    "careful": {
+      "meaning": "審慎的"
+    },
+    "central": {
+      "meaning": "核心的"
+    },
+    "centre": {
+      "meaning": "中心；Joint Research Centre指歐盟聯合研究中心"
+    },
+    "certain": {
+      "meaning": "某些、特定的"
+    },
+    "chain": {
+      "meaning": "鏈；supply chain 指供應鏈"
+    },
+    "changing": {
+      "meaning": "改變、更換"
+    },
+    "china": {
+      "meaning": "中國"
+    },
+    "choices": {
+      "meaning": "選擇（複數）"
+    },
+    "claiming": {
+      "meaning": "宣稱"
+    },
+    "clearly": {
+      "meaning": "清楚地"
+    },
+    "combined": {
+      "meaning": "綜合的、合併的"
+    },
+    "commission's": {
+      "meaning": "執委會的；文中指歐盟執委會的"
+    },
+    "companies": {
+      "meaning": "公司、企業（複數）"
+    },
+    "compare": {
+      "meaning": "比較"
+    },
+    "compared": {
+      "meaning": "比較了；compare A with B指將A與B比較"
+    },
+    "comparison": {
+      "meaning": "比較"
+    },
+    "complement": {
+      "meaning": "與…互補、相輔相成"
+    },
+    "complete": {
+      "meaning": "完整的"
+    },
+    "completed": {
+      "meaning": "已完成的"
+    },
+    "compromises": {
+      "meaning": "妥協、取捨（複數）"
+    },
+    "concerns": {
+      "meaning": "涉及、關於（動詞）"
+    },
+    "concrete": {
+      "meaning": "具體的"
+    },
+    "connects": {
+      "meaning": "連結"
+    },
+    "considered": {
+      "meaning": "考量、評估了"
+    },
+    "consistent": {
+      "meaning": "穩定一致的"
+    },
+    "construction": {
+      "meaning": "建築、營建"
+    },
+    "coordination": {
+      "meaning": "協調、協作"
+    },
+    "cost": {
+      "meaning": "成本"
+    },
+    "costs": {
+      "meaning": "成本（複數）"
+    },
+    "countries": {
+      "meaning": "國家（複數）"
+    },
+    "covers": {
+      "meaning": "涵蓋；cover的第三人稱單數"
+    },
+    "critical": {
+      "meaning": "關鍵的；critical raw materials指關鍵原物料"
+    },
+    "dated": {
+      "meaning": "標示日期為…的"
+    },
+    "decisions": {
+      "meaning": "決策、決定"
+    },
+    "demonstration": {
+      "meaning": "展示、示範驗證"
+    },
+    "dependence": {
+      "meaning": "依賴"
+    },
+    "deployment": {
+      "meaning": "實際應用、投入使用"
+    },
+    "design": {
+      "meaning": "設計"
+    },
+    "designed": {
+      "meaning": "經過設計的"
+    },
+    "developing": {
+      "meaning": "開發、發展"
+    },
+    "development": {
+      "meaning": "發展；文中指產業發展"
+    },
+    "different": {
+      "meaning": "不同的"
+    },
+    "digital": {
+      "meaning": "數位的"
+    },
+    "diverse": {
+      "meaning": "多元的"
+    },
+    "do": {
+      "meaning": "助動詞，構成否定或疑問"
+    },
+    "does": {
+      "meaning": "助動詞，用於第三人稱單數"
+    },
+    "dramatic": {
+      "meaning": "戲劇性的、引人注目的"
+    },
+    "durability": {
+      "meaning": "耐用度"
+    },
+    "efficient": {
+      "meaning": "有效率的；efficient material use指提高材料使用效率"
+    },
+    "electronics": {
+      "meaning": "電子、電子產業"
+    },
+    "energy": {
+      "meaning": "能源"
+    },
+    "environmental": {
+      "meaning": "環境的"
+    },
+    "europe": {
+      "meaning": "歐洲"
+    },
+    "europe's": {
+      "meaning": "歐洲的"
+    },
+    "european": {
+      "meaning": "歐洲的"
+    },
+    "every": {
+      "meaning": "每個"
+    },
+    "everywhere": {
+      "meaning": "到處"
+    },
+    "example": {
+      "meaning": "例子；for example指例如"
+    },
+    "examples": {
+      "meaning": "例子（複數）"
+    },
+    "factors": {
+      "meaning": "因素"
+    },
+    "factsheet": {
+      "meaning": "簡介、資料說明單"
+    },
+    "faster": {
+      "meaning": "更快速的"
+    },
+    "findings": {
+      "meaning": "研究發現、成果"
+    },
+    "for": {
+      "meaning": "為了、對於；也表示某時段的"
+    },
+    "gallium": {
+      "meaning": "鎵；一種金屬元素"
+    },
+    "give": {
+      "meaning": "給予、使具備"
+    },
+    "glass": {
+      "meaning": "玻璃"
+    },
+    "global": {
+      "meaning": "全球的"
+    },
+    "happens": {
+      "meaning": "發生；文中指材料之後會如何處理"
+    },
+    "have": {
+      "meaning": "有；亦可作完成式助動詞"
+    },
+    "help": {
+      "meaning": "幫助"
+    },
+    "how": {
+      "meaning": "如何"
+    },
+    "however": {
+      "meaning": "不過、然而"
+    },
+    "ideas": {
+      "meaning": "構想、想法（複數）"
+    },
+    "identifies": {
+      "meaning": "指出、列出"
+    },
+    "immediately": {
+      "meaning": "立即地"
+    },
+    "imports": {
+      "meaning": "進口貨品、進口量（複數）"
+    },
+    "improved": {
+      "meaning": "改善的、更好的"
+    },
+    "in": {
+      "meaning": "在某時間、領域或範圍中"
+    },
+    "include": {
+      "meaning": "包括"
+    },
+    "includes": {
+      "meaning": "包括"
+    },
+    "independent": {
+      "meaning": "獨立的"
+    },
+    "industrial": {
+      "meaning": "產業的、工業的"
+    },
+    "innovation": {
+      "meaning": "創新"
+    },
+    "introducing": {
+      "meaning": "引入、帶來"
+    },
+    "investment": {
+      "meaning": "投資"
+    },
+    "involve": {
+      "meaning": "涉及、包含"
+    },
+    "involving": {
+      "meaning": "涉及、由…參與"
+    },
+    "is": {
+      "meaning": "是；也可作被動或進行式的助動詞"
+    },
+    "it": {
+      "meaning": "它；依上下文指議程或鎵"
+    },
+    "its": {
+      "meaning": "它的；依上下文指研究或產品的"
+    },
+    "job": {
+      "meaning": "工作、功能；perform the same job指發揮相同功能"
+    },
+    "joint": {
+      "meaning": "聯合的；Joint Research Centre指歐盟聯合研究中心"
+    },
+    "laboratory": {
+      "meaning": "實驗室"
+    },
+    "lack": {
+      "meaning": "缺乏"
+    },
+    "larger": {
+      "meaning": "較大的"
+    },
+    "leader": {
+      "meaning": "領導者"
+    },
+    "least": {
+      "meaning": "最少；at least 指至少"
+    },
+    "life": {
+      "meaning": "壽命；useful life指使用壽命"
+    },
+    "long": {
+      "meaning": "久；how long指多長時間"
+    },
+    "made": {
+      "meaning": "製成的；made without指不使用某材料製成"
+    },
+    "magnets": {
+      "meaning": "磁鐵（複數）"
+    },
+    "makes": {
+      "meaning": "使得"
+    },
+    "making": {
+      "meaning": "使變得"
+    },
+    "manufacturing": {
+      "meaning": "製造"
+    },
+    "many": {
+      "meaning": "許多"
+    },
+    "material": {
+      "meaning": "物質、材料"
+    },
+    "materials": {
+      "meaning": "材料、原物料（複數）"
+    },
+    "may": {
+      "meaning": "可能；表示尚未確定的情況"
+    },
+    "mean": {
+      "meaning": "表示、意味著"
+    },
+    "message": {
+      "meaning": "訊息"
+    },
+    "more": {
+      "meaning": "更多；more than指超過、不只是"
+    },
+    "move": {
+      "meaning": "前進、推進；move towards industrial use指走向工業應用"
+    },
+    "needed": {
+      "meaning": "所需的、被需要的"
+    },
+    "needs": {
+      "meaning": "需要（動詞）"
+    },
+    "new": {
+      "meaning": "新的"
+    },
+    "not": {
+      "meaning": "不、沒有"
+    },
+    "november": {
+      "meaning": "十一月"
+    },
+    "of": {
+      "meaning": "…的；表示所屬、性質、內容等關係"
+    },
+    "offer": {
+      "meaning": "提供"
+    },
+    "on": {
+      "meaning": "關於、就某事；也表示日期"
+    },
+    "one": {
+      "meaning": "一、一個"
+    },
+    "options": {
+      "meaning": "選項、可行方案（複數）"
+    },
+    "or": {
+      "meaning": "或、或者"
+    },
+    "other": {
+      "meaning": "其他的；另一個"
+    },
+    "part": {
+      "meaning": "部分"
+    },
+    "perform": {
+      "meaning": "執行、發揮；perform the same job指具有相同功能"
+    },
+    "performance": {
+      "meaning": "表現、性能"
+    },
+    "places": {
+      "meaning": "將…放在某個脈絡或位置"
+    },
+    "practical": {
+      "meaning": "實際的"
+    },
+    "price": {
+      "meaning": "價格"
+    },
+    "producing": {
+      "meaning": "生產、製造"
+    },
+    "product": {
+      "meaning": "產品"
+    },
+    "production": {
+      "meaning": "生產"
+    },
+    "products": {
+      "meaning": "產品"
+    },
+    "projects": {
+      "meaning": "計畫、專案（複數）"
+    },
+    "promise": {
+      "meaning": "承諾"
+    },
+    "promising": {
+      "meaning": "有前景的、有希望的"
+    },
+    "properties": {
+      "meaning": "特性、性質（複數）"
+    },
+    "proposed": {
+      "meaning": "提出的、提議的"
+    },
+    "proposes": {
+      "meaning": "提議、提出"
+    },
+    "prototype": {
+      "meaning": "原型；prototype stage指原型開發階段"
+    },
+    "provides": {
+      "meaning": "提供"
+    },
+    "published": {
+      "meaning": "發布"
+    },
+    "question": {
+      "meaning": "問題"
+    },
+    "rather": {
+      "meaning": "rather than 指而非"
+    },
+    "raw": {
+      "meaning": "原始的、未加工的；raw materials指原物料"
+    },
+    "reach": {
+      "meaning": "達成；抵達、送達"
+    },
+    "reached": {
+      "meaning": "已達到、已進入"
+    },
+    "readiness": {
+      "meaning": "準備程度、成熟度；文中指技術就緒程度"
+    },
+    "realistic": {
+      "meaning": "切實可行的、務實的"
+    },
+    "recycling": {
+      "meaning": "回收再利用"
+    },
+    "reduce": {
+      "meaning": "降低"
+    },
+    "reducing": {
+      "meaning": "減少、降低"
+    },
+    "related": {
+      "meaning": "相關的"
+    },
+    "reliability": {
+      "meaning": "可靠性"
+    },
+    "remain": {
+      "meaning": "仍然保持、留在某種狀態"
+    },
+    "remove": {
+      "meaning": "消除、移除"
+    },
+    "repair": {
+      "meaning": "維修"
+    },
+    "replace": {
+      "meaning": "取代"
+    },
+    "replacement": {
+      "meaning": "替代品、替代方案"
+    },
+    "replacing": {
+      "meaning": "替換、取代"
+    },
+    "research": {
+      "meaning": "研究；research centre指研究中心"
+    },
+    "results": {
+      "meaning": "結果；文中指研究或測試結果"
+    },
+    "reuse": {
+      "meaning": "重複使用"
+    },
+    "rise": {
+      "meaning": "上升、增加"
+    },
+    "risk": {
+      "meaning": "風險"
+    },
+    "route": {
+      "meaning": "路徑"
+    },
+    "safer": {
+      "meaning": "更安全的"
+    },
+    "same": {
+      "meaning": "相同的"
+    },
+    "says": {
+      "meaning": "表示、說明"
+    },
+    "scaleups": {
+      "meaning": "已進入快速成長及擴張階段的企業（複數）"
+    },
+    "september": {
+      "meaning": "九月"
+    },
+    "settle": {
+      "meaning": "確定、解決；文中指判定問題的答案"
+    },
+    "several": {
+      "meaning": "數個、多項"
+    },
+    "shared": {
+      "meaning": "共享的"
+    },
+    "shift": {
+      "meaning": "轉移、改變"
+    },
+    "silicon": {
+      "meaning": "矽；silicon carbide指碳化矽"
+    },
+    "small": {
+      "meaning": "小的"
+    },
+    "smart": {
+      "meaning": "智慧型的；文中指能調整透光特性的玻璃"
+    },
+    "solution": {
+      "meaning": "解決方案"
+    },
+    "stage": {
+      "meaning": "階段"
+    },
+    "startups": {
+      "meaning": "新創公司（複數）"
+    },
+    "stay": {
+      "meaning": "保持、維持"
+    },
+    "still": {
+      "meaning": "仍然"
+    },
+    "strategy": {
+      "meaning": "策略"
+    },
+    "substance": {
+      "meaning": "物質"
+    },
+    "substitute": {
+      "meaning": "替代材料、替代品"
+    },
+    "substitutes": {
+      "meaning": "替代材料、替代品（複數）"
+    },
+    "substitution": {
+      "meaning": "替代、材料替換"
+    },
+    "succeeds": {
+      "meaning": "成功"
+    },
+    "such": {
+      "meaning": "這樣的、這類的"
+    },
+    "supplier": {
+      "meaning": "供應商"
+    },
+    "supplies": {
+      "meaning": "供應（動詞）；所需物資或供應（名詞複數）"
+    },
+    "supply": {
+      "meaning": "供應；supply chain指供應鏈"
+    },
+    "support": {
+      "meaning": "支援、配套措施"
+    },
+    "sustainable": {
+      "meaning": "永續的"
+    },
+    "targets": {
+      "meaning": "目標"
+    },
+    "technologies": {
+      "meaning": "技術（複數）"
+    },
+    "technology": {
+      "meaning": "科技、技術"
+    },
+    "testing": {
+      "meaning": "測試"
+    },
+    "than": {
+      "meaning": "比；rather than指而非"
+    },
+    "that": {
+      "meaning": "那個；也可引導內容子句或關係子句"
+    },
+    "the": {
+      "meaning": "定冠詞，指特定或前文提過的事物"
+    },
+    "therefore": {
+      "meaning": "因此"
+    },
+    "these": {
+      "meaning": "這些"
+    },
+    "they": {
+      "meaning": "它們；文中指新的研究結果"
+    },
+    "this": {
+      "meaning": "這"
+    },
+    "those": {
+      "meaning": "那些"
+    },
+    "though": {
+      "meaning": "雖然、但"
+    },
+    "to": {
+      "meaning": "到、向；也用於不定詞，接動詞原形"
+    },
+    "tools": {
+      "meaning": "工具"
+    },
+    "towards": {
+      "meaning": "朝向"
+    },
+    "training": {
+      "meaning": "培訓；workforce training指人才培訓"
+    },
+    "use": {
+      "meaning": "使用"
+    },
+    "used": {
+      "meaning": "被使用的"
+    },
+    "useful": {
+      "meaning": "有用的；useful life指使用壽命"
+    },
+    "using": {
+      "meaning": "使用、運用"
+    },
+    "vehicles": {
+      "meaning": "車輛"
+    },
+    "vulnerability": {
+      "meaning": "弱點、易受影響之處"
+    },
+    "warns": {
+      "meaning": "警告、提醒"
+    },
+    "way": {
+      "meaning": "方法、方式"
+    },
+    "ways": {
+      "meaning": "方式、做法"
+    },
+    "what": {
+      "meaning": "什麼；引導疑問句或名詞子句"
+    },
+    "whether": {
+      "meaning": "是否"
+    },
+    "while": {
+      "meaning": "同時、卻；此處連接可能同時發生的結果"
+    },
+    "wider": {
+      "meaning": "範圍更廣的"
+    },
+    "windows": {
+      "meaning": "窗戶（複數）"
+    },
+    "with": {
+      "meaning": "與、透過；也表示具備某項條件"
+    },
+    "within": {
+      "meaning": "在…內部、在…範圍中"
+    },
+    "without": {
+      "meaning": "沒有、未…的情況下"
+    },
+    "work": {
+      "meaning": "研究工作、工作"
+    },
+    "workforce": {
+      "meaning": "勞動人口、工作人力"
+    },
+    "works": {
+      "meaning": "有效、可行"
+    }
+  },
+  "quiz": [
+    {
+      "question": "Which statement best summarizes the article?",
+      "choices": [
+        {
+          "text": "Europe has already removed all dependence on imported materials.",
+          "explanation": "錯誤。文章說明降低依賴的選項及其取捨，並未宣布已消除進口依賴。"
+        },
+        {
+          "text": "Only laboratory performance matters when selecting an alternative material.",
+          "explanation": "錯誤。第三與第八段還列出成本、壽命、生產及供應等考量。"
+        },
+        {
+          "text": "New materials may reduce supply risks, but practical trade-offs still need evaluation.",
+          "explanation": "正確。第一段提出替代材料有幫助但涉及取捨，後文用技術、供應及製造條件加以說明。"
+        },
+        {
+          "text": "The research recommends ending all material innovation.",
+          "explanation": "錯誤。文章比較創新選項及配套措施，沒有要求停止創新。"
+        }
+      ],
+      "answerIndex": 2,
+      "explanation": "文章主軸是有條件地評估材料替代，而非宣告完全獨立或否定創新。第一段直接指出取捨，第八段則總結實務條件如何影響成功。",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "Its central message is careful rather than dramatic: substitutes can help, but involve compromises."
+        },
+        {
+          "paragraph": 8,
+          "quote": "Price, production, durability, and access to supplies can all affect whether an alternative succeeds."
+        }
+      ]
+    },
+    {
+      "question": "What can reasonably be inferred about changing to a different supplier or material?",
+      "choices": [
+        {
+          "text": "It may change the type of dependence without fully removing supply risks.",
+          "explanation": "正確。第五段明說依賴可能在國家或材料間轉移，並指出製造能力不足的問題。"
+        },
+        {
+          "text": "It guarantees that every replacement will be cheaper.",
+          "explanation": "錯誤。第四段指出某些替代選擇的成本可能增加。"
+        },
+        {
+          "text": "It makes European manufacturing capacity irrelevant.",
+          "explanation": "錯誤。第五段強調生產能力也是比較的一部分。"
+        },
+        {
+          "text": "It removes the need to evaluate existing technologies.",
+          "explanation": "錯誤。第三段表示研究會將替代方案與具有相同功能的現有技術比較。"
+        }
+      ],
+      "answerIndex": 0,
+      "explanation": "更換材料或來源可能降低特定弱點，但不代表風險歸零。成本上升、依賴轉移及製造能力不足，都可能影響替代方案的實際效果。",
+      "evidence": [
+        {
+          "paragraph": 4,
+          "quote": "Silicon or silicon carbide may replace it in certain applications, though costs can rise."
+        },
+        {
+          "paragraph": 5,
+          "quote": "The centre warns that dependence can shift between countries or materials."
+        }
+      ]
+    },
+    {
+      "question": "How do the proposed agenda and the factsheet broaden the discussion beyond choosing a substitute?",
+      "choices": [
+        {
+          "text": "They say that recycling has already replaced the need for new production.",
+          "explanation": "錯誤。第七段將回收視為互補方式，並未說它已完全取代生產。"
+        },
+        {
+          "text": "They treat the 2035 targets as achievements already completed.",
+          "explanation": "錯誤。第六段明確說明這些是提議中的衡量標準，而非完成成果。"
+        },
+        {
+          "text": "They focus exclusively on switching imports from one country to another.",
+          "explanation": "錯誤。第六段還談到研究、測試、生產及人才，第七段另列維修與重複使用等方式。"
+        },
+        {
+          "text": "They add industrial support and more efficient, circular use of materials to the strategy.",
+          "explanation": "正確。第六段涵蓋研究協調、測試、生產及人才配套，第七段補上效率、維修、重複使用與回收。"
+        }
+      ],
+      "answerIndex": 3,
+      "explanation": "綜合第六與第七段，降低材料風險既需要把創新帶入工業應用的能力，也需要更有效率及循環使用材料。材料替代只是策略的一部分。",
+      "evidence": [
+        {
+          "paragraph": 6,
+          "quote": "It calls for better coordination of research, shared digital tools, faster testing, support for larger production, and workforce training."
+        },
+        {
+          "paragraph": 7,
+          "quote": "It also identifies efficient material use, repair, reuse, and recycling as ways to complement a more diverse supply."
+        }
+      ]
+    }
+  ]
+}
