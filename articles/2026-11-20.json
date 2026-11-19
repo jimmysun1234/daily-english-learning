@@ -1,0 +1,1123 @@
+{
+  "version": 1,
+  "date": "2026-11-20",
+  "level": "B2",
+  "title": "Voyager's Light-Day Milestone Highlights Deep-Space Engineering Challenges",
+  "topic": "科技業新聞",
+  "sources": [
+    {
+      "name": "NASA Science",
+      "title": "Voyager 1 Engineers Analyze Data Issue, Ready to Confirm Light-day",
+      "url": "https://science.nasa.gov/blogs/voyager/2026/11/18/voyager-1-engineers-analyze-data-issue-ready-to-confirm-light-day/"
+    },
+    {
+      "name": "NASA Scientific Visualization Studio",
+      "title": "How Far Away Is Voyager 1? One Light-Day, Explained",
+      "url": "https://svs.gsfc.nasa.gov/15120/"
+    },
+    {
+      "name": "NASA Science",
+      "title": "Voyager 1: What Is a Light-Day",
+      "url": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/"
+    },
+    {
+      "name": "NASA Science",
+      "title": "NASA’s Voyager 1 Conserves Power, Resolves Brief Communications Pause",
+      "url": "https://science.nasa.gov/blogs/voyager/2026/10/29/nasas-voyager-1-conserves-power-resolves-brief-communications-pause/"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "en": "NASA's Voyager 1 reached a distance ",
+        "zh": "美國太空總署的航海家1號抵達了"
+      },
+      {
+        "en": "of one light-day from Earth on November 18, 2026. ",
+        "zh": "距地球一光日的位置，日期是2026年11月18日。"
+      },
+      {
+        "en": "Yet a NASA update published that day ",
+        "zh": "然而，NASA當天發布的消息"
+      },
+      {
+        "en": "also described a problem with the spacecraft's data. ",
+        "zh": "也說明了太空船的資料傳輸問題。"
+      },
+      {
+        "en": "The team had learned on November 14 ",
+        "zh": "團隊於11月14日得知，"
+      },
+      {
+        "en": "that science and engineering information was no longer arriving. ",
+        "zh": "科學與工程資訊已不再傳回。"
+      },
+      {
+        "en": "A historic achievement therefore came with an unresolved challenge.",
+        "zh": "因此，這項歷史成就也伴隨尚未解決的挑戰。"
+      }
+    ],
+    [
+      {
+        "en": "A light-day measures distance: ",
+        "zh": "光日是距離單位："
+      },
+      {
+        "en": "it is how far light travels in 24 hours. ",
+        "zh": "代表光在24小時內傳播的距離。"
+      },
+      {
+        "en": "For Voyager 1, that means roughly 25.9 billion kilometres. ",
+        "zh": "對航海家1號而言，這代表大約259億公里。"
+      },
+      {
+        "en": "A radio command needs a day to arrive, ",
+        "zh": "無線電指令需要一天才能抵達，"
+      },
+      {
+        "en": "and a response needs another day to return. ",
+        "zh": "回應則還需要一天才能傳回。"
+      },
+      {
+        "en": "Even an immediate reply would involve a lengthy wait. ",
+        "zh": "即使立刻回覆，也得經歷漫長等待。"
+      },
+      {
+        "en": "This delay applies ",
+        "zh": "這項延遲仍然存在，"
+      },
+      {
+        "en": "even when the spacecraft's equipment is functioning normally; ",
+        "zh": "即使太空船設備正常運作也一樣；"
+      },
+      {
+        "en": "it follows from the enormous distance ",
+        "zh": "這源於極為遙遠的距離，"
+      },
+      {
+        "en": "the signal must cross.",
+        "zh": "訊號必須跨越這段距離。"
+      }
+    ],
+    [
+      {
+        "en": "Engineers could still detect a carrier signal, ",
+        "zh": "工程師仍能偵測到載波訊號，"
+      },
+      {
+        "en": "the radio signal that carries information. ",
+        "zh": "也就是用來承載資訊的無線電訊號。"
+      },
+      {
+        "en": "NASA explained that this showed ",
+        "zh": "NASA解釋，這顯示"
+      },
+      {
+        "en": "Voyager's antenna remained pointed towards Earth ",
+        "zh": "航海家的天線仍朝向地球，"
+      },
+      {
+        "en": "and its broadcasting equipment was working. ",
+        "zh": "而發射設備也仍在運作。"
+      },
+      {
+        "en": "Receiving that signal, however, did not mean ",
+        "zh": "然而，收到這個訊號並不表示"
+      },
+      {
+        "en": "that usable scientific measurements were arriving with it. ",
+        "zh": "可用的科學量測資料也隨之傳回。"
+      },
+      {
+        "en": "That distinction matters when judging the mission's condition.",
+        "zh": "判斷任務狀態時，這項區別很重要。"
+      }
+    ],
+    [
+      {
+        "en": "The missing data suggested a problem ",
+        "zh": "資料缺失顯示，問題可能出在"
+      },
+      {
+        "en": "with the onboard computer that collects information ",
+        "zh": "負責蒐集資訊的機載電腦，"
+      },
+      {
+        "en": "and prepares it for transmission. ",
+        "zh": "它也負責準備待傳送的資料。"
+      },
+      {
+        "en": "NASA presented this as a possible explanation, ",
+        "zh": "NASA將此列為一種可能的解釋，"
+      },
+      {
+        "en": "while engineers continued investigating. ",
+        "zh": "工程師仍在持續調查。"
+      },
+      {
+        "en": "The update did not announce a confirmed repair. ",
+        "zh": "這份消息並未宣布已確認修復。"
+      },
+      {
+        "en": "A working communications component is valuable evidence, ",
+        "zh": "通訊元件仍在運作，是有價值的證據，"
+      },
+      {
+        "en": "but cannot establish that every system is healthy.",
+        "zh": "但無法證明每套系統都正常。"
+      }
+    ],
+    [
+      {
+        "en": "The news followed another engineering effort ",
+        "zh": "這則消息之前，還有另一項工程工作，"
+      },
+      {
+        "en": "reported by NASA on October 29. ",
+        "zh": "由NASA於10月29日公布。"
+      },
+      {
+        "en": "In September, the team had replaced ",
+        "zh": "9月時，團隊已替換"
+      },
+      {
+        "en": "three operating devices with lower-power alternatives. ",
+        "zh": "三個運作中的裝置，改用較省電的替代裝置。"
+      },
+      {
+        "en": "The changes had to happen together ",
+        "zh": "這些切換必須同時進行，"
+      },
+      {
+        "en": "to maintain a suitable distribution of heat. ",
+        "zh": "才能維持適當的熱量分布。"
+      },
+      {
+        "en": "This was a careful adjustment ",
+        "zh": "這是一項審慎的調整，"
+      },
+      {
+        "en": "to support the spacecraft's remaining scientific work.",
+        "zh": "目的是支援太空船剩餘的科學工作。"
+      }
+    ],
+    [
+      {
+        "en": "Power is a separate, continuing constraint. ",
+        "zh": "電力則是另一項持續存在的限制。"
+      },
+      {
+        "en": "Voyager's generators turn heat from decaying plutonium ",
+        "zh": "航海家的發電機將鈽衰變產生的熱量"
+      },
+      {
+        "en": "into electricity. ",
+        "zh": "轉換成電力。"
+      },
+      {
+        "en": "NASA says each Voyager loses ",
+        "zh": "NASA表示，每艘航海家"
+      },
+      {
+        "en": "about four watts of available power each year. ",
+        "zh": "每年可用功率約減少四瓦。"
+      },
+      {
+        "en": "Engineers must manage what remains ",
+        "zh": "工程師必須管理剩餘的電力，"
+      },
+      {
+        "en": "while keeping essential equipment warm enough to operate. ",
+        "zh": "同時讓必要設備保持足夠溫暖，以維持運作。"
+      },
+      {
+        "en": "Saving electricity and maintaining temperature are connected tasks.",
+        "zh": "節省電力與維持溫度是相互關聯的任務。"
+      }
+    ],
+    [
+      {
+        "en": "Experience from a similar data problem in 2023 ",
+        "zh": "來自2023年一次類似資料問題的經驗，"
+      },
+      {
+        "en": "was helping the current investigation, ",
+        "zh": "正協助目前的調查，"
+      },
+      {
+        "en": "according to the November update. ",
+        "zh": "11月的消息如此說明。"
+      },
+      {
+        "en": "Still, distance makes checking an idea slow. ",
+        "zh": "不過，遙遠距離讓驗證構想變得緩慢。"
+      },
+      {
+        "en": "NASA warned that finding the cause ",
+        "zh": "NASA提醒，找出原因"
+      },
+      {
+        "en": "could take weeks or longer. ",
+        "zh": "可能需要數週甚至更久。"
+      },
+      {
+        "en": "The engineers must interpret limited evidence ",
+        "zh": "工程師必須解讀有限的證據，"
+      },
+      {
+        "en": "without being able to inspect the spacecraft directly.",
+        "zh": "而無法直接檢查太空船。"
+      }
+    ],
+    [
+      {
+        "en": "Launched in 1977, Voyager 1 entered interstellar space in 2012. ",
+        "zh": "航海家1號於1977年發射，並於2012年進入星際空間。"
+      },
+      {
+        "en": "Its light-day milestone highlights both the reach ",
+        "zh": "一光日的里程碑，既凸顯了"
+      },
+      {
+        "en": "of space technology and the demands of maintaining it. ",
+        "zh": "太空科技的探索範圍，也顯示維護它所需的努力。"
+      },
+      {
+        "en": "The achievement does not settle the data problem. ",
+        "zh": "這項成就並未解決資料問題。"
+      },
+      {
+        "en": "NASA's November 18 update shows a team ",
+        "zh": "NASA在11月18日的消息顯示，團隊"
+      },
+      {
+        "en": "still working to understand the fault ",
+        "zh": "仍在努力理解故障，"
+      },
+      {
+        "en": "and preserve future science.",
+        "zh": "並維持未來的科學工作。"
+      }
+    ]
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一個、一種；不定冠詞"
+    },
+    "able": {
+      "meaning": "有能力的；be able to指能夠"
+    },
+    "about": {
+      "meaning": "大約；關於"
+    },
+    "according": {
+      "meaning": "根據；according to指依據"
+    },
+    "achievement": {
+      "meaning": "成果、成就"
+    },
+    "adjustment": {
+      "meaning": "調整"
+    },
+    "also": {
+      "meaning": "也、同時"
+    },
+    "alternatives": {
+      "meaning": "替代方案"
+    },
+    "an": {
+      "meaning": "一個、一種；母音發音前的不定冠詞"
+    },
+    "and": {
+      "meaning": "和、而且；連接詞"
+    },
+    "announce": {
+      "meaning": "宣布"
+    },
+    "another": {
+      "meaning": "另一個；再一次的"
+    },
+    "antenna": {
+      "meaning": "天線"
+    },
+    "applies": {
+      "meaning": "適用、仍然存在；文中指延遲仍會發生"
+    },
+    "are": {
+      "meaning": "是；也可作被動語態的助動詞"
+    },
+    "arrive": {
+      "meaning": "抵達"
+    },
+    "arriving": {
+      "meaning": "抵達、傳回"
+    },
+    "as": {
+      "meaning": "作為；as a possible explanation指作為可能的解釋"
+    },
+    "available": {
+      "meaning": "可用的"
+    },
+    "being": {
+      "meaning": "be動詞的動名詞；being able to指能夠"
+    },
+    "billion": {
+      "meaning": "十億"
+    },
+    "both": {
+      "meaning": "兩者都；both A and B指A與B兩者"
+    },
+    "broadcasting": {
+      "meaning": "發射、廣播；broadcasting equipment指訊號發射設備"
+    },
+    "but": {
+      "meaning": "但是"
+    },
+    "by": {
+      "meaning": "由、被；文中引出發布消息的機構"
+    },
+    "came": {
+      "meaning": "伴隨而來；came with指同時伴隨某事"
+    },
+    "cannot": {
+      "meaning": "不能、無法"
+    },
+    "careful": {
+      "meaning": "審慎的"
+    },
+    "carrier": {
+      "meaning": "載波；carrier signal指承載資訊的無線電訊號"
+    },
+    "carries": {
+      "meaning": "承載、傳送；文中指訊號承載資訊"
+    },
+    "cause": {
+      "meaning": "原因"
+    },
+    "challenge": {
+      "meaning": "挑戰"
+    },
+    "changes": {
+      "meaning": "調整、切換（複數）"
+    },
+    "checking": {
+      "meaning": "檢驗、驗證"
+    },
+    "collects": {
+      "meaning": "蒐集"
+    },
+    "command": {
+      "meaning": "指令"
+    },
+    "communications": {
+      "meaning": "通訊"
+    },
+    "component": {
+      "meaning": "組成部分"
+    },
+    "computer": {
+      "meaning": "電腦"
+    },
+    "condition": {
+      "meaning": "狀態、狀況"
+    },
+    "confirmed": {
+      "meaning": "已確認的"
+    },
+    "connected": {
+      "meaning": "相互關聯的"
+    },
+    "constraint": {
+      "meaning": "限制"
+    },
+    "continued": {
+      "meaning": "持續進行（過去式）"
+    },
+    "continuing": {
+      "meaning": "持續的"
+    },
+    "could": {
+      "meaning": "可以；也可表示可能"
+    },
+    "cross": {
+      "meaning": "跨越"
+    },
+    "current": {
+      "meaning": "目前的"
+    },
+    "data": {
+      "meaning": "資料"
+    },
+    "day": {
+      "meaning": "一天"
+    },
+    "decaying": {
+      "meaning": "衰變中的；文中指鈽發生放射性衰變"
+    },
+    "delay": {
+      "meaning": "延遲"
+    },
+    "demands": {
+      "meaning": "要求、所需投入（複數）"
+    },
+    "described": {
+      "meaning": "描述（過去式）"
+    },
+    "detect": {
+      "meaning": "偵測"
+    },
+    "devices": {
+      "meaning": "裝置"
+    },
+    "did": {
+      "meaning": "助動詞do的過去式，用於構成否定等句型"
+    },
+    "directly": {
+      "meaning": "直接地"
+    },
+    "distance": {
+      "meaning": "距離"
+    },
+    "distinction": {
+      "meaning": "區別"
+    },
+    "distribution": {
+      "meaning": "分布"
+    },
+    "does": {
+      "meaning": "助動詞，用於第三人稱單數"
+    },
+    "each": {
+      "meaning": "每一個"
+    },
+    "earth": {
+      "meaning": "地球"
+    },
+    "effort": {
+      "meaning": "努力、工作"
+    },
+    "electricity": {
+      "meaning": "電力"
+    },
+    "engineering": {
+      "meaning": "工程"
+    },
+    "engineers": {
+      "meaning": "工程師（複數）"
+    },
+    "enormous": {
+      "meaning": "極大的、極為遙遠的"
+    },
+    "enough": {
+      "meaning": "足夠的"
+    },
+    "entered": {
+      "meaning": "進入了"
+    },
+    "equipment": {
+      "meaning": "設備"
+    },
+    "essential": {
+      "meaning": "不可或缺的"
+    },
+    "establish": {
+      "meaning": "證實、確立"
+    },
+    "even": {
+      "meaning": "即使；even when指即使在…的情況下"
+    },
+    "every": {
+      "meaning": "每個"
+    },
+    "evidence": {
+      "meaning": "證據"
+    },
+    "experience": {
+      "meaning": "經驗"
+    },
+    "explained": {
+      "meaning": "解釋"
+    },
+    "explanation": {
+      "meaning": "說明、解釋"
+    },
+    "far": {
+      "meaning": "遠；how far指多遠"
+    },
+    "fault": {
+      "meaning": "故障"
+    },
+    "finding": {
+      "meaning": "找出"
+    },
+    "followed": {
+      "meaning": "接續而來"
+    },
+    "follows": {
+      "meaning": "源自、由…而來；follows from指由某原因造成"
+    },
+    "for": {
+      "meaning": "為了、對於；也表示某時段的"
+    },
+    "four": {
+      "meaning": "四"
+    },
+    "from": {
+      "meaning": "從；亦用於區分兩種事物"
+    },
+    "functioning": {
+      "meaning": "運作；functioning normally指正常運作"
+    },
+    "future": {
+      "meaning": "未來的"
+    },
+    "generators": {
+      "meaning": "發電機（複數）；文中指利用放射性同位素衰變熱發電的設備"
+    },
+    "had": {
+      "meaning": "與過去分詞連用，構成過去完成式"
+    },
+    "happen": {
+      "meaning": "發生"
+    },
+    "healthy": {
+      "meaning": "正常的、狀況良好的"
+    },
+    "heat": {
+      "meaning": "熱、熱量"
+    },
+    "helping": {
+      "meaning": "協助、幫助"
+    },
+    "highlights": {
+      "meaning": "凸顯"
+    },
+    "historic": {
+      "meaning": "具有歷史意義的"
+    },
+    "hours": {
+      "meaning": "小時"
+    },
+    "how": {
+      "meaning": "如何"
+    },
+    "however": {
+      "meaning": "不過、然而"
+    },
+    "idea": {
+      "meaning": "想法、要旨"
+    },
+    "immediate": {
+      "meaning": "眼前的、立即的"
+    },
+    "in": {
+      "meaning": "在某時間、領域或範圍中"
+    },
+    "information": {
+      "meaning": "資訊"
+    },
+    "inspect": {
+      "meaning": "檢查"
+    },
+    "interpret": {
+      "meaning": "解讀、判讀"
+    },
+    "interstellar": {
+      "meaning": "星際的；interstellar space指星際空間"
+    },
+    "into": {
+      "meaning": "進入…之中"
+    },
+    "investigating": {
+      "meaning": "調查、探究"
+    },
+    "investigation": {
+      "meaning": "調查、研究"
+    },
+    "involve": {
+      "meaning": "涉及、包含"
+    },
+    "is": {
+      "meaning": "是；也可作被動或進行式的助動詞"
+    },
+    "it": {
+      "meaning": "它；依上下文指光日這個距離單位、資料、訊號或太空科技"
+    },
+    "its": {
+      "meaning": "它的；依上下文指航海家或通訊設備的"
+    },
+    "judging": {
+      "meaning": "判斷"
+    },
+    "keeping": {
+      "meaning": "保留、維持"
+    },
+    "kilometres": {
+      "meaning": "公里"
+    },
+    "launched": {
+      "meaning": "發射（過去式或過去分詞）"
+    },
+    "learned": {
+      "meaning": "得知了"
+    },
+    "lengthy": {
+      "meaning": "漫長的"
+    },
+    "light": {
+      "meaning": "光"
+    },
+    "light-day": {
+      "meaning": "光日；光在一天內傳播的距離"
+    },
+    "limited": {
+      "meaning": "有限的"
+    },
+    "longer": {
+      "meaning": "更久；no longer指不再"
+    },
+    "loses": {
+      "meaning": "失去、減少"
+    },
+    "lower-power": {
+      "meaning": "耗電較低的"
+    },
+    "maintain": {
+      "meaning": "維持"
+    },
+    "maintaining": {
+      "meaning": "維持"
+    },
+    "makes": {
+      "meaning": "使得"
+    },
+    "manage": {
+      "meaning": "管理"
+    },
+    "matters": {
+      "meaning": "很重要、值得留意"
+    },
+    "mean": {
+      "meaning": "表示、意味著"
+    },
+    "means": {
+      "meaning": "意味著"
+    },
+    "measurements": {
+      "meaning": "衡量的數據、測量值"
+    },
+    "measures": {
+      "meaning": "衡量；文中指光日用來衡量距離"
+    },
+    "milestone": {
+      "meaning": "里程碑"
+    },
+    "missing": {
+      "meaning": "缺失的、未收到的"
+    },
+    "mission's": {
+      "meaning": "任務的"
+    },
+    "must": {
+      "meaning": "必須"
+    },
+    "nasa": {
+      "meaning": "美國國家航空暨太空總署"
+    },
+    "nasa's": {
+      "meaning": "美國國家航空暨太空總署的"
+    },
+    "needs": {
+      "meaning": "需要（動詞）"
+    },
+    "news": {
+      "meaning": "新聞"
+    },
+    "no": {
+      "meaning": "沒有、無"
+    },
+    "normally": {
+      "meaning": "正常地"
+    },
+    "not": {
+      "meaning": "不、沒有"
+    },
+    "november": {
+      "meaning": "十一月"
+    },
+    "october": {
+      "meaning": "十月"
+    },
+    "of": {
+      "meaning": "…的；表示所屬、性質、內容等關係"
+    },
+    "on": {
+      "meaning": "關於、就某事；也表示日期"
+    },
+    "onboard": {
+      "meaning": "機載的、太空船上的"
+    },
+    "one": {
+      "meaning": "一、一個"
+    },
+    "operate": {
+      "meaning": "運作"
+    },
+    "operating": {
+      "meaning": "運作中的"
+    },
+    "or": {
+      "meaning": "或、或者"
+    },
+    "plutonium": {
+      "meaning": "鈽；一種放射性金屬元素"
+    },
+    "pointed": {
+      "meaning": "指向、朝向"
+    },
+    "possible": {
+      "meaning": "可能的"
+    },
+    "power": {
+      "meaning": "電力、功率；available power指可用功率"
+    },
+    "prepares": {
+      "meaning": "準備"
+    },
+    "presented": {
+      "meaning": "發表、展示；presented as也指被呈現為"
+    },
+    "preserve": {
+      "meaning": "維持、保留"
+    },
+    "problem": {
+      "meaning": "問題"
+    },
+    "published": {
+      "meaning": "發布"
+    },
+    "radio": {
+      "meaning": "無線電"
+    },
+    "reach": {
+      "meaning": "可及的範圍、探索範圍（名詞）"
+    },
+    "reached": {
+      "meaning": "抵達了"
+    },
+    "receiving": {
+      "meaning": "接收、收到"
+    },
+    "remained": {
+      "meaning": "仍然是、維持"
+    },
+    "remaining": {
+      "meaning": "剩餘的、仍在使用的"
+    },
+    "remains": {
+      "meaning": "剩下、尚存；what remains指剩餘可用的電力"
+    },
+    "repair": {
+      "meaning": "修復"
+    },
+    "replaced": {
+      "meaning": "替換了"
+    },
+    "reply": {
+      "meaning": "回覆、回應"
+    },
+    "reported": {
+      "meaning": "所報導的、所述的"
+    },
+    "response": {
+      "meaning": "回應"
+    },
+    "return": {
+      "meaning": "傳回、返回"
+    },
+    "roughly": {
+      "meaning": "大約"
+    },
+    "saving": {
+      "meaning": "節省"
+    },
+    "says": {
+      "meaning": "表示、說明"
+    },
+    "science": {
+      "meaning": "科學、科學研究工作"
+    },
+    "scientific": {
+      "meaning": "科學的"
+    },
+    "separate": {
+      "meaning": "不同的、分開的"
+    },
+    "september": {
+      "meaning": "九月"
+    },
+    "settle": {
+      "meaning": "解決"
+    },
+    "showed": {
+      "meaning": "顯示（show的過去式）"
+    },
+    "shows": {
+      "meaning": "顯示"
+    },
+    "signal": {
+      "meaning": "訊號"
+    },
+    "similar": {
+      "meaning": "類似的"
+    },
+    "slow": {
+      "meaning": "緩慢的"
+    },
+    "space": {
+      "meaning": "太空、空間；文中主要指外太空"
+    },
+    "spacecraft": {
+      "meaning": "太空載具；單複數同形"
+    },
+    "spacecraft's": {
+      "meaning": "太空船的"
+    },
+    "still": {
+      "meaning": "仍然"
+    },
+    "suggested": {
+      "meaning": "顯示可能、暗示"
+    },
+    "suitable": {
+      "meaning": "適合的"
+    },
+    "support": {
+      "meaning": "支援、配套措施"
+    },
+    "system": {
+      "meaning": "系統"
+    },
+    "take": {
+      "meaning": "花費時間；take weeks指需要數週"
+    },
+    "tasks": {
+      "meaning": "任務、工作（複數）"
+    },
+    "team": {
+      "meaning": "團隊"
+    },
+    "technology": {
+      "meaning": "科技、技術"
+    },
+    "temperature": {
+      "meaning": "溫度"
+    },
+    "that": {
+      "meaning": "那個；也可引導內容子句或關係子句"
+    },
+    "the": {
+      "meaning": "定冠詞，指特定或前文提過的事物"
+    },
+    "therefore": {
+      "meaning": "因此"
+    },
+    "this": {
+      "meaning": "這"
+    },
+    "three": {
+      "meaning": "三個"
+    },
+    "to": {
+      "meaning": "到、向；也用於不定詞，接動詞原形"
+    },
+    "together": {
+      "meaning": "合在一起、綜合來看"
+    },
+    "towards": {
+      "meaning": "朝向"
+    },
+    "transmission": {
+      "meaning": "傳送；文中指資料傳輸"
+    },
+    "travels": {
+      "meaning": "傳播、行進"
+    },
+    "turn": {
+      "meaning": "將…轉換；turn A into B指將A轉換成B"
+    },
+    "understand": {
+      "meaning": "理解"
+    },
+    "unresolved": {
+      "meaning": "尚未解決的"
+    },
+    "update": {
+      "meaning": "更新"
+    },
+    "usable": {
+      "meaning": "可用的"
+    },
+    "valuable": {
+      "meaning": "有價值的"
+    },
+    "voyager": {
+      "meaning": "航海家；NASA的太空探測器名稱"
+    },
+    "voyager's": {
+      "meaning": "航海家的"
+    },
+    "wait": {
+      "meaning": "等待"
+    },
+    "warm": {
+      "meaning": "溫暖的"
+    },
+    "warned": {
+      "meaning": "提醒、警告"
+    },
+    "was": {
+      "meaning": "be動詞的過去式；也與現在分詞構成過去進行式"
+    },
+    "watts": {
+      "meaning": "瓦；功率單位watt的複數"
+    },
+    "weeks": {
+      "meaning": "週（複數）"
+    },
+    "were": {
+      "meaning": "be動詞的過去式；也與現在分詞構成過去進行式"
+    },
+    "what": {
+      "meaning": "什麼；引導疑問句或名詞子句"
+    },
+    "when": {
+      "meaning": "當…時"
+    },
+    "while": {
+      "meaning": "當…時；也表示同時進行某事"
+    },
+    "with": {
+      "meaning": "與、透過；也表示具備某項條件"
+    },
+    "without": {
+      "meaning": "沒有、未…的情況下"
+    },
+    "work": {
+      "meaning": "研究工作、工作"
+    },
+    "working": {
+      "meaning": "運作中；也指正在從事工作"
+    },
+    "would": {
+      "meaning": "將會、會；用於尚未實現的設想或條件"
+    },
+    "year": {
+      "meaning": "年"
+    },
+    "yet": {
+      "meaning": "然而"
+    }
+  },
+  "quiz": [
+    {
+      "question": "What is the main purpose of the article?",
+      "choices": [
+        {
+          "text": "To explain why the light-day milestone proves that every instrument is healthy.",
+          "explanation": "錯誤。文章明確區分距離成就、收到載波及取得科學資料，並未說所有儀器都正常。"
+        },
+        {
+          "text": "To describe a historic distance milestone alongside continuing engineering challenges.",
+          "explanation": "正確。第一段將一光日成就與資料問題並列，後文說明通訊延遲、電力及調查限制。"
+        },
+        {
+          "text": "To announce that NASA has completed a repair of the missing-data problem.",
+          "explanation": "錯誤。第四段明說這份消息並未宣布已確認修復。"
+        },
+        {
+          "text": "To argue that Voyager should immediately return to Earth for inspection.",
+          "explanation": "錯誤。文章描述遠距維護，沒有提出讓航海家立即返航的主張。"
+        }
+      ],
+      "answerIndex": 1,
+      "explanation": "文章以里程碑與故障並存為主軸，說明遠距太空系統的維護需求。不能把抵達某個距離等同於所有設備正常或故障已修復。",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "A historic achievement therefore came with an unresolved challenge."
+        },
+        {
+          "paragraph": 8,
+          "quote": "The achievement does not settle the data problem."
+        }
+      ]
+    },
+    {
+      "question": "What can reasonably be inferred from the carrier signal described in the article?",
+      "choices": [
+        {
+          "text": "It confirms that all scientific measurements are reaching Earth normally.",
+          "explanation": "錯誤。第三段指出，收到載波不代表可用的科學量測資料也傳回。"
+        },
+        {
+          "text": "It proves that the suspected onboard computer has already been repaired.",
+          "explanation": "錯誤。載波無法證明整套系統正常，第四段也未宣布修復。"
+        },
+        {
+          "text": "It means engineers can now communicate without the long travel delay.",
+          "explanation": "錯誤。第二段的傳播延遲由距離決定，收到載波並未消除延遲。"
+        },
+        {
+          "text": "It gives useful evidence about part of the communications system, but not proof of complete health.",
+          "explanation": "正確。第三段說明天線指向及發射設備仍在運作，第四段則強調這無法證明每套系統正常。"
+        }
+      ],
+      "answerIndex": 3,
+      "explanation": "推論必須保留證據的範圍。載波支持部分通訊功能仍正常，卻無法證明資料蒐集、格式處理或科學資料回傳全部正常。",
+      "evidence": [
+        {
+          "paragraph": 3,
+          "quote": "NASA explained that this showed Voyager's antenna remained pointed towards Earth and its broadcasting equipment was working."
+        },
+        {
+          "paragraph": 4,
+          "quote": "A working communications component is valuable evidence, but cannot establish that every system is healthy."
+        }
+      ]
+    },
+    {
+      "question": "Which conclusion best connects the discussion of distance with the discussion of power?",
+      "choices": [
+        {
+          "text": "Maintaining the mission requires both patient remote investigation and careful management of limited resources.",
+          "explanation": "正確。第二與第七段說明長距離造成等待與調查限制，第六段說明可用電力減少及保溫需求。"
+        },
+        {
+          "text": "Reducing power use allows radio commands to travel faster than light.",
+          "explanation": "錯誤。文章沒有把節電與加快無線電傳播連結，第二段仍需要一天單程。"
+        },
+        {
+          "text": "The September device changes eliminated every future engineering constraint.",
+          "explanation": "錯誤。第六段仍描述持續減少的電力，第七段則有尚未完成的調查。"
+        },
+        {
+          "text": "Engineers can inspect the spacecraft directly whenever a signal is missing.",
+          "explanation": "錯誤。第七段明確表示工程師無法直接檢查太空船。"
+        }
+      ],
+      "answerIndex": 0,
+      "explanation": "通訊延遲要求團隊耐心進行遠距判讀；有限電力與保溫需求則要求審慎資源管理。兩者共同說明持續維護任務的挑戰。",
+      "evidence": [
+        {
+          "paragraph": 6,
+          "quote": "Engineers must manage what remains while keeping essential equipment warm enough to operate."
+        },
+        {
+          "paragraph": 7,
+          "quote": "The engineers must interpret limited evidence without being able to inspect the spacecraft directly."
+        }
+      ]
+    }
+  ]
+}
