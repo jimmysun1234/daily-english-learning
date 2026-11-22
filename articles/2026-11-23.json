@@ -1,0 +1,1188 @@
+{
+  "version": 1,
+  "date": "2026-11-23",
+  "level": "B2",
+  "title": "Microsoft's Ignite News Brings AI Costs and Outcomes into Focus",
+  "topic": "科技業新聞",
+  "sources": [
+    {
+      "name": "Microsoft Community Hub — FinOps for AI Blog",
+      "title": "Introducing Microsoft Agent 365 Business Analytics: Turn AI investment into business value",
+      "url": "https://techcommunity.microsoft.com/blog/ai-finops-blog/introducing-microsoft-agent-365-business-analytics-turn-ai-investment-into-busin/4574149"
+    },
+    {
+      "name": "Microsoft Source",
+      "title": "Microsoft Ignite 2026: Empowering human ambition, intelligence and trust",
+      "url": "https://news.microsoft.com/source/2026/11/17/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust"
+    },
+    {
+      "name": "Microsoft",
+      "title": "Microsoft Ignite 2026 | Book of News",
+      "url": "https://news.microsoft.com/events/ignite/2026/book-of-news?WT.mc_id=MVP-311370"
+    },
+    {
+      "name": "FinOps Foundation",
+      "title": "FinOps Framework Overview",
+      "url": "https://www.finops.org/framework/"
+    },
+    {
+      "name": "FinOps Foundation",
+      "title": "Forecasting",
+      "url": "https://www.finops.org/framework/capabilities/forecasting/"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "en": "On November 17, 2026, Microsoft introduced ",
+        "zh": "2026年11月17日，微軟推出了"
+      },
+      {
+        "en": "Agent 365 Business Analytics through its Frontier programme. ",
+        "zh": "透過Frontier計畫提供的Agent 365商務分析功能。"
+      },
+      {
+        "en": "Announced during Ignite, the new experience ",
+        "zh": "這項在Ignite大會期間宣布的新功能，"
+      },
+      {
+        "en": "brings AI spending, usage, and estimated value together. ",
+        "zh": "將人工智慧支出、使用情況與估計價值整合呈現。"
+      },
+      {
+        "en": "It addresses a question facing organizations ",
+        "zh": "它關注企業面臨的一個問題："
+      },
+      {
+        "en": "that are expanding their use of AI: ",
+        "zh": "當企業擴大使用人工智慧時，"
+      },
+      {
+        "en": "what work is the spending actually supporting?",
+        "zh": "這些支出實際支援了哪些工作？"
+      }
+    ],
+    [
+      {
+        "en": "Microsoft describes views of costs ",
+        "zh": "微軟描述了成本檢視功能，"
+      },
+      {
+        "en": "across services, models, agents, and users. ",
+        "zh": "涵蓋服務、模型、代理程式及使用者。"
+      },
+      {
+        "en": "Business leaders can explore where usage is concentrated ",
+        "zh": "企業主管可以查看使用量集中在哪裡，"
+      },
+      {
+        "en": "and how it relates to different jobs. ",
+        "zh": "以及它與不同工作之間的關聯。"
+      },
+      {
+        "en": "The announcement also describes forecasting tools ",
+        "zh": "公告也提到預測工具，"
+      },
+      {
+        "en": "for exploring changes in usage before decisions are made. ",
+        "zh": "讓人能在決策之前，探索使用情況改變的影響。"
+      },
+      {
+        "en": "That links technical activity to business planning.",
+        "zh": "這將技術活動與企業規劃連結起來。"
+      }
+    ],
+    [
+      {
+        "en": "One important measure is assisted hours. ",
+        "zh": "一項重要指標，是「協助工時」。"
+      },
+      {
+        "en": "Microsoft estimates this using the typical time ",
+        "zh": "微軟以典型所需時間進行估算，"
+      },
+      {
+        "en": "for a task and AI's estimated contribution. ",
+        "zh": "再結合人工智慧對該任務的估計貢獻。"
+      },
+      {
+        "en": "Organizations can adjust the underlying assumptions. ",
+        "zh": "企業可以調整背後的假設。"
+      },
+      {
+        "en": "The company explicitly distinguishes this estimate ",
+        "zh": "該公司明確區分這種估計值"
+      },
+      {
+        "en": "from measured time saved or actual financial return. ",
+        "zh": "與實際量測的省下時間，或真正的財務回報。"
+      },
+      {
+        "en": "A useful indicator still requires careful interpretation.",
+        "zh": "即使是有用的指標，也仍需要審慎解讀。"
+      }
+    ],
+    [
+      {
+        "en": "The rollout includes different stages. ",
+        "zh": "這次推出包含不同階段。"
+      },
+      {
+        "en": "Microsoft's announcement schedules some agent cost ",
+        "zh": "微軟的公告把部分代理程式的成本"
+      },
+      {
+        "en": "and value insights for December. ",
+        "zh": "與價值洞察功能排在12月。"
+      },
+      {
+        "en": "Its event guide also separates preview features ",
+        "zh": "大會指南也將預覽功能"
+      },
+      {
+        "en": "from capabilities offered through Frontier. ",
+        "zh": "與透過Frontier提供的功能加以區分。"
+      },
+      {
+        "en": "The dates and programme labels describe availability, ",
+        "zh": "日期與計畫標籤說明的是供應狀態，"
+      },
+      {
+        "en": "while reported spending and estimated benefits ",
+        "zh": "而回報的支出與估計的效益，"
+      },
+      {
+        "en": "answer different questions about use and outcomes.",
+        "zh": "回答的是使用情況與成果方面的不同問題。"
+      }
+    ],
+    [
+      {
+        "en": "The broader Ignite announcements explain ",
+        "zh": "更廣泛的Ignite公告說明了"
+      },
+      {
+        "en": "why oversight is becoming more important. ",
+        "zh": "為何監督變得更加重要。"
+      },
+      {
+        "en": "Microsoft described Autopilot as a long-running agent ",
+        "zh": "微軟將Autopilot描述為長時間運作的代理程式，"
+      },
+      {
+        "en": "that can continue projects and handle recurring work ",
+        "zh": "能持續推進專案，並處理重複性工作，"
+      },
+      {
+        "en": "without a fresh prompt at every step. ",
+        "zh": "每個步驟都不必重新下提示。"
+      },
+      {
+        "en": "Such tools extend AI activity ",
+        "zh": "這類工具把人工智慧的活動"
+      },
+      {
+        "en": "beyond producing a single answer to a question. ",
+        "zh": "延伸至回答單一問題之外。"
+      },
+      {
+        "en": "The event guide says administrators ",
+        "zh": "大會指南表示，管理人員"
+      },
+      {
+        "en": "can see and manage Autopilot, ",
+        "zh": "可以查看及管理Autopilot，"
+      },
+      {
+        "en": "and its actions are tied to an agent identity.",
+        "zh": "它的行動也會連結至代理程式身分。"
+      }
+    ],
+    [
+      {
+        "en": "Microsoft also described expanded Windows protections ",
+        "zh": "微軟也描述了擴充中的Windows保護措施，"
+      },
+      {
+        "en": "for agents, including identities and policy controls. ",
+        "zh": "對象是代理程式，包括身分與政策控制。"
+      },
+      {
+        "en": "The company connects these measures ",
+        "zh": "該公司將這些措施"
+      },
+      {
+        "en": "with administrators' ability to understand and govern activity. ",
+        "zh": "與管理人員理解及管理活動的能力連結起來。"
+      },
+      {
+        "en": "Cost analysis and security serve different purposes, ",
+        "zh": "成本分析與安全防護有不同目的，"
+      },
+      {
+        "en": "but both rely on knowing ",
+        "zh": "但兩者都仰賴掌握"
+      },
+      {
+        "en": "what a system is doing. ",
+        "zh": "系統正在做什麼。"
+      },
+      {
+        "en": "The company also named Execution Containers ",
+        "zh": "該公司也提到Execution Containers，"
+      },
+      {
+        "en": "as a way to provide more detailed containment for agents.",
+        "zh": "用來為代理程式提供更細緻的隔離保護。"
+      }
+    ],
+    [
+      {
+        "en": "The FinOps Foundation provides a wider context. ",
+        "zh": "FinOps基金會提供了更廣泛的背景。"
+      },
+      {
+        "en": "Its framework connects engineering, finance, and business teams ",
+        "zh": "其架構連結工程、財務與業務團隊，"
+      },
+      {
+        "en": "in managing technology's business value. ",
+        "zh": "共同管理科技帶來的企業價值。"
+      },
+      {
+        "en": "Its forecasting guidance describes models ",
+        "zh": "其預測指引描述了模型，"
+      },
+      {
+        "en": "built from past spending and planned changes. ",
+        "zh": "模型以過去支出與計畫中的變更為基礎。"
+      },
+      {
+        "en": "Forecasts support budgeting and can be revised ",
+        "zh": "預測結果支援預算編列，也可以隨之修訂，"
+      },
+      {
+        "en": "as systems and expectations change. ",
+        "zh": "因為系統與預期都可能改變。"
+      },
+      {
+        "en": "Its guidance also connects reliable forecasts ",
+        "zh": "其指引也將可靠的預測"
+      },
+      {
+        "en": "with accurate cost data, ",
+        "zh": "與準確的成本資料連結起來，"
+      },
+      {
+        "en": "showing why classification and allocation matter ",
+        "zh": "說明為何分類與分攤很重要，"
+      },
+      {
+        "en": "before a spending model can be trusted.",
+        "zh": "這是信任支出模型之前必須考量的事。"
+      }
+    ],
+    [
+      {
+        "en": "Against that background, the news is ",
+        "zh": "在這樣的背景下，這則新聞"
+      },
+      {
+        "en": "about making expanding AI activity easier to examine. ",
+        "zh": "關注的是讓不斷增加的人工智慧活動更容易檢視。"
+      },
+      {
+        "en": "A dashboard can bring costs and estimates into view, ",
+        "zh": "儀表板可以呈現成本與估計值，"
+      },
+      {
+        "en": "but readers still need to understand ",
+        "zh": "但讀者仍需要理解"
+      },
+      {
+        "en": "the evidence and assumptions behind the figures. ",
+        "zh": "這些數字背後的證據與假設。"
+      },
+      {
+        "en": "Microsoft's announcement describes a new management experience; ",
+        "zh": "微軟的公告描述了一項新的管理功能；"
+      },
+      {
+        "en": "it does not establish a guaranteed outcome ",
+        "zh": "並未證明有一種可以保證的成果，"
+      },
+      {
+        "en": "for every organization that adopts AI.",
+        "zh": "適用於每一家採用人工智慧的企業。"
+      }
+    ]
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一個、一種；不定冠詞"
+    },
+    "ability": {
+      "meaning": "能力"
+    },
+    "about": {
+      "meaning": "大約；關於"
+    },
+    "accurate": {
+      "meaning": "精準的、準確的"
+    },
+    "across": {
+      "meaning": "遍及、涵蓋"
+    },
+    "actions": {
+      "meaning": "操作、動作（複數）"
+    },
+    "activity": {
+      "meaning": "活動；文中指人工智慧或系統執行的活動"
+    },
+    "actual": {
+      "meaning": "實際的"
+    },
+    "actually": {
+      "meaning": "實際上、確實地"
+    },
+    "addresses": {
+      "meaning": "處理、應對"
+    },
+    "adjust": {
+      "meaning": "調整"
+    },
+    "administrators": {
+      "meaning": "管理人員、系統管理員（複數）"
+    },
+    "adopts": {
+      "meaning": "採用"
+    },
+    "against": {
+      "meaning": "在…背景下；against that background指在這樣的背景下"
+    },
+    "agent": {
+      "meaning": "代理程式；文中指能以人工智慧處理任務的程式"
+    },
+    "agents": {
+      "meaning": "代理程式（複數）"
+    },
+    "ai": {
+      "meaning": "人工智慧（artificial intelligence的縮寫）"
+    },
+    "ai's": {
+      "meaning": "人工智慧的"
+    },
+    "allocation": {
+      "meaning": "分攤；文中指成本分攤"
+    },
+    "also": {
+      "meaning": "也、同時"
+    },
+    "an": {
+      "meaning": "一個、一種；母音發音前的不定冠詞"
+    },
+    "analysis": {
+      "meaning": "分析"
+    },
+    "analytics": {
+      "meaning": "分析；Business Analytics指商務分析功能"
+    },
+    "and": {
+      "meaning": "和、而且；連接詞"
+    },
+    "announced": {
+      "meaning": "宣布"
+    },
+    "announcement": {
+      "meaning": "公告"
+    },
+    "announcements": {
+      "meaning": "公告（複數）"
+    },
+    "answer": {
+      "meaning": "回答"
+    },
+    "are": {
+      "meaning": "是；也可作被動語態的助動詞"
+    },
+    "as": {
+      "meaning": "作為；presented as指以某種形式呈現"
+    },
+    "assisted": {
+      "meaning": "獲協助的；assisted hours指對AI協助完成工作量的工時估計"
+    },
+    "assumptions": {
+      "meaning": "假設條件（複數）"
+    },
+    "at": {
+      "meaning": "在某時間或地點"
+    },
+    "autopilot": {
+      "meaning": "Autopilot；微軟公布的長時間運作AI代理程式名稱"
+    },
+    "availability": {
+      "meaning": "供應狀態、可用性"
+    },
+    "background": {
+      "meaning": "背景"
+    },
+    "be": {
+      "meaning": "是；與過去分詞連用可構成被動語態"
+    },
+    "becoming": {
+      "meaning": "正逐漸成為"
+    },
+    "before": {
+      "meaning": "在…之前"
+    },
+    "behind": {
+      "meaning": "在…背後；文中指數字背後的證據或假設"
+    },
+    "benefits": {
+      "meaning": "效益、好處（複數）"
+    },
+    "beyond": {
+      "meaning": "超出、不僅限於"
+    },
+    "both": {
+      "meaning": "兩者都；both A and B指A與B兩者"
+    },
+    "bring": {
+      "meaning": "帶來"
+    },
+    "brings": {
+      "meaning": "帶來；brings together指匯集"
+    },
+    "broader": {
+      "meaning": "範圍更廣的、更大規模的"
+    },
+    "budgeting": {
+      "meaning": "預算編列"
+    },
+    "built": {
+      "meaning": "建立；built from指以某些資料為基礎建立"
+    },
+    "business": {
+      "meaning": "企業、業務"
+    },
+    "but": {
+      "meaning": "但是"
+    },
+    "can": {
+      "meaning": "能夠"
+    },
+    "capabilities": {
+      "meaning": "能力、功能"
+    },
+    "careful": {
+      "meaning": "審慎的"
+    },
+    "change": {
+      "meaning": "變化、改變"
+    },
+    "changes": {
+      "meaning": "改變（複數）"
+    },
+    "classification": {
+      "meaning": "分類"
+    },
+    "company": {
+      "meaning": "公司"
+    },
+    "concentrated": {
+      "meaning": "集中的"
+    },
+    "connects": {
+      "meaning": "連結"
+    },
+    "containers": {
+      "meaning": "容器；Execution Containers為微軟公布的代理程式隔離保護機制名稱的一部分"
+    },
+    "containment": {
+      "meaning": "隔離、限制活動範圍"
+    },
+    "context": {
+      "meaning": "背景、脈絡"
+    },
+    "continue": {
+      "meaning": "持續"
+    },
+    "contribution": {
+      "meaning": "貢獻；文中指人工智慧對任務的估計貢獻"
+    },
+    "controls": {
+      "meaning": "控制措施、管理措施（複數）"
+    },
+    "cost": {
+      "meaning": "成本"
+    },
+    "costs": {
+      "meaning": "成本（複數）"
+    },
+    "dashboard": {
+      "meaning": "儀表板"
+    },
+    "data": {
+      "meaning": "資料"
+    },
+    "dates": {
+      "meaning": "日期（複數）"
+    },
+    "december": {
+      "meaning": "十二月"
+    },
+    "decisions": {
+      "meaning": "決策、決定"
+    },
+    "describe": {
+      "meaning": "描述"
+    },
+    "described": {
+      "meaning": "描述（過去式）"
+    },
+    "describes": {
+      "meaning": "描述"
+    },
+    "detailed": {
+      "meaning": "詳細的"
+    },
+    "different": {
+      "meaning": "不同的"
+    },
+    "distinguishes": {
+      "meaning": "區分、辨別"
+    },
+    "does": {
+      "meaning": "助動詞，用於第三人稱單數"
+    },
+    "doing": {
+      "meaning": "正在做"
+    },
+    "during": {
+      "meaning": "在…期間"
+    },
+    "easier": {
+      "meaning": "更容易的"
+    },
+    "engineering": {
+      "meaning": "工程"
+    },
+    "establish": {
+      "meaning": "證明、確立"
+    },
+    "estimate": {
+      "meaning": "估計值、估算"
+    },
+    "estimated": {
+      "meaning": "估計的"
+    },
+    "estimates": {
+      "meaning": "估算（動詞）；也作名詞複數指估計值"
+    },
+    "event": {
+      "meaning": "活動、事件"
+    },
+    "every": {
+      "meaning": "每個"
+    },
+    "evidence": {
+      "meaning": "證據"
+    },
+    "examine": {
+      "meaning": "檢查、研究"
+    },
+    "execution": {
+      "meaning": "執行；Execution Containers為微軟公布的代理程式隔離保護機制名稱"
+    },
+    "expanded": {
+      "meaning": "擴大、增加"
+    },
+    "expanding": {
+      "meaning": "擴張中的"
+    },
+    "expectations": {
+      "meaning": "預期"
+    },
+    "experience": {
+      "meaning": "功能體驗；文中指新的商務分析功能"
+    },
+    "explain": {
+      "meaning": "解釋"
+    },
+    "explicitly": {
+      "meaning": "明確地"
+    },
+    "explore": {
+      "meaning": "探索"
+    },
+    "exploring": {
+      "meaning": "探索、研究"
+    },
+    "extend": {
+      "meaning": "延伸、擴大"
+    },
+    "facing": {
+      "meaning": "面臨"
+    },
+    "features": {
+      "meaning": "功能（複數）"
+    },
+    "figures": {
+      "meaning": "數字、數據"
+    },
+    "finance": {
+      "meaning": "財務"
+    },
+    "financial": {
+      "meaning": "資金的、財務的"
+    },
+    "finops": {
+      "meaning": "FinOps；讓工程、財務與業務團隊共同管理科技成本及價值的實務"
+    },
+    "for": {
+      "meaning": "為了、對於；也表示某時段的"
+    },
+    "forecasting": {
+      "meaning": "預測；文中指未來科技支出的預測"
+    },
+    "forecasts": {
+      "meaning": "預測結果（複數）"
+    },
+    "foundation": {
+      "meaning": "基金會；FinOps Foundation指FinOps基金會"
+    },
+    "framework": {
+      "meaning": "架構"
+    },
+    "fresh": {
+      "meaning": "新的、重新下達的"
+    },
+    "from": {
+      "meaning": "從；亦用於區分兩種事物"
+    },
+    "frontier": {
+      "meaning": "Frontier；微軟提供新功能體驗的計畫名稱"
+    },
+    "govern": {
+      "meaning": "管理、治理"
+    },
+    "guaranteed": {
+      "meaning": "保證的"
+    },
+    "guidance": {
+      "meaning": "說明、指引"
+    },
+    "guide": {
+      "meaning": "指南"
+    },
+    "handle": {
+      "meaning": "處理"
+    },
+    "hours": {
+      "meaning": "小時"
+    },
+    "how": {
+      "meaning": "如何"
+    },
+    "identities": {
+      "meaning": "身分（複數）；文中指代理程式的身分"
+    },
+    "identity": {
+      "meaning": "身分"
+    },
+    "ignite": {
+      "meaning": "Ignite；微軟年度技術大會名稱"
+    },
+    "important": {
+      "meaning": "重要的"
+    },
+    "in": {
+      "meaning": "在某時間、領域或範圍中"
+    },
+    "includes": {
+      "meaning": "包括"
+    },
+    "including": {
+      "meaning": "包含"
+    },
+    "indicator": {
+      "meaning": "指標"
+    },
+    "insights": {
+      "meaning": "洞察、分析資訊（複數）"
+    },
+    "interpretation": {
+      "meaning": "解讀"
+    },
+    "into": {
+      "meaning": "進入…之中"
+    },
+    "introduced": {
+      "meaning": "推出、介紹"
+    },
+    "is": {
+      "meaning": "是；也可作被動或進行式的助動詞"
+    },
+    "it": {
+      "meaning": "它；依上下文指新分析功能或微軟的公告"
+    },
+    "its": {
+      "meaning": "它的；依上下文指微軟、Autopilot或FinOps基金會的"
+    },
+    "jobs": {
+      "meaning": "工作、就業機會（複數）"
+    },
+    "knowing": {
+      "meaning": "了解、掌握"
+    },
+    "labels": {
+      "meaning": "標籤、名稱標示（複數）"
+    },
+    "leaders": {
+      "meaning": "主管、領導人；business leaders指企業主管"
+    },
+    "links": {
+      "meaning": "將…連結起來；links A to B指將A與B建立關聯"
+    },
+    "long-running": {
+      "meaning": "長時間運作的"
+    },
+    "made": {
+      "meaning": "做出；decisions are made指決策被做出"
+    },
+    "making": {
+      "meaning": "使變得"
+    },
+    "manage": {
+      "meaning": "管理"
+    },
+    "management": {
+      "meaning": "管理"
+    },
+    "managing": {
+      "meaning": "管理"
+    },
+    "matter": {
+      "meaning": "重要、有影響（動詞）"
+    },
+    "measure": {
+      "meaning": "衡量指標（名詞）"
+    },
+    "measured": {
+      "meaning": "經實際量測的"
+    },
+    "measures": {
+      "meaning": "措施（名詞複數）"
+    },
+    "microsoft": {
+      "meaning": "微軟"
+    },
+    "microsoft's": {
+      "meaning": "微軟的"
+    },
+    "model": {
+      "meaning": "模型；文中指支出預測模型"
+    },
+    "models": {
+      "meaning": "模型（複數）；可指AI模型或預測模型"
+    },
+    "more": {
+      "meaning": "更多；more than指超過、不只是"
+    },
+    "named": {
+      "meaning": "提到…的名稱"
+    },
+    "need": {
+      "meaning": "需要（動詞）"
+    },
+    "new": {
+      "meaning": "新的"
+    },
+    "news": {
+      "meaning": "新聞"
+    },
+    "not": {
+      "meaning": "不、沒有"
+    },
+    "november": {
+      "meaning": "十一月"
+    },
+    "of": {
+      "meaning": "…的；表示所屬、性質、內容等關係"
+    },
+    "offered": {
+      "meaning": "所提供的"
+    },
+    "on": {
+      "meaning": "關於、就某事；也表示日期"
+    },
+    "one": {
+      "meaning": "一、一個"
+    },
+    "or": {
+      "meaning": "或、或者"
+    },
+    "organization": {
+      "meaning": "組織、企業"
+    },
+    "organizations": {
+      "meaning": "組織、企業（複數）"
+    },
+    "outcome": {
+      "meaning": "成果、結果"
+    },
+    "outcomes": {
+      "meaning": "結果（複數）"
+    },
+    "oversight": {
+      "meaning": "監督"
+    },
+    "past": {
+      "meaning": "過去的"
+    },
+    "planned": {
+      "meaning": "預定的、規劃中的"
+    },
+    "planning": {
+      "meaning": "規劃"
+    },
+    "policy": {
+      "meaning": "政策"
+    },
+    "preview": {
+      "meaning": "預覽；文中指正式全面推出前的功能預覽階段"
+    },
+    "producing": {
+      "meaning": "產出、產生"
+    },
+    "programme": {
+      "meaning": "方案、計畫"
+    },
+    "projects": {
+      "meaning": "計畫、專案（複數）"
+    },
+    "prompt": {
+      "meaning": "提示、指令"
+    },
+    "protections": {
+      "meaning": "保護措施（複數）"
+    },
+    "provide": {
+      "meaning": "提供"
+    },
+    "provides": {
+      "meaning": "提供"
+    },
+    "purposes": {
+      "meaning": "用途、目的"
+    },
+    "question": {
+      "meaning": "問題"
+    },
+    "questions": {
+      "meaning": "問題（複數）"
+    },
+    "readers": {
+      "meaning": "讀者（複數）"
+    },
+    "recurring": {
+      "meaning": "重複發生的、定期執行的"
+    },
+    "relates": {
+      "meaning": "有關聯；relates to指與…相關"
+    },
+    "reliable": {
+      "meaning": "可靠的"
+    },
+    "rely": {
+      "meaning": "仰賴；rely on指依賴"
+    },
+    "reported": {
+      "meaning": "回報、報告了"
+    },
+    "requires": {
+      "meaning": "需要"
+    },
+    "return": {
+      "meaning": "回報；financial return指財務回報"
+    },
+    "revised": {
+      "meaning": "修訂、更新"
+    },
+    "rollout": {
+      "meaning": "逐步推出、分階段供應"
+    },
+    "saved": {
+      "meaning": "省下的；time saved指省下的時間"
+    },
+    "says": {
+      "meaning": "表示、說明"
+    },
+    "schedules": {
+      "meaning": "安排、排定時間"
+    },
+    "security": {
+      "meaning": "安全、防護"
+    },
+    "see": {
+      "meaning": "查看、檢視"
+    },
+    "separates": {
+      "meaning": "區分；separates A from B指將A與B區分開來"
+    },
+    "serve": {
+      "meaning": "發揮作用；serve a purpose 指具有某種用途"
+    },
+    "services": {
+      "meaning": "服務（複數）"
+    },
+    "showing": {
+      "meaning": "顯示、表明"
+    },
+    "single": {
+      "meaning": "單一的、一次的"
+    },
+    "some": {
+      "meaning": "一些"
+    },
+    "spending": {
+      "meaning": "支出、花費；文中指使用人工智慧服務的支出"
+    },
+    "stages": {
+      "meaning": "階段"
+    },
+    "step": {
+      "meaning": "步驟"
+    },
+    "still": {
+      "meaning": "仍然"
+    },
+    "such": {
+      "meaning": "這樣的、這類的"
+    },
+    "support": {
+      "meaning": "支援、協助"
+    },
+    "supporting": {
+      "meaning": "支援、支持"
+    },
+    "system": {
+      "meaning": "系統"
+    },
+    "systems": {
+      "meaning": "系統（複數）"
+    },
+    "task": {
+      "meaning": "工作、任務"
+    },
+    "teams": {
+      "meaning": "團隊（複數）"
+    },
+    "technical": {
+      "meaning": "技術的"
+    },
+    "technology's": {
+      "meaning": "科技的"
+    },
+    "that": {
+      "meaning": "那個；也可引導內容子句或關係子句"
+    },
+    "the": {
+      "meaning": "定冠詞，指特定或前文提過的事物"
+    },
+    "their": {
+      "meaning": "他們的、它們的；文中指組織或企業的"
+    },
+    "these": {
+      "meaning": "這些"
+    },
+    "this": {
+      "meaning": "這"
+    },
+    "through": {
+      "meaning": "透過、經由"
+    },
+    "tied": {
+      "meaning": "連結、綁定；tied to指與…連結"
+    },
+    "time": {
+      "meaning": "時間"
+    },
+    "to": {
+      "meaning": "到、向；也用於不定詞，接動詞原形"
+    },
+    "together": {
+      "meaning": "整合在一起、共同"
+    },
+    "tools": {
+      "meaning": "工具"
+    },
+    "trusted": {
+      "meaning": "值得信任的"
+    },
+    "typical": {
+      "meaning": "典型的、一般所需的"
+    },
+    "underlying": {
+      "meaning": "背後的、基本的；underlying assumptions指估算背後的假設"
+    },
+    "understand": {
+      "meaning": "理解"
+    },
+    "usage": {
+      "meaning": "使用量、用量"
+    },
+    "use": {
+      "meaning": "使用"
+    },
+    "useful": {
+      "meaning": "有用的"
+    },
+    "users": {
+      "meaning": "使用者"
+    },
+    "using": {
+      "meaning": "使用、運用"
+    },
+    "value": {
+      "meaning": "價值"
+    },
+    "view": {
+      "meaning": "檢視內容；in view指保持可見"
+    },
+    "views": {
+      "meaning": "檢視方式、檢視畫面（複數）"
+    },
+    "way": {
+      "meaning": "方法、方式"
+    },
+    "what": {
+      "meaning": "什麼；引導疑問句或名詞子句"
+    },
+    "where": {
+      "meaning": "在…的地方；哪裡"
+    },
+    "while": {
+      "meaning": "當…時；也表示同時進行某事"
+    },
+    "why": {
+      "meaning": "為何"
+    },
+    "wider": {
+      "meaning": "範圍更廣的"
+    },
+    "windows": {
+      "meaning": "Windows；微軟的作業系統名稱"
+    },
+    "with": {
+      "meaning": "與、透過；也表示具備某項條件"
+    },
+    "without": {
+      "meaning": "沒有、未…的情況下"
+    },
+    "work": {
+      "meaning": "工作、任務"
+    }
+  },
+  "quiz": [
+    {
+      "question": "Which statement best summarizes the article?",
+      "choices": [
+        {
+          "text": "All the new analytics features were made generally available on the same day.",
+          "explanation": "錯誤。第四段指出推出階段不同，也提到12月排程、預覽及Frontier等區別。"
+        },
+        {
+          "text": "The announcement replaces security management with spending estimates.",
+          "explanation": "錯誤。第六段將成本分析與安全防護視為不同目的的工作，沒有說其中之一取代另一個。"
+        },
+        {
+          "text": "New Microsoft tools bring AI costs, activity, and estimated value into focus alongside wider oversight needs.",
+          "explanation": "正確。文章以11月17日的新分析功能為主軸，連結支出、使用、估計價值及代理程式監督。"
+        },
+        {
+          "text": "The article mainly announces a processor speed record.",
+          "explanation": "錯誤。文章焦點是人工智慧活動與價值管理，並非處理器效能紀錄。"
+        }
+      ],
+      "answerIndex": 2,
+      "explanation": "文章先介紹商務分析功能，再解釋估計數字、推出階段，以及自動化活動如何帶來監督需求；FinOps背景則補充跨團隊管理的重要性。",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "Announced during Ignite, the new experience brings AI spending, usage, and estimated value together."
+        },
+        {
+          "paragraph": 6,
+          "quote": "Cost analysis and security serve different purposes, but both rely on knowing what a system is doing."
+        }
+      ]
+    },
+    {
+      "question": "What is the most reasonable interpretation of assisted hours?",
+      "choices": [
+        {
+          "text": "They are an exact measurement of every hour employees stopped working.",
+          "explanation": "錯誤。第三段說它以典型時間及人工智慧貢獻估算，並非逐小時量測員工停止工作的時間。"
+        },
+        {
+          "text": "They are an estimate based on assumptions, rather than proof of actual time savings or financial return.",
+          "explanation": "正確。第三段直接區分協助工時估計與實測節省時間或財務回報，第八段也提醒數字仰賴證據與假設。"
+        },
+        {
+          "text": "They guarantee that every organization will achieve the same return.",
+          "explanation": "錯誤。企業可調整假設，最後一段也否定對所有企業保證相同成果的推論。"
+        },
+        {
+          "text": "They depend only on how many licenses a company owns.",
+          "explanation": "錯誤。第三段列出的依據是典型任務時間及人工智慧估計貢獻，並非僅由授權數決定。"
+        }
+      ],
+      "answerIndex": 1,
+      "explanation": "估計指標可以協助比較與討論，但必須保留其方法及假設。本文沒有提供把協助工時直接當成實際省下工時或現金回報的依據。",
+      "evidence": [
+        {
+          "paragraph": 3,
+          "quote": "The company explicitly distinguishes this estimate from measured time saved or actual financial return."
+        },
+        {
+          "paragraph": 8,
+          "quote": "A dashboard can bring costs and estimates into view, but readers still need to understand the evidence and assumptions behind the figures."
+        }
+      ]
+    },
+    {
+      "question": "What conclusion best connects the discussion of recurring agents with the FinOps background?",
+      "choices": [
+        {
+          "text": "As AI activity expands, organizations need to understand the work being done and coordinate how its costs and value are managed.",
+          "explanation": "正確。第五段描述代理程式持續推進工作，第七段則強調工程、財務與業務團隊共同管理科技價值。"
+        },
+        {
+          "text": "Recurring agents remove the need for financial planning or technical oversight.",
+          "explanation": "錯誤。第五與第六段反而說明監督的重要性，第七段也保留預測與預算的角色。"
+        },
+        {
+          "text": "A forecast should remain unchanged even when systems and expectations change.",
+          "explanation": "錯誤。第七段明確說預測可以隨系統及預期改變而修訂。"
+        },
+        {
+          "text": "The FinOps framework says security and cost analysis have exactly the same purpose.",
+          "explanation": "錯誤。第六段明確區分兩者目的，第七段也沒有把兩者視為相同工作。"
+        }
+      ],
+      "answerIndex": 0,
+      "explanation": "綜合第五至第七段，代理程式能處理更長時間及重複性活動，因此可觀察性、資源管理及跨團隊協調需要一併考量。這不是預算或監督可以取消的證據。",
+      "evidence": [
+        {
+          "paragraph": 5,
+          "quote": "Such tools extend AI activity beyond producing a single answer to a question."
+        },
+        {
+          "paragraph": 7,
+          "quote": "Its framework connects engineering, finance, and business teams in managing technology's business value."
+        }
+      ]
+    }
+  ]
+}
