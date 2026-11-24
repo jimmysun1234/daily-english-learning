@@ -1,0 +1,1105 @@
+{
+  "version": 1,
+  "date": "2026-11-25",
+  "level": "B2",
+  "title": "Samsung's New Monitor Trades Resolution for Extreme Speed",
+  "topic": "科技業新聞",
+  "sources": [
+    {
+      "name": "Samsung U.S. Newsroom",
+      "title": "Samsung Launches Odyssey G6: The World’s First 1,100Hz Gaming Monitor",
+      "url": "https://news.samsung.com/us/samsung-launches-odyssey-g6-worlds-first-1100hz-gaming-monitor/"
+    },
+    {
+      "name": "NVIDIA GeForce",
+      "title": "How To Reduce Lag - A Guide To Better System Latency",
+      "url": "https://www.nvidia.com/en-us/geforce/guides/system-latency-optimization-guide/"
+    },
+    {
+      "name": "VESA",
+      "title": "VESA® Adds ‘Adaptive-Sync’ to Popular DisplayPort™ Video Standard",
+      "url": "https://vesa.org/featured-articles/vesa-adds-adaptive-sync-to-popular-displayport-video-standard/"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "en": "Samsung announced the American launch ",
+        "zh": "三星宣布在美國推出"
+      },
+      {
+        "en": "of its 27-inch Odyssey G6 monitor ",
+        "zh": "旗下27吋Odyssey G6螢幕，"
+      },
+      {
+        "en": "on November 23, 2026. ",
+        "zh": "日期是2026年11月23日。"
+      },
+      {
+        "en": "The company plans retail availability from December. ",
+        "zh": "該公司計畫從12月開始在零售通路供應。"
+      },
+      {
+        "en": "Its headline feature is a choice: ",
+        "zh": "最受矚目的功能，是提供一項選擇："
+      },
+      {
+        "en": "up to 1,100Hz at HD resolution, ",
+        "zh": "在HD解析度下，更新率最高可達1,100Hz，"
+      },
+      {
+        "en": "or up to 600Hz at QHD resolution. ",
+        "zh": "或在QHD解析度下，最高可達600Hz。"
+      },
+      {
+        "en": "The highest speed therefore comes with a resolution trade-off.",
+        "zh": "因此，最高速度伴隨解析度上的取捨。"
+      }
+    ],
+    [
+      {
+        "en": "QHD mode offers 2,560 by 1,440 pixels, ",
+        "zh": "QHD模式提供2,560乘1,440個像素，"
+      },
+      {
+        "en": "while HD mode uses a lower resolution. ",
+        "zh": "HD模式則使用較低的解析度。"
+      },
+      {
+        "en": "The two settings emphasize different goals: ",
+        "zh": "這兩種設定強調不同目標："
+      },
+      {
+        "en": "a more detailed picture or more frequent screen updates. ",
+        "zh": "更細緻的畫面，或更頻繁的螢幕更新。"
+      },
+      {
+        "en": "Samsung calls the switching feature Dual Mode. ",
+        "zh": "三星將這項切換功能稱為Dual Mode。"
+      },
+      {
+        "en": "The announcement presents both choices ",
+        "zh": "公告同時介紹這兩種選擇，"
+      },
+      {
+        "en": "as options for different types of games.",
+        "zh": "供不同類型的遊戲使用。"
+      }
+    ],
+    [
+      {
+        "en": "Refresh rate describes how often ",
+        "zh": "更新率描述的是頻率，"
+      },
+      {
+        "en": "a display can update each second. ",
+        "zh": "也就是顯示器每秒能更新多少次。"
+      },
+      {
+        "en": "At 1,100Hz, the interval between refreshes ",
+        "zh": "在1,100Hz時，兩次更新之間的間隔"
+      },
+      {
+        "en": "is about 0.91 milliseconds. ",
+        "zh": "大約是0.91毫秒。"
+      },
+      {
+        "en": "That is a calculation from the advertised frequency, ",
+        "zh": "這是根據宣稱頻率計算出的數字，"
+      },
+      {
+        "en": "not a measurement of the total delay ",
+        "zh": "並非量測完整延遲的結果，"
+      },
+      {
+        "en": "between pressing a button and seeing a reaction. ",
+        "zh": "完整延遲指的是從按下按鍵，到看見反應之間的時間。"
+      },
+      {
+        "en": "Those are different quantities.",
+        "zh": "兩者是不同的量。"
+      }
+    ],
+    [
+      {
+        "en": "The advertised pixel response time ",
+        "zh": "宣傳中的像素反應時間"
+      },
+      {
+        "en": "is another separate measure. ",
+        "zh": "又是另一項獨立指標。"
+      },
+      {
+        "en": "Samsung lists one millisecond for gray-to-gray changes, ",
+        "zh": "三星列出的灰階到灰階變化時間為一毫秒，"
+      },
+      {
+        "en": "based on internal testing and specified settings. ",
+        "zh": "依據是內部測試及指定設定。"
+      },
+      {
+        "en": "This describes a pixel changing between gray values. ",
+        "zh": "這描述的是像素在不同灰階值之間的轉換。"
+      },
+      {
+        "en": "It does not describe the entire computer's response. ",
+        "zh": "它並不是描述整部電腦的反應。"
+      },
+      {
+        "en": "The company notes that content and settings ",
+        "zh": "該公司提醒，內容與設定"
+      },
+      {
+        "en": "can affect the results.",
+        "zh": "可能影響結果。"
+      }
+    ],
+    [
+      {
+        "en": "Smooth motion also involves coordination ",
+        "zh": "流暢動態也涉及協調，"
+      },
+      {
+        "en": "between the computer and display. ",
+        "zh": "需要電腦與顯示器互相配合。"
+      },
+      {
+        "en": "VESA, the display standards organization, ",
+        "zh": "顯示標準組織VESA"
+      },
+      {
+        "en": "explains that a computer's rendering rate can vary. ",
+        "zh": "說明，電腦的算繪速率可能改變。"
+      },
+      {
+        "en": "A mismatch with the display's refresh timing ",
+        "zh": "如果它與顯示器更新的時序不一致，"
+      },
+      {
+        "en": "can produce tearing or stuttering. ",
+        "zh": "就可能造成畫面撕裂或卡頓。"
+      },
+      {
+        "en": "Adaptive synchronization allows the display ",
+        "zh": "適應性同步讓顯示器"
+      },
+      {
+        "en": "to follow the computer's rendering pace. ",
+        "zh": "能跟隨電腦的算繪節奏。"
+      },
+      {
+        "en": "This addresses consistency as well as speed. ",
+        "zh": "這同時處理了穩定性與速度問題。"
+      },
+      {
+        "en": "Matching these timings does not itself ",
+        "zh": "讓這些時序一致，本身並不會"
+      },
+      {
+        "en": "make the computer create more frames; ",
+        "zh": "使電腦產生更多畫格；"
+      },
+      {
+        "en": "rendering still depends on the computer's workload.",
+        "zh": "算繪仍然取決於電腦的工作負載。"
+      }
+    ],
+    [
+      {
+        "en": "Compatibility matters at these extreme rates. ",
+        "zh": "在這些極高更新率下，相容性很重要。"
+      },
+      {
+        "en": "Samsung's notes say AMD FreeSync Premium ",
+        "zh": "三星的註解表示，AMD FreeSync Premium"
+      },
+      {
+        "en": "does not support the 1,100Hz setting. ",
+        "zh": "並不支援1,100Hz設定。"
+      },
+      {
+        "en": "They also say macOS does not support Dual Mode ",
+        "zh": "註解也指出，macOS不支援Dual Mode，"
+      },
+      {
+        "en": "or the native maximum rate of 600Hz. ",
+        "zh": "也不支援原生最高600Hz的更新率。"
+      },
+      {
+        "en": "The largest number on the specification sheet ",
+        "zh": "規格表上最大的數字，"
+      },
+      {
+        "en": "therefore needs to be read alongside ",
+        "zh": "因此需要搭配"
+      },
+      {
+        "en": "the conditions attached to it.",
+        "zh": "其附帶條件一起閱讀。"
+      }
+    ],
+    [
+      {
+        "en": "NVIDIA's background guide breaks system latency ",
+        "zh": "輝達的背景指引將系統延遲"
+      },
+      {
+        "en": "into delays in input devices, ",
+        "zh": "拆分為輸入裝置中的延遲、"
+      },
+      {
+        "en": "the computer, and the display. ",
+        "zh": "電腦中的延遲，以及顯示器中的延遲。"
+      },
+      {
+        "en": "Display delay itself includes processing ",
+        "zh": "顯示器延遲本身，也包括處理時間，"
+      },
+      {
+        "en": "and the time needed to update pixels. ",
+        "zh": "以及更新像素所需的時間。"
+      },
+      {
+        "en": "A faster panel can improve one part ",
+        "zh": "更快的面板可以改善其中一部分，"
+      },
+      {
+        "en": "of this chain, while the other parts still matter. ",
+        "zh": "但這條鏈中的其他部分仍然重要。"
+      },
+      {
+        "en": "It cannot by itself define the whole experience.",
+        "zh": "它本身無法決定整體體驗。"
+      }
+    ],
+    [
+      {
+        "en": "The launch illustrates how monitor makers ",
+        "zh": "這次推出新產品，說明了螢幕製造商"
+      },
+      {
+        "en": "are pursuing both sharper images and faster motion. ",
+        "zh": "正在同時追求更銳利的影像與更快速的動態呈現。"
+      },
+      {
+        "en": "Dual Mode makes that balance visible ",
+        "zh": "Dual Mode讓這種平衡更清楚，"
+      },
+      {
+        "en": "within one product. ",
+        "zh": "並把兩種選擇放在同一項產品中。"
+      },
+      {
+        "en": "Understanding the news means keeping resolution, ",
+        "zh": "理解這則新聞，需要將解析度、"
+      },
+      {
+        "en": "refresh rate, pixel response, and total latency distinct. ",
+        "zh": "更新率、像素反應時間及總延遲分清楚。"
+      },
+      {
+        "en": "Each describes part of how a moving image appears.",
+        "zh": "每個指標都描述了動態影像呈現過程中的某個部分。"
+      }
+    ]
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一個、一種；不定冠詞"
+    },
+    "about": {
+      "meaning": "大約；關於"
+    },
+    "adaptive": {
+      "meaning": "適應性的；adaptive synchronization指適應性同步"
+    },
+    "addresses": {
+      "meaning": "處理、應對"
+    },
+    "advertised": {
+      "meaning": "宣傳所列的、廣告宣稱的"
+    },
+    "affect": {
+      "meaning": "影響"
+    },
+    "allows": {
+      "meaning": "使能夠"
+    },
+    "alongside": {
+      "meaning": "與…同時、配合"
+    },
+    "also": {
+      "meaning": "也、同時"
+    },
+    "amd": {
+      "meaning": "AMD，超微公司；顯示晶片供應商名稱"
+    },
+    "american": {
+      "meaning": "美國的"
+    },
+    "and": {
+      "meaning": "和、而且；連接詞"
+    },
+    "announced": {
+      "meaning": "宣布"
+    },
+    "announcement": {
+      "meaning": "公告"
+    },
+    "another": {
+      "meaning": "另一個；再一次的"
+    },
+    "appears": {
+      "meaning": "出現、顯示"
+    },
+    "are": {
+      "meaning": "是；也可作被動語態的助動詞"
+    },
+    "as": {
+      "meaning": "作為；as well as指也、以及"
+    },
+    "at": {
+      "meaning": "在某時間或地點"
+    },
+    "attached": {
+      "meaning": "附帶的；attached to指附加於"
+    },
+    "availability": {
+      "meaning": "供應狀態、可用性"
+    },
+    "background": {
+      "meaning": "背景"
+    },
+    "balance": {
+      "meaning": "平衡"
+    },
+    "based": {
+      "meaning": "以…為依據；based on指根據"
+    },
+    "be": {
+      "meaning": "是；與過去分詞連用可構成被動語態"
+    },
+    "between": {
+      "meaning": "在…之間"
+    },
+    "both": {
+      "meaning": "兩者都；both A and B指A與B兩者"
+    },
+    "breaks": {
+      "meaning": "拆分；breaks into指分解為不同部分"
+    },
+    "button": {
+      "meaning": "按鈕"
+    },
+    "by": {
+      "meaning": "乘以；by itself指單靠其本身"
+    },
+    "calculation": {
+      "meaning": "計算、計算結果"
+    },
+    "calls": {
+      "meaning": "稱為；calls A B指把A稱為B"
+    },
+    "can": {
+      "meaning": "能夠"
+    },
+    "cannot": {
+      "meaning": "不能、無法"
+    },
+    "chain": {
+      "meaning": "鏈、流程鏈；文中指輸入到顯示的延遲流程"
+    },
+    "changes": {
+      "meaning": "改變（複數）"
+    },
+    "changing": {
+      "meaning": "改變、更換"
+    },
+    "choice": {
+      "meaning": "選擇"
+    },
+    "choices": {
+      "meaning": "選擇（複數）"
+    },
+    "comes": {
+      "meaning": "伴隨而來；comes with指伴隨著"
+    },
+    "company": {
+      "meaning": "公司"
+    },
+    "compatibility": {
+      "meaning": "相容性"
+    },
+    "computer": {
+      "meaning": "電腦"
+    },
+    "computer's": {
+      "meaning": "電腦的"
+    },
+    "conditions": {
+      "meaning": "條件；文中指規格適用條件"
+    },
+    "consistency": {
+      "meaning": "一致性、穩定性"
+    },
+    "content": {
+      "meaning": "內容"
+    },
+    "coordination": {
+      "meaning": "協調、協作"
+    },
+    "create": {
+      "meaning": "產生"
+    },
+    "december": {
+      "meaning": "十二月"
+    },
+    "define": {
+      "meaning": "決定、界定"
+    },
+    "delay": {
+      "meaning": "延遲"
+    },
+    "delays": {
+      "meaning": "延遲"
+    },
+    "depends": {
+      "meaning": "取決於；depends on 指取決於"
+    },
+    "describe": {
+      "meaning": "描述"
+    },
+    "describes": {
+      "meaning": "描述"
+    },
+    "detailed": {
+      "meaning": "細緻的、詳細的"
+    },
+    "devices": {
+      "meaning": "裝置"
+    },
+    "different": {
+      "meaning": "不同的"
+    },
+    "display": {
+      "meaning": "顯示器"
+    },
+    "display's": {
+      "meaning": "顯示器的"
+    },
+    "distinct": {
+      "meaning": "不同的、分清楚的"
+    },
+    "does": {
+      "meaning": "助動詞，用於第三人稱單數"
+    },
+    "dual": {
+      "meaning": "雙重的；Dual Mode指雙模式切換功能"
+    },
+    "each": {
+      "meaning": "每一個"
+    },
+    "emphasize": {
+      "meaning": "強調"
+    },
+    "entire": {
+      "meaning": "整個的"
+    },
+    "experience": {
+      "meaning": "使用體驗"
+    },
+    "explains": {
+      "meaning": "解釋"
+    },
+    "extreme": {
+      "meaning": "極高的、極端的"
+    },
+    "faster": {
+      "meaning": "更快速的"
+    },
+    "feature": {
+      "meaning": "功能"
+    },
+    "follow": {
+      "meaning": "跟隨、配合"
+    },
+    "for": {
+      "meaning": "為了、對於；也表示某時段的"
+    },
+    "frames": {
+      "meaning": "畫格（複數）；電腦產生的連續影像"
+    },
+    "freesync": {
+      "meaning": "FreeSync；AMD的顯示同步技術名稱"
+    },
+    "frequency": {
+      "meaning": "頻率"
+    },
+    "frequent": {
+      "meaning": "頻繁的"
+    },
+    "from": {
+      "meaning": "從；亦用於區分兩種事物"
+    },
+    "g": {
+      "meaning": "G6型號中的字母部分；Odyssey G6為三星螢幕型號"
+    },
+    "games": {
+      "meaning": "遊戲（複數）"
+    },
+    "goals": {
+      "meaning": "目標"
+    },
+    "gray": {
+      "meaning": "灰色、灰階；gray values指灰階值"
+    },
+    "gray-to-gray": {
+      "meaning": "灰階到灰階；描述像素在不同灰階值之間的變化"
+    },
+    "guide": {
+      "meaning": "指南"
+    },
+    "hd": {
+      "meaning": "HD，高畫質解析度；文中較低解析度模式的名稱"
+    },
+    "headline": {
+      "meaning": "最受矚目的、主要的"
+    },
+    "highest": {
+      "meaning": "最高的"
+    },
+    "how": {
+      "meaning": "如何"
+    },
+    "hz": {
+      "meaning": "赫茲；頻率單位，表示每秒發生的次數"
+    },
+    "illustrates": {
+      "meaning": "說明、顯示"
+    },
+    "image": {
+      "meaning": "影像"
+    },
+    "images": {
+      "meaning": "影像"
+    },
+    "improve": {
+      "meaning": "提升、改善"
+    },
+    "in": {
+      "meaning": "在某時間、領域或範圍中"
+    },
+    "inch": {
+      "meaning": "英吋；文中表示螢幕尺寸單位"
+    },
+    "includes": {
+      "meaning": "包括"
+    },
+    "input": {
+      "meaning": "輸入；input devices指輸入裝置"
+    },
+    "internal": {
+      "meaning": "內部的"
+    },
+    "interval": {
+      "meaning": "時間間隔"
+    },
+    "into": {
+      "meaning": "進入…之中"
+    },
+    "involves": {
+      "meaning": "涉及"
+    },
+    "is": {
+      "meaning": "是；也可作被動或進行式的助動詞"
+    },
+    "it": {
+      "meaning": "它；依上下文指像素反應時間或面板"
+    },
+    "its": {
+      "meaning": "它的；文中指三星的"
+    },
+    "itself": {
+      "meaning": "它本身"
+    },
+    "keeping": {
+      "meaning": "讓…保持某種狀態；keeping ... distinct指將不同指標分清楚"
+    },
+    "largest": {
+      "meaning": "最大的"
+    },
+    "latency": {
+      "meaning": "延遲"
+    },
+    "launch": {
+      "meaning": "推出、上市公告"
+    },
+    "lists": {
+      "meaning": "列出"
+    },
+    "lower": {
+      "meaning": "較低的"
+    },
+    "macos": {
+      "meaning": "macOS，蘋果Mac電腦作業系統名稱"
+    },
+    "make": {
+      "meaning": "使得、讓"
+    },
+    "makers": {
+      "meaning": "製造商（複數）"
+    },
+    "makes": {
+      "meaning": "使得"
+    },
+    "matching": {
+      "meaning": "讓…相符、使時序一致"
+    },
+    "matter": {
+      "meaning": "重要、有影響（動詞）"
+    },
+    "matters": {
+      "meaning": "有重要性、很重要（動詞）"
+    },
+    "maximum": {
+      "meaning": "最高的、最大的"
+    },
+    "means": {
+      "meaning": "意味著"
+    },
+    "measure": {
+      "meaning": "衡量指標（名詞）"
+    },
+    "measurement": {
+      "meaning": "量測、量測結果"
+    },
+    "millisecond": {
+      "meaning": "毫秒；千分之一秒"
+    },
+    "milliseconds": {
+      "meaning": "毫秒（複數）"
+    },
+    "mismatch": {
+      "meaning": "不一致"
+    },
+    "mode": {
+      "meaning": "模式"
+    },
+    "monitor": {
+      "meaning": "螢幕、顯示器"
+    },
+    "more": {
+      "meaning": "更多；more than指超過、不只是"
+    },
+    "motion": {
+      "meaning": "動態、移動"
+    },
+    "moving": {
+      "meaning": "移動中的、動態的"
+    },
+    "native": {
+      "meaning": "原生的"
+    },
+    "needed": {
+      "meaning": "所需的、被需要的"
+    },
+    "needs": {
+      "meaning": "需求（名詞複數）；也可作動詞表示需要"
+    },
+    "news": {
+      "meaning": "新聞"
+    },
+    "not": {
+      "meaning": "不、沒有"
+    },
+    "notes": {
+      "meaning": "註解（名詞複數）；也作動詞指提醒、指出"
+    },
+    "november": {
+      "meaning": "十一月"
+    },
+    "number": {
+      "meaning": "數字；數量"
+    },
+    "nvidia's": {
+      "meaning": "輝達的"
+    },
+    "odyssey": {
+      "meaning": "Odyssey；三星螢幕系列名稱"
+    },
+    "of": {
+      "meaning": "…的；表示所屬、性質、內容等關係"
+    },
+    "offers": {
+      "meaning": "提供"
+    },
+    "often": {
+      "meaning": "頻繁地；how often指多常"
+    },
+    "on": {
+      "meaning": "關於、就某事；也表示日期"
+    },
+    "one": {
+      "meaning": "一、一個"
+    },
+    "options": {
+      "meaning": "選項、可行方案（複數）"
+    },
+    "or": {
+      "meaning": "或、或者"
+    },
+    "organization": {
+      "meaning": "組織、企業"
+    },
+    "other": {
+      "meaning": "其他的；另一個"
+    },
+    "pace": {
+      "meaning": "節奏、速率"
+    },
+    "panel": {
+      "meaning": "面板"
+    },
+    "part": {
+      "meaning": "部分"
+    },
+    "parts": {
+      "meaning": "部分（複數）"
+    },
+    "picture": {
+      "meaning": "畫面、影像"
+    },
+    "pixel": {
+      "meaning": "像素"
+    },
+    "pixels": {
+      "meaning": "像素（複數）"
+    },
+    "plans": {
+      "meaning": "計畫、打算（動詞）"
+    },
+    "premium": {
+      "meaning": "優質的；FreeSync Premium是AMD的同步技術名稱"
+    },
+    "presents": {
+      "meaning": "介紹、呈現"
+    },
+    "pressing": {
+      "meaning": "按下"
+    },
+    "processing": {
+      "meaning": "處理、處理時間"
+    },
+    "produce": {
+      "meaning": "產生"
+    },
+    "product": {
+      "meaning": "產品"
+    },
+    "pursuing": {
+      "meaning": "追求"
+    },
+    "qhd": {
+      "meaning": "QHD解析度；文中指2,560乘1,440像素"
+    },
+    "quantities": {
+      "meaning": "量、物理量（複數）"
+    },
+    "rate": {
+      "meaning": "速率、頻率；refresh rate指更新率"
+    },
+    "rates": {
+      "meaning": "速率、頻率（複數）；文中指更新率"
+    },
+    "reaction": {
+      "meaning": "反應"
+    },
+    "read": {
+      "meaning": "解讀；be read as 指被解讀為"
+    },
+    "refresh": {
+      "meaning": "更新；refresh rate指螢幕更新率"
+    },
+    "refreshes": {
+      "meaning": "更新動作（複數）"
+    },
+    "rendering": {
+      "meaning": "算繪；由電腦運算產生畫面"
+    },
+    "resolution": {
+      "meaning": "解析度"
+    },
+    "response": {
+      "meaning": "反應；pixel response指像素反應時間"
+    },
+    "results": {
+      "meaning": "結果；文中指研究或測試結果"
+    },
+    "retail": {
+      "meaning": "零售；retail availability指在零售通路供應"
+    },
+    "samsung": {
+      "meaning": "三星；科技公司名稱"
+    },
+    "samsung's": {
+      "meaning": "三星的"
+    },
+    "say": {
+      "meaning": "說"
+    },
+    "screen": {
+      "meaning": "畫面、螢幕"
+    },
+    "second": {
+      "meaning": "秒"
+    },
+    "seeing": {
+      "meaning": "看見"
+    },
+    "separate": {
+      "meaning": "不同的、分開的"
+    },
+    "setting": {
+      "meaning": "設定、設定選項"
+    },
+    "settings": {
+      "meaning": "設定"
+    },
+    "sharper": {
+      "meaning": "更銳利的、更清晰細緻的"
+    },
+    "sheet": {
+      "meaning": "表；specification sheet指規格表"
+    },
+    "smooth": {
+      "meaning": "流暢的"
+    },
+    "specification": {
+      "meaning": "規格"
+    },
+    "specified": {
+      "meaning": "明定的、指定的"
+    },
+    "speed": {
+      "meaning": "速度"
+    },
+    "standards": {
+      "meaning": "標準"
+    },
+    "still": {
+      "meaning": "仍然"
+    },
+    "stuttering": {
+      "meaning": "卡頓"
+    },
+    "support": {
+      "meaning": "支援、相容"
+    },
+    "switching": {
+      "meaning": "切換"
+    },
+    "synchronization": {
+      "meaning": "同步；文中指讓顯示更新配合電腦算繪時序"
+    },
+    "system": {
+      "meaning": "系統"
+    },
+    "tearing": {
+      "meaning": "畫面撕裂"
+    },
+    "testing": {
+      "meaning": "測試"
+    },
+    "that": {
+      "meaning": "那個；也可引導內容子句或關係子句"
+    },
+    "the": {
+      "meaning": "定冠詞，指特定或前文提過的事物"
+    },
+    "therefore": {
+      "meaning": "因此"
+    },
+    "these": {
+      "meaning": "這些"
+    },
+    "they": {
+      "meaning": "它們；文中指三星的註解"
+    },
+    "this": {
+      "meaning": "這"
+    },
+    "those": {
+      "meaning": "那些"
+    },
+    "time": {
+      "meaning": "時間"
+    },
+    "timing": {
+      "meaning": "時序、時間安排"
+    },
+    "timings": {
+      "meaning": "時序、時間安排（複數）"
+    },
+    "to": {
+      "meaning": "到、向；也用於不定詞，接動詞原形"
+    },
+    "total": {
+      "meaning": "總的、整體的"
+    },
+    "trade-off": {
+      "meaning": "取捨"
+    },
+    "two": {
+      "meaning": "兩個"
+    },
+    "types": {
+      "meaning": "類型（複數）"
+    },
+    "understanding": {
+      "meaning": "理解"
+    },
+    "up": {
+      "meaning": "最高可達；up to指最高可達某數值"
+    },
+    "update": {
+      "meaning": "更新"
+    },
+    "updates": {
+      "meaning": "畫面更新（名詞複數）"
+    },
+    "uses": {
+      "meaning": "使用（動詞）；用途（名詞複數）"
+    },
+    "values": {
+      "meaning": "值、數值（複數）；文中指灰階值"
+    },
+    "vary": {
+      "meaning": "改變、變動"
+    },
+    "vesa": {
+      "meaning": "VESA，視訊電子標準協會；顯示介面標準組織"
+    },
+    "visible": {
+      "meaning": "清楚可見的、明顯的"
+    },
+    "well": {
+      "meaning": "as well as指也、以及"
+    },
+    "while": {
+      "meaning": "當…時；也表示同時進行某事"
+    },
+    "whole": {
+      "meaning": "完整的、全部的"
+    },
+    "with": {
+      "meaning": "與、透過；也表示具備某項條件"
+    },
+    "within": {
+      "meaning": "在…內部、在…範圍中"
+    },
+    "workload": {
+      "meaning": "工作負載"
+    }
+  },
+  "quiz": [
+    {
+      "question": "Which statement best summarizes the monitor announcement and its significance?",
+      "choices": [
+        {
+          "text": "Samsung announced that the monitor reaches 1,100Hz at every resolution and on every system.",
+          "explanation": "錯誤。第一段將1,100Hz與HD模式連結，第六段也列出相容性限制。"
+        },
+        {
+          "text": "Samsung removed resolution choices to focus only on pixel response.",
+          "explanation": "錯誤。第二段說明兩種模式有不同目標，並非取消解析度選擇。"
+        },
+        {
+          "text": "The announcement proves that all computer delay has been eliminated.",
+          "explanation": "錯誤。第三與第七段都區分螢幕相關指標與整體系統延遲。"
+        },
+        {
+          "text": "Samsung announced a monitor offering a resolution-speed choice, whose performance figures describe different things.",
+          "explanation": "正確。第一與第二段介紹模式取捨，其餘段落解釋更新率、像素反應及總延遲等不同指標。"
+        }
+      ],
+      "answerIndex": 3,
+      "explanation": "主旨是新產品提供解析度與速度的選擇，而規格數字仍須分別理解。最高更新率不等於所有模式、所有平台或整體延遲的共同表現。",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "The highest speed therefore comes with a resolution trade-off."
+        },
+        {
+          "paragraph": 8,
+          "quote": "Understanding the news means keeping resolution, refresh rate, pixel response, and total latency distinct."
+        }
+      ]
+    },
+    {
+      "question": "What can reasonably be inferred from the approximately 0.91-millisecond refresh interval?",
+      "choices": [
+        {
+          "text": "It is the measured time for every button press to produce a visible response.",
+          "explanation": "錯誤。第三段明確說這不是按鍵到畫面反應的總延遲量測。"
+        },
+        {
+          "text": "It describes timing derived from the refresh frequency, while other system delays remain relevant.",
+          "explanation": "正確。第三段說明計算來源，第七段則列出輸入裝置、電腦與顯示器等延遲環節。"
+        },
+        {
+          "text": "It guarantees that any computer creates 1,100 different game frames every second.",
+          "explanation": "錯誤。第五段說電腦算繪速率會改變，不能由顯示器更新間隔推定電腦一定產生相同數量的新畫格。"
+        },
+        {
+          "text": "It is a measurement of resolution rather than timing.",
+          "explanation": "錯誤。第三段描述的是時間間隔，解析度則在第二段以像素數說明。"
+        }
+      ],
+      "answerIndex": 1,
+      "explanation": "數學換算所得的更新間隔，只描述更新頻率的一個時間面向。本文沒有用它代表整個輸入到顯示的流程，也沒有把它當成電腦算繪輸出的保證。",
+      "evidence": [
+        {
+          "paragraph": 3,
+          "quote": "That is a calculation from the advertised frequency, not a measurement of the total delay between pressing a button and seeing a reaction."
+        },
+        {
+          "paragraph": 7,
+          "quote": "A faster panel can improve one part of this chain, while the other parts still matter."
+        }
+      ]
+    },
+    {
+      "question": "Why does the article discuss synchronization and compatibility?",
+      "choices": [
+        {
+          "text": "To show why the display must work with the computer and why maximum specifications have conditions.",
+          "explanation": "正確。第五段說明算繪與更新需協調，第六段則列出功能與平台限制。"
+        },
+        {
+          "text": "To claim that every adaptive synchronization feature supports the maximum rate.",
+          "explanation": "錯誤。第六段明確指出AMD FreeSync Premium不支援1,100Hz設定。"
+        },
+        {
+          "text": "To prove that display timing cannot affect visible motion.",
+          "explanation": "錯誤。第五段說時序不一致可能造成撕裂或卡頓。"
+        },
+        {
+          "text": "To replace the announced HD and QHD modes with an unrelated screen size.",
+          "explanation": "錯誤。這些段落補充模式條件，並未改變螢幕尺寸或替換模式。"
+        }
+      ],
+      "answerIndex": 0,
+      "explanation": "只看最大數字無法完整理解產品。顯示器需配合電腦輸出，特定同步技術與平台也有支援範圍，因此文章同時交代協調機制與限制。",
+      "evidence": [
+        {
+          "paragraph": 5,
+          "quote": "A mismatch with the display's refresh timing can produce tearing or stuttering."
+        },
+        {
+          "paragraph": 6,
+          "quote": "The largest number on the specification sheet therefore needs to be read alongside the conditions attached to it."
+        }
+      ]
+    }
+  ]
+}
