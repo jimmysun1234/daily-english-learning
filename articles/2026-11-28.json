@@ -1,0 +1,1210 @@
+{
+  "version": 1,
+  "date": "2026-11-28",
+  "level": "B2",
+  "title": "Hera Examines What Happened After DART's Asteroid Impact",
+  "topic": "科技業新聞",
+  "sources": [
+    {
+      "name": "European Space Agency",
+      "title": "Hera reveals stadium-sized asteroid crater from spacecraft impact",
+      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/hera-reveals-stadium-sized-asteroid-crater-left-after-spacecraft-impact"
+    },
+    {
+      "name": "German Aerospace Center (DLR)",
+      "title": "Asteroid defence – Hera spacecraft reaches its destination",
+      "url": "https://www.dlr.de/en/latest/news/2026/asteroid-defence-hera-spacecraft-reaches-its-destination"
+    },
+    {
+      "name": "NASA",
+      "title": "Double Asteroid Redirection Test (DART)",
+      "url": "https://science.nasa.gov/mission/dart/"
+    }
+  ],
+  "paragraphs": [
+    [
+      {
+        "en": "New images are helping scientists ",
+        "zh": "新影像正協助科學家"
+      },
+      {
+        "en": "understand the results of ",
+        "zh": "了解"
+      },
+      {
+        "en": "a deliberate spacecraft collision with an asteroid. ",
+        "zh": "太空船刻意撞擊小行星的結果。"
+      },
+      {
+        "en": "On November 25, 2026, ",
+        "zh": "2026年11月25日，"
+      },
+      {
+        "en": "the European Space Agency and its partners ",
+        "zh": "歐洲太空總署及其夥伴"
+      },
+      {
+        "en": "presented findings from the Hera mission. ",
+        "zh": "公布了赫拉任務的發現。"
+      },
+      {
+        "en": "The spacecraft had reached ",
+        "zh": "這艘太空船已經抵達"
+      },
+      {
+        "en": "the asteroid pair Didymos and Dimorphos ",
+        "zh": "由迪迪莫斯與迪莫弗斯組成的小行星雙星系統，"
+      },
+      {
+        "en": "after travelling for more than two years.",
+        "zh": "此前已航行超過兩年。"
+      }
+    ],
+    [
+      {
+        "en": "The story began with NASA's DART mission. ",
+        "zh": "這段故事始於美國太空總署的DART任務。"
+      },
+      {
+        "en": "On September 26, 2022, ",
+        "zh": "2022年9月26日，"
+      },
+      {
+        "en": "DART struck Dimorphos, the smaller body ",
+        "zh": "DART撞擊了迪莫弗斯，也就是"
+      },
+      {
+        "en": "orbiting the larger asteroid Didymos. ",
+        "zh": "繞著較大小行星迪迪莫斯運行的較小天體。"
+      },
+      {
+        "en": "NASA describes the mission as ",
+        "zh": "美國太空總署將這項任務描述為"
+      },
+      {
+        "en": "a test of changing an asteroid's motion ",
+        "zh": "改變小行星運動狀態的測試，"
+      },
+      {
+        "en": "through a physical impact. ",
+        "zh": "方法是利用實體撞擊。"
+      },
+      {
+        "en": "It demonstrated one possible approach ",
+        "zh": "它示範了一種可能的方法，"
+      },
+      {
+        "en": "to asteroid deflection.",
+        "zh": "用來使小行星偏轉。"
+      }
+    ],
+    [
+      {
+        "en": "Hera is investigating what that impact ",
+        "zh": "赫拉正在調查這次撞擊"
+      },
+      {
+        "en": "actually did to the target. ",
+        "zh": "究竟對目標造成了什麼影響。"
+      },
+      {
+        "en": "An image described by Germany's aerospace centre, DLR, ",
+        "zh": "德國航太中心DLR所介紹的一張影像，"
+      },
+      {
+        "en": "was taken on November 7 ",
+        "zh": "拍攝於11月7日，"
+      },
+      {
+        "en": "from about 29 kilometres away. ",
+        "zh": "當時距離約29公里。"
+      },
+      {
+        "en": "It shows a large crater ",
+        "zh": "影像顯示一個大型撞擊坑，"
+      },
+      {
+        "en": "covering much of the struck side. ",
+        "zh": "覆蓋了遭撞擊表面的很大一部分。"
+      },
+      {
+        "en": "This gives researchers a closer view ",
+        "zh": "這讓研究人員更近距離地觀察"
+      },
+      {
+        "en": "of the consequences than distant observations alone. ",
+        "zh": "撞擊後果，補足僅靠遠距觀測的不足。"
+      },
+      {
+        "en": "DLR lists a resolution ",
+        "zh": "DLR列出的解析度"
+      },
+      {
+        "en": "of 2.7 metres per pixel ",
+        "zh": "為每像素2.7公尺，"
+      },
+      {
+        "en": "for this particular image.",
+        "zh": "這項數值適用於該張影像。"
+      }
+    ],
+    [
+      {
+        "en": "ESA reported that other areas ",
+        "zh": "歐洲太空總署指出，迪莫弗斯的其他區域"
+      },
+      {
+        "en": "of Dimorphos appeared largely unchanged. ",
+        "zh": "看起來大致沒有改變。"
+      },
+      {
+        "en": "The mission also observed chaotic tumbling ",
+        "zh": "任務也觀察到不規則的翻滾，"
+      },
+      {
+        "en": "and hundreds of boulders ",
+        "zh": "以及數百塊巨石"
+      },
+      {
+        "en": "moving around the asteroid pair. ",
+        "zh": "在這對小行星周圍運動。"
+      },
+      {
+        "en": "Those objects matter for operations: ",
+        "zh": "這些物體會影響任務操作："
+      },
+      {
+        "en": "the team must consider them ",
+        "zh": "團隊必須將它們納入考量，"
+      },
+      {
+        "en": "as Hera moves closer. ",
+        "zh": "以便讓赫拉進一步接近。"
+      },
+      {
+        "en": "A scientific discovery can therefore ",
+        "zh": "因此，一項科學發現也可能"
+      },
+      {
+        "en": "also create a navigation challenge.",
+        "zh": "帶來導航上的挑戰。"
+      }
+    ],
+    [
+      {
+        "en": "DLR explains that the camera system ",
+        "zh": "DLR說明，這套相機系統"
+      },
+      {
+        "en": "contains two identical cameras for redundancy. ",
+        "zh": "設有兩部相同相機，作為備援。"
+      },
+      {
+        "en": "Their black-and-white pictures support ",
+        "zh": "其黑白影像能支援"
+      },
+      {
+        "en": "both scientific investigation and navigation. ",
+        "zh": "科學研究與導航。"
+      },
+      {
+        "en": "Researchers will use the images ",
+        "zh": "研究人員將利用這些影像"
+      },
+      {
+        "en": "to build digital models ",
+        "zh": "建立數位模型，"
+      },
+      {
+        "en": "of the asteroids' shapes. ",
+        "zh": "呈現這些小行星的形狀。"
+      },
+      {
+        "en": "Such models can help describe ",
+        "zh": "這類模型有助描述"
+      },
+      {
+        "en": "the crater and broader surface changes ",
+        "zh": "撞擊坑與更大範圍的表面變化，"
+      },
+      {
+        "en": "in greater detail. ",
+        "zh": "並提供更詳細的資訊。"
+      },
+      {
+        "en": "The spacecraft itself was developed ",
+        "zh": "太空船本身由"
+      },
+      {
+        "en": "and built by OHB in Bremen, Germany, ",
+        "zh": "德國不來梅的OHB公司開發與製造，"
+      },
+      {
+        "en": "linking industrial engineering with international science.",
+        "zh": "將工業工程與國際科學研究連結起來。"
+      }
+    ],
+    [
+      {
+        "en": "The investigation is still developing. ",
+        "zh": "調查仍在持續進行。"
+      },
+      {
+        "en": "According to ESA's November 25 announcement, ",
+        "zh": "根據歐洲太空總署11月25日的公告，"
+      },
+      {
+        "en": "Hera is scheduled to approach ",
+        "zh": "赫拉預定在12月接近到"
+      },
+      {
+        "en": "to around 13 kilometres in December. ",
+        "zh": "約13公里的距離。"
+      },
+      {
+        "en": "Two small companion spacecraft, ",
+        "zh": "兩艘小型伴飛太空船，"
+      },
+      {
+        "en": "called CubeSats, are planned ",
+        "zh": "也就是立方衛星，"
+      },
+      {
+        "en": "for deployment in January 2027. ",
+        "zh": "計畫於2027年1月部署。"
+      },
+      {
+        "en": "These are future mission steps, ",
+        "zh": "這些是任務未來的步驟，"
+      },
+      {
+        "en": "so the announced schedule should be read ",
+        "zh": "因此，應將公布的時程理解為"
+      },
+      {
+        "en": "as a plan rather than a completed achievement.",
+        "zh": "計畫，而非已完成的成果。"
+      }
+    ],
+    [
+      {
+        "en": "The two companions have different tasks. ",
+        "zh": "這兩艘伴飛太空船各有不同任務。"
+      },
+      {
+        "en": "Juventas will use radar ",
+        "zh": "尤文塔斯將使用雷達"
+      },
+      {
+        "en": "to investigate the asteroid's interior. ",
+        "zh": "研究小行星的內部。"
+      },
+      {
+        "en": "Milani will study materials and nearby dust. ",
+        "zh": "米拉尼則將研究物質與附近的塵埃。"
+      },
+      {
+        "en": "Combining these measurements with Hera's observations ",
+        "zh": "將這些測量結果與赫拉的觀測結合，"
+      },
+      {
+        "en": "should provide complementary information. ",
+        "zh": "應能提供互補的資訊。"
+      },
+      {
+        "en": "Surface pictures, internal measurements, and dust studies ",
+        "zh": "表面影像、內部測量與塵埃研究，"
+      },
+      {
+        "en": "address different parts of the same problem.",
+        "zh": "針對的是同一問題的不同面向。"
+      }
+    ],
+    [
+      {
+        "en": "Together, DART and Hera connect ",
+        "zh": "DART與赫拉共同串連起"
+      },
+      {
+        "en": "a demonstration with a detailed investigation. ",
+        "zh": "技術示範與深入調查。"
+      },
+      {
+        "en": "Showing that an orbit can change ",
+        "zh": "證明軌道能夠改變，"
+      },
+      {
+        "en": "is only part of the task. ",
+        "zh": "只是任務的一部分。"
+      },
+      {
+        "en": "Understanding the target's response ",
+        "zh": "了解目標天體如何反應，"
+      },
+      {
+        "en": "can help scientists judge ",
+        "zh": "有助科學家評估"
+      },
+      {
+        "en": "how this technique might work ",
+        "zh": "這項技術可能如何運作，"
+      },
+      {
+        "en": "under different conditions in the future.",
+        "zh": "以及未來在不同條件下的表現。"
+      }
+    ]
+  ],
+  "dictionary": {
+    "a": {
+      "meaning": "一個、一種；不定冠詞"
+    },
+    "about": {
+      "meaning": "大約；關於"
+    },
+    "according": {
+      "meaning": "根據；according to指依據"
+    },
+    "achievement": {
+      "meaning": "成果、成就"
+    },
+    "actually": {
+      "meaning": "實際上、確實地"
+    },
+    "address": {
+      "meaning": "涉及、關注、處理（動詞）"
+    },
+    "aerospace": {
+      "meaning": "航空與太空的、航太的"
+    },
+    "after": {
+      "meaning": "之後"
+    },
+    "agency": {
+      "meaning": "機構；文中指太空機構"
+    },
+    "alone": {
+      "meaning": "單獨地；僅僅"
+    },
+    "also": {
+      "meaning": "也、同時"
+    },
+    "an": {
+      "meaning": "一個、一種；母音發音前的不定冠詞"
+    },
+    "and": {
+      "meaning": "和、而且；連接詞"
+    },
+    "announced": {
+      "meaning": "宣布"
+    },
+    "announcement": {
+      "meaning": "公告"
+    },
+    "appeared": {
+      "meaning": "看起來、似乎（過去式）"
+    },
+    "approach": {
+      "meaning": "方法（名詞）；接近（動詞）"
+    },
+    "are": {
+      "meaning": "是；也可作被動語態的助動詞"
+    },
+    "areas": {
+      "meaning": "區域；文中指小行星表面的不同部分"
+    },
+    "around": {
+      "meaning": "在…周圍；也表示大約"
+    },
+    "as": {
+      "meaning": "當…時；as a plan指作為計畫來看待"
+    },
+    "asteroid": {
+      "meaning": "小行星"
+    },
+    "asteroid's": {
+      "meaning": "小行星的"
+    },
+    "asteroids": {
+      "meaning": "小行星（複數）"
+    },
+    "away": {
+      "meaning": "相距、在…之外；文中指觀測距離"
+    },
+    "be": {
+      "meaning": "是；與過去分詞連用可構成被動語態"
+    },
+    "began": {
+      "meaning": "開始（begin 的過去式）"
+    },
+    "black-and-white": {
+      "meaning": "黑白的"
+    },
+    "body": {
+      "meaning": "天體；文中指小行星"
+    },
+    "both": {
+      "meaning": "兩者都；both A and B指A與B兩者"
+    },
+    "boulders": {
+      "meaning": "巨石、大塊岩石（複數）"
+    },
+    "bremen": {
+      "meaning": "不來梅；德國城市"
+    },
+    "broader": {
+      "meaning": "範圍更廣的、更大規模的"
+    },
+    "build": {
+      "meaning": "建立；build on指建立在既有基礎之上"
+    },
+    "built": {
+      "meaning": "建造、製造（build的過去分詞）"
+    },
+    "by": {
+      "meaning": "由、被；文中用於指出執行動作的機構"
+    },
+    "called": {
+      "meaning": "名為、稱作；called for也指呼籲"
+    },
+    "camera": {
+      "meaning": "相機"
+    },
+    "cameras": {
+      "meaning": "相機（複數）"
+    },
+    "can": {
+      "meaning": "能夠"
+    },
+    "centre": {
+      "meaning": "中心；文中指德國航太中心"
+    },
+    "challenge": {
+      "meaning": "挑戰"
+    },
+    "change": {
+      "meaning": "變化、改變"
+    },
+    "changes": {
+      "meaning": "改變（複數）"
+    },
+    "changing": {
+      "meaning": "改變、更換"
+    },
+    "chaotic": {
+      "meaning": "不規則的、混亂的；文中指無規律的翻滾"
+    },
+    "closer": {
+      "meaning": "更近地"
+    },
+    "collision": {
+      "meaning": "碰撞"
+    },
+    "combining": {
+      "meaning": "結合、整合"
+    },
+    "companion": {
+      "meaning": "伴隨的；companion spacecraft指伴飛太空船"
+    },
+    "companions": {
+      "meaning": "伴飛太空船；文中指尤文塔斯與米拉尼"
+    },
+    "complementary": {
+      "meaning": "互補的；各自提供可相互補足的資訊"
+    },
+    "completed": {
+      "meaning": "已完成的"
+    },
+    "conditions": {
+      "meaning": "條件；文中指未來可能面對的不同情況"
+    },
+    "connect": {
+      "meaning": "連結"
+    },
+    "consequences": {
+      "meaning": "後果、所造成的影響（複數）"
+    },
+    "consider": {
+      "meaning": "考慮"
+    },
+    "contains": {
+      "meaning": "包含、設有"
+    },
+    "covering": {
+      "meaning": "覆蓋、涵蓋"
+    },
+    "crater": {
+      "meaning": "撞擊坑"
+    },
+    "create": {
+      "meaning": "產生"
+    },
+    "cubesats": {
+      "meaning": "立方衛星；採標準化小型單元設計的衛星"
+    },
+    "dart": {
+      "meaning": "雙小行星改道測試任務；NASA用於撞擊小行星的太空船"
+    },
+    "december": {
+      "meaning": "十二月"
+    },
+    "deflection": {
+      "meaning": "偏轉；文中指改變小行星運動方向或軌道"
+    },
+    "deliberate": {
+      "meaning": "刻意的、經過規劃的"
+    },
+    "demonstrated": {
+      "meaning": "示範、證明了（過去式）"
+    },
+    "demonstration": {
+      "meaning": "展示、示範驗證"
+    },
+    "deployment": {
+      "meaning": "部署；文中指釋放小型伴飛太空船"
+    },
+    "describe": {
+      "meaning": "描述"
+    },
+    "described": {
+      "meaning": "描述（過去式）"
+    },
+    "describes": {
+      "meaning": "描述"
+    },
+    "detail": {
+      "meaning": "細節"
+    },
+    "detailed": {
+      "meaning": "細緻的、詳細的"
+    },
+    "developed": {
+      "meaning": "開發、研發（過去分詞）"
+    },
+    "developing": {
+      "meaning": "持續發展、進行中"
+    },
+    "did": {
+      "meaning": "做了；文中did to指對目標造成了什麼影響"
+    },
+    "didymos": {
+      "meaning": "迪迪莫斯；此系統中較大的小行星"
+    },
+    "different": {
+      "meaning": "不同的"
+    },
+    "digital": {
+      "meaning": "數位的"
+    },
+    "dimorphos": {
+      "meaning": "迪莫弗斯；繞行Didymos的較小小行星"
+    },
+    "discovery": {
+      "meaning": "發現"
+    },
+    "distant": {
+      "meaning": "遙遠的、遠距的"
+    },
+    "dlr": {
+      "meaning": "德國航太中心的縮寫"
+    },
+    "dust": {
+      "meaning": "塵埃"
+    },
+    "engineering": {
+      "meaning": "工程"
+    },
+    "esa": {
+      "meaning": "歐洲太空總署；European Space Agency的縮寫"
+    },
+    "esa's": {
+      "meaning": "歐洲太空總署的"
+    },
+    "european": {
+      "meaning": "歐洲的"
+    },
+    "explains": {
+      "meaning": "解釋"
+    },
+    "findings": {
+      "meaning": "研究發現、成果"
+    },
+    "for": {
+      "meaning": "為了、對於；也表示某時段的"
+    },
+    "from": {
+      "meaning": "從；亦用於區分兩種事物"
+    },
+    "future": {
+      "meaning": "未來；也可作形容詞表示未來的"
+    },
+    "germany": {
+      "meaning": "德國"
+    },
+    "germany's": {
+      "meaning": "德國的（所有格）"
+    },
+    "gives": {
+      "meaning": "給予"
+    },
+    "greater": {
+      "meaning": "更高程度的"
+    },
+    "had": {
+      "meaning": "與過去分詞連用，構成過去完成式"
+    },
+    "have": {
+      "meaning": "有；亦可作完成式助動詞"
+    },
+    "help": {
+      "meaning": "幫助"
+    },
+    "helping": {
+      "meaning": "協助、幫助"
+    },
+    "hera": {
+      "meaning": "赫拉；歐洲太空總署的小行星探測任務及太空船"
+    },
+    "hera's": {
+      "meaning": "Hera太空船或任務的"
+    },
+    "how": {
+      "meaning": "如何"
+    },
+    "hundreds": {
+      "meaning": "數百；hundreds of指數百個"
+    },
+    "identical": {
+      "meaning": "完全相同的"
+    },
+    "image": {
+      "meaning": "影像"
+    },
+    "images": {
+      "meaning": "影像"
+    },
+    "impact": {
+      "meaning": "撞擊；文中指太空船與小行星的實體碰撞"
+    },
+    "in": {
+      "meaning": "在某時間、領域或範圍中"
+    },
+    "industrial": {
+      "meaning": "產業的、工業的"
+    },
+    "information": {
+      "meaning": "資訊"
+    },
+    "interior": {
+      "meaning": "內部"
+    },
+    "internal": {
+      "meaning": "內部的"
+    },
+    "international": {
+      "meaning": "國際的"
+    },
+    "investigate": {
+      "meaning": "調查、研究"
+    },
+    "investigating": {
+      "meaning": "調查、探究"
+    },
+    "investigation": {
+      "meaning": "調查、研究"
+    },
+    "is": {
+      "meaning": "是；也可作被動或進行式的助動詞"
+    },
+    "it": {
+      "meaning": "它；依上下文指DART任務或觀測影像"
+    },
+    "its": {
+      "meaning": "它的；文中指歐洲太空總署的夥伴"
+    },
+    "itself": {
+      "meaning": "它本身"
+    },
+    "january": {
+      "meaning": "一月"
+    },
+    "judge": {
+      "meaning": "判斷、評估（動詞）"
+    },
+    "juventas": {
+      "meaning": "Juventas小型太空船；計畫運用雷達研究小行星內部"
+    },
+    "kilometres": {
+      "meaning": "公里"
+    },
+    "large": {
+      "meaning": "大型的"
+    },
+    "largely": {
+      "meaning": "大致上、主要地"
+    },
+    "larger": {
+      "meaning": "較大的"
+    },
+    "linking": {
+      "meaning": "連結"
+    },
+    "lists": {
+      "meaning": "列出"
+    },
+    "materials": {
+      "meaning": "物質、材料；文中指小行星物質"
+    },
+    "matter": {
+      "meaning": "重要、有影響（動詞）"
+    },
+    "measurements": {
+      "meaning": "衡量的數據、測量值"
+    },
+    "metres": {
+      "meaning": "公尺（複數）"
+    },
+    "might": {
+      "meaning": "可能、也許"
+    },
+    "milani": {
+      "meaning": "Milani小型太空船；計畫研究小行星表面成分"
+    },
+    "mission": {
+      "meaning": "任務"
+    },
+    "models": {
+      "meaning": "模型；文中指小行星形狀的數位模型"
+    },
+    "more": {
+      "meaning": "更多；more than指超過、不只是"
+    },
+    "motion": {
+      "meaning": "動態、移動"
+    },
+    "moves": {
+      "meaning": "移動、移入"
+    },
+    "moving": {
+      "meaning": "移動中的、動態的"
+    },
+    "much": {
+      "meaning": "很大一部分；much of指其中的大部分"
+    },
+    "must": {
+      "meaning": "必須"
+    },
+    "nasa": {
+      "meaning": "美國國家航空暨太空總署"
+    },
+    "nasa's": {
+      "meaning": "美國國家航空暨太空總署的"
+    },
+    "navigation": {
+      "meaning": "導航；文中指太空船的飛行導引"
+    },
+    "nearby": {
+      "meaning": "附近的"
+    },
+    "new": {
+      "meaning": "新的"
+    },
+    "november": {
+      "meaning": "十一月"
+    },
+    "objects": {
+      "meaning": "物體（複數）；文中指小行星周圍的巨石"
+    },
+    "observations": {
+      "meaning": "觀測（複數）"
+    },
+    "observed": {
+      "meaning": "觀察到、觀測到（過去式）"
+    },
+    "of": {
+      "meaning": "…的；表示所屬、性質、內容等關係"
+    },
+    "ohb": {
+      "meaning": "OHB；研製赫拉太空船的德國航太公司"
+    },
+    "on": {
+      "meaning": "關於、就某事；也表示日期"
+    },
+    "one": {
+      "meaning": "一、一個"
+    },
+    "only": {
+      "meaning": "唯一的、僅有的"
+    },
+    "operations": {
+      "meaning": "運作；任務作業"
+    },
+    "orbit": {
+      "meaning": "軌道"
+    },
+    "orbiting": {
+      "meaning": "繞行、沿軌道運行"
+    },
+    "other": {
+      "meaning": "其他的；另一個"
+    },
+    "pair": {
+      "meaning": "一對；文中指兩顆小行星"
+    },
+    "part": {
+      "meaning": "部分"
+    },
+    "particular": {
+      "meaning": "特定的"
+    },
+    "partners": {
+      "meaning": "合作夥伴"
+    },
+    "parts": {
+      "meaning": "部分（複數）"
+    },
+    "per": {
+      "meaning": "每"
+    },
+    "physical": {
+      "meaning": "實體的、物理上的；physical impact指實體撞擊"
+    },
+    "pictures": {
+      "meaning": "圖片、影像"
+    },
+    "pixel": {
+      "meaning": "像素"
+    },
+    "plan": {
+      "meaning": "計畫（名詞）；計畫、打算（動詞）"
+    },
+    "planned": {
+      "meaning": "規劃中的、預定的"
+    },
+    "possible": {
+      "meaning": "可能的"
+    },
+    "presented": {
+      "meaning": "發表、展示；presented as也指被呈現為"
+    },
+    "problem": {
+      "meaning": "問題"
+    },
+    "provide": {
+      "meaning": "提供"
+    },
+    "radar": {
+      "meaning": "雷達"
+    },
+    "rather": {
+      "meaning": "rather than 指而非"
+    },
+    "reached": {
+      "meaning": "抵達了"
+    },
+    "read": {
+      "meaning": "解讀；be read as 指被解讀為"
+    },
+    "redundancy": {
+      "meaning": "備援；設置重複設備以提高可靠性"
+    },
+    "reported": {
+      "meaning": "回報、報告了"
+    },
+    "researchers": {
+      "meaning": "研究人員"
+    },
+    "resolution": {
+      "meaning": "解析度"
+    },
+    "response": {
+      "meaning": "反應；文中指小行星受到撞擊後的變化"
+    },
+    "results": {
+      "meaning": "結果；文中指研究或測試結果"
+    },
+    "same": {
+      "meaning": "相同的"
+    },
+    "schedule": {
+      "meaning": "預定時程"
+    },
+    "scheduled": {
+      "meaning": "排定的、預定的"
+    },
+    "science": {
+      "meaning": "科學、科學研究工作"
+    },
+    "scientific": {
+      "meaning": "科學的"
+    },
+    "scientists": {
+      "meaning": "科學家"
+    },
+    "september": {
+      "meaning": "九月"
+    },
+    "shapes": {
+      "meaning": "形狀（複數）"
+    },
+    "should": {
+      "meaning": "應該、應當"
+    },
+    "showing": {
+      "meaning": "顯示、表明"
+    },
+    "shows": {
+      "meaning": "顯示"
+    },
+    "side": {
+      "meaning": "一側、表面的一面"
+    },
+    "small": {
+      "meaning": "小的"
+    },
+    "smaller": {
+      "meaning": "更小的"
+    },
+    "so": {
+      "meaning": "所以、因此"
+    },
+    "space": {
+      "meaning": "太空；European Space Agency指歐洲太空總署"
+    },
+    "spacecraft": {
+      "meaning": "太空載具；單複數同形"
+    },
+    "steps": {
+      "meaning": "步驟"
+    },
+    "still": {
+      "meaning": "仍然"
+    },
+    "story": {
+      "meaning": "事情的來龍去脈、故事"
+    },
+    "struck": {
+      "meaning": "撞擊（strike的過去式）"
+    },
+    "studies": {
+      "meaning": "研究（複數名詞）"
+    },
+    "study": {
+      "meaning": "研究（動詞）"
+    },
+    "such": {
+      "meaning": "這樣的、這類的"
+    },
+    "support": {
+      "meaning": "支援；文中指影像有助於科學研究及導航"
+    },
+    "surface": {
+      "meaning": "表面"
+    },
+    "system": {
+      "meaning": "系統"
+    },
+    "taken": {
+      "meaning": "拍攝的；was taken指影像被拍攝"
+    },
+    "target": {
+      "meaning": "目標"
+    },
+    "target's": {
+      "meaning": "目標的；文中指遭撞擊的小行星的"
+    },
+    "task": {
+      "meaning": "工作、任務"
+    },
+    "tasks": {
+      "meaning": "任務、工作（複數）"
+    },
+    "team": {
+      "meaning": "團隊"
+    },
+    "technique": {
+      "meaning": "技術、方法"
+    },
+    "test": {
+      "meaning": "測試、試驗"
+    },
+    "than": {
+      "meaning": "比；more than指超過"
+    },
+    "that": {
+      "meaning": "那個；也可引導內容子句或關係子句"
+    },
+    "the": {
+      "meaning": "定冠詞，指特定或前文提過的事物"
+    },
+    "their": {
+      "meaning": "它們的；文中指兩部相機的"
+    },
+    "them": {
+      "meaning": "它們；文中指小行星周圍的巨石"
+    },
+    "therefore": {
+      "meaning": "因此"
+    },
+    "these": {
+      "meaning": "這些"
+    },
+    "this": {
+      "meaning": "這"
+    },
+    "those": {
+      "meaning": "那些"
+    },
+    "through": {
+      "meaning": "透過、經由"
+    },
+    "to": {
+      "meaning": "到、向；也用於不定詞，接動詞原形"
+    },
+    "together": {
+      "meaning": "整合在一起、共同"
+    },
+    "travelling": {
+      "meaning": "航行、行進（現在分詞）"
+    },
+    "tumbling": {
+      "meaning": "翻滾；文中指小行星不規則地旋轉"
+    },
+    "two": {
+      "meaning": "兩個"
+    },
+    "unchanged": {
+      "meaning": "未改變的"
+    },
+    "under": {
+      "meaning": "在…條件下；under different conditions指在不同條件下"
+    },
+    "understand": {
+      "meaning": "理解"
+    },
+    "understanding": {
+      "meaning": "理解"
+    },
+    "use": {
+      "meaning": "使用"
+    },
+    "view": {
+      "meaning": "觀察角度、景象；closer view指更近距離的觀察"
+    },
+    "was": {
+      "meaning": "be動詞的過去式；也與現在分詞構成過去進行式"
+    },
+    "what": {
+      "meaning": "什麼；引導疑問句或名詞子句"
+    },
+    "will": {
+      "meaning": "將會；表示預期未來情形"
+    },
+    "with": {
+      "meaning": "與、透過；也表示具備某項條件"
+    },
+    "work": {
+      "meaning": "運作、發揮作用"
+    },
+    "years": {
+      "meaning": "年（複數）"
+    }
+  },
+  "quiz": [
+    {
+      "question": "What is the main purpose of the article?",
+      "choices": [
+        {
+          "text": "To explain how follow-up observations help scientists understand an asteroid impact.",
+          "explanation": "正確。文章說明赫拉透過影像與後續測量，深入研究DART撞擊的結果。"
+        },
+        {
+          "text": "To announce that Hera has completed all its planned measurements.",
+          "explanation": "錯誤。調查仍在進行，後續接近及部署立方衛星仍是計畫。"
+        },
+        {
+          "text": "To argue that asteroid navigation no longer requires careful planning.",
+          "explanation": "錯誤。巨石帶來導航挑戰，團隊必須加以考量。"
+        },
+        {
+          "text": "To compare prices of commercial cameras for use on Earth.",
+          "explanation": "錯誤。相機用於太空任務，文章沒有比較售價。"
+        }
+      ],
+      "answerIndex": 0,
+      "explanation": "全文圍繞DART的撞擊示範與赫拉的深入調查，重點是理解撞擊造成的變化，並為未來應用累積知識。",
+      "evidence": [
+        {
+          "paragraph": 1,
+          "quote": "New images are helping scientists understand the results of a deliberate spacecraft collision with an asteroid."
+        },
+        {
+          "paragraph": 8,
+          "quote": "Together, DART and Hera connect a demonstration with a detailed investigation."
+        }
+      ]
+    },
+    {
+      "question": "Why does the discovery of boulders affect the mission beyond its scientific findings?",
+      "choices": [
+        {
+          "text": "It proves that both asteroids have stopped moving.",
+          "explanation": "錯誤。文中指出巨石正在運動，小行星也有不規則翻滾。"
+        },
+        {
+          "text": "It creates objects the team must consider when navigating closer.",
+          "explanation": "正確。赫拉接近時必須考量周圍巨石，這也成為導航問題。"
+        },
+        {
+          "text": "It guarantees that the CubeSats have already landed safely.",
+          "explanation": "錯誤。立方衛星尚未依計畫部署，也沒有安全降落的證據。"
+        },
+        {
+          "text": "It makes every camera image unnecessary.",
+          "explanation": "錯誤。影像仍支援科學調查與導航。"
+        }
+      ],
+      "answerIndex": 1,
+      "explanation": "第4段將巨石發現與任務操作連結，指出團隊接近小行星時需將它們納入考量，因此科學發現同時影響導航。",
+      "evidence": [
+        {
+          "paragraph": 4,
+          "quote": "Those objects matter for operations: the team must consider them as Hera moves closer. A scientific discovery can therefore also create a navigation challenge."
+        }
+      ]
+    },
+    {
+      "question": "Which conclusion about the next phase is best supported by the article?",
+      "choices": [
+        {
+          "text": "The same instrument will perform every measurement.",
+          "explanation": "錯誤。尤文塔斯與米拉尼任務不同，也會與赫拉的觀測互補。"
+        },
+        {
+          "text": "All future mission steps are already completed achievements.",
+          "explanation": "錯誤。第6段明確指出時程是計畫，並非已完成的成果。"
+        },
+        {
+          "text": "Different planned measurements can add information that pictures alone do not provide.",
+          "explanation": "正確。雷達探測內部，米拉尼研究物質與塵埃，能與影像提供互補資訊。"
+        },
+        {
+          "text": "The companion spacecraft are designed only to repeat identical photographs.",
+          "explanation": "錯誤。兩艘伴飛太空船的任務不同，並非只重複拍攝相同照片。"
+        }
+      ],
+      "answerIndex": 2,
+      "explanation": "第6段說明後續步驟仍屬計畫，第7段則列出各種互補測量，因此可推論下一階段將透過不同方法補充影像以外的資訊。",
+      "evidence": [
+        {
+          "paragraph": 6,
+          "quote": "These are future mission steps, so the announced schedule should be read as a plan rather than a completed achievement."
+        },
+        {
+          "paragraph": 7,
+          "quote": "Surface pictures, internal measurements, and dust studies address different parts of the same problem."
+        }
+      ]
+    }
+  ]
+}
